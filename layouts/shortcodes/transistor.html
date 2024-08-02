@@ -1,0 +1,19 @@
+{{/*
+    Parameters
+    ----------
+    src :
+        Transistor embed url path.
+*/}}
+
+{{ $destination := .Get "src" }}
+{{ $height := .Get "height" | default "180" }}
+
+<!-- <script type="text/javascript">
+    parent.document.getElementById("transistor").style.visibility = "hidden";
+  </script> -->
+
+<div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+    <div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+        <iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="{{$height}}" frameborder="no" scrolling="no" seamless="" src="{{$destination}}"></iframe>
+      </div>
+  </div>

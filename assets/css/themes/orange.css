@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: ORANGE */
+:root {
+  --color-primary-50: 255 240 232;
+  --color-primary-100: 255 224 209;
+  --color-primary-200: 250 203 180;
+  --color-primary-300: 250 182 147;
+  --color-primary-400: 252 153 104;
+  --color-primary-500: 250 130 70;
+  --color-primary-600: 242 108 41;
+  --color-primary-700: 237 92 19;
+  --color-primary-800: 199 77 16;
+  --color-primary-900: 171 76 29;
+  --color-primary-950: 127 48 8;
+}

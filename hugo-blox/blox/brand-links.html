@@ -1,0 +1,27 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+<div id="socials" class="network-icon flex justify-center max-w-prose mx-auto items-center flex-row dark:text-zinc-100 gap-3">
+    {{ range $idx, $item := $block.content.items }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+            {{ $pack_prefix = "fa" }}
+        {{ end }}
+        {{ $link := $item.url | default $item.link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+            {{ $link = ($item.url | default $item.link) | relLangURL }}
+            {{ if eq (path.Ext $link) ".pdf" }}{{ $target = "target=\"_blank\" rel=\"noopener\"" }}{{ end }}
+        {{ else if in (slice "http" "https") $scheme }}
+            {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <div>
+            <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ $item.icon }}"
+                {{ with $item.label }} data-toggle="tooltip" data-placement="top" title="{{$item.name}}"{{ end }}>
+            {{ partial "functions/get_icon" (dict "name" $item.icon "attributes" "style=\"height: 1.5rem;\"")  }}
+            </a>
+        </div>
+    {{ end }}
+</div>

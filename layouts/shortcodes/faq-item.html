@@ -1,0 +1,20 @@
+{{/*
+    Parameters
+    ----------
+    text :
+        Spoiler title.
+    class : optional
+        Additional class for <details> tag.
+    style : optional
+        Additional style for <details> tag.
+*/}}
+
+{{- $title := .Get "text" | default "" -}}
+{{- $id := printf "spoiler-%d" .Ordinal -}}
+
+<details class="mt-3{{ .Get "class" }}" {{ with .Get "style" }}style="{{ . | safeCSS }}"{{ end }} id="{{$id}}">
+  <summary class="cursor-pointer">{{ $title }}</summary>
+  <div class="rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2">
+    <p style="margin-left: 25px; margin-right: 25px; margin-bottom: 18px; margin-top: 18px; text-align: justify">{{ .InnerDeindent | markdownify }}</p>
+  </div>
+</details>

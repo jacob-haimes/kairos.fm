@@ -1,0 +1,74 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+  #     desired widget in your `content/home/` folder.
+  #   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Shows
+    pageRef: shows/
+    weight: 20
+  # - name: Into AI Safety
+  #   pageRef: /intoaisafety
+  #   parent: Shows
+  #   weight: 2
+  # - name: On What Matters
+  #   pageRef: /onwhatmatters
+  #   parent: Shows
+  #   weight: 3
+  - name: About
+    pageRef: about/
+    weight: 30
+  # - name: Pythonic Media
+  #   pageRef: /about/pythonic
+  #   parent: About
+  #   weight: 1
+  # - name: Coleman Snell
+  #   pageRef: /about/leadership
+  #   parent: About
+  #   weight: 2
+  # - name: Jacob Haimes
+  #   pageRef: /about/jacobhaimes
+  #   parent: About
+  #   weight: 3
+  - name: Collections
+    pageRef: tags/
+    weight: 40
+  # - name: Content
+  #   pageRef: content/
+  #   weight: 50
+  - name: FAQ
+    pageRef: faq/
+    weight: 60
+  # - name: Contact
+  #   pageRef: contact/
+  #   weight: 70
+
+footer:
+  - identifier: home
+    name: Home
+    weight: 1
+  - parent: home
+    name: Home
+    url: /
+    weight: 1
+  # - identifier: tickets
+  #   name: Tickets
+  #   weight: 2
+  # - parent: tickets
+  #   name: Get Tickets
+  #   url: https://www.eventbrite.com/
+  #   weight: 3
+  # - identifier: legal
+  #   name: Legal
+  #   weight: 3
+  # - parent: legal
+  #   name: Privacy
+  #   url: /privacy
+  #   weight: 1
+  # - parent: legal
+  #   name: Terms
+  #   url: /terms
+  #   weight: 2

@@ -1,0 +1,6 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+<div class="flex flex-col items-center max-w-prose mx-auto justify-center">
+    {{ $block.content.text | emojify | $page.RenderString }}
+</div>

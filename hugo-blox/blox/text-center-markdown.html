@@ -1,0 +1,17 @@
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $title := $block.content.title | emojify | $page.RenderString }}
+{{ $text := $block.content.text | emojify | $page.RenderString | safeHTML }}
+
+<div class="flex flex-col items-center max-w-screen-lg mx-auto justify-center">
+
+  {{ if $title }}
+  <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
+    {{ $title }}
+  </div>
+  {{ end }}
+  
+  {{/* We use DIV rather than P to support `prose` class and multiple paragraphs */}}
+  {{ with $text }}<div class="prose prose-slate lg:prose-xl px-8 dark:prose-invert max-w-screen-lg justify-center text-center" style="text-align: justify">{{ . }}</div>{{ end }}
+</div>
