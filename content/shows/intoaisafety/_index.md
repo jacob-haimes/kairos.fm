@@ -1,7 +1,7 @@
 ---
 url: /intoaisafety/
 title: 'Into AI Safety'
-date: 2024-04-23
+date: 2024-08-02
 type: landing
 
 design:
@@ -45,7 +45,7 @@ sections:
         margin: [0, 0, 0, 0]
   - block: html-block
     content: 
-      text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5 pb-5 lg:pb-8"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="https://pythonic-media.gitlab.io/pythonic-media-website/intoaisafety/about"><span>Read more</span><span aria-hidden="true">→</span></a></div></div><div class="container mx-auto w-1/2"><hr style="color:white;"></div>'
+      text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5 pb-5 lg:pb-8"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="/about"><span>Read more</span><span aria-hidden="true">→</span></a></div></div><div class="container mx-auto w-1/2"><hr style="color:white;"></div>'
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -94,7 +94,7 @@ sections:
       count: 2
       filters:
         folders:
-          - content
+          - posts
         author: intoaisafety
         # category: ""
         # tag: ""
@@ -126,7 +126,7 @@ sections:
       label: More episodes
       filters:
         folders:
-          - content
+          - posts
         author: intoaisafety
         # category: ""
         # tag: ""

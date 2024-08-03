@@ -11,11 +11,11 @@ sections:
         file: logo
       primary_action: 
         text: Podcasts
-        url: https://pythonic-media.gitlab.io/pythonic-media-website/shows/all/
+        url: /shows/
         icon: custom/podcast
       secondary_action:
         text: All content #Explore in depth
-        url: https://pythonic-media.gitlab.io/pythonic-media-website/content/
+        url: /content/
     design:
       no_padding: true
       spacing:
@@ -27,7 +27,7 @@ sections:
         color: "#1B4066"
         image:
           # Add your image background to `assets/media/`.
-          filename: pythonic-tesselation_quarter-res.jpeg
+          filename: tesselation.svg
           filters:
             brightness: 0.6
   - block: text-center-markdown
@@ -47,7 +47,7 @@ sections:
       count: 4
       filters:
         folders:
-          - content
+          - posts
         # author: ""
         # category: ""
         # tag: ""

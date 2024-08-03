@@ -1,5 +1,5 @@
 ---
-title: 'Pythonic Media'
+title: 'NAME'
 url: about
 date: 2024-04-24
 type: landing
@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: biography-2
     content:
-      title: Pythonic Media
+      title: NAME
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
     design:
