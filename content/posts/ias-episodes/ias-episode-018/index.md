@@ -4,6 +4,8 @@ summary: "Dr. Igor Krawczuk joins me for one massive episode that covers all the
 date: 2024-05-21
 lastmod: 2024-06-18
 
+featured: true
+
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true

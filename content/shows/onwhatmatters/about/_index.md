@@ -38,3 +38,11 @@ sections:
         margin: ["1em", 0, "1em", 0]
 
 ---
+
+Conversations about this century’s greatest challenges, ideas, and opportunities & the forefront of human survival
+
+Dive into the X-Risk Podcast, where we confront humanity's most critical threats, from AI dangers to climate crises. 
+
+Our team’s goal is to make findings from the field of global catastrophic risk accessible and actionable, connecting them to the wider public conversation for a better understanding of our future.
+
+Cut through the noise with expert discussions with world-leading scientists, authors, & public figures hosted weekly by Coleman Snell.

@@ -4,6 +4,8 @@ summary: "As always, the best things come in 3s: dimensions, musketeers, pyramid
 date: 2024-03-24
 lastmod: 2024-06-18
 
+featured: true
+
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
