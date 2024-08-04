@@ -39,7 +39,22 @@ sections:
       spacing:
         padding: ["1rem", ".5rem", "1rem", ".5rem"]
         margin: [0, 0, 0, 0]
-  - block: collection
+  - block: big-logos
+    content: 
+      items:
+        - name: Into AI Safety
+          icon: custom/ias_logo_wht
+          url: /intoaisafety/
+          label: Into AI Safety
+        - name: On What Matters
+          icon: custom/owm_wht
+          url: /onwhatmatters/
+          label: On What Matters
+    design:
+      spacing:
+        padding: ["1em", 0, "1em", 0]
+        margin: ["1em", 0, "1em", 0]
+  - block: main-collection
     content:
       title: Latest Coverage
       # subtitle: ''

@@ -1,6 +1,6 @@
 ---
 title: Superintelligence, AI, and Extinction w/ Darren McKee
-summary: Interview w/ Darren McKee on Artificial Superintelligence
+summary: Interview w/ Darren McKee on artificial superintelligence
 date: 2024-03-03
 lastmod: 2024-08-03
 
