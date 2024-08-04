@@ -58,8 +58,8 @@ sections:
       # show_role: true
       # show_social: true
       spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+        padding: ["3em", 0, 0, 0]
+        margin: ["3em", 0, 0, 0]
 # sections:
   # - block: biography-2
   #   content:

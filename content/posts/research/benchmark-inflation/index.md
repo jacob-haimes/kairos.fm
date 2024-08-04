@@ -151,8 +151,8 @@ Please send all inquiries to <code>jacob.d.haimes@gmail.com</code> and <code>cwe
 
 ## Citation
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" style="font-size:80%"><pre class="notranslate">
-  <code>
+<!-- <div class="snippet-clipboard-content notranslate position-relative overflow-auto" style="font-size:80%"><pre class="notranslate"> -->
+```
 @manuscript{haimes2024benchmark,
   author     = {Haimes, Jacob and Wenner, Cenny and
                 Thaman, Kunvar and Tashev, Vassil and
@@ -162,6 +162,7 @@ Please send all inquiries to <code>jacob.d.haimes@gmail.com</code> and <code>cwe
   status     = forthcoming,
   language   = en
 }
+```
   <!-- 
   month        = {},
   publisher    = {},
@@ -170,7 +171,8 @@ Please send all inquiries to <code>jacob.d.haimes@gmail.com</code> and <code>cwe
   url          = {} 
   https://docs.citationstyles.org/en/stable/specification.html#appendix-iv-variables
   -->
-  </code></pre>
+  <!-- </code>
+  </pre>
   <div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value='@manuscript{benchmark-inflation,
 author     = {Haimes, Jacob and Wenner, Cenny and
@@ -183,4 +185,4 @@ language   = en
 }' tabindex="0" role="button">
     </clipboard-copy>
   </div>
-</div>
+</div> -->

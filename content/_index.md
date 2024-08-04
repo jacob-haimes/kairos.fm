@@ -59,7 +59,7 @@ sections:
       archive:
         text: Check out more content
     design:
-      view: article-grid
+      view: main-article-grid
       spacing:
         padding: [".5rem", 0, ".5rem", 0]
         margin: [0, 0, 0, 0]
