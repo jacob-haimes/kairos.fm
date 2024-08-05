@@ -78,7 +78,7 @@ features:
     enable: false
   repository:
     url: ''
-    content_dir: content
+    content_dir: posts
     branch: main
 
 i_am_a_sponsor: true

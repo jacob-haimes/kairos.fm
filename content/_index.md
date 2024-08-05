@@ -15,7 +15,7 @@ sections:
         icon: custom/podcast
       secondary_action:
         text: All content #Explore in depth
-        url: /content/
+        url: /posts/
     design:
       no_padding: true
       spacing:

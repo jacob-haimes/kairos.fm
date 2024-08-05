@@ -2,6 +2,14 @@
 title: 'Contact Us'
 type: landing
 
+_build:
+  render: never
+  list: never
+cascade:
+  _build:
+    render: never
+    list: never
+
 sections:
   - block: hero-image
     content:
@@ -27,7 +35,7 @@ sections:
         color: "#1B4066"
         image:
           # Add your image background to `assets/media/`.
-          filename: pythonic-tesselation_quarter-res.jpeg
+          filename: tesselation.svg
           filters:
             brightness: 0.6
 ---

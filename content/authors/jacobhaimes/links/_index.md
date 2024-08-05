@@ -31,7 +31,7 @@ sections:
         color: "#1B4066"
         image:
           # Add your image background to `assets/media/`.
-          filename: pythonic-tesselation_quarter-res.jpeg
+          filename: tesselation.svg
           filters:
             brightness: 0.4
   # - block: markdown
@@ -78,7 +78,7 @@ sections:
         color: "#1B4066"
         image:
           # Add your image background to `assets/media/`.
-          filename: pythonic-tesselation_quarter-res.jpeg
+          filename: tesselation.svg
           filters:
             brightness: 0.4
   # - block: markdown

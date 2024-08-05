@@ -55,7 +55,7 @@ ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/:slug/'
   tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  categories: '/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects]

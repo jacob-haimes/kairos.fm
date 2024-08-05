@@ -1,10 +1,17 @@
 ---
-title: test
+title: Template
 summary: 
 date: 2024-01-01
 draft: true
-
 math: true
+
+_build:
+  render: never
+  list: never
+cascade:
+  _build:
+    render: never
+    list: never
 
 # image:
 #   #  include image in folder as 'featured.*'
@@ -29,6 +36,7 @@ categories:
 #   - video
 #   - blogpost
 #   - meta
+#   - research
 ---
 
 Description
