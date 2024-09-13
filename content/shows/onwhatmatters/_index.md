@@ -110,7 +110,7 @@ sections:
   - block: subscribe
     content: 
       title: Listen Anywhere
-      rss: https://feeds.transistor.fm/
+      rss: https://feeds.transistor.fm/onwhatmatters
       rss_span: 3
       items:
         - name: Apple Podcasts
