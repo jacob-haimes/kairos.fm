@@ -34,32 +34,6 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Skills
-#     items:
-#       - name: 
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: 
-#         description: ''
-#         percent: 
-#         icon: ''
-#       - name: 
-#         description: ''
-#         percent: 
-#         icon: ''
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: 
-#         description: ''
-#         percent: 100
-#         icon: cat
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -74,9 +48,3 @@ profiles:
 #     summary: |
 #       summary
 ---
-
-<!-- ###  Technological developments today are going to have massive repercussions on both the near and long-term future; everyone has a right to be part of the conversations surrounding them. -->
-
-<!-- WORK IN PROGRESS
-
-Check out the current [site](https://xriskpodcast.com)! -->

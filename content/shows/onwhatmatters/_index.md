@@ -59,7 +59,7 @@ sections:
       filters:
         folders:
           - posts
-        # author: onwhatmatters
+        author: onwhatmatters
         # category: ""
         # tag: ""
         # publication_type: ""
@@ -67,8 +67,8 @@ sections:
         # exclude_featured: false
         # exclude_future: false
         # exclude_past: false
-      # sort_by: 'Date'
-      # sort_ascending: false
+      sort_by: 'Date'
+      sort_ascending: false
       archive:
         enable: false
     design:

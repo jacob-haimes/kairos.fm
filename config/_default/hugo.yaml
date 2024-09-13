@@ -82,6 +82,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+    - name: authors
+      weight: 40
 security:
   _merge: deep
 sitemap:
