@@ -52,8 +52,6 @@ sections:
   #       margin: [0, 0, 0, 0]
   - block: featured-episodes
     content:
-      archive:
-        enable: false
       title: Featured Episodes
       # subtitle: ''
       # text: 
@@ -70,7 +68,9 @@ sections:
         # exclude_future: false
         # exclude_past: false
       # sort_by: 'Date'
-      sort_ascending: false
+      # sort_ascending: false
+      archive:
+        enable: false
     design:
       view: article-grid
       spacing:
