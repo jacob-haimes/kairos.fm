@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: hero-image
     content:
-      title: Pythonic Media
+      title: Kairos.fm
       text: Making the conversations surrounding complex problems accessible
       image:
         file: logo

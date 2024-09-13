@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Pythonic Media
-url: "about/pythonicmedia"
+title: Kairos.fm
+url: "about/kairos"
 
 # Name pronunciation (optional)
 name_pronunciation: paɪθɒnɪk
