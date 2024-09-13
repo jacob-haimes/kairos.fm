@@ -54,17 +54,17 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://pythonic-media.gitlab.io/pythonic-media-website/content/benchmark-inflation/benchmark-inflation_extended-abstract_dmlr_v1.0.pdf'
+url_pdf: 'https://kairos.fm/content/benchmark-inflation/benchmark-inflation_extended-abstract_dmlr_v1.0.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://pythonic-media.gitlab.io/pythonic-media-website/content/benchmark-inflation/benchmark-inflation_poster_v4.2.pdf'
+url_poster: 'https://kairos.fm/content/benchmark-inflation/benchmark-inflation_poster_v4.2.pdf'
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/1rYkAj8mrAYmPRS_6NzP44IbII7uHUeGhug-RtrZECW4/edit?usp=sharing'
 url_source: ''
 url_video: 'https://youtu.be/lXKIeacKf2c'
 
 image:
-  caption: 'Benchmark Inflation Logo / Pythonic Media'
+  caption: 'Benchmark Inflation Logo / Kairos.fm'
   preview_only: true
   filename: benchmark-inflation_logo_small.png
 

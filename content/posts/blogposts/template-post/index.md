@@ -18,7 +18,7 @@ cascade:
 #   caption: 'buh'
 
 authors:
-  - admin # (Pythonic Media; default)
+  - admin # (Kairos.fm; default)
 #   - jacobhaimes
 #   - colemansnell
 #   - intoaisafety

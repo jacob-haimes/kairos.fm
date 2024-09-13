@@ -16,7 +16,7 @@ date: 2024-04-23
 {{< /faq-item >}}
 
 {{< faq-item text="What are some of the biggest challenges you face in this role?" >}}
-  Our biggest challenges are time restrictions, total work hours, and funding. Through building Pythonic, we are hoping to foster the potential of our projects as well as future projects with partnerships with other global catastrophic risk-focused science communication. Through doing this, we hope to foster the growth of a content ecosystem that can provide routes for both education and engagement in GCR.
+  Our biggest challenges are time restrictions, total work hours, and funding. Through building Kairos.fm, we are hoping to foster the potential of our projects as well as future projects with partnerships with other global catastrophic risk-focused science communication. Through doing this, we hope to foster the growth of a content ecosystem that can provide routes for both education and engagement in GCR.
 {{< /faq-item >}}
 
 {{< faq-item text="What role do you think public awareness plays in mitigating AI risks?" >}}

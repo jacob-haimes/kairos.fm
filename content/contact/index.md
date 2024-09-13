@@ -19,11 +19,11 @@ sections:
         folder: main
       primary_action: 
         text: Podcasts
-        url: https://pythonic-media.gitlab.io/pythonic-media-website/shows/all/
+        url: https://kairos.fm/shows/all/
         icon: custom/podcast
       secondary_action:
         text: Explore in depth
-        url: https://pythonic-media.gitlab.io/pythonic-media-website/post/
+        url: https://kairos.fm/post/
     design:
       no_padding: true
       spacing:

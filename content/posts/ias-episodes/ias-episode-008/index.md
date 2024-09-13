@@ -28,7 +28,7 @@ Darryl and I discuss his background, how he became interested in machine learnin
 <figure>
     <img src="featured.png"
          alt="Polysemanticity Research Diagram, Jacob Haimes">
-    <figcaption style="font-size:small; text-align:center">Image by <a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">Jacob Haimes</a> / © Pythonic Media / Polysemanticity Research Diagram / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">CC-BY 4.0</a></figcaption>
+    <figcaption style="font-size:small; text-align:center">Image by <a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">Jacob Haimes</a> / © Kairos.fm / Polysemanticity Research Diagram / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">CC-BY 4.0</a></figcaption>
 </figure>
 
 ### Chapters

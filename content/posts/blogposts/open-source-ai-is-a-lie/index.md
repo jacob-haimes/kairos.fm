@@ -117,7 +117,7 @@ Longer answer: even though we shouldn’t be calling these models Open Source, t
 <figure>
     <img src="open-diagram_3_small.png"
          alt="AI Openness Diagram, Jacob Haimes">
-    <figcaption style="font-size:small">Original diagram by <a href="https://jacob-haimes.github.io">Jacob Haimes</a> / © Pythonic Media / AI Openness Diagram / CC-BY-SA 4.0 / created using <a href="https://tikz.dev">Tikz</a> and <a href="https://www.gimp.org">GIMP</a></figcaption>
+    <figcaption style="font-size:small">Original diagram by <a href="https://jacob-haimes.github.io">Jacob Haimes</a> / © Kairos.fm / AI Openness Diagram / CC-BY-SA 4.0 / created using <a href="https://tikz.dev">Tikz</a> and <a href="https://www.gimp.org">GIMP</a></figcaption>
 </figure>
 
 It is important to note, I am not saying that Shared Weights models are a negative net contribution to society. In fact, I think that the release of currently available Shared Weights models has significantly advanced the field of AI safety. This article is <i>not about the pros and cons of open source</i>, I will leave that for future work.

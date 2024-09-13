@@ -55,12 +55,12 @@ footer:
 #   block: sitemap
 #   content:
 #     logo:
-#       text: "Pythonic Media"
+#       text: "Kairos.fm"
 #     tagline: ""
 #   design:
 #     columns: 2
 #   copyright:
-#     notice: '© {year} Pythonic Media. This work is licensed under GNU GPL v3.0'
+#     notice: '© {year} Kairos.fm. This work is licensed under GNU GPL v3.0'
 
 # Localization
 locale:
