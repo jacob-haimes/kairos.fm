@@ -22,7 +22,7 @@ sections:
       items:
         - name: Transistor
           icon: custom/transistor
-          url: 
+          url: https://onwhatmatters.transistor.fm
           label: Transistor
         - name: Email
           icon: at-symbol
