@@ -72,7 +72,7 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: article-grid
+      view: tag-article-grid
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
