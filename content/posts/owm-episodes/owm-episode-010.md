@@ -23,7 +23,7 @@ categories:
 <div style="text-align: justify">
 Coleman and Dr. Seth Weinberger, a professor at the University of Puget Sound discuss the intricacies, and realities, of political violence in the 21st century.
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/85fff6c9" >}}
 </div>
 
 <!-- https://www.pugetsound.edu/directory/seth-weinberger -->

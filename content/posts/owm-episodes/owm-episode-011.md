@@ -2,10 +2,6 @@
 _build:
   render: never
   list: never
-cascade:
-  _build:
-    render: never
-    list: never
 
 draft: true
 
@@ -33,5 +29,5 @@ categories:
 <div style="text-align: justify">
 Is global inequality an existential threat? How do we question social justice connect to questions of the greatest threats facing our world in the 21st century and what might conceptions of global justice inform our approach to looming risks like climate change and how might global justice help us in our overcoming of these risks? This week Coleman speaks with Dr. Ndidi Nwaneri from Loyola University in Chicago. Dr. Nwaneri'ss research surrounds social development, global justice, and existential risk. 
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/6395c78e" >}}
 </div>

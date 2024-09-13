@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 What role have philosophers played in existential risk? What conditions lead to the field's origin? Today, Coleman Speaks with Dr. SJ Beard from The Centre for the Study of Existential Risk (CSER) at Cambridge. They cover topics from SJ Beard and Emil Torres' 2020 article <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3730000" target="_blank" rel="noreferrer noopener">Ripples on the Great Sea of Life</a>, which covers, in great depth, the history of existential risk.
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/1f2357b9" >}}
 </div>

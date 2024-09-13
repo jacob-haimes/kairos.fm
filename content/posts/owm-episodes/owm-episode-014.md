@@ -24,5 +24,5 @@ categories:
 <div style="text-align: justify">
 Big thanks to everyone who has submitted questions for future Q&A #1! If you have a question you want answered for me or any other members of the 21st Talks project, you can follow me on Twitter at MajorKant and DM me directly. 
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/9b56de18" >}}
 </div>

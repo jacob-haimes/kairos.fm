@@ -23,7 +23,7 @@ categories:
 <div style="text-align: justify">
 On this episode, Coleman explored the obstacles & successes of governing advanced technological risks of Artificial Intelligence with Cornell Professor Dr. Sarah Kreps and Researcher and Cornell Ph.D. Candidate Amelia Arsenault.
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/a7d22ac9" >}}
 </div>
 
 ### Topics covered in this episode of the podcast include: 

@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 This week Coleman spoke with past Columbia University professor of Microbiology and Public Health Dr. Dickson Despommier. Despommier is a serial author, Ted talk deliverer, and speaker who has given numerous lectures on the role Vertical Farming will play in the future of agriculture and the tremendous threat a lack of innovation and change in our food systems will bring unless we change.
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/acbb676c" >}}
 </div>

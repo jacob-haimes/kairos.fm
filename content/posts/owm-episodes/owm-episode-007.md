@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 What does Trumpism tell us about the future of Democracy? Is Democracy in threat by Bipartisanship? This week Coleman spoke with Professor Richard Arenberg from Brown University's Watson Institute about his research on Bipartisanship, where it came from, and why it continues to get worse!   
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/c6959c77" >}}
 </div>

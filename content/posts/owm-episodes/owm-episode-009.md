@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 How do we create sustainable change going forward into the future? Where do questions of equity fit into this discussion of the long-term health of global citizens? This week Coleman spoke with Dickson Despommier, an academic with over 30 years of experience in public health at Columbia University and Fordham University. Dr. Despommier and Coleman discussed the future of agriculture and vertical farming in Episode 4 of the 21st talks podcast.
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/3170eb74" >}}
 </div>

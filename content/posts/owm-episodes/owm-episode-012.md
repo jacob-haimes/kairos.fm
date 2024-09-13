@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 Engineering practices are fundamental to overcoming obstacles facing society in the 21st Century. Existential threats like climate change, artificial intelligence, looming food and water insecurity  Today I am speaking with  Dr. Joyce Cooper who is a professor and researcher at the University of Washington’s Mechanical Engineering Department. Her work largely focuses on combining environmental assessment with product design and engineering. My co-host today is John Hamann, who is one of the Master’s students at UW working with Dr. Cooper. 
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/42982b0c" >}}
 </div>
