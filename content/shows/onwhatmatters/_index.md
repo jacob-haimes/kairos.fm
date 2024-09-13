@@ -50,7 +50,7 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
   #       margin: [0, 0, 0, 0]
-  - block: featured-episodes
+  - block: main-collection
     content:
       archive:
         enable: false
@@ -72,7 +72,7 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: tag-article-grid
+      view: article-grid
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
