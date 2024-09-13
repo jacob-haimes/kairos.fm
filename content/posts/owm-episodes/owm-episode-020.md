@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 This week Coleman sat down with Tobias Baumann and discussed his recent book on the topic of suffering risks (s-risks)! They spoke about the ethical claims behind aiming to minimize pain vs. aiming to maximize flourishing, distinctions of pain and suffering, and potential paths towards literally the worst ethical situation humanity or its descendants could find itself (so-called suffering-risk scenarios)!
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/04b01ac1" >}}
 </div>

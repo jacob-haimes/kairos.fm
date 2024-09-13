@@ -3,6 +3,9 @@ title: Lessons from Deep History, Paleontology, and Existential Risk in a Modern
 summary: Interview w/ Adrian Currie on learning from the past
 date: 2020-10-07
 lastmod: 2024-08-03
+_build:
+  render: never
+  list: never
 
 image:
   caption: 'On What Matters Cover Art'
@@ -22,7 +25,7 @@ categories:
 <div style="text-align: justify">
 In the first episode of 21st Talks, Coleman Snell talks with Philosopher, Paleontologist, and Existential Risk expert Adrian Currie. They talk about disasters, What paleontology can tell us about our world's response to Covid-19, and the importance of cultivating narratives for our disaster response. What can the deep past tell us about our modern predicament?
 
-<!-- {{< transistor src="" >}} -->
+{{< transistor src="" >}}
 
 ### Chapters
 

@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 Coleman spoke with Bob Fischer, a researcher at Rethink Priorities who recently worked on the Moral Weights project. In the discussion, Dr. Fischer and Coleman discussed a range of topics relating to animal ethics, including the research methodology of the team and the role that intuitions play in striving to live a moral life. 
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/93bf10c2" >}}
 </div>

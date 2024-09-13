@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 In this episode, Coleman interviews Anders Sandberg, a senior research fellow at the Future of Humanity Institute at Oxford. Dr. Sandberg and Coleman discuss living forever, transhumanism, longtermism, and new approaches to understanding existential risk work in the 21st century.
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/778b97d9" >}}
 </div>

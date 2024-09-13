@@ -25,5 +25,5 @@ In this episode, Coleman sat down with existential risk ethicists and researcher
 
 "We are motivated by what we believe we can achieve, much more than what we think we ought to do." - Dr. SJ Beard
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/daeb5b7d" >}}
 </div>

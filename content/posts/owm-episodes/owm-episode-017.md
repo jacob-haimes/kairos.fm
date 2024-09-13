@@ -23,5 +23,5 @@ categories:
 <div style="text-align: justify">
 This week Coleman sat down with Emmanuel Daudu, an incoming Google Legal Analyst and close friend at Cornell University where he is Pre Law. The two jump into a wide range of questions, including the development of a new politics for a 21st century, working-class struggle, and the underlying woes associated with 21st-century capitalism and what we can do to improve the system.
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/ec87935b" >}}
 </div>
