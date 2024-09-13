@@ -59,7 +59,7 @@ sections:
       filters:
         folders:
           - posts
-        author: onwhatmatters
+        # author: onwhatmatters
         # category: ""
         # tag: ""
         # publication_type: ""
