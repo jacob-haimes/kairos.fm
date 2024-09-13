@@ -5,17 +5,17 @@ type: landing
 sections:
   - block: hero-image
     content:
-      title: Pythonic Media
+      title: Kairos.fm
       text: Making the conversations surrounding complex problems accessible
       image:
         file: logo
       primary_action: 
         text: Podcasts
-        url: https://pythonic-media.gitlab.io/pythonic-media-website/shows/all/
+        url: /shows/
         icon: custom/podcast
       secondary_action:
         text: All content #Explore in depth
-        url: https://pythonic-media.gitlab.io/pythonic-media-website/content/
+        url: /posts/
     design:
       no_padding: true
       spacing:
@@ -27,7 +27,7 @@ sections:
         color: "#1B4066"
         image:
           # Add your image background to `assets/media/`.
-          filename: pythonic-tesselation_quarter-res.jpeg
+          filename: tesselation.svg
           filters:
             brightness: 0.6
   - block: text-center-markdown
@@ -39,7 +39,22 @@ sections:
       spacing:
         padding: ["1rem", ".5rem", "1rem", ".5rem"]
         margin: [0, 0, 0, 0]
-  - block: collection
+  - block: big-logos
+    content: 
+      items:
+        - name: Into AI Safety
+          icon: custom/ias_logo_wht
+          url: /intoaisafety/
+          label: Into AI Safety
+        - name: On What Matters
+          icon: custom/owm_wht
+          url: /onwhatmatters/
+          label: On What Matters
+    design:
+      spacing:
+        padding: ["1em", 0, "1em", 0]
+        margin: ["1em", 0, "1em", 0]
+  - block: main-collection
     content:
       title: Latest Coverage
       # subtitle: ''
@@ -47,7 +62,7 @@ sections:
       count: 4
       filters:
         folders:
-          - content
+          - posts
         # author: ""
         # category: ""
         # tag: ""
@@ -59,7 +74,7 @@ sections:
       archive:
         text: Check out more content
     design:
-      view: article-grid
+      view: main-article-grid
       spacing:
         padding: [".5rem", 0, ".5rem", 0]
         margin: [0, 0, 0, 0]

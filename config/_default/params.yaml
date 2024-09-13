@@ -10,7 +10,7 @@ marketing:
   seo:
     site_type: ResearchOrganization
     local_business_type: ''
-    org_name: 'Pythonic Media'
+    org_name: 'NAME'
     description: "Making the world's complex problems accessible."
     twitter: ''
   analytics:
@@ -45,7 +45,7 @@ header:
 footer:
   block: minimal
   copyright:
-    notice: '© {year} Pythonic Media. This work is licensed under {license}'
+    notice: '© {year} NAME. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: true
@@ -55,12 +55,12 @@ footer:
 #   block: sitemap
 #   content:
 #     logo:
-#       text: "Pythonic Media"
+#       text: "Kairos.fm"
 #     tagline: ""
 #   design:
 #     columns: 2
 #   copyright:
-#     notice: '© {year} Pythonic Media. This work is licensed under GNU GPL v3.0'
+#     notice: '© {year} Kairos.fm. This work is licensed under GNU GPL v3.0'
 
 # Localization
 locale:
@@ -77,8 +77,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://gitlab.com/pythonic-media/pythonic-media-website'
-    content_dir: content
+    url: ''
+    content_dir: posts
     branch: main
 
 i_am_a_sponsor: true

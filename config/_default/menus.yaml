@@ -21,18 +21,6 @@ main:
   - name: About
     pageRef: about/
     weight: 30
-  # - name: Pythonic Media
-  #   pageRef: /about/pythonic
-  #   parent: About
-  #   weight: 1
-  # - name: Coleman Snell
-  #   pageRef: /about/leadership
-  #   parent: About
-  #   weight: 2
-  # - name: Jacob Haimes
-  #   pageRef: /about/jacobhaimes
-  #   parent: About
-  #   weight: 3
   - name: Collections
     pageRef: tags/
     weight: 40

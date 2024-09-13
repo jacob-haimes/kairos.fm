@@ -1,7 +1,7 @@
 ---
 url: /intoaisafety/
 title: 'Into AI Safety'
-date: 2024-04-23
+date: 2024-08-02
 type: landing
 
 design:
@@ -43,43 +43,9 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-  - block: html-block
-    content: 
-      text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5 pb-5 lg:pb-8"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="https://pythonic-media.gitlab.io/pythonic-media-website/intoaisafety/about"><span>Read more</span><span aria-hidden="true">→</span></a></div></div><div class="container mx-auto w-1/2"><hr style="color:white;"></div>'
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
   # - block: html-block
   #   content: 
-  #     text: '<div class="container mx-auto w-1/2"><hr style="color:white;"></div>'
-  #   design:
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
-  # - block: show-bio
-  #   content:
-  #     username: intoaisafety
-  #     # Show a call-to-action button under your biography
-  #     # To link to a file, upload it to your `static/uploads/` folder
-  #     # button:
-  #     #   text: 
-  #     #   url: 
-  #   design:
-  #     # banner:
-  #       # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-  #       # filename: ''
-  #     biography:
-  #       # Customize the CSS style of your biography text (optional)
-  #       style: ''
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
-  ####
-  # - block: single-button
-  #   content:
-  #     link: https://intoaisafety.transistor.fm/subscribe/
-  #     text: <svg role="img" class="inline-block pr-2 mb-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="height:1.2em" fill="currentColor"><title>headphones</title><g><path d="M7,12a3,3,0,0,0-3,3v6a3,3,0,0,0,6,0V15A3,3,0,0,0,7,12Zm10,0a3,3,0,0,0-3,3v6a3,3,0,0,0,6,0V15A3,3,0,0,0,17,12ZM12,0A12,12,0,0,0,0,12v5a1,1,0,0,0,2,0V12a10,10,0,0,1,20,0v5a1,1,0,0,0,2,0V12A12,12,0,0,0,12,0Z"></path></g></svg> Listen anywhere&emsp;→
+  #     text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5 pb-5 lg:pb-8"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="/intoaisafety/about/"><span>Read more</span><span aria-hidden="true">→</span></a></div></div><div class="container mx-auto w-1/2"><hr style="color:white;"></div>'
   #   design:
   #     spacing:
   #       padding: [0, 0, 0, 0]
@@ -94,12 +60,12 @@ sections:
       count: 2
       filters:
         folders:
-          - content
+          - posts
         author: intoaisafety
         # category: ""
         # tag: ""
         # publication_type: ""
-        # featured_only: true
+        featured_only: true
         # exclude_featured: false
         # exclude_future: false
         # exclude_past: false
@@ -126,7 +92,7 @@ sections:
       label: More episodes
       filters:
         folders:
-          - content
+          - posts
         author: intoaisafety
         # category: ""
         # tag: ""
