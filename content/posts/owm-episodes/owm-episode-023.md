@@ -4,7 +4,6 @@ summary: Interview w/ Darren McKee on artificial superintelligence
 date: 2024-03-03
 lastmod: 2024-08-03
 
-
 image:
   caption: 'On What Matters Cover Art'
   preview_only: true
