@@ -25,7 +25,8 @@ read_time: true
 *This is a linkpost for [https://www.odysseaninstitute.org/post/let-s-talk-about-emergence](https://www.odysseaninstitute.org/post/let-s-talk-about-emergence)*
 
 <figure>
-    <img src="Clarote-AI4MediaPower_Profit-640x360.png"
+    <img loading="lazy" width="1024" height="576" decoding="async" data-nimg="1" 
+         src="Clarote-AI4MediaPower_Profit-640x360.png"
          alt="Power/Profit, Clarote & AI4Media">
     <figcaption style="font-size:small">Image by Clarote & <a href="https://www.ai4media.eu/" target="_blank" rel="noreferrer noopener">AI4Media</a> / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / Power/Profit / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
 </figure>

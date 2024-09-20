@@ -29,7 +29,7 @@ role: Making the world's complex problems accessible
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:'
+    url: 'mailto:intoaisafety@gmail.com'
     label: Contact
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -59,9 +59,9 @@ profiles:
 
 We believe that the best way to improve overall wellbeing for humanity, both in the immediate future and much further down the line, is to have as many people as possible meaningfully involved in the conversations surrounding the complex problems that our world is faced with.
 
-For listeners, NAME is an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.
+For listeners and readers, Kairos.fm is an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.
 
-For creators, NAME magnifies the impact and reach of their work, in addition to reducing barriers to publishing content. Last, but certainly not least, NAME is a growing community of like-minded creators, which can be leveraged for advice, feedback, collaboration, and so much more.
+For creators, Kairos.fm magnifies the impact and reach of their work, in addition to reducing barriers to publishing content. Last, but certainly not least, Kairos.fm is a growing community of like-minded creators, which can be leveraged for advice, feedback, collaboration, and so much more.
 
 <!-- By definition, these problems are not straight forward, and while some may argue strongly for one solution, others may insist an alternate path is the only reasonable choice.
 Kairos.fm provides an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.-->
