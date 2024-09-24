@@ -22,8 +22,8 @@ role: Co-Founder and Podcast Host
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
-  # - name: GenCoin
-    # url: https://www.example.com/
+  # - name: 
+    # url: 
 
 user_groups:
   - Co-Founders
@@ -31,13 +31,6 @@ user_groups:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-  #   url: 'mailto:'
-  #   label: E-mail me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/gitlab
-  #   url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/coleman-snell/
   - icon: brands/instagram

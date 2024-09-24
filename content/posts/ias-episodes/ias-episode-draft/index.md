@@ -1,9 +1,17 @@
 ---
 title: 
 summary: 
-date: 2023-10-25
-lastmod: 2024-06-17
+date: 
+lastmod: 
 draft: true
+
+_build:
+  render: never
+  list: never
+cascade:
+  _build:
+    render: never
+    list: never
 
 image:
   caption: 'Into AI Safety Cover Art'

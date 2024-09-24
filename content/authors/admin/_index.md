@@ -22,8 +22,8 @@ role: Making the world's complex problems accessible
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
-  # - name: GenCoin
-    # url: https://www.example.com/
+  # - name: 
+    # url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -32,13 +32,13 @@ profiles:
     url: 'mailto:intoaisafety@gmail.com'
     label: Contact
   # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
+  #   url: 
   # - icon: brands/gitlab
-  #   url: https://github.com/gcushen
+  #   url: 
   # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  #   url: 
   # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+  #   url: 
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
@@ -48,7 +48,7 @@ profiles:
 #   - title: 
 #     url: 
 #     certificate_url: 
-#     date: '2023-11-25'
+#     date: 
 #     awarder: 
 #     icon: 
 #     summary: |
@@ -61,7 +61,7 @@ We believe that the best way to improve overall wellbeing for humanity, both in 
 
 For listeners and readers, Kairos.fm is an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.
 
-For creators, Kairos.fm magnifies the impact and reach of their work, in addition to reducing barriers to publishing content. Last, but certainly not least, Kairos.fm is a growing community of like-minded creators, which can be leveraged for advice, feedback, collaboration, and so much more.
+For communicators, Kairos.fm magnifies the impact and reach of their work, in addition to reducing barriers to publishing content. Last, but certainly not least, Kairos.fm is a growing community of like-minded creators, which can be leveraged for advice, feedback, collaboration, and so much more.
 
 <!-- By definition, these problems are not straight forward, and while some may argue strongly for one solution, others may insist an alternate path is the only reasonable choice.
 Kairos.fm provides an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.-->

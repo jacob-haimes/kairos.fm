@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Into AI Safety
-url: "intoaisafety/episodes"
+title: muckrAIkers
+url: "muckraikers/episodes"
 
 # Full name (for SEO)
-first_name: Into AI
-last_name: Safety
+first_name: muck
+last_name: rAIkers
 
 # Status emoji
 status:
-  icon: #🧮
+  icon: 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: One way to make sense of all this tech stuff.
+role: Finding the meaning in all the AI muck
 
 user_groups:
   - Show
@@ -24,15 +24,13 @@ user_groups:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: custom/transistor
-    url: https://intoaisafety.transistor.fm
+    url: https://muckraikers.transistor.fm
     label: Listening platforms
-  - icon: brands/youtube
-    url: https://www.youtube.com/@IntoAISafety/podcasts
-  # - icon: brands/mastodon
-  #   url: https://mastodon.social/@intoaisafety
-  - icon: at-symbol
-    url: 'mailto:intoaisafety@gmail.com'
-    label: Contact
+  # - icon: brands/youtube
+  #   url: 
+  # - icon: at-symbol
+  #   url: 'mailto:intoaisafety@gmail.com'
+  #   label: Contact
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -42,7 +40,7 @@ profiles:
 #   - title: 
 #     url: 
 #     certificate_url: 
-#     date: '2023-11-25'
+#     date: 
 #     awarder: 
 #     icon: 
 #     summary: |

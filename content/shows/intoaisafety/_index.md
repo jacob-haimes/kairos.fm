@@ -28,6 +28,9 @@ sections:
           icon: custom/transistor
           url: https://intoaisafety.transistor.fm
           label: Transistor
+        - name: YouTube
+          icon: brands/youtube
+          url: https://www.youtube.com/@IntoAISafety/podcasts
         - name: Email
           icon: at-symbol
           url: 'mailto:intoaisafety@gmail.com'
@@ -50,32 +53,35 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
   #       margin: [0, 0, 0, 0]
-  - block: featured-episodes
-    content:
-      archive:
-        enable: false
-      title: Featured Episodes
-      # subtitle: ''
-      # text: 
-      count: 2
-      filters:
-        folders:
-          - posts
-        author: intoaisafety
-        # category: ""
-        # tag: ""
-        # publication_type: ""
-        featured_only: true
-        # exclude_featured: false
-        # exclude_future: false
-        # exclude_past: false
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      view: article-grid
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+
+
+  # - block: featured-episodes
+  #   content:
+  #     archive:
+  #       enable: false
+  #     title: Featured Episodes
+  #     # subtitle: ''
+  #     # text: 
+  #     count: 2
+  #     filters:
+  #       folders:
+  #         - posts
+  #       author: intoaisafety
+  #       # category: ""
+  #       # tag: ""
+  #       # publication_type: ""
+  #       featured_only: true
+  #       # exclude_featured: false
+  #       # exclude_future: false
+  #       # exclude_past: false
+  #     sort_by: 'Date'
+  #     sort_ascending: false
+  #   design:
+  #     view: article-grid
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
+  #       margin: [0, 0, 0, 0]
+
   - block: transistor-block
     content:
       archive: 

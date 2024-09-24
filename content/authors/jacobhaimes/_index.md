@@ -22,8 +22,8 @@ role: Co-Founder and Podcast Host
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
-  # - name: GenCoin
-    # url: https://www.example.com/
+  # - name: 
+    # url: 
 
 user_groups:
   - Co-Founders

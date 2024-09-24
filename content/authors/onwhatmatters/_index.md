@@ -1,6 +1,7 @@
 ---
 # Display name
 title: On What Matters
+url: "onwhatmatters/episodes"
 
 # Full name (for SEO)
 first_name: On What
@@ -20,19 +21,16 @@ user_groups:
   - Show
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   # - icon: at-symbol
   #   url: 'mailto:'
   #   label: Contact
   # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/gitlab
-  #   url: https://github.com/gcushen
+  #   url: 
   - icon: custom/tiktok
     url: https://www.tiktok.com/@21sttalks
   # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+  #   url: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
