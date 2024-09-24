@@ -20,10 +20,10 @@ superuser: false
 # Role/position/tagline
 role: Contributor
 
-# Organizations/Affiliations to display in Biography blox
-# organizations:
-  - name: Adaptyv Bio
-    url: https://www.adaptyvbio.com
+# # Organizations/Affiliations to display in Biography blox
+# # organizations:
+#   - name: Adaptyv Bio
+#     url: https://www.adaptyvbio.com
 
 user_groups:
   - Contributors

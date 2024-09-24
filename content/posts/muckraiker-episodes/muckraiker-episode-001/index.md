@@ -1,7 +1,7 @@
 ---
 title: Strawberry
-summary: Release of OpenAI's o1 model, aka. Strawberry
-date: 2024-23-09
+summary: Introducing muckraikers, a podcast that tries to find meaning in the AI muck. This episode we discuss the release of OpenAI's o1 model, aka. Strawberry.
+date: 2024-09-23
 # lastmod: 
 
 image:
@@ -16,7 +16,7 @@ tags:
   - Machine Learning
 
 categories: 
-  - Podcast
+  - podcast
 ---
 
 <div style="text-align: justify">
