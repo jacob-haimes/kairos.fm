@@ -61,5 +61,3 @@ Opt out of LinkedIn's GenAI scraping ➡️ https://lnkd.in/epziUeTi
 - [The Zuck is done apologizing](https://techcrunch.com/2024/09/11/mark-zuckerberg-says-hes-done-apologizing/)
 - [IAPS report on technical safety research at AI companies](https://static1.squarespace.com/static/64edf8e7f2b10d716b5ba0e1/t/66e32323b3f779378d9e30c9/1726161701034/Mapping+technical+safety+research.pdf)
 - [Llama2 70B is "about as good" as GPT-4 at summarization tasks](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
-
-{{< subscribe-muckraikers >}}
