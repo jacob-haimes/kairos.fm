@@ -127,7 +127,7 @@ sections:
       items:
         - name: Apple Podcasts
           icon: custom/color-logos-24/apple-podcasts
-          url: https://podcasts.apple.com/us/podcast/muckraikers/
+          url: https://podcasts.apple.com/us/podcast/muckraikers/id1770230941
         - name: Spotify
           icon: custom/color-logos-24/spotify
           url: https://open.spotify.com/show/7q69qn0UDjLfzmYWtbbWXb
@@ -148,13 +148,13 @@ sections:
           url: https://www.goodpods.com/podcasts-aid/
         - name: Amazon Music
           icon: custom/color-logos-24/amazon-music
-          url: https://music.amazon.com/podcasts/
+          url: https://music.amazon.com/podcasts/205bf9d6-c7aa-4887-a5cd-371d6e6bfc05
         - name: Castbox
           icon: custom/color-logos-24/castbox
           url: https://castbox.fm/vic/
         - name: iHeartRadio
           icon: custom/color-logos-24/iheartradio
-          url: https://www.iheart.com/podcast/
+          url: https://iheart.com/podcast/219637112/
         - name: Player FM
           icon: custom/color-logos-24/playerfm
           url: https://player.fm/series/series-3602894

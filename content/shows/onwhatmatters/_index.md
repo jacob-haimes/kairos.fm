@@ -93,7 +93,7 @@ sections:
 
   - block: html-block
     content: 
-      text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5" style="padding-top:1rem;padding-bottom:.75rem;"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="/onwhatmatters/episodes/"><span>Episode pages</span><span aria-hidden="true">→</span></a></div></div>'
+      text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5" style="padding-top:1rem;padding-bottom:.75rem;"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="/onwhatmatters/episodes/"><span>Episode pages</span></a></div></div>'
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -129,6 +129,7 @@ sections:
         - name: Apple Podcasts
           icon: custom/color-logos-24/apple-podcasts
           url: https://podcasts.apple.com/us/podcast/21st-talks/id1534982172
+          # https://podcasts.apple.com/us/podcast/on-what-matters/id1769983936
         - name: Spotify
           icon: custom/color-logos-24/spotify
           url: https://open.spotify.com/show/5rc49nYFlis1buOZdO8gJm?si=WVMPxJXSS7WaJrU2hRtXLQ

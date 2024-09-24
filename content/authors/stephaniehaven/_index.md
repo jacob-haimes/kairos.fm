@@ -22,8 +22,8 @@ role: Contributor
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
-  # - name: GenCoin
-    # url: https://www.example.com/
+  # - name: 
+    # url: 
 
 user_groups:
   - Contributors
