@@ -1,6 +1,6 @@
 ---
 title: OpenAI's o1, aka. Strawberry
-summary: Release of OpenAI's o1 model, now featuring gaslighting and personification
+summary: Release of OpenAI's o1 model, now featuring gaslighting and personification.
 date: 
 lastmod: 
 

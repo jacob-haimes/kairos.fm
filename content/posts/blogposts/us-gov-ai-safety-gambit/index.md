@@ -11,10 +11,6 @@ image:
 
 authors:
   - stephaniehaven
-#   - jacobhaimes
-#   - colemansnell
-#   - intoaisafety
-#   - onwhatmatters
 
 tags:
   - AI Governance
@@ -23,11 +19,7 @@ tags:
   - TechPolicy.Press
 
 categories: 
-#   - podcast
-#   - video
   - blogpost
-#   - meta
-#   - research
 
 read_time: true
 ---

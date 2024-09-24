@@ -26,8 +26,8 @@ profiles:
   - icon: custom/transistor
     url: https://muckraikers.transistor.fm
     label: Listening platforms
-  # - icon: brands/youtube
-  #   url: 
+  - icon: brands/youtube
+    url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBdobkudhgPnFpVfZzhM6bWa
   # - icon: at-symbol
   #   url: 'mailto:intoaisafety@gmail.com'
   #   label: Contact

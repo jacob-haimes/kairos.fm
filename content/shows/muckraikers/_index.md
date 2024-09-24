@@ -28,6 +28,9 @@ sections:
           icon: custom/transistor
           url: https://muckraikers.transistor.fm
           label: Transistor
+        - name: YouTube
+          icon: brands/youtube
+          url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBdobkudhgPnFpVfZzhM6bWa
         # - name: Email
         #   icon: at-symbol
         #   url: 'mailto:intoaisafety@gmail.com'
@@ -97,7 +100,6 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-
   # - block: to-archive-button
   #   content:
   #     label: More episodes
@@ -136,22 +138,22 @@ sections:
           url: https://pca.st/2dlev1ig
         - name: Overcast
           icon: custom/color-logos-24/overcast
-          url: https://overcast.fm/
+          url: https://overcast.fm/itunes1770230941
         - name: Castro
           icon: custom/color-logos-24/castro
-          url: https://castro.fm/itunes/
+          url: https://castro.fm/itunes/1770230941
         - name: YouTube
           icon: custom/color-logos-24/youtube
-          url: https://www.youtube.com/
+          url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBdobkudhgPnFpVfZzhM6bWa
         - name: Goodpods
           icon: custom/color-logos-24/goodpods
-          url: https://www.goodpods.com/podcasts-aid/
+          url: https://www.goodpods.com/podcasts-aid/1770230941
         - name: Amazon Music
           icon: custom/color-logos-24/amazon-music
           url: https://music.amazon.com/podcasts/205bf9d6-c7aa-4887-a5cd-371d6e6bfc05
         - name: Castbox
           icon: custom/color-logos-24/castbox
-          url: https://castbox.fm/vic/
+          url: https://castbox.fm/vic/1770230941
         - name: iHeartRadio
           icon: custom/color-logos-24/iheartradio
           url: https://iheart.com/podcast/219637112/

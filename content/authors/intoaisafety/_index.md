@@ -27,7 +27,7 @@ profiles:
     url: https://intoaisafety.transistor.fm
     label: Listening platforms
   - icon: brands/youtube
-    url: https://www.youtube.com/@IntoAISafety/podcasts
+    url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBc7gHBn7mRTxsiVirgyv76p
   # - icon: brands/mastodon
   #   url: https://mastodon.social/@intoaisafety
   - icon: at-symbol

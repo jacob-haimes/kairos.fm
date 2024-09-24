@@ -30,7 +30,7 @@ sections:
           label: Transistor
         - name: YouTube
           icon: brands/youtube
-          url: https://www.youtube.com/@IntoAISafety/podcasts
+          url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBc7gHBn7mRTxsiVirgyv76p
         - name: Email
           icon: at-symbol
           url: 'mailto:intoaisafety@gmail.com'
@@ -146,7 +146,7 @@ sections:
           url: https://castro.fm/itunes/1720206246
         - name: YouTube
           icon: custom/color-logos-24/youtube
-          url: https://www.youtube.com/@IntoAISafety/podcasts
+          url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBc7gHBn7mRTxsiVirgyv76p
         - name: Goodpods
           icon: custom/color-logos-24/goodpods
           url: https://www.goodpods.com/podcasts-aid/1720206246

@@ -22,8 +22,9 @@ user_groups:
 
 # Social network links
 profiles:
-  # - icon: at-symbol
-  #   url: 'mailto:'
+  - icon: custom/transistor
+    url: https://onwhatmatters.transistor.fm
+    label: Listening platforms
   #   label: Contact
   # - icon: brands/x
   #   url: 

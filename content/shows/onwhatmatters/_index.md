@@ -128,44 +128,43 @@ sections:
       items:
         - name: Apple Podcasts
           icon: custom/color-logos-24/apple-podcasts
-          url: https://podcasts.apple.com/us/podcast/21st-talks/id1534982172
-          # https://podcasts.apple.com/us/podcast/on-what-matters/id1769983936
+          url: https://podcasts.apple.com/us/podcast/on-what-matters/id1769983936
         - name: Spotify
           icon: custom/color-logos-24/spotify
-          url: https://open.spotify.com/show/5rc49nYFlis1buOZdO8gJm?si=WVMPxJXSS7WaJrU2hRtXLQ
+          url: https://open.spotify.com/show/5rc49nYFlis1buOZdO8gJm?si=b4245c676c31445e
         - name: Pocket Casts
           icon: custom/color-logos-24/pocket-casts
-          url: 
+          url: https://pca.st/57qbmndm
         - name: Overcast
           icon: custom/color-logos-24/overcast
-          url: 
+          url: https://overcast.fm/itunes1769983936
         - name: Castro
           icon: custom/color-logos-24/castro
-          url: 
+          url: https://castro.fm/itunes/1769983936
         - name: YouTube
           icon: custom/color-logos-24/youtube
-          url: 
+          url: https://www.youtube.com/@KairosFMNetwork/podcasts
         - name: Goodpods
           icon: custom/color-logos-24/goodpods
-          url: 
+          url: https://www.goodpods.com/podcasts-aid/1769983936
         - name: Amazon Music
           icon: custom/color-logos-24/amazon-music
-          url: 
+          url: https://music.amazon.com/podcasts/ae9e756b-613f-4a5b-94af-553416d534f9
         - name: Castbox
           icon: custom/color-logos-24/castbox
-          url: 
+          url: https://castbox.fm/vic/1769983936
         - name: iHeartRadio
           icon: custom/color-logos-24/iheartradio
-          url: 
+          url: https://iheart.com/podcast/219857382/
         - name: Player FM
           icon: custom/color-logos-24/playerfm
-          url: 
+          url: https://player.fm/series/series-3602636
         - name: Deezer
           icon: custom/color-logos-24/deezer
-          url: 
+          url: https://www.deezer.com/show/1001255451
         - name: Podcast Addict
           icon: custom/color-logos-24/podcast-addict
-          url: 
+          url: https://podcastaddict.com/podcast/on-what-matters/5342100
     design:
       spacing:
         padding: [0, 0, 0, 0]
