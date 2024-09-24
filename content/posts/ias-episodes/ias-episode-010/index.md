@@ -1,7 +1,7 @@
 ---
-title: Evals Hackathon November 2023 (2)
-summary: The hackathon team's second meeting, during which we solidify our goals and discuss initial experimentation.
-date: 2024-02-05
+title: Portfolios
+summary: You should have a professional portfolio.
+date: 2024-01-29
 lastmod: 2024-06-17
 
 image:
@@ -13,41 +13,40 @@ authors:
   - intoaisafety
 
 tags:
-  - Hackathon
-  - Research
-  - Evals November 2023
+  - Minisode
+  - Advice
 
 categories: 
   - Podcast
 ---
 
 <div style="text-align: justify">
-Join our hackathon group for the second episode in the Evals November 2023 Hackathon subseries. In this episode, we solidify our goals for the hackathon after some preliminary experimentation and ideation.
+I provide my thoughts and recommendations regarding personal professional portfolios.
 
-{{< transistor src="https://share.transistor.fm/e/b1493509" >}}
-
-Check out Stellaric's <a href="https://stellaric.pw/" target="_blank" rel="noreferrer noopener">website</a>, or follow them on <a href="https://twitter.com/stellaricpw" target="_blank" rel="noreferrer noopener">Twitter</a>.
+{{< transistor src="https://share.transistor.fm/e/0258007f" >}}
 </div>
 
 ### Chapters
 
 <div style="text-align: left; font-family:monospace;">
-01:53 ❙ Meeting starts<br>
-05:05 ❙ Pitch: extension of locked models<br>
-23:23 ❙ Pitch: retroactive holdout datasets<br>
-34:04 ❙ Preliminary results<br>
-37:44 ❙ Next steps<br>
-42:55 ❙ Recap
+00:35 ❙ Intro to portfolios<br>
+01:42 ❙ Modern portfolios<br>
+02:27 ❙ What to include<br>
+04:38 ❙ Importance of visual<br>
+05:50 ❙ The "About" page<br>
+06:25 ❙ Tools<br>
+08:12 ❙ Future of "Minisodes"
 </div>
 
 ### Links
 
 Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.
-- <a href="https://github.com/LRudL/evalugator" target="_blank" rel="noreferrer noopener">Evalugator</a> library
-- <a href="https://www.alignmentforum.org/posts/rZs6ddqNnW8LXuJqA/password-locked-models-a-stress-case-for-capabilities" target="_blank" rel="noreferrer noopener">Password Locked Models</a> blogpost
-- <a href="https://arxiv.org/abs/2109.07958" target="_blank" rel="noreferrer noopener">TruthfulQA: Measuring How Models Mimic Human Falsehoods</a>
-- <a href="https://aclanthology.org/P02-1040.pdf">BLEU: a Method for Automatic Evaluation of Machine Translation</a>
-- <a href="https://arxiv.org/abs/1905.10044" target="_blank" rel="noreferrer noopener">BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions</a>
-- <a href="https://arxiv.org/abs/2310.16789" target="_blank" rel="noreferrer noopener">Detecting Pretraining Data from Large Language Models</a>
+  - <a href="https://jime.open.ac.uk/articles/10.5334/jime.574" target="_blank" rel="noreferrer noopener">From Portafoglio to Eportfolio: The Evolution of Portfolio in Higher Education</a>
+  - <a href="https://www.gimp.org" target="_blank" rel="noreferrer noopener">GIMP</a>
+  - <a href="https://alternativeto.net" target="_blank" rel="noreferrer noopener">AlternativeTo</a>
+  - <a href="https://jekyllrb.com" target="_blank" rel="noreferrer noopener">Jekyll</a>
+  - <a href="https://mmistakes.github.io/minimal-mistakes/" target="_blank" rel="noreferrer noopener">Minimal Mistakes</a>
+  - <a href="https://pages.github.com" target="_blank" rel="noreferrer noopener">GitHub Pages</a>
+  - <a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">My portfolio</a>
 
 <!-- end of the list -->

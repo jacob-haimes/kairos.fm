@@ -1,7 +1,7 @@
 ---
-title: Reading a Research Paper
-summary: Lets go over best practices for reading research papers.
-date: 2024-02-12
+title: Evals Hackathon November 2023 (2)
+summary: The hackathon team's second meeting, during which we solidify our goals and discuss initial experimentation.
+date: 2024-02-05
 lastmod: 2024-06-17
 
 image:
@@ -13,40 +13,41 @@ authors:
   - intoaisafety
 
 tags:
-  - Minisode
-  - Advice
+  - Hackathon
   - Research
+  - Evals November 2023
 
 categories: 
   - Podcast
 ---
 
 <div style="text-align: justify">
-Before I begin with the paper-distillation based minisodes, I figured we would go over best practices for reading research papers. I go through the anatomy of typical papers, and some generally applicable advice.
+Join our hackathon group for the second episode in the Evals November 2023 Hackathon subseries. In this episode, we solidify our goals for the hackathon after some preliminary experimentation and ideation.
 
-{{< transistor src="https://share.transistor.fm/e/36d075b9" >}}
+{{< transistor src="https://share.transistor.fm/e/b1493509" >}}
+
+Check out Stellaric's <a href="https://stellaric.pw/" target="_blank" rel="noreferrer noopener">website</a>, or follow them on <a href="https://twitter.com/stellaricpw" target="_blank" rel="noreferrer noopener">Twitter</a>.
 </div>
 
 ### Chapters
 
 <div style="text-align: left; font-family:monospace;">
-00:56 ❙ Anatomy of a paper<br>
-02:40 ❙ Most common advice<br>
-05:24 ❙ Reading sparsity and path<br>
-07:30 ❙ Notes and motivation
+01:53 ❙ Meeting starts<br>
+05:05 ❙ Pitch: extension of locked models<br>
+23:23 ❙ Pitch: retroactive holdout datasets<br>
+34:04 ❙ Preliminary results<br>
+37:44 ❙ Next steps<br>
+42:55 ❙ Recap
 </div>
 
 ### Links
 
 Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.
-- <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7392212/" target="_blank" rel="noreferrer noopener">Ten simple rules for reading a scientific paper</a>
-- Best sources I found
-  - <a href="https://subjectguides.york.ac.uk/critical/articles" target="_blank" rel="noreferrer noopener">Let's get critical: Reading academic articles</a>
-  - <a href="https://www.scientifica.uk.com/neurowire/gradhacks-a-guide-to-reading-research-papers" target="_blank" rel="noreferrer noopener">#GradHacks: A guide to reading research papers</a>
-  - <a href="https://www.lib.purdue.edu/sites/default/files/libraries/engr/Tutorials/Newest%20Scientific%20Paper.pdf" target="_blank" rel="noreferrer noopener">How to read a scientific paper</a> (presentation)
-- Some more sources
-  - <a href="https://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf" target="_blank" rel="noreferrer noopener">How to read a scientific article</a>
-  - <a href="https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf" target="_blank" rel="noreferrer noopener">How to read a research paper</a>
-  - <a href="https://resources.nu.edu/researchprocess/readingscientificarticle" target="_blank" rel="noreferrer noopener">Reading a scientific article</a>
+- <a href="https://github.com/LRudL/evalugator" target="_blank" rel="noreferrer noopener">Evalugator</a> library
+- <a href="https://www.alignmentforum.org/posts/rZs6ddqNnW8LXuJqA/password-locked-models-a-stress-case-for-capabilities" target="_blank" rel="noreferrer noopener">Password Locked Models</a> blogpost
+- <a href="https://arxiv.org/abs/2109.07958" target="_blank" rel="noreferrer noopener">TruthfulQA: Measuring How Models Mimic Human Falsehoods</a>
+- <a href="https://aclanthology.org/P02-1040.pdf">BLEU: a Method for Automatic Evaluation of Machine Translation</a>
+- <a href="https://arxiv.org/abs/1905.10044" target="_blank" rel="noreferrer noopener">BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions</a>
+- <a href="https://arxiv.org/abs/2310.16789" target="_blank" rel="noreferrer noopener">Detecting Pretraining Data from Large Language Models</a>
 
 <!-- end of the list -->

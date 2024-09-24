@@ -1,52 +1,64 @@
 ---
-title: Portfolios
-summary: You should have a professional portfolio.
-date: 2024-01-29
+title: Polysemanticity w/ Dr. Darryl Wright
+summary: Dr. Darryl Wright joins us to discuss his background and mechanistic interpretability.
+date: 2024-01-22
 lastmod: 2024-06-17
 
 image:
-  caption: 'Into AI Safety Cover Art'
+  caption: 'Polysemanticity Research Diagram'
   preview_only: true
-  filename: ias_cover_art.jpeg
 
 authors:
   - intoaisafety
 
 tags:
-  - Minisode
-  - Advice
+  - Interview
+  - Research
 
 categories: 
   - Podcast
 ---
 
 <div style="text-align: justify">
-I provide my thoughts and recommendations regarding personal professional portfolios.
+Darryl and I discuss his background, how he became interested in machine learning, and a project we are currently working on investigating the penalization of polysemanticity during the training of neural networks.
 
-{{< transistor src="https://share.transistor.fm/e/0258007f" >}}
+{{< transistor src="https://share.transistor.fm/e/0afbbf3c" >}}
 </div>
+
+<figure>
+    <img src="featured.png"
+         alt="Polysemanticity Research Diagram, Jacob Haimes">
+    <figcaption style="font-size:small; text-align:center">Image by <a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">Jacob Haimes</a> / © Kairos.fm / Polysemanticity Research Diagram / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">CC-BY 4.0</a></figcaption>
+</figure>
 
 ### Chapters
 
 <div style="text-align: left; font-family:monospace;">
-00:35 ❙ Intro to portfolios<br>
-01:42 ❙ Modern portfolios<br>
-02:27 ❙ What to include<br>
-04:38 ❙ Importance of visual<br>
-05:50 ❙ The "About" page<br>
-06:25 ❙ Tools<br>
-08:12 ❙ Future of "Minisodes"
+01:46 ❙ Interview begins<br>
+02:14 ❙ Supernovae classification<br>
+08:58 ❙ Penalizing polysemanticity<br>
+20:58 ❙ Our "toy model"<br>
+30:06 ❙ Task description<br>
+32:47 ❙ Addressing hurdles<br>
+39:20 ❙ Lessons learned
 </div>
 
 ### Links
 
 Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.
-  - <a href="https://jime.open.ac.uk/articles/10.5334/jime.574" target="_blank" rel="noreferrer noopener">From Portafoglio to Eportfolio: The Evolution of Portfolio in Higher Education</a>
-  - <a href="https://www.gimp.org" target="_blank" rel="noreferrer noopener">GIMP</a>
-  - <a href="https://alternativeto.net" target="_blank" rel="noreferrer noopener">AlternativeTo</a>
-  - <a href="https://jekyllrb.com" target="_blank" rel="noreferrer noopener">Jekyll</a>
-  - <a href="https://mmistakes.github.io/minimal-mistakes/" target="_blank" rel="noreferrer noopener">Minimal Mistakes</a>
-  - <a href="https://pages.github.com" target="_blank" rel="noreferrer noopener">GitHub Pages</a>
-  - <a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">My portfolio</a>
+- <a href="https://www.zooniverse.org" target="_blank" rel="noreferrer noopener">Zooniverse</a>
+- <a href="https://bluedot.org" target="_blank" rel="noreferrer noopener">BlueDot Impact</a>
+  - <a href="https://course.aisafetyfundamentals.com/alignment" target="_blank" rel="noreferrer noopener">AI Safety Fundamentals</a>
+- <a href="https://www.aisafetysupport.org" target="_blank" rel="noreferrer noopener">AI Safety Support</a>
+- <a href="https://distill.pub/2020/circuits/zoom-in/" target="_blank" rel="noreferrer noopener">Zoom In: An Introduction to Circuits</a>
+- <a href="https://paperswithcode.com/dataset/mnist" target="_blank" rel="noreferrer noopener">MNIST</a> dataset on PapersWithCode
+  - <a href="https://en.wikipedia.org/wiki/MNIST_database" target="_blank" rel="noreferrer noopener">MNIST</a> on Wikipedia
+- <a href="https://arxiv.org/abs/2103.03386" target="_blank" rel="noreferrer noopener">Clusterability in Neural Networks</a>
+- <a href="https://www.cs.toronto.edu/~kriz/cifar.html" target="_blank" rel="noreferrer noopener">CIFAR-10</a> dataset
+- <a href="https://www.effectivealtruism.org/ea-global" target="_blank" rel="noreferrer noopener">Effective Altruism Global</a>
+- <a href="https://openai.com/research/clip" target="_blank" rel="noreferrer noopener">CLIP</a> Blog
+  - <a href="https://github.com/openai/CLIP" target="_blank" rel="noreferrer noopener">CLIP</a> on GitHub
+- <a href="https://funds.effectivealtruism.org/funds/far-future" target="_blank" rel="noreferrer noopener">Long Term Future Fund</a>
+- <a href="https://arxiv.org/abs/2211.09169" target="_blank" rel="noreferrer noopener">Engineering Monosemanticity in Toy Models</a>
 
 <!-- end of the list -->

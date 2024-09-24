@@ -1,8 +1,8 @@
 ---
-title: LLMs, A Survey
-summary: Take a trip with me through the paper "Large Language Models, A Survey".
-date: 2024-02-26
-lastmod: 2024-06-18
+title: Applying for Funding w/ Esben Kran
+summary: Esben reviews an application that I would soon submit for Open Philanthropy's Career Transitition Funding opportunity.
+date: 2023-10-25
+lastmod: 2024-06-17
 
 image:
   caption: 'Into AI Safety Cover Art'
@@ -13,59 +13,45 @@ authors:
   - intoaisafety
 
 tags:
-  - Minisode
-  - Paper Review
-  - Survey
+  - Feedback
+  - Funding
 
 categories: 
   - Podcast
 ---
 
 <div style="text-align: justify">
-Take a trip with me through the paper <a href="https://arxiv.org/abs/2402.06196" target="_blank" rel="noreferrer noopener">Large Language Models, A Survey</a>, published on February 9th of 2024. All figures and tables mentioned throughout the episode can be found on the Into AI Safety podcast website.
+Esben reviews an application that I would soon submit for Open Philanthropy's Career Transitition Funding opportunity. Although I didn't end up receiving the funding, I do think that this episode can be a valuable resource for both others and myself when applying for funding in the future.
 
-{{< transistor src="https://share.transistor.fm/e/24982632" >}}
+{{< transistor src="https://share.transistor.fm/e/aa6ca492" >}}
+
+Head over to Apart Research's <a href="https://apartresearch.com" target="_blank" rel="noreferrer noopener">website</a> to check out their work, or the Alignment Jam <a href="https://alignmentjam.com" target="_blank" rel="noreferrer noopener">website</a> for information on upcoming hackathons.
+
+A doc-capsule of the application at the time of this recording can be found <a href="https://docs.google.com/document/d/1ofk5VLvNeJytd5Rpx18zui-JfV900DZv5nZShZcrgfY/edit?usp=sharing" target="_blank" rel="noreferrer noopener">at this link</a>.
 </div>
 
 ### Chapters
 
 <div style="text-align: left; font-family:monospace;">
-00:36 ❙ Intro and authors<br>
-01:50 ❙ My takes and paper structure<br>
-04:40 ❙ Getting to LLMs<br>
-07:27 ❙ Defining LLMs & emergence<br>
-12:12 ❙ Overview of PLMs<br>
-15:00 ❙ How LLMs are built<br>
-18:52 ❙ Limitations if LLMs<br>
-23:06 ❙ Uses of LLMs<br>
-25:16 ❙ Evaluations and Benchmarks<br>
-28:11 ❙ Challenges and future directions<br>
-29:21 ❙ Recap & outro
+01:38 ❙ Interview starts<br>
+05:41 ❙ Proposal<br>
+11:00 ❙ Personal statement<br>
+14:00 ❙ Budget<br>
+21:12 ❙ CV<br>
+22:45 ❙ Application questions<br>
+34:06 ❙ Funding questions<br>
+44:25 ❙ Outro
 </div>
-
-### Select Figures and Tables
-
-{{< multi-image-quickview folder="llms-a-survey" >}}
 
 ### Links
 
 Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.
-- <a href="https://arxiv.org/abs/2402.06196" target="_blank" rel="noreferrer noopener">Large Language Models, A Survey</a>
-- <a href="https://www.linkedin.com/posts/meysam-ac_i-am-delighted-to-share-that-our-most-recent-activity-7162768857827377152-wiLu/?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noreferrer noopener">Meysam's LinkedIn Post</a>
-- Claude E. Shannon
-  - <a href="https://dspace.mit.edu/handle/1721.1/11173" target="_blank" rel="noreferrer noopener">A symbolic analysis of relay and switching circuits</a> (Master's Thesis)
-  - <a href="https://ieeexplore.ieee.org/document/6769090" target="_blank" rel="noreferrer noopener">Communication theory of secrecy systems</a>
-  - <a href="https://ieeexplore.ieee.org/document/6773024" target="_blank" rel="noreferrer noopener">A mathematical theory of communication</a>
-  - <a href="https://ieeexplore.ieee.org/document/6773263" target="_blank" rel="noreferrer noopener">Prediction and entropy of printed English</a>
-- <a href="https://bounded-regret.ghost.io/future-ml-systems-will-be-qualitatively-different/" target="_blank" rel="noreferrer noopener">Future ML Systems Will Be Qualitatively Different</a>
-- <a href="https://www.science.org/doi/10.1126/science.177.4047.393?ref=bounded-regret.ghost.io" target="_blank" rel="noreferrer noopener">More Is Different</a>
-- <a href="https://arxiv.org/abs/2401.05566" target="_blank" rel="noreferrer noopener">Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training</a>
-- <a href="https://arxiv.org/abs/2304.15004" target="_blank" rel="noreferrer noopener">Are Emergent Abilities of Large Language Models a Mirage?</a>
-- <a href="https://arxiv.org/abs/2309.01809" target="_blank" rel="noreferrer noopener">Are Emergent Abilities of Large Language Models just In-Context Learning?</a>
-- <a href="https://arxiv.org/abs/1706.03762" target="_blank" rel="noreferrer noopener">Attention is all you need</a>
-- <a href="https://arxiv.org/abs/2305.18290" target="_blank" rel="noreferrer noopener">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>
-- <a href="https://arxiv.org/abs/2402.01306" target="_blank" rel="noreferrer noopener">KTO: Model Alignment as Prospect Theoretic Optimization</a>
-- <a href="https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/TemperAnneal/KirkpatrickAnnealScience1983.pdf" target="_blank" rel="noreferrer noopener">Optimization by Simulated Annealing</a>
-- <a href="https://openai.com/blog/memory-and-new-controls-for-chatgpt" target="_blank" rel="noreferrer noopener">Memory and new controls for ChatGPT</a>
-- <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4515540/" target="_blank" rel="noreferrer noopener">Hallucinations and related concepts—their conceptual background</a>
+- <a href="https://www.openphilanthropy.org/research/ai-governance-talent-profiles-wed-like-to-see/" target="_blank" rel="noreferrer noopener">AI governance talent profiles we’d like to see</a>
+- <a href="https://alignmentjam.com/jam/governance" target="_blank" rel="noreferrer noopener">The AI Governance Research Sprint</a>
+- <a href="https://www.openphilanthropy.org/research/reasoning-transparency/" target="_blank" rel="noreferrer noopener">Reasoning Transparency</a>
+- Places to look for funding
+  - Open Philanthropy's <a href="https://www.openphilanthropy.org/career-development-and-transition-funding/" target="_blank" rel="noreferrer noopener">Career development and transition funding</a>
+  - <a href="https://funds.effectivealtruism.org/funds/far-future" target="_blank" rel="noreferrer noopener">Long-Term Future Fund</a>
+  - <a href="https://manifund.org" target="_blank" rel="noreferrer noopener">Manifund</a>
+
 <!-- end of the list -->

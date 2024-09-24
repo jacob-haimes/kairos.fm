@@ -31,6 +31,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:intoaisafety@gmail.com'
     label: Contact
+  - icon: brands/youtube
+    url: https://www.youtube.com/@KairosFMNetwork/podcasts
   # - icon: brands/x
   #   url: 
   # - icon: brands/gitlab
