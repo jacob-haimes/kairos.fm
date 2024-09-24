@@ -89,26 +89,36 @@ sections:
       spacing:
         padding: ["1em", 0, 0, 0]
         margin: [0, 0, 0, 0]
-  - block: to-archive-button
-    content:
-      label: More episodes
-      filters:
-        folders:
-          - posts
-        author: muckraikers
-        # category: ""
-        # tag: ""
-        # publication_type: ""
-        # featured_only: true
-        # exclude_featured: false
-        # exclude_future: false
-        # exclude_past: false
-      sort_by: 'Date'
-      sort_ascending: false
+
+  - block: html-block
+    content: 
+      text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5" style="padding-top:1rem;padding-bottom:.75rem;"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="/muckraikers/episodes/"><span>Episode pages</span></a></div></div>'
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
+
+  # - block: to-archive-button
+  #   content:
+  #     label: More episodes
+  #     filters:
+  #       folders:
+  #         - posts
+  #       author: muckraikers
+  #       # category: ""
+  #       # tag: ""
+  #       # publication_type: ""
+  #       # featured_only: true
+  #       # exclude_featured: false
+  #       # exclude_future: false
+  #       # exclude_past: false
+  #     sort_by: 'Date'
+  #     sort_ascending: false
+  #   design:
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
+  #       margin: [0, 0, 0, 0]
+
   - block: subscribe
     content: 
       title: Listen Anywhere
