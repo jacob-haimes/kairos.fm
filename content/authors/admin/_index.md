@@ -59,11 +59,13 @@ profiles:
 
 ## A content network that gets people up-to-speed on the world's most pressing problems.
 
+<div style="text-align: justify">
 We believe that the best way to improve overall wellbeing for humanity, both in the immediate future and much further down the line, is to have as many people as possible meaningfully involved in the conversations surrounding the complex problems that our world is faced with.
 
 For listeners and readers, Kairos.fm is an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.
 
 For communicators, Kairos.fm magnifies the impact and reach of their work, in addition to reducing barriers to publishing content. Last, but certainly not least, Kairos.fm is a growing community of like-minded creators, which can be leveraged for advice, feedback, collaboration, and so much more.
+</div>
 
 <!-- By definition, these problems are not straight forward, and while some may argue strongly for one solution, others may insist an alternate path is the only reasonable choice.
 Kairos.fm provides an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.-->
