@@ -8,7 +8,7 @@ first_name: muck
 last_name: rAIkers
 
 # Status emoji
-status:
+status: 
   icon: 
 
 # Is this the primary user of the site?

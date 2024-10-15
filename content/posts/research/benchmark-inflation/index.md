@@ -31,7 +31,7 @@ categories:
 read_time: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-23T00:00:00Z'
+publishDate: '2024-10-14T00:00:00Z'
 
 publication_types: ['manuscript']
 
@@ -50,14 +50,14 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2410.09247
 
-url_pdf: 'https://kairos.fm/content/benchmark-inflation/benchmark-inflation_extended-abstract_dmlr_v1.0.pdf'
+url_pdf: 'https://arxiv.org/pdf/2410.09247'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://kairos.fm/content/benchmark-inflation/benchmark-inflation_poster_v4.2.pdf'
+url_poster: 'benchmark-inflation_poster_v4.2.pdf'
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/1rYkAj8mrAYmPRS_6NzP44IbII7uHUeGhug-RtrZECW4/edit?usp=sharing'
 url_source: ''
@@ -154,13 +154,16 @@ Please send all inquiries to <code>jacob.d.haimes@gmail.com</code> and <code>cwe
 <!-- <div class="snippet-clipboard-content notranslate position-relative overflow-auto" style="font-size:80%"><pre class="notranslate"> -->
 ```
 @manuscript{haimes2024benchmark,
-  author     = {Haimes, Jacob and Wenner, Cenny and
-                Thaman, Kunvar and Tashev, Vassil and
-                Neo, Clement and Kran, Esben and Schreiber, Jason},
-  title      = {Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts},
-  year       = 2024,
-  status     = forthcoming,
-  language   = en
+  author = {Haimes, Jacob and Wenner, Cenny and
+            Thaman, Kunvar and Tashev, Vassil and
+            Neo, Clement and Kran, Esben and Schreiber, Jason},
+  title = {Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts},
+  year = {2024},
+  eprint = {2410.09247},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.LG},
+  url = {https://arxiv.org/abs/2410.09247}, 
+  language = {en},
 }
 ```
   <!-- 
