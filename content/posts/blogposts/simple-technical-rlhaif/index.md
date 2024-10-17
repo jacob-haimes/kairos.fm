@@ -42,7 +42,7 @@ In this article, I'll walk you through a technical explanation of how an LLM is 
 
 </div>
 
-## What is an LLM?
+### What is an LLM?
 
 <div style="text-align: justify">
 
@@ -67,7 +67,7 @@ Similarly, if we want to adjust the LLM’s output, we’ll need to change its p
 
 </div>
 
-# How does RLHF work?
+## How does RLHF work?
 
 <div style="text-align: justify">
 
@@ -80,9 +80,9 @@ Here’s what we’ll do:
 
 </div>
 
-## Create a dataset of preferred responses
+### Create a dataset of preferred responses
 
-### Start with a pre-trained LLM
+#### Start with a pre-trained LLM
 
 <div style="text-align: justify">
 
@@ -92,7 +92,7 @@ Alternatively, we could start with a model trained on text that is expected to b
 
 </div>
 
-### Generate responses
+#### Generate responses
 
 <div style="text-align: justify">
 
@@ -104,7 +104,7 @@ The LLM will generate several responses for each prompt.
 
 </div>
 
-### Human evaluation
+#### Human evaluation
 
 <div style="text-align: justify">
 
@@ -140,7 +140,7 @@ To give you a sense of scale, [Anthropic's dataset](https://huggingface.co/datas
 
 </div>
 
-## Teach a coach our preferences
+### Teach a coach our preferences
 
 <div style="text-align: justify">
 
@@ -177,7 +177,7 @@ Now, we have a coach (reward model) to help us train the LLM!
 
 </div>
 
-## Use the coach to train the LLM
+### Use the coach to train the LLM
 
 <div style="text-align: justify">
 
@@ -225,7 +225,7 @@ After repeating PPO with millions of prompts, we complete the *reinforcement lea
 
 </div>
 
-# Is the model now helpful and harmless?
+## Is the model now helpful and harmless?
 
 <div style="text-align: justify">
 
@@ -245,7 +245,7 @@ So, what if we remove humans from the equation and use LLMs instead?
 
 </div>
 
-# Reinforcement learning from AI feedback
+## Reinforcement learning from AI feedback
 
 <div style="text-align: justify">
 
@@ -264,9 +264,9 @@ Here’s what we’ll do:
 
 </div>
 
-## Create a dataset of preferred responses
+### Create a dataset of preferred responses
 
-### Start with a pre-trained LLM
+#### Start with a pre-trained LLM
 
 <div style="text-align: justify">
 
@@ -274,7 +274,7 @@ Instead of using any LLM, we’ll use one trained only to be helpful. This maxim
 
 </div>
 
-### Create a set of principles to guide the LLM
+#### Create a set of principles to guide the LLM
 
 <div style="text-align: justify">
 
@@ -287,7 +287,7 @@ For example:
 
 </div>
 
-### Generate (harmless) responses
+#### Generate (harmless) responses
 
 <div style="text-align: justify">
 
@@ -311,7 +311,7 @@ We’ll repeat this process with millions of prompts to generate a dataset of ha
 
 </div>
 
-### Update an LLM with harmless responses
+#### Update an LLM with harmless responses
 
 <div style="text-align: justify">
 
@@ -321,7 +321,7 @@ This process, called *fine-tuning*, gives the LLM more examples of prompts and h
 
 </div>
 
-### LLM evaluation
+#### LLM evaluation
 
 <div style="text-align: justify">
 
@@ -337,7 +337,7 @@ In RLAIF, instead of a human selecting the preferred response, our fine-tuned LL
 
 </div>
 
-### Teach a coach our preferred responses
+#### Teach a coach our preferred responses
 
 <div style="text-align: justify">
 
@@ -349,7 +349,7 @@ Next, we’ll use our dataset of prompt-response scores to train a coach just li
 </figure>
 </div>
 
-### Use the coach to train the LLM
+#### Use the coach to train the LLM
 
 Finally, we use the coach to improve our fine-tuned LLM, following the same *reinforcement learning* process we used with RLHF.
 
@@ -369,7 +369,7 @@ As a recap, here’s what the whole process looks like for RLAIF:
 
 </div>
 
-# Do we have a helpful, harmless model now?
+## Do we have a helpful, harmless model now?
 
 <div style="text-align: justify">
 
@@ -383,7 +383,7 @@ With humans more out of the picture, there’s a risk that there will be less ov
 
 </div>
 
-# Test your understanding!
+## Test your understanding!
 
 <div style="text-align: justify">
 

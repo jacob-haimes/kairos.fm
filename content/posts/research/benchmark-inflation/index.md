@@ -152,7 +152,7 @@ Please send all inquiries to <code>jacob.d.haimes@gmail.com</code> and <code>cwe
 ## Citation
 
 <!-- <div class="snippet-clipboard-content notranslate position-relative overflow-auto" style="font-size:80%"><pre class="notranslate"> -->
-```
+```text
 @manuscript{haimes2024benchmark,
   author = {Haimes, Jacob and Wenner, Cenny and
             Thaman, Kunvar and Tashev, Vassil and

@@ -37,6 +37,9 @@ profiles:
   - icon: custom/cal
     url: https://cal.com/jacobhaimes
     label: Schedule a call
+  - icon: brands/twitter
+    url: https://x.com/jacob_haimes
+    label: Twitter
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jacob-haimes/
     label: LinkedIn

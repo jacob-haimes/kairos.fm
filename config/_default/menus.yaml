@@ -22,7 +22,7 @@ main:
     pageRef: about/
     weight: 30
   - name: Collections
-    pageRef: tags/
+    pageRef: categories/
     weight: 40
   # - name: Content
   #   pageRef: content/
