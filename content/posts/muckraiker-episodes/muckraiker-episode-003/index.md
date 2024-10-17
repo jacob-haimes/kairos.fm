@@ -46,7 +46,7 @@ The Open Source AI Definition is out after years of drafting, will it reestablis
 - [OSAID RC1 announcement](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
 - [All Nobel Prizes 2024](https://www.nobelprize.org/all-nobel-prizes-2024/)
 
-## More Reading on Open Source AI
+### More Reading on Open Source AI
 - Kairos.FM article - [Open Source AI is a lie, but it doesn't have to be](https://kairos.fm/posts/blogposts/open-source-ai-is-a-lie/)
 - The Register article - [The open source AI civil war approaches](https://www.theregister.com/2024/09/14/opinion_column_osi/)
 - MIT Technology Review article - [We finally have a definition for open-source AI](https://www.technologyreview.com/2024/08/22/1097224/we-finally-have-a-definition-for-open-source-ai/)
