@@ -55,7 +55,7 @@ links:
   url: https://arxiv.org/abs/2410.09247
 - name: blog
   icon: custom/blog-solid
-  url: https://kairos.fm/posts/research/benchmark-inflation/
+  url: https://www.apartresearch.com/post/benchmark-inflation-revealing-llm-performance-gaps-using-retro-holdouts
 
 url_pdf: 'https://arxiv.org/pdf/2410.09247'
 url_code: ''
