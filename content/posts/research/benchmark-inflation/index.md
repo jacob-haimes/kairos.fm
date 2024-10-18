@@ -20,25 +20,24 @@ author_notes:
   - ''
   - ''
 
-date: 2024-07-24
+date: 2024-10-11
 doi: ''
-
-# lastmod: 2024-07-24
+lastmod: 2024-10-18
 
 categories: 
   - Research
 
-read_time: false
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-10-14T00:00:00Z'
 
 publication_types: ['manuscript']
 
-publication: In *The 5th Workshop on Data-Centric Machine Learning Research at The Forty-first International Conference on Machine Learning*  and *The 1st Workshop on Data Contamination at The 62nd Annual Meeting of the Association for Computational Linguistics*
+publication: "<div style='text-align: justify'>In <em>The 5th Workshop on Data-Centric Machine Learning Research at The Forty-first International Conference on Machine Learning</em>  and <em>The 1st Workshop on Data Contamination at The 62nd Annual Meeting of the Association for Computational Linguistics</em></div>"
 publication_short: In *DMLR @ ICML '24* & *CONDA @ ACL '24*
 
-abstract: Public benchmarks are compromised, as the training data for many Large Language Models (LLMs) is contaminated with test data, suggesting a <strong>performance gap</strong> between benchmark scores and actual capabilities. Ideally, a private holdout set could be used to accurately verify scores. Unfortunately, such datasets do not exist for most benchmarks, and post-hoc construction of sufficiently similar datasets is non-trivial. To address these issues, we introduce a systematic methodology for (i) retrospectively constructing a holdout dataset for a target dataset, (ii) demonstrating the <strong>sufficient indistinguishability</strong> of this <strong>retro-holdout</strong> dataset, and (iii) comparing LLMs on the two datasets to quantify the performance gap due to the dataset's public availability. Applying these methods to TruthfulQA, we construct and release Retro-TruthfulQA, on which we evaluate twenty LLMs and find that some have inflated scores by more than 10 percentage points. Our results demonstrate that public benchmark scores do not accurately assess model properties, and underscore the importance of improved data and evaluation practices in the field.
+abstract: "<div style='text-align: justify'>The training data for many Large Language Models (LLMs) is contaminated with test data. This means that public benchmarks used to assess LLMs are compromised, suggesting a performance gap between benchmark scores and actual capabilities. Ideally, a private holdout set could be used to accurately verify scores. Unfortunately, such datasets do not exist for most benchmarks, and post-hoc construction of sufficiently similar datasets is non-trivial. To address these issues, we introduce a systematic methodology for (i) retrospectively constructing a holdout dataset for a target dataset, (ii) demonstrating the statistical indistinguishability of this retro-holdout dataset, and (iii) comparing LLMs on the two datasets to quantify the performance gap due to the dataset's public availability. Applying these methods to TruthfulQA, we construct and release Retro-Misconceptions, on which we evaluate twenty LLMs and find that some have inflated scores by as much as 16 percentage points. Our results demonstrate that public benchmark scores do not always accurately assess model properties, and underscore the importance of improved data practices in the field. </div>"
 
 summary: Landing page for the Benchmark Inflation research paper.
 
@@ -52,12 +51,16 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
+  icon: brands/arxiv
   url: https://arxiv.org/abs/2410.09247
+- name: blog
+  icon: custom/blog-solid
+  url: https://kairos.fm/posts/research/benchmark-inflation/
 
 url_pdf: 'https://arxiv.org/pdf/2410.09247'
 url_code: ''
 url_dataset: ''
-url_poster: 'benchmark-inflation_poster_v4.2.pdf'
+url_poster: 'benchmark-inflation_poster_v5.2.pdf'
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/1rYkAj8mrAYmPRS_6NzP44IbII7uHUeGhug-RtrZECW4/edit?usp=sharing'
 url_source: ''
@@ -85,7 +88,7 @@ slides: ""
 ## Summary
 
 <div style="text-align: justify">
-Public LLM benchmarks are compromised. To assess the impact that evaluation gaming is having on benchmark scores, we present a methodology for crafting retro-holdout datasets. Leveraging this strategy, we construct Retro-TruthfulQA, a retro-holdout for the TruthfulQA benchmark. Comparing LLM performance on these two datasets reveals undeniable evidence that developer practices are indeed undermining benchmarks.
+Public LLM benchmarks are compromised. To assess the impact that evaluation gaming is having on benchmark scores, we present a methodology for crafting retro-holdout datasets. Leveraging this strategy, we construct Retro-Misconceptions, a retro-holdout for the TruthfulQA benchmark. Comparing LLM performance on these two datasets reveals undeniable evidence that developer practices are indeed undermining benchmarks.
 </div>
 
 ## Preliminary Results
@@ -141,7 +144,7 @@ To aid in the construction and iteration of the retro-holdout, we also introduce
 <div><figure>
     <img src="eval-diag_misconceptions.svg"
          alt="Benchmark Inflation Figure 3 - Model Accuracy on Retro-TruthfulQA Misconceptions vs. TruthfulQA Misconceptions | Haimes, Wenner, et al.">
-    <figcaption style="text-align:center; font-size:small">Figure 3: Contemporary model accuracy on Retro-TruthfulQA Misconceptions vs. TruthfulQA Misconceptions Non-Adversarial. </figcaption>
+    <figcaption style="text-align:center; font-size:small">Figure 3: Contemporary model accuracy on Retro-Misconceptions vs. TruthfulQA Misconceptions Non-Adversarial. </figcaption>
 </figure></div>
 </div>
 
