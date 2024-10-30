@@ -19,7 +19,7 @@ tags:
   - TechPolicy.Press
 
 categories: 
-  - blogpost
+  - Blogpost
 
 read_time: true
 ---

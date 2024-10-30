@@ -37,4 +37,4 @@ profiles:
     url: https://www.linkedin.com/in/anglilian/
 ---
 
-<!-- <div style="text-align: justify"></div> -->
+<div style="text-align: justify">Li-Lian is a product manager at BlueDot Impact - a UK-based non-profit supporting people in pursuing high impact careers in AI safety and biosecurity. She graduated from Minerva University with a double major in data science and history.</div>
