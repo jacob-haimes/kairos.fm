@@ -33,8 +33,10 @@ categories:
 </div>
 
 ## Chapters
-00:00:00 ❙ Intro<br>
 
+<div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro<br>
+</div>
 
 ## Links
 - []()

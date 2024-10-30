@@ -14,6 +14,7 @@ authors:
 
 tags:
   - '"AI"'
+  - Business
 
 categories: 
   - Podcast
@@ -26,7 +27,7 @@ Brace yourselves, winter is coming for OpenAI - atleast, that's what we think. I
 </div>
 
 ## Chapters
-00:00:00 ❙ Intro<br>
+<div style="text-align: left; font-family:monospace;">
 00:00:00 ❙ Intro<br>
 00:00:28 ❙ Hot off the press<br>
 00:02:43 ❙ Why listen?<br>
@@ -43,6 +44,7 @@ Brace yourselves, winter is coming for OpenAI - atleast, that's what we think. I
 01:10:51 ❙ Outcome 4+: shock factor<br>
 01:12:51 ❙ What's the muck<br>
 01:21:17 ❙ Extended outro
+</div>
 
 ## Links
 - Reuters article - [OpenAI closes $6.6 billion funding haul with investment from Microsoft and Nvidia](https://www.reuters.com/technology/artificial-intelligence/openai-closes-66-billion-funding-haul-valuation-157-billion-with-investment-2024-10-02/)

@@ -27,6 +27,8 @@ Why is Mark Ruffalo talking about SB1047, and what is it anyway? Tune in for our
 </div>
 
 ## Chapters
+
+<div style="text-align: left; font-family:monospace;">
 00:00:00 ❙ Intro<br>
 00:00:31 ❙ Updates from a relatively slow week<br>
 00:03:32 ❙ Disclaimer: SB1047 vetoed during recording (still worth a listen)<br>
@@ -39,6 +41,7 @@ Why is Mark Ruffalo talking about SB1047, and what is it anyway? Tune in for our
 01:02:36 ❙ Takeaways<br>
 01:15:40 ❙ Clarification on impact to big tech<br>
 01:18:51 ❙ Outro
+</div>
 
 ## Links
 - [SB1047 legislation page](https://legiscan.com/CA/text/SB1047/2023)

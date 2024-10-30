@@ -32,6 +32,7 @@ Opt out of LinkedIn's GenAI scraping ➡️ https://lnkd.in/epziUeTi
 
 ## Chapters
 
+<div style="text-align: left; font-family:monospace;">
 00:00 ❙ Intro<br>
 00:25 ❙ Other recent news<br>
 02:57 ❙ Hot off the press<br>
@@ -42,6 +43,7 @@ Opt out of LinkedIn's GenAI scraping ➡️ https://lnkd.in/epziUeTi
 27:09 ❙ Reflection AI Drama<br>
 40:19 ❙ Why do we care?<br>
 46:39 ❙ Scraping away the muck
+</div>
 
 *Note: at around 32 minutes, Igor says the incorrect Llama model version for the story he is telling. Jacob dubbed over those mistakes with the correct versioning.*
 
