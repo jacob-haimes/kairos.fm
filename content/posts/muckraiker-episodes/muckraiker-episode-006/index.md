@@ -5,14 +5,6 @@ summary: The behemoth known as the US military industrial complex looks towards 
 date: 2024-11-06
 lastmod: 2024-11-06
 
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
-
 image:
   caption: 'muckrAIkers Temporary Cover Art'
   preview_only: true
