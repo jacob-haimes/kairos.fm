@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e002/
 title: 21st Century Story Telling w/ Rycon Roleplays
 summary: Interview w/ YouTuber Rycon on games and narratives across time
 date: 2020-10-11

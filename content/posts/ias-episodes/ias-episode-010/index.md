@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e010/
 title: Portfolios
 summary: You should have a professional portfolio.
 date: 2024-01-29

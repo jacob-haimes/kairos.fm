@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e013/
 title: History of Existential Risk w/ Dr. SJ Beard
 summary: Interview w/ Dr. SJ Beard on philosophy and the history of existential risk
 date: 2021-09-17

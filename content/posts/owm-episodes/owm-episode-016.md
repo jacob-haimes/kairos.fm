@@ -1,7 +1,8 @@
 ---
-title: The Heart of Effective Altruism with Dr. SJ Beard
-summary: Interview w/ Dr. SJ Beard on doing the most good
-date: 2022-02-06
+url: /onwhatmatters/e016/
+title: Prison Reform, Freedom of Speech, and 21st Century Politics w/ Emmanuel Daudu
+summary: Interview w/ Emmanuel Daudu on the state of democracry
+date: 2022-03-01
 lastmod: 2024-08-03
 
 
@@ -21,9 +22,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-In this episode, Coleman sat down with existential risk ethicists and researcher Dr. SJ Beard from Cambridge's Existential Risk Institute about the far future of humanity, ethical growth through generations, and the psychology behind striving to do the most good. The two also discussed opening the number of possible future worlds and how it connects to motivation to do the work that morally we must this century. 
+This week Coleman sat down with Emmanuel Daudu, an incoming Google Legal Analyst and close friend at Cornell University where he is Pre Law. The two jump into a wide range of questions, including the development of a new politics for a 21st century, working-class struggle, and the underlying woes associated with 21st-century capitalism and what we can do to improve the system.
 
-"We are motivated by what we believe we can achieve, much more than what we think we ought to do." - Dr. SJ Beard
-
-{{< transistor src="https://share.transistor.fm/e/daeb5b7d" >}}
+{{< transistor src="https://share.transistor.fm/e/ec87935b" >}}
 </div>

@@ -1,4 +1,5 @@
 ---
+url: /muckraikers/e003/
 title: Open Source AI and 2024 Nobel Prizes
 summary: Discussing the merits and problems with the Open Source AI Definition and the 2024 Nobel Prizes in Physics and Chemistry.
 date: 2024-10-15

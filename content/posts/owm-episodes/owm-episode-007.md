@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e007/
 title: Trumpism, Bipartisanship, and Threat to Democracy w/ Professor Richard Arenberg
 summary: Interview w/ Richard Arenberg on the two party system
 date: 2020-11-19

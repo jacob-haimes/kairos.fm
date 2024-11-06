@@ -1,4 +1,5 @@
 ---
+url: /muckraikers/e004/
 title: Winter is Coming for OpenAI
 summary: Brace yourselves, winter is coming for OpenAI - atleast, that's what we think.
 date: 2024-10-22

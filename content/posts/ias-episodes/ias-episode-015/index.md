@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e015/
 title: StakeOut.AI w/ Dr. Peter Park (1)
 summary: Dr. Peter Park, an AI Existential Safety Postdoctoral Fellow working with Dr. Max Tegmark at MIT, joins me to discuss his non-profit, StakeOut.AI.
 date: 2024-03-04

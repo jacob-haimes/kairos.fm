@@ -1,4 +1,5 @@
 ---
+# url: /
 title: "Introduction to AI Safety and Ethics for Non-Technical Professionals"
 summary: Video recording of the LearnTech webinar on AI safety and ethics.
 date: 2024-10-03

@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e009/
 title: Political Violence in the 21st Century w/ Dr. Seth Weinberger
 summary: Interview w/ Dr. Seth Weinberger on modern political violence
 date: 2021-02-20

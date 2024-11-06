@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e003/
 title: EAG Takeaways (Boston 2023)
 summary: A brief overview of the major takeaways I had from attending EAG Boston 2023.
 date: 2023-11-08

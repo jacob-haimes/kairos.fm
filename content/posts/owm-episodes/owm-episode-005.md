@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e005/
 title: Correcting Quantum Mistakes w/ Elliot Lehrer
 summary: Interview w/ Elliot Lehrer on misconceptions and quantum mechanics
 date: 2020-10-26

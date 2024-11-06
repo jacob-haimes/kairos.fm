@@ -1,7 +1,8 @@
 ---
-title: Longtermism, Transhumanism, and Making Sense of the Existential Risk w/ Anders Sandberg
-summary: Interview w/ Dr. Anders Sandberg on multiple -isms
-date: 2022-12-19
+url: /onwhatmatters/e019/
+title: S-Risks and Avoiding the Worst for Humanity w/ Tobias Baumann
+summary: Interview w/ Tobias Baumann on suffering risks
+date: 2023-01-16
 lastmod: 2024-08-03
 
 
@@ -21,7 +22,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-In this episode, Coleman interviews Anders Sandberg, a senior research fellow at the Future of Humanity Institute at Oxford. Dr. Sandberg and Coleman discuss living forever, transhumanism, longtermism, and new approaches to understanding existential risk work in the 21st century.
+This week Coleman sat down with Tobias Baumann and discussed his recent book on the topic of suffering risks (s-risks)! They spoke about the ethical claims behind aiming to minimize pain vs. aiming to maximize flourishing, distinctions of pain and suffering, and potential paths towards literally the worst ethical situation humanity or its descendants could find itself (so-called suffering-risk scenarios)!
 
-{{< transistor src="https://share.transistor.fm/e/778b97d9" >}}
+{{< transistor src="https://share.transistor.fm/e/04b01ac1" >}}
 </div>

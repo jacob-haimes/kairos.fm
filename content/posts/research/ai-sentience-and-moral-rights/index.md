@@ -1,4 +1,5 @@
 ---
+url: /ai-sentience-and-moral-rights/
 title: "AI Sentience and Moral Rights: Understanding Public Perception"
 
 authors:
@@ -141,7 +142,7 @@ The study employed a range of clustering methods, ultimately finding that K-Mean
 ## Citation
 
 ```text
-@manuscript{cizem2024ai,
+@thesis{cizem2024ai,
   author = {Zeynep Cizem, Su},
   title = {AI Sentience and Moral Rights: Understanding Public Perception},
   year = {2024},

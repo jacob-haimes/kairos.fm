@@ -1,7 +1,8 @@
 ---
-title: Governing Global Risks w/ Catherine Rhodes and Luke Kemp
-summary: Interview w/ Catherine Rhodes and Luke Kemp on world governance of x-risks
-date: 2021-12-04
+url: /onwhatmatters/e015/
+title: The Heart of Effective Altruism with Dr. SJ Beard
+summary: Interview w/ Dr. SJ Beard on doing the most good
+date: 2022-02-06
 lastmod: 2024-08-03
 
 
@@ -21,7 +22,9 @@ categories:
 ---
 
 <div style="text-align: justify">
-In this episode, Coleman and Nathaniel speak with Luke Kemp and Catherine Rhodes, about the two researchers' views on governing existential threats within our international system. The four also discuss some of the leading challenges to effective international cooperation and mitigation of pressing threats facing our world like climate change, advanced technological threats, biosecurity, and inequality. 
+In this episode, Coleman sat down with existential risk ethicists and researcher Dr. SJ Beard from Cambridge's Existential Risk Institute about the far future of humanity, ethical growth through generations, and the psychology behind striving to do the most good. The two also discussed opening the number of possible future worlds and how it connects to motivation to do the work that morally we must this century. 
 
-{{< transistor src="https://share.transistor.fm/e/41b1c50c" >}}
+"We are motivated by what we believe we can achieve, much more than what we think we ought to do." - Dr. SJ Beard
+
+{{< transistor src="https://share.transistor.fm/e/daeb5b7d" >}}
 </div>

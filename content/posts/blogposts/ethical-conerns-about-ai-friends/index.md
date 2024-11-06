@@ -1,4 +1,5 @@
 ---
+url: /ethical-concerns-about-ai-friends/
 title: Examining Ethical Concerns Regarding AI Friends
 summary: AI companions are set to make millions, but at what cost?
 date: 2024-10-16

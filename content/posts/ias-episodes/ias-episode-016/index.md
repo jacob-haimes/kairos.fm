@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e016/
 title: Restructure Vol. 2
 summary: After getting some advice and reflecting more on my own personal goals, I have decided to shift the direction of the podcast towards accessible content regarding "AI" instead of the show's original focus.
 date: 2024-03-11

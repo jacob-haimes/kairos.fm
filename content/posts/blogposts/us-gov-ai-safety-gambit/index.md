@@ -1,4 +1,5 @@
 ---
+url: /us-gov-ai-safety-gambit/
 title: "The US Government's AI Safety Gambit: A Step Forward or Just Another Voluntary Commitment?"
 summary: US AI Safety Institute signs voluntary agreement with OpenAI and Anthropic for model testing. Effectiveness uncertain; challenges in transparency, expertise, and implementation.
 date: 2024-09-20

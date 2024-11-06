@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e018/
 title: StakeOut.AI w/ Dr. Peter Park (3)
 summary: "As always, the best things come in 3s: dimensions, musketeers, pyramids, and... 3 installments of my interview with Dr. Peter Park!"
 date: 2024-03-24

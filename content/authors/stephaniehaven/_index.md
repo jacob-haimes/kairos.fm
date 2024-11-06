@@ -1,4 +1,5 @@
 ---
+url: /stephaniehaven/
 menus: about
 # Display name
 title: Stephanie Haven

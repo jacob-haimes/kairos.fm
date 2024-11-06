@@ -1,4 +1,5 @@
 ---
+url: /muckraikers/e001/
 title: Strawberry
 summary: Introducing muckraikers, a podcast that tries to find meaning in the AI muck. This episode we discuss the release of OpenAI's o1 model, aka. Strawberry.
 date: 2024-09-23
@@ -14,9 +15,10 @@ authors:
 
 tags:
   - Machine Learning
+  - '"AI"'
 
 categories: 
-  - podcast
+  - Podcast
 ---
 
 <div style="text-align: justify">

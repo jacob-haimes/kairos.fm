@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e006/
 title: Staying Up-to-Date in AI
 summary: Some tips for staying up-to-date in the everchanging landscape of AI.
 date: 2024-01-01

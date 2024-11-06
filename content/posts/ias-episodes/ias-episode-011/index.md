@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e011/
 title: Evals Hackathon November 2023 (2)
 summary: The hackathon team's second meeting, during which we solidify our goals and discuss initial experimentation.
 date: 2024-02-05

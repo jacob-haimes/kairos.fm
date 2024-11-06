@@ -1,4 +1,5 @@
 ---
+url: /muckraikers/e00X/
 title: 
 summary: 
 date: 

@@ -1,4 +1,5 @@
 ---
+url: /muckraikers/e005/
 title: Understanding Claude 3.5 Sonnet (New)
 summary: Understanding Anthropic and the release of Claude 3.5 Sonnet (New).
 date: 2024-10-30

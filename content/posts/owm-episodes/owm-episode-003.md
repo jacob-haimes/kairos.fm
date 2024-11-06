@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e003/
 title: Communicating Existential Threats w/ Dr. Lara Mani
 summary: Interview w/ Dr. Lara Mani on communications and x-risk
 date: 2020-10-12

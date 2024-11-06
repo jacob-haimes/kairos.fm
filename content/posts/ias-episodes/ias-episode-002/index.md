@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e002/
 title: AISC Proposal w/ Remmelt Ellen
 summary: Discussion of my initial research proposal for the 2024 Winter AI Safety Camp with Remmelt Ellen.
 date: 2023-10-25

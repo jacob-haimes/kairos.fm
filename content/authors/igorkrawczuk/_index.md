@@ -1,4 +1,5 @@
 ---
+url: /igorkrawczuk/
 menus: about
 # Display name
 title: Igor Krawczuk

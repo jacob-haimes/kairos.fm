@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e008/
 title: Starting a Podcast
 summary: A summary and reflections on the path I have taken to get this podcast started.
 date: 2024-01-15

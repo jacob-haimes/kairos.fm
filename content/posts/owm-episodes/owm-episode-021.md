@@ -1,9 +1,12 @@
 ---
-title: Animal Ethics and the Moral Weight Project w/ Bob Fischer
-summary: Interview w/ Dr. Bob Fischer on animal ethics and morality
-date: 2023-02-07
+url: /onwhatmatters/e021/
+title: Welcome to Season 2
+summary: This week we are launching season 2 of the podcast under the new name of The X Risk Podcast!
+date: 2024-02-03
 lastmod: 2024-08-03
-
+_build:
+  render: never
+  list: never
 
 image:
   caption: 'On What Matters Cover Art'
@@ -14,14 +17,14 @@ authors:
   - onwhatmatters
 
 tags:
-  - Interview
+  - Minisode
 
 categories: 
   - Podcast
 ---
 
 <div style="text-align: justify">
-Coleman spoke with Bob Fischer, a researcher at Rethink Priorities who recently worked on the Moral Weights project. In the discussion, Dr. Fischer and Coleman discussed a range of topics relating to animal ethics, including the research methodology of the team and the role that intuitions play in striving to live a moral life. 
+This week we are launching season 2 of the podcast under the new name of The X Risk Podcast!
 
-{{< transistor src="https://share.transistor.fm/e/93bf10c2" >}}
+<!-- {{< transistor src="" >}} -->
 </div>

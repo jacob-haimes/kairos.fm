@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e001/
 title: Lessons from Deep History, Paleontology, and Existential Risk in a Modern Pandemic w/ Adrian Currie
 summary: Interview w/ Adrian Currie on learning from the past
 date: 2020-10-07

@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e009/
 title: Polysemanticity w/ Dr. Darryl Wright
 summary: Dr. Darryl Wright joins us to discuss his background and mechanistic interpretability.
 date: 2024-01-22

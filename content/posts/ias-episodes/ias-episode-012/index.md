@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e01/
 title: Reading a Research Paper
 summary: Lets go over best practices for reading research papers.
 date: 2024-02-12

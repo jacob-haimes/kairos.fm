@@ -1,4 +1,5 @@
 ---
+url: /open-source-ai-is-a-lie/
 title: "Open Source AI is a lie, but it doesn't have to be"
 summary: Big Tech is attempting to redefine "Open Source" to their advantage; at the very least, we should know about it.
 date: 2024-04-30

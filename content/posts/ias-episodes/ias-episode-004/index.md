@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e004/
 title: Program Applications (Winter 2024)
 summary: Thoughts/advice on applications for research/mentorship programs.
 date: 2023-12-11

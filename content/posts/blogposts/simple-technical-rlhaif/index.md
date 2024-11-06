@@ -1,4 +1,5 @@
 ---
+url: /simple-technical-rlhaif/
 title: A simple technical explanation of RLH(AI)F
 summary: Understanding reinforcement learning from human, or AI, feedback.
 date: 2024-09-21

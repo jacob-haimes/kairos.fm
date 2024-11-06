@@ -1,4 +1,5 @@
 ---
+url: /
 title: Template
 summary: 
 date: 2024-01-01

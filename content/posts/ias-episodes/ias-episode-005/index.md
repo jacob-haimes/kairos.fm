@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e005/
 title: Applications w/ Alice Rigg
 summary: Alice Rigg, a mechanistic interpretability researcher from Ottawa, Canada, joins me to discuss the applications process for research/mentorship programs.
 date: 2023-12-18

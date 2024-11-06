@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e012/
 title: Can Engineering Inspired by Nature Save Humanity w/ Dr. Joyce Cooper
 summary: Interview w/ Dr. Joyce Cooper on engineering informed by nature
 date: 2021-04-01

@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e013/
 title: Applying for Funding w/ Esben Kran
 summary: Esben reviews an application that I would soon submit for Open Philanthropy's Career Transitition Funding opportunity.
 date: 2023-10-25

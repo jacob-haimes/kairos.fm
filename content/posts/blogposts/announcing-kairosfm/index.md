@@ -1,4 +1,5 @@
 ---
+url: /announcement/
 title: Announcing Kairos.fm
 summary: Introducing a content network for making complex conversations on the world's most important problems accessible
 date: 2024-04-24

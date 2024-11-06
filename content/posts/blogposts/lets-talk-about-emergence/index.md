@@ -1,4 +1,5 @@
 ---
+url: /lets-talk-about-emergence/
 title: "Let’s Talk About Emergence"
 summary: '"Emergence" has found its way into machine learning vocabulary, but current use as a machine learning specific keyword has resulted in a circular definition, further confused an already complex domain.'
 date: 2024-05-07

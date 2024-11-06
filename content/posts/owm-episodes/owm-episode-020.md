@@ -1,7 +1,8 @@
 ---
-title: S-Risks and Avoiding the Worst for Humanity w/ Tobias Baumann
-summary: Interview w/ Tobias Baumann on suffering risks
-date: 2023-01-16
+url: /onwhatmatters/e020/
+title: Animal Ethics and the Moral Weight Project w/ Bob Fischer
+summary: Interview w/ Dr. Bob Fischer on animal ethics and morality
+date: 2023-02-07
 lastmod: 2024-08-03
 
 
@@ -21,7 +22,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-This week Coleman sat down with Tobias Baumann and discussed his recent book on the topic of suffering risks (s-risks)! They spoke about the ethical claims behind aiming to minimize pain vs. aiming to maximize flourishing, distinctions of pain and suffering, and potential paths towards literally the worst ethical situation humanity or its descendants could find itself (so-called suffering-risk scenarios)!
+Coleman spoke with Bob Fischer, a researcher at Rethink Priorities who recently worked on the Moral Weights project. In the discussion, Dr. Fischer and Coleman discussed a range of topics relating to animal ethics, including the research methodology of the team and the role that intuitions play in striving to live a moral life. 
 
-{{< transistor src="https://share.transistor.fm/e/04b01ac1" >}}
+{{< transistor src="https://share.transistor.fm/e/93bf10c2" >}}
 </div>

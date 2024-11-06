@@ -1,7 +1,8 @@
 ---
-title: '"Why Existential Risk Work?" - Q&A w/ Coleman Snell'
-summary: 'The first Q&A episode with Coleman Snell'
-date: 2021-10-22
+url: /onwhatmatters/e014/
+title: Governing Global Risks w/ Catherine Rhodes and Luke Kemp
+summary: Interview w/ Catherine Rhodes and Luke Kemp on world governance of x-risks
+date: 2021-12-04
 lastmod: 2024-08-03
 
 
@@ -14,15 +15,14 @@ authors:
   - onwhatmatters
 
 tags:
-  - 'Q&A'
-  - Minisode
+  - Interview
 
 categories: 
   - Podcast
 ---
 
 <div style="text-align: justify">
-Big thanks to everyone who has submitted questions for future Q&A #1! If you have a question you want answered for me or any other members of the 21st Talks project, you can follow me on Twitter at MajorKant and DM me directly. 
+In this episode, Coleman and Nathaniel speak with Luke Kemp and Catherine Rhodes, about the two researchers' views on governing existential threats within our international system. The four also discuss some of the leading challenges to effective international cooperation and mitigation of pressing threats facing our world like climate change, advanced technological threats, biosecurity, and inequality. 
 
-{{< transistor src="https://share.transistor.fm/e/9b56de18" >}}
+{{< transistor src="https://share.transistor.fm/e/41b1c50c" >}}
 </div>

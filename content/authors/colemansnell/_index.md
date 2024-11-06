@@ -1,4 +1,5 @@
 ---
+url: /colemansnell/
 menus: about
 # Display name
 title: Coleman Snell

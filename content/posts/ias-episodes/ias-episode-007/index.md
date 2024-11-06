@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e007/
 title: Evals Hackathon November 2023 (1)
 summary: Recording of my team's first meeting during the Evals Hackathon hosted by Apart Research and Apollo Research in November of 2023.
 date: 2023-10-25

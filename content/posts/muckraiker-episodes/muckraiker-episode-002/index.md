@@ -1,4 +1,5 @@
 ---
+url: /muckraikers/e002/
 title: SB1047
 summary: SB1047, vetoed before we could even finish recording; what was it about and how'd we get here?
 date: 2024-09-30

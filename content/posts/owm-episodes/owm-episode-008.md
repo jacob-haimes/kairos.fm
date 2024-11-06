@@ -1,4 +1,5 @@
 ---
+url: /onwhatmatters/e008/
 title: Lessons from Cambridge's Conference on Catastrophic Risk 2020
 summary: Reflections and takeaways from a catastrophic risk conference
 date: 2020-11-19

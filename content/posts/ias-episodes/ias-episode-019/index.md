@@ -1,4 +1,5 @@
 ---
+url: /intoaisafety/e019/
 title: Scaling Democracy w/ Dr. Igor Krawczuk
 summary: "Dr. Igor Krawczuk joins me for one massive episode that covers all the classics: eugenics, capitalism, philosophical toads... Need I say more?"
 date: 2024-05-21

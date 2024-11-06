@@ -1,4 +1,5 @@
 ---
+url: /sucizem/
 menus: about
 # Display name
 title: Su Zeynep Cizem

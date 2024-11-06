@@ -1,7 +1,8 @@
 ---
-title: Prison Reform, Freedom of Speech, and 21st Century Politics w/ Emmanuel Daudu
-summary: Interview w/ Emmanuel Daudu on the state of democracry
-date: 2022-03-01
+url: /onwhatmatters/e017/
+title: Artificial Intelligence Governance w/ Dr. Sarah Kreps and Amelia Arsenault
+summary: Interview w/ Dr. Sarah Kreps and Amelia Arsenault on governing advanced AI
+date: 2022-03-27
 lastmod: 2024-08-03
 
 
@@ -21,7 +22,17 @@ categories:
 ---
 
 <div style="text-align: justify">
-This week Coleman sat down with Emmanuel Daudu, an incoming Google Legal Analyst and close friend at Cornell University where he is Pre Law. The two jump into a wide range of questions, including the development of a new politics for a 21st century, working-class struggle, and the underlying woes associated with 21st-century capitalism and what we can do to improve the system.
+On this episode, Coleman explored the obstacles & successes of governing advanced technological risks of Artificial Intelligence with Cornell Professor Dr. Sarah Kreps and Researcher and Cornell Ph.D. Candidate Amelia Arsenault.
 
-{{< transistor src="https://share.transistor.fm/e/ec87935b" >}}
+{{< transistor src="https://share.transistor.fm/e/a7d22ac9" >}}
 </div>
+
+### Topics covered in this episode of the podcast include: 
+
+- The political ramifications of AI internally and internationally
+- AI and the future of democracies + democratic backsliding
+- As a regenerative/resilience-building force within democracy
+- Potential benefits of AI for democratic regeneration globally
+- How AI will impact international arms races and how its impact will distinct from any other technological breakthrough in history?
+- Will AI Governance become more challenging as other existential hazards (like climate change for example) become more impactful?
+- And of course, current cutting edge work being done at Cornell University in AI Safety and Governance

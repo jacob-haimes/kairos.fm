@@ -1,7 +1,8 @@
 ---
-title: Artificial Intelligence Governance w/ Dr. Sarah Kreps and Amelia Arsenault
-summary: Interview w/ Dr. Sarah Kreps and Amelia Arsenault on governing advanced AI
-date: 2022-03-27
+url: /onwhatmatters/e018/
+title: Longtermism, Transhumanism, and Making Sense of the Existential Risk w/ Anders Sandberg
+summary: Interview w/ Dr. Anders Sandberg on multiple -isms
+date: 2022-12-19
 lastmod: 2024-08-03
 
 
@@ -21,17 +22,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-On this episode, Coleman explored the obstacles & successes of governing advanced technological risks of Artificial Intelligence with Cornell Professor Dr. Sarah Kreps and Researcher and Cornell Ph.D. Candidate Amelia Arsenault.
+In this episode, Coleman interviews Anders Sandberg, a senior research fellow at the Future of Humanity Institute at Oxford. Dr. Sandberg and Coleman discuss living forever, transhumanism, longtermism, and new approaches to understanding existential risk work in the 21st century.
 
-{{< transistor src="https://share.transistor.fm/e/a7d22ac9" >}}
+{{< transistor src="https://share.transistor.fm/e/778b97d9" >}}
 </div>
-
-### Topics covered in this episode of the podcast include: 
-
-- The political ramifications of AI internally and internationally
-- AI and the future of democracies + democratic backsliding
-- As a regenerative/resilience-building force within democracy
-- Potential benefits of AI for democratic regeneration globally
-- How AI will impact international arms races and how its impact will distinct from any other technological breakthrough in history?
-- Will AI Governance become more challenging as other existential hazards (like climate change for example) become more impactful?
-- And of course, current cutting edge work being done at Cornell University in AI Safety and Governance
