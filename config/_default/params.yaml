@@ -38,7 +38,7 @@ header:
     #   enable: true
     #   text: "Get Tickets"
     #   url: "https://www.eventbrite.com/"
-    # show_search: true
+    show_search: true
     show_theme_chooser: false
 
 # Site footer
