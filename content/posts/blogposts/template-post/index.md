@@ -34,13 +34,20 @@ read_time: true
 <div style="font-size:small;font-style: italic;">This is a linkpost for <a href="___" target="_blank" rel="noreferrer noopener">___
 </a></div>
 
-### Chapters
+<figure>
+    <img loading="lazy" width="" height="" decoding="async" data-nimg="1" 
+         src=""
+         alt="">
+    <figcaption style="font-size:small">
+    Image by 
+    <a target="_blank" rel="noreferrer noopener" href="">
+    </a> / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / 
+    TITLE / 
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
+</figure>
 
-0: - 
+<div style="text-align: justify">
 
-### Links
+text
 
-Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.
-- <a href="" target="_blank" rel="noreferrer noopener"></a>
-
-<!-- end of the list -->
+</div>

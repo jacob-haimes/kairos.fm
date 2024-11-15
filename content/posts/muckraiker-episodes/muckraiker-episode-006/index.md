@@ -49,6 +49,8 @@ October 2024 saw a National Security Memorandum and US framework for using AI in
 - [United States National Security Memorandum on AI](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/)
 - [Fact Sheet on the National Security Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/)
 - [Framework to Advance AI Governance and Risk Management in National Security](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf)
+- [Public comments](https://www.regulations.gov/document/BIS-2024-0047-0001/comment) on AI reporting requirements
+  - Federal Register request for comments on [AI reporting requirements](https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-artificial-intelligence)
 
 ### Related Media
 
