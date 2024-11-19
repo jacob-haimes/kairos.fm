@@ -8,7 +8,7 @@ lastmod: 2024-11-18
 image:
   caption: 'Rethinking CyberSecEval Thumbnail'
   preview_only: true
-  filename: rethinking-cse.svg
+  filename: rethinking-cse.png
 
 authors:
   - zainabmajid
