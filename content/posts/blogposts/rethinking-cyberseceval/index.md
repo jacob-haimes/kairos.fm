@@ -2,16 +2,8 @@
 url: /rethinking-cyberseceval/
 title: "Rethinking CyberSecEval: An LLM-Aided Approach to Evaluation Critique"
 summary: Investigating flaws in Meta Platforms' CyberSecEval series.
-date: 2024-11-15
-lastmod: 2024-11-15
-
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
+date: 2024-11-14
+lastmod: 2024-11-18
 
 image:
   caption: 'Rethinking CyberSecEval Thumbnail'

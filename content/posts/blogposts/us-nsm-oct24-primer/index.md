@@ -2,8 +2,8 @@
 url: /us-nsm-oct24-primer/
 title: US AI NSM Primer, Oct 2024
 summary: 
-date: 2024-11-07
-lastmod: 2024-01-07
+date: 2024-11-19
+lastmod: 2024-01-19
 draft: true
 math: true
 
@@ -16,9 +16,9 @@ cascade:
     list: never
 
 image:
-  caption: 'Plant / Alan Warburton'
+  caption: 'White Security Camera / Francesco Ungaro'
   preview_only: true
-  filename: Alan-Warburton_Plant_1280x720.jpg
+  filename: pexels-francesco-ungaro
 
 authors:
   - jacobhaimes
@@ -41,10 +41,8 @@ read_time: true
          alt="">
     <figcaption style="font-size:small">
     Image by 
-    <a target="_blank" rel="noreferrer noopener" href="">
-    </a> / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / 
-    TITLE / 
-    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
+    <a target="_blank" rel="noreferrer noopener" href="https://www.pexels.com/@francesco-ungaro/">Francesco Ungaro</a> / <a href="https://www.pexels.com" target="_blank" rel="noreferrer noopener">Pexels</a> / 
+    White Security Camera</figcaption>
 </figure>
 
 <div style="text-align: justify">
