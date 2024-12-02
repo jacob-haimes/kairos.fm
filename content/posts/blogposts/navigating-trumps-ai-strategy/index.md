@@ -7,7 +7,7 @@ date: 2024-11-20
 image:
   caption: 'BROWNSVILLE, TEXAS - NOVEMBER 19, 2024: US President-elect Donald Trump speaks alongside Elon Musk (R) and Senate members including Sen. Kevin Cramer (R-ND (C) before attending a viewing of the launch of the sixth test flight of the SpaceX Starship rocket / Brandon Bell / Getty Images)'
   preview_only: true
-  filename: Alan-Warburton_Plant_1280x720.jpg
+  filename: navigating-trumps-ai-policy-thumbnail.png
 
 authors:
   - stephaniehaven
