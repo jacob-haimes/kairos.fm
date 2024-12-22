@@ -3,7 +3,7 @@ url: /open-source-ai-is-a-lie/
 title: "Open Source AI is a lie, but it doesn't have to be"
 summary: Big Tech is attempting to redefine "Open Source" to their advantage; at the very least, we should know about it.
 date: 2024-04-30
-lastmod: 2024-06-18
+lastmod: 2024-12-21
 
 image:
   caption: 'Plant / Alan Warburton'
@@ -29,7 +29,7 @@ read_time: true
     <figcaption style="font-size:small">Image by <a href="https://alanwarburton.co.uk/" target="_blank" rel="noreferrer noopener">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / Plant / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
 </figure>
 
-<i>NOTE: This post was updated to include two additional models which meet the criteria for being considered Open Source AI.</i>
+<i>NOTE: This post was updated within a week of initial posting to include two additional models which meet the criteria for being considered Open Source AI. This post was modified on 2024-12-21 to correct the publish date of “Opening Up ChatGPT” by Liesenfeld  et al.</i>
 
 ## Brief: What is Open Source
 
@@ -141,4 +141,4 @@ A special thank you to Brian Penny, Dr. Peter Park and Giuseppe Dal Pra for revi
 
 [^7]:Although I am by no means a legal expert, I believe that the special provisions made for Open Source models are described entirely in the EU AI Act recital 104.
 
-[^8]:It is important to note that this table is only for <i>instruction-tuned LLMs, meaning that base models which were not instruction-tuned do not appear on the list.</i> The paper which accompanied this table, “Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators” was released as a preprint in mid 2023, and published for the Conversational User Interfaces conference in December of 2023. It does appear to have been updated since the conference, as OLMo now appears on this list. I am not sure how frequently it is updated.
+[^8]:It is important to note that this table is only for <i>instruction-tuned LLMs, meaning that base models which were not instruction-tuned do not appear on the list.</i> The paper which accompanied this table, “Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators” was published in the Conversational User Interfaces conference in July of 2023. It does appear to have been updated since the conference, as OLMo now appears on this list. I am not sure how frequently it is updated.

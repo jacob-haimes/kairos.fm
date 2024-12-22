@@ -32,9 +32,6 @@ categories:
 
 read_time: true
 ---
-<div style="font-size:small;font-style: italic;">This is a linkpost for <a href="___" target="_blank" rel="noreferrer noopener">___
-</a></div>
-
 <figure>
     <img loading="lazy" width="" height="" decoding="async" data-nimg="1" 
          src=""
