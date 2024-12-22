@@ -29,9 +29,17 @@ read_time: true
     <figcaption style="font-size:small">Image by <a href="https://alanwarburton.co.uk/" target="_blank" rel="noreferrer noopener">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / Plant / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
 </figure>
 
-<i>NOTE: This post was updated within a week of initial posting to include two additional models which meet the criteria for being considered Open Source AI. This post was modified on 2024-12-21 to correct the publish date of “Opening Up ChatGPT” by Liesenfeld  et al.</i>
+<div style="text-align: justify">
+
+<i>NOTE: This post was updated within a week of initial posting to include two additional models which met the criteria for being considered Open Source AI at the time of publication.</i>
+
+<i>NOTE: This post was modified on 2024-12-21 to correct the publish date of “Opening Up ChatGPT” by Liesenfeld  et al.</i>
+
+</div>
 
 ## Brief: What is Open Source
+
+<div style="text-align: justify">
 
 As advanced machine learning systems become increasingly widespread, the question of how to make them safe is also gaining attention. Within this debate, the term “open source” is frequently brought up. Some [claim](https://arxiv.org/abs/2311.09227) that open sourcing models will potentially increase the likelihood of societal risks, while others insist that open sourcing is the only way to ensure the development and deployment of these “artificial intelligence,” or “AI,” systems goes well. <b>Despite this idea of “open source” being a central debate of “AI” governance, there are very few groups that have released cutting edge “AI” which can be considered Open Source.</b>
 
@@ -50,8 +58,11 @@ Open Source gained traction because it is practically valuable to many different
 Importantly, each of these items is highly dependent on meaningful access. <b>That is to say, if the software were difficult to investigate, modify, or repurpose, these traits would not be as prevalent.</b>
 
 Because Open Source projects have continually demonstrated these characteristics over the past quarter century, the label of Open Source is strongly associated with these characteristics as well.
+</div>
 
 ## Open Source AI
+
+<div style="text-align: justify">
 
 Advanced machine learning models, often referred to as “AI,” cannot be fully described by source code, in practice. Instead, models are defined with three components: architecture, training process, and weights.
 
@@ -64,6 +75,7 @@ Finally, we get to the weights. When applied to the correct architecture, weight
 All this is to say that “AI” models don’t fit nicely into the preexisting Open Source Definition (OSD). The Open Source Institute recognized this, and began working towards an Open Source AI Definition (OSAID), in [late 2022](https://deepdive.opensource.org/wp-content/uploads/2023/02/Deep-Dive-AI-final-report.pdf) – for context, that was just before the public [launch](https://openai.com/blog/chatgpt) of ChatGPT. This definition is still a work in progress, with the first version scheduled to be published in [October](https://opensource.org/deepdive#see_all_we_achieved_in_2023) of 2024. This means that, formally, there isn’t yet a definition for the term “Open Source AI.”
 
 To many, this may come as a shock, because the idea of open source AI is not only commonplace, but a controversial subject when it comes to regulation. This discrepancy points towards a number of questions:
+</div>
 
 ### What is Open Source AI?
 
@@ -73,6 +85,8 @@ To many, this may come as a shock, because the idea of open source AI is not onl
     <figcaption style="font-size:small">Meme by xkalibolg / <a href="https://www.viz.com/junji-ito">Junji Ito</a>, <a href="https://junjiitomanga.fandom.com/wiki/The_Enigma_of_Amigara_Fault">“The Enigma of Amigara Fault”</a></figcaption>
 </figure>
 
+<div style="text-align: justify">
+
 Although we can’t say what it is definitively, because the OSAID isn’t published yet, we can use the [working version](https://hackmd.io/@opensourceinitiative) as a starting point.[^3] First, let’s take OpenAI’s recent addition to the GPT family, GPT-4, as an example. GPT-4 is not open source – virtually no artifacts other than the [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) are publicly available. Meta’s Llama3 model is also not open source, despite the Chief AI Scientist at the company, Yann LeCun, frequently proclaiming [that](https://twitter.com/ylecun/status/1629189925089296386) [it](https://twitter.com/ylecun/status/1748285439016886764) [is](https://twitter.com/ylecun/status/1748337952005001657). In fact, Stefano Maffuli, the Executive Director of the OSI, authored a [post](https://opensource.org/blog/metas-llama-2-license-is-not-open-source) explicitly calling this misnomer out. Llama3 is licensed with a custom agreement written by Meta, explicitly for the purpose of licensing the model.[^4] The [license](https://llama.meta.com/llama3/license/) explicitly prohibits its use for some users[^5] and restricts how the model can be used. Google Deepmind’s Gemma model is [licensed](https://ai.google.dev/gemma/terms) in a [similar manner](https://ai.google.dev/gemma/prohibited_use_policy), meaning that it isn’t Open Source either.
 
 Mistral’s models are also not open source, but in a slightly more nuanced manner. Instead of releasing all artifacts describing their models, Mistral licensed the model weights using the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license, which meets the requirements for a license to be [Open Source](https://opensource.org/license/apache-2-0). Unfortunately, however, no other artifacts were released. As a result, Mistral’s models can be used as-is by anyone, but the transparency that should go hand-in-hand with Open Source is no longer present.
@@ -80,6 +94,8 @@ Mistral’s models are also not open source, but in a slightly more nuanced mann
 As a final example, [BLOOMZ](https://huggingface.co/bigscience/bloomz), a model developed by BigScience Workshop is also not Open Source. The model is licensed under the [Responsible AI License (RAIL) License](https://bigscience.huggingface.co/blog/the-bigscience-rail-license),[^6] which does impose some restrictions on the use of the model. While these restrictions are not necessarily a bad thing to have, they do prevent the model from obtaining the official Open Source label.
 
 Based on the current OSAID, the following models can be considered Open Source AI:
+
+</div>
 
 | Model Name | Group |
 | :-------------------------: | :-------------------------: |
@@ -91,17 +107,27 @@ Based on the current OSAID, the following models can be considered Open Source A
 
 ### Wait… why are groups saying that their models are open source when they aren’t?
 
+<div style="text-align: justify">
+
 As stated previously, Open Source is strongly associated with increased fairness, inclusivity, safety, and security. Tech companies like Meta and Mistral want to use this to their advantage; by calling their models “open source,” they inflate the perception of their work as a public good without much cost to themselves.
 
 For example, the founder of Mistral stated [multiple](https://youtu.be/yXN5xSXJ1Is?t=1831) [times](https://youtu.be/EMOFRDOMIiU?t=550) that the company’s competitive advantage is the data that they use to train models, and how they filter and generate that data. Although the weights of their models are made public, very little information is given regarding the data that was used to train the model. By tagging these models as “open source” without sharing any meaningful information about training data, the company gets to appear populist without sacrificing its competitive advantage. This behavior devalues the meaning of the Open Source label, and exploits the open source community for free labor.
 
 It’s more than just public relations benefits too, both companies [lobbied](https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/) for reduced regulations for so called “open source” models, and their efforts seems to be [working](https://www.washingtonpost.com/technology/2023/12/08/ai-act-regulation-eu/).[^7]
 
+</div>
+
 ### Ok, so what do people mean when they refer to “open source” AI, at the time I am writing this article (April 2024)?
+
+<div style="text-align: justify">
 
 Regrettably, the answer to this question is not perfectly clear. Everyone is assuredly referring to some selection of models that meets certain criteria along this spectrum of openness, but where the line is drawn is up for interpretation. Of course, this has made meaningful discussion about the issue much more difficult.
 
+</div>
+
 ### What do we do about it?
+
+<div style="text-align: justify">
 
 Short answer: understand how corporations are using this ambiguity to their advantage, stop calling models like Llama3, Mixtral, and Gemma open source, and call the companies out on their influence campaign.
 
@@ -115,15 +141,24 @@ Longer answer: even though we shouldn’t be calling these models Open Source, t
 
 <b>Closed Source</b> models – For completeness, we will also explicitly define Closed Source models. These include models referred to as “black box” or “API” access; while people can use the models, the only individuals who can run the model are its owners. Queries can be screened and monitored. Sending queries through the API typically costs money.
 
+</div>
+
 <figure>
     <img src="open-diagram_3_small.png"
          alt="AI Openness Diagram, Jacob Haimes">
     <figcaption style="font-size:small">Original diagram by <a href="https://jacob-haimes.github.io">Jacob Haimes</a> / © Kairos.fm / AI Openness Diagram / CC-BY-SA 4.0 / created using <a href="https://tikz.dev">Tikz</a> and <a href="https://www.gimp.org">GIMP</a></figcaption>
 </figure>
 
+<div style="text-align: justify">
+
 It is important to note, I am not saying that Shared Weights models are a negative net contribution to society. In fact, I think that the release of currently available Shared Weights models has significantly advanced the field of AI safety. This article is <i>not about the pros and cons of open source</i>, I will leave that for future work.
 
+</div>
+
 ## Acknowledgements
+
+<div style="text-align: justify">
+
 A special thank you to Brian Penny, Dr. Peter Park and Giuseppe Dal Pra for reviewing the article and providing their input.
 
 
@@ -142,3 +177,5 @@ A special thank you to Brian Penny, Dr. Peter Park and Giuseppe Dal Pra for revi
 [^7]:Although I am by no means a legal expert, I believe that the special provisions made for Open Source models are described entirely in the EU AI Act recital 104.
 
 [^8]:It is important to note that this table is only for <i>instruction-tuned LLMs, meaning that base models which were not instruction-tuned do not appear on the list.</i> The paper which accompanied this table, “Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators” was published in the Conversational User Interfaces conference in July of 2023. It does appear to have been updated since the conference, as OLMo now appears on this list. I am not sure how frequently it is updated.
+
+</div>
