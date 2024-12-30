@@ -113,7 +113,7 @@ As stated previously, Open Source is strongly associated with increased fairness
 
 For example, the founder of Mistral stated [multiple](https://youtu.be/yXN5xSXJ1Is?t=1831) [times](https://youtu.be/EMOFRDOMIiU?t=550) that the company’s competitive advantage is the data that they use to train models, and how they filter and generate that data. Although the weights of their models are made public, very little information is given regarding the data that was used to train the model. By tagging these models as “open source” without sharing any meaningful information about training data, the company gets to appear populist without sacrificing its competitive advantage. This behavior devalues the meaning of the Open Source label, and exploits the open source community for free labor.
 
-It’s more than just public relations benefits too, both companies [lobbied](https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/) for reduced regulations for so called “open source” models, and their efforts seems to be [working](https://www.washingtonpost.com/technology/2023/12/08/ai-act-regulation-eu/).[^7]
+It’s more than just public relations benefits too, both companies [lobbied](https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/) for reduced regulations for so called “open source” models, and their efforts seem to be [working](https://www.washingtonpost.com/technology/2023/12/08/ai-act-regulation-eu/).[^7]
 
 </div>
 
@@ -161,6 +161,7 @@ It is important to note, I am not saying that Shared Weights models are a negati
 
 A special thank you to Brian Penny, Dr. Peter Park and Giuseppe Dal Pra for reviewing the article and providing their input.
 
+</div>
 
 [^1]:The source code of a program is the file, written in a human-readable coding language, that defines how that program operates. To create an executable file, (aka. a binary file), the source code is compiled into machine code.
 

@@ -66,6 +66,7 @@ The idea of <i>model cards</i>, which was introduced as a measure to increase tr
 In-context Scheming
 - VentureBeat [article](https://venturebeat.com/ai/openai-launches-full-o1-model-with-34-reduced-error-rate-debuts-chatgpt-pro/) - OpenAI launches full o1 model with image uploads and analysis, debuts ChatGPT Pro
 - The Atlantic [article](https://www.theatlantic.com/technology/archive/2024/12/openai-o1-reasoning-models/680906/?gift=iWa_iB9lkw4UuiWbIbrWGdT4_sPi9gCLOZGiikclbz8&utm_source=copy-link&utm_medium=social&utm_campaign=share) - The GPT Era Is Already Ending
+- Patrick Chao [Tweet](https://x.com/patrickrchao/status/1864811286330249603)
 
 ### On Data Labelers
 - 60 Minutes [article + video](https://www.cbsnews.com/news/labelers-training-ai-say-theyre-overworked-underpaid-and-exploited-60-minutes-transcript/) - Labelers training AI say they're overworked, underpaid and exploited by big American tech companies

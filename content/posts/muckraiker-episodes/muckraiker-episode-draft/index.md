@@ -1,5 +1,5 @@
 ---
-url: /muckraikers/e00X/
+url: /muckraikers/e01X/
 title: 
 summary: 
 date: 
@@ -28,6 +28,8 @@ categories:
   - Podcast
 ---
 
+<div style="font-size:x-small;font-style: italic;">EPISODE RECORDED 2025.XX.XX</a></div>
+
 <div style="text-align: justify">
 
 {{< transistor src="" >}}
@@ -36,7 +38,7 @@ categories:
 ## Chapters
 
 <div style="text-align: left; font-family:monospace;">
-00:00:00 ❙ Intro<br>
+00:00:00 ❙ Recording date<br>
 </div>
 
 ## Links

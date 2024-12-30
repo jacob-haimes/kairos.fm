@@ -50,6 +50,10 @@ sections:
           icon: custom/owm_wht
           url: /onwhatmatters/
           label: On What Matters
+        - name: muckrAIkers
+          icon: custom/muckraikers-logo
+          url: /muckraikers/
+          label: muckrAIkers
     design:
       spacing:
         padding: ["1em", 0, "1em", 0]
