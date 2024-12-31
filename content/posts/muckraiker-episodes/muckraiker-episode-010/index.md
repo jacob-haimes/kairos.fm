@@ -2,8 +2,8 @@
 url: /muckraikers/e010/
 title: NeurIPS 2024 Wrapped 🌯
 summary: The largest conference in machine learning had over 15,000 people in attendance, and so much tea!
-date: 2024-12-29
-# lastmod: 
+date: 2024-12-30
+ 
 
 image:
   caption: 'muckrAIkers Temporary Cover Art'
@@ -21,17 +21,18 @@ categories:
   - Podcast
 ---
 
-<div style="font-size:x-small;font-style: italic;">EPISODE RECORDED 2024.12.08</a></div>
-
 <div style="text-align: justify">
 What happens when you bring over 15,000 machine learning nerds to one city? If your guess didn't include racism, sabotage and scandal, belated epiphanies, a spicy SoLaR panel, and many fantastic research papers, you wouldn't have captured my experience. In this episode we discuss the drama and takeaways from NeurIPS 2024.
 
+
 {{< transistor src="https://share.transistor.fm/e/5075e6ee" >}}
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2024.12.22</a></div>
 </div>
+
 
 ## Gallery
 
-{{< multi-image-quickview folder="neurips-2024" >}}
+{{< multi-image-quickview folder="neurips-24" >}}
 
 ## Chapters
 

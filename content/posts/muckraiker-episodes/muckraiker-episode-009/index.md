@@ -24,7 +24,9 @@ categories:
 The idea of <i>model cards</i>, which was introduced as a measure to increase transparency and understanding of LLMs, has been perverted into the marketing gimmick characterized by OpenAI's o1 system card. To demonstrate the adversarial stance we believe is necessary to draw meaning from these press-releases-in-disguise, we conduct a close read of the system card. Be warned, there's a lot of muck in this one.
 
 {{< transistor src="https://share.transistor.fm/e/c2ec3a0e" >}}
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2024.12.08</a></div>
 </div>
+
 
 ## Discussed Figures and Tables
 

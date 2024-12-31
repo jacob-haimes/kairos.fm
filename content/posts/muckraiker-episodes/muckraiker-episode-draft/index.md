@@ -28,12 +28,12 @@ categories:
   - Podcast
 ---
 
-<div style="font-size:x-small;font-style: italic;">EPISODE RECORDED 2025.XX.XX</a></div>
-
 <div style="text-align: justify">
 
 {{< transistor src="" >}}
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.XX.XX</a></div>
 </div>
+
 
 ## Chapters
 
