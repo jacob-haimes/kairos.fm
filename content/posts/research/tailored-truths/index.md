@@ -2,6 +2,14 @@
 url: /tailored-truths/
 title: "Tailored Truths: "
 
+_build:
+  render: never
+  list: never
+cascade:
+  _build:
+    render: never
+    list: never
+
 authors:
   - 
 
@@ -20,7 +28,7 @@ publishDate: '2025-01-28T00:00:00Z'
 # https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
 publication_types: ['misc']
 
-publication: "<div style='text-align: justify'>In <em>AI for Social Impact: Bridging Innovations in Finance, Social Media, and Crime Prevention</em> workshop at <em> the 39th Annual AAAI Conference on Artificial Intelligence</em></div>"
+publication: "<div style='text-align: justify'>In <em>AI for Social Impact: Bridging Innovations in Finance, Social Media, and Crime Prevention workshop at the 39th Annual AAAI Conference on Artificial Intelligence</em></div>"
 publication_short: In *AI for Social Impact @ AAAI '25*
 
 abstract: "<div style='text-align: justify'></div>"

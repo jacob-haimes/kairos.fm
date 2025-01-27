@@ -13,9 +13,9 @@ cascade:
 authors:
   - 
 
-date: 2025-XX-XX
+date: 2025-01-01
 doi: ''
-lastmod: 2025-XX-XX
+lastmod: 2025-01-01
 
 categories: 
   - Research
@@ -23,7 +23,7 @@ categories:
 reading_time: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-XX-XXT00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
 # https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
 publication_types: ['misc']
