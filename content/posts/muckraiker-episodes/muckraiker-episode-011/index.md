@@ -22,12 +22,12 @@ categories:
 ---
 
 <div style="text-align: justify">
-Chris Canal, founder of EquiStamp, joins muckrAIkers as our first ever podcast guest! In this ~3.5 hour interview, we discuss intelligence vs. competencies, the importance of test-time compute, moving goalposts, the orthogonality thesis, and much more. 
+Chris Canal, co-founder of EquiStamp, joins muckrAIkers as our first ever podcast guest! In this ~3.5 hour interview, we discuss intelligence vs. competencies, the importance of test-time compute, moving goalposts, the orthogonality thesis, and much more. 
 
 A seasoned software developer, Chris started EquiStamp as a way to improve our current understanding of model failure modes and capabilities in late 2023. Now a key contractor for METR, EquiStamp evaluates the next generation of LLMs from frontier model developers like OpenAI and Anthropic.
 
 {{% callout warning %}}
-<a href="https://www.equistamp.com/" target="_blank" rel="noreferrer noopener">EquiStamp</a> is hiring, so if you're interested in a fully remote opportunity with flexible working hours, join the EquiStamp <a href="https://discord.com/invite/tjKApmzndk" target="_blank" rel="noreferrer noopener">Discord server</a> and message Chris directly; oh, and let him know muckrAIkers sent you!
+2025.01.27: <a href="https://www.equistamp.com/" target="_blank" rel="noreferrer noopener">EquiStamp</a> is hiring, so if you're interested in a fully remote opportunity with flexible working hours, join the EquiStamp <a href="https://discord.com/invite/tjKApmzndk" target="_blank" rel="noreferrer noopener">Discord server</a> and message Chris directly; oh, and let him know muckrAIkers sent you!
 {{% /callout %}}
 
 {{< transistor src="https://share.transistor.fm/e/ca6e9de7" >}}
