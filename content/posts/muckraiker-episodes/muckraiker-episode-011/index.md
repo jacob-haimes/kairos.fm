@@ -2,16 +2,8 @@
 url: /muckraikers/e011/
 title: Understanding AI World Models w/ Chris Canal
 summary: Chris Canal, founder of Equistamp, joins muckrAIkers as our first ever podcast guest to discuss AI risks and the world models that inform them.
-date: 2025-01-22
+date: 2025-01-27
 lastmod: 
-
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
 
 image:
   caption: 'muckrAIkers Temporary Cover Art'
