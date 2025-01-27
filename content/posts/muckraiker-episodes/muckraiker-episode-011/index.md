@@ -27,7 +27,7 @@ Chris Canal, co-founder of EquiStamp, joins muckrAIkers as our first ever podcas
 A seasoned software developer, Chris started EquiStamp as a way to improve our current understanding of model failure modes and capabilities in late 2023. Now a key contractor for METR, EquiStamp evaluates the next generation of LLMs from frontier model developers like OpenAI and Anthropic.
 
 {{% callout warning %}}
-2025.01.27: <a href="https://www.equistamp.com/" target="_blank" rel="noreferrer noopener">EquiStamp</a> is hiring, so if you're interested in a fully remote opportunity with flexible working hours, join the EquiStamp <a href="https://discord.com/invite/tjKApmzndk" target="_blank" rel="noreferrer noopener">Discord server</a> and message Chris directly; oh, and let him know muckrAIkers sent you!
+2025.01.27: <a href="https://www.equistamp.com/" target="_blank" rel="noreferrer noopener">EquiStamp</a> is hiring, so if you're a software developer interested in a fully remote opportunity with flexible working hours, join the EquiStamp <a href="https://discord.com/invite/tjKApmzndk" target="_blank" rel="noreferrer noopener">Discord server</a> and message Chris directly; oh, and let him know muckrAIkers sent you!
 {{% /callout %}}
 
 {{< transistor src="https://share.transistor.fm/e/ca6e9de7" >}}
