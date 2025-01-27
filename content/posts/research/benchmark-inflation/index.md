@@ -1,4 +1,5 @@
 ---
+url: /benchmark-inflation/
 title: "Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts"
 
 authors:
@@ -22,7 +23,7 @@ author_notes:
 
 date: 2024-10-11
 doi: ''
-lastmod: 2024-10-18
+lastmod: 2025-01-27
 
 categories: 
   - Research
