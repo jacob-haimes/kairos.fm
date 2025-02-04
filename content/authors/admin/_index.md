@@ -29,7 +29,7 @@ role: Making the world's complex problems accessible
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:intoaisafety@gmail.com'
+    url: 'mailto:listen@kairos.fm'
     label: Contact
   - icon: brands/youtube
     url: https://www.youtube.com/@KairosFMNetwork/podcasts
@@ -39,8 +39,8 @@ profiles:
   #   url: 
   # - icon: brands/linkedin
   #   url: 
-  # - icon: brands/instagram
-  #   url: 
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/kairosfm.bsky.social
 
 # # Awards.
 # #   Add/remove as many awards below as you like.

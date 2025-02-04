@@ -36,4 +36,6 @@ profiles:
     url: https://www.linkedin.com/in/coleman-snell/
   - icon: brands/instagram
     url: https://www.instagram.com/majorkant/
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/colemansnell.bsky.social
 ---

@@ -38,7 +38,7 @@ featured: true
 #   icon: 
 #   url: 
 
-url_pdf: 'ai-sentience-and-moral-rights_su-cizem_masters-thesis.pdf'
+url_pdf: '../../uploads/ai-sentience-and-moral-rights_su-cizem_masters-thesis.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

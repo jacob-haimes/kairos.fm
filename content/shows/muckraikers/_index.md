@@ -24,17 +24,21 @@ sections:
   - block: brand-links
     content: 
       items:
-        - name: Transistor
-          icon: custom/transistor
+        - icon: custom/transistor
           url: https://muckraikers.transistor.fm
-          label: Transistor
-        - name: YouTube
-          icon: brands/youtube
+          label: Listening platforms
+        - icon: custom/apple-podcasts
+          url: https://podcasts.apple.com/us/podcast/muckraikers/id1770230941
+          label: Apple Podcasts
+        - icon: custom/spotify-logo
+          url: https://open.spotify.com/show/7q69qn0UDjLfzmYWtbbWXb
+          label: Spotify
+        - icon: brands/youtube
           url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBdobkudhgPnFpVfZzhM6bWa
-        # - name: Email
-        #   icon: at-symbol
-        #   url: 'mailto:intoaisafety@gmail.com'
-        #   label: Contact
+          label: YouTube
+        - icon: custom/bluesky
+          url: https://bsky.app/profile/muckraikers.bsky.social
+          label: Bluesky
     design:
       spacing:
         padding: ["1em", 0, "1em", 0]

@@ -26,13 +26,24 @@ profiles:
   - icon: custom/transistor
     url: https://intoaisafety.transistor.fm
     label: Listening platforms
+  - icon: custom/apple-podcasts
+    url: https://podcasts.apple.com/us/podcast/into-ai-safety/id1720206246?uo=4
+    label: Apple Podcasts
+  - icon: custom/spotify-logo
+    url: https://open.spotify.com/show/5AGzrA4jo6mgZuibVabTLM
+    label: Spotify
   - icon: brands/youtube
     url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBc7gHBn7mRTxsiVirgyv76p
+    label: YouTube
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/intoaisafety.bsky.social
+    label: Bluesky
   # - icon: brands/mastodon
   #   url: https://mastodon.social/@intoaisafety
-  - icon: at-symbol
-    url: 'mailto:intoaisafety@gmail.com'
-    label: Contact
+  # - icon: at-symbol
+  #   url: 'mailto:intoaisafety@gmail.com'
+  #   label: Contact
+
 
 # Awards.
 #   Add/remove as many awards below as you like.

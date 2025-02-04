@@ -50,6 +50,8 @@ profiles:
   - icon: twitter
     url: https://twitter.com/thegermanpole
     label: Twitter
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/thegermanpole.bsky.social
 ---
 
 <div style="text-align: justify"></div>

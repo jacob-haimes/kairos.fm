@@ -24,17 +24,25 @@ sections:
   - block: brand-links
     content: 
       items:
-        - name: Transistor
-          icon: custom/transistor
+        - icon: custom/transistor
           url: https://intoaisafety.transistor.fm
-          label: Transistor
-        - name: YouTube
-          icon: brands/youtube
+          label: Listening platforms
+        - icon: custom/apple-podcasts
+          url: https://podcasts.apple.com/us/podcast/into-ai-safety/id1720206246?uo=4
+          label: Apple Podcasts
+        - icon: custom/spotify-logo
+          url: https://open.spotify.com/show/5AGzrA4jo6mgZuibVabTLM
+          label: Spotify
+        - icon: brands/youtube
           url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBc7gHBn7mRTxsiVirgyv76p
-        - name: Email
-          icon: at-symbol
-          url: 'mailto:intoaisafety@gmail.com'
-          label: Contact
+          label: YouTube
+        - icon: custom/bluesky
+          url: https://bsky.app/profile/intoaisafety.bsky.social
+          label: Bluesky
+        # - name: Email
+        #   icon: at-symbol
+        #   url: 'mailto:intoaisafety@gmail.com'
+        #   label: Contact
     design:
       spacing:
         padding: ["1em", 0, "1em", 0]

@@ -22,16 +22,25 @@ user_groups:
 
 # Social network links
 profiles:
-  - icon: custom/transistor
+  - name: Transistor
+    icon: custom/transistor
     url: https://onwhatmatters.transistor.fm
     label: Listening platforms
-  #   label: Contact
-  # - icon: brands/x
-  #   url: 
-  - icon: custom/tiktok
+  - icon: custom/apple-podcasts
+    url: https://podcasts.apple.com/us/podcast/on-what-matters/id1769983936
+    label: Apple Podcasts
+  - icon: custom/spotify-logo
+    url: https://open.spotify.com/show/5rc49nYFlis1buOZdO8gJm?si=b4245c676c31445e
+    label: Spotify
+  - icon: brands/youtube
+    url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBfwCsb6s8m9k9fQS19ul0Eg
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/on-what-matters.bsky.social
+    label: Bluesky
+  - name: TikTok
+    icon: custom/tiktok
     url: https://www.tiktok.com/@21sttalks
-  # - icon: brands/instagram
-  #   url: 
+    label: TikTok
 
 # Awards.
 #   Add/remove as many awards below as you like.

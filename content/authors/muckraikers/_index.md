@@ -26,11 +26,18 @@ profiles:
   - icon: custom/transistor
     url: https://muckraikers.transistor.fm
     label: Listening platforms
+  - icon: custom/apple-podcasts
+    url: https://podcasts.apple.com/us/podcast/muckraikers/id1770230941
+    label: Apple Podcasts
+  - icon: custom/spotify-logo
+    url: https://open.spotify.com/show/7q69qn0UDjLfzmYWtbbWXb
+    label: Spotify
   - icon: brands/youtube
     url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBdobkudhgPnFpVfZzhM6bWa
-  # - icon: at-symbol
-  #   url: 'mailto:intoaisafety@gmail.com'
-  #   label: Contact
+    label: YouTube
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/muckraikers.bsky.social
+    label: Bluesky
 
 # Awards.
 #   Add/remove as many awards below as you like.

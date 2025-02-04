@@ -23,11 +23,18 @@ sections:
         - name: Transistor
           icon: custom/transistor
           url: https://onwhatmatters.transistor.fm
-          label: Transistor
-        - name: Email
-          icon: at-symbol
-          url: 'mailto:'
-          label: Contact
+          label: Listening platforms
+        - icon: custom/apple-podcasts
+          url: https://podcasts.apple.com/us/podcast/on-what-matters/id1769983936
+          label: Apple Podcasts
+        - icon: custom/spotify-logo
+          url: https://open.spotify.com/show/5rc49nYFlis1buOZdO8gJm?si=b4245c676c31445e
+          label: Spotify
+        - icon: brands/youtube
+          url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBfwCsb6s8m9k9fQS19ul0Eg
+        - icon: custom/bluesky
+          url: https://bsky.app/profile/on-what-matters.bsky.social
+          label: Bluesky
         - name: TikTok
           icon: custom/tiktok
           url: https://www.tiktok.com/@21sttalks
@@ -143,7 +150,7 @@ sections:
           url: https://castro.fm/itunes/1769983936
         - name: YouTube
           icon: custom/color-logos-24/youtube
-          url: https://www.youtube.com/@KairosFMNetwork/podcasts
+          url: https://www.youtube.com/playlist?list=PL4wh4RzMmaBfwCsb6s8m9k9fQS19ul0Eg
         - name: Goodpods
           icon: custom/color-logos-24/goodpods
           url: https://www.goodpods.com/podcasts-aid/1769983936

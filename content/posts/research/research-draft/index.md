@@ -41,9 +41,11 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: 
-#   icon: 
+# - name: arXiv
+#   icon: brands/arxiv
+#   url: 
+# - name: blog
+#   icon: custom/blog-solid
 #   url: 
 
 url_pdf: '.pdf'
