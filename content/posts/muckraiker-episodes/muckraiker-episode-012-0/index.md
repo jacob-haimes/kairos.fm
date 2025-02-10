@@ -1,6 +1,6 @@
 ---
 url: /muckraikers/e012-0/
-title: DeepSeek Teaser Minisode
+title: DeepSeek Minisode
 summary: A short update on DeepSeek.
 date: 2025-02-09
 lastmod: 2025-02-09
@@ -32,13 +32,12 @@ DeepSeek R1 has taken the world by storm, causing a stock market crash and promp
 ## Chapters
 
 <div style="text-align: left; font-family:monospace;">
-00:00:00 ❙ Recording date<br>
-0.000000	Recordcing date
-4.494308	Intro
-37.570791	DeepSeek Drop + Reaction
-267.296747	Export Controls
-485.484164	Skepticism and Uncertainty
-852.714569	Outro
+00:00 ❙ Recording date<br>
+00:04 ❙ Intro<br>
+00:37 ❙ DeepSeek drop and reactions<br>
+04:27 ❙ Export controls<br>
+08:05 ❙ Skepticism and uncertainty<br>
+14:12 ❙ Outro
 </div>
 
 ## Links
