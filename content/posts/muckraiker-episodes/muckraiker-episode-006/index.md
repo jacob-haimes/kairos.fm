@@ -6,7 +6,7 @@ date: 2024-11-06
 lastmod: 2024-11-06
 
 image:
-  caption: 'muckrAIkers Temporary Cover Art'
+  caption: 'muckrAIkers Cover Art'
   preview_only: true
   filename: muckraikers_cover-art.jpg
 

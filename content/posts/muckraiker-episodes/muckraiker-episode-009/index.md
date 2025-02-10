@@ -5,7 +5,7 @@ summary: A close read of the o1 system card reveals a whole lot of muck.
 date: 2024-12-22
 
 image:
-  caption: 'muckrAIkers Temporary Cover Art'
+  caption: 'muckrAIkers Cover Art'
   preview_only: true
   filename: muckraikers_cover-art.jpg
 
