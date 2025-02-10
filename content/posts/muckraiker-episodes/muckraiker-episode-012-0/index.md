@@ -1,5 +1,5 @@
 ---
-url: /muckraikers/e012-0/
+url: /muckraikers/b012/
 title: DeepSeek Minisode
 summary: A short update on DeepSeek.
 date: 2025-02-09
@@ -22,7 +22,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-DeepSeek R1 has taken the world by storm, causing a stock market crash and prompting further calls for export controls within the US. Since this story is still very much in development, with follow-up investigations and call for governance being published almost daily, we thought it best to hold of for a little while longer to be able to tell the whole story. Nonetheless, it's a big story, so we provide a brief overview of all that's out there so far.
+DeepSeek R1 has taken the world by storm, causing a stock market crash and prompting further calls for export controls within the US. Since this story is still very much in development, with follow-up investigations and calls for governance being released almost daily, we thought it best to hold of for a little while longer to be able to tell the whole story. Nonetheless, it's a big story, so we provide a brief overview of all that's out there so far.
 
 {{< transistor src="https://share.transistor.fm/e/5306c253" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.02.09</a></div>
