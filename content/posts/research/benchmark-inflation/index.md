@@ -33,7 +33,7 @@ reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-10-14T00:00:00Z'
 
-publication_types: ['article']
+publication_types: ['misc']
 
 publication: "<div style='text-align: justify'>In <em>The 5th Workshop on Data-Centric Machine Learning Research at The Forty-first International Conference on Machine Learning</em>  and <em>The 1st Workshop on Data Contamination at The 62nd Annual Meeting of the Association for Computational Linguistics</em></div>"
 publication_short: In *DMLR @ ICML '24* & *CONDA @ ACL '24*

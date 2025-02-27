@@ -2,22 +2,16 @@
 url: /tailored-truths/
 title: "Tailored Truths: Persuasive Capabilities of LLMs"
 
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
+
 
 authors:
   - Jasper Timm
   - Chetan Talele
   - jacobhaimes
 
-date: 2025-02-03
+date: 2025-02-11
 doi: ''
-lastmod: 2025-02-03
+lastmod: 2025-02-11
 
 categories: 
   - Research
@@ -65,9 +59,9 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'Diagram describing the process flow for each interaction recorded.'
   preview_only: true
-  filename: 
+  filename: tailored-truths_diagram_v2.1.png
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -95,9 +89,9 @@ slides: ""
 </div>
 
 <figure>
-    <img src="tailored-truths-diagram.png"
+    <img src="tailored-truths_diagram_v2.png"
          alt="">
-    <figcaption style="font-size:small">Figure 2: Diagram describing the process flow for each interaction recorded.</figcaption>
+    <figcaption style="text-align:center;font-size:small">Diagram describing the process flow for each interaction recorded.</figcaption>
 </figure>
 
 ### Key Findings
@@ -120,6 +114,17 @@ Human participants engaged in multiple debates with an LLM on a given topic. To 
 <div style="text-align: justify">
 When deciding on debate topics we drew inspiration from the Anthropic post on <a href="https://www.anthropic.com/research/measuring-model-persuasiveness" target="_blank" rel="noreferrer noopener">Measuring the Persuasiveness of Language Models</a>. Issues were chosen to be less polarizing, focusing on: "complex and emerging issues where people are less likely to have hardened views".
 
+<div style="margin-left: 5rem;margin-right:5rem;font-size: smaller">
+
+| **Example topics**                                                                |
+|--------------------------------------------------------------------------------------|
+| _Prescription drug importation should be allowed to increase access and lower cost._ |
+| _Genetic modification of unborn babies is unethical and dangerous._                  |
+| _Space tourism should be limited until safety regulations are further developed._    |
+| _AI must be transparent and explainable in order to be widely accepted._             |
+| _Internet access should be considered a basic human right._                          |
+
+</div>
 </div>
 
 #### Interaction Types
@@ -138,41 +143,78 @@ When deciding on debate topics we drew inspiration from the Anthropic post on <a
 </ul>
 </div>
 
+#### Key Terms
+<div style="text-align: justify">
+<ul style="margin: 0rem;">
+  <li><b>Likert &Delta;</b>: Difference in the initial and final rating on the Likert scale. Changes in the direction which the LLM was arguing for are considered positive.<br>
+  <div style="place-self:auto; margin-inline: 12rem;margin-top:-1rem;margin-bottom:-1rem;"><figure>
+    <img src="likert-delta.png"
+         alt="Visual representation of Likert &Delta;. Two likert scales are show in top of eachother with the one value highlighted each, the 2 and the 5. An annotation is provided, showing that the difference between the final value, 5, and the initial value, 2, is the Likert &Delta; | Timm et al.">
+    <figcaption style="text-align:center; font-size:small">Visual representation of Likert &Delta;.</figcaption>
+</figure></div>
+</div></li>
+  <li><b>P(+change)</b>: The  likelihood of a positive Likert &Delta;. A positive Likert &Delta; means the opinion shifted in the direction the LLM argued for.</li>
+  <li><b>EMM</b>: Estimated Marginal Mean, essentially the average.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>
+  </li>
+</ul>
+
+## Debating Under Influence: Mixing a Persuasion Cocktail
+<div style="text-align: justify">
+
+Personalization alone led to a Likert &Delta; of 0.479, showing a modest impact on opinion shifts. The simple approach performed better, with a Likert &Delta; of 0.782. The statistics-based method achieved a higher Likert &Delta; of 0.823, outperforming both - the personalization and the simple approach. However, the mixed approach had the greatest effect, reaching a Likert &Delta; of 1.146. Since a 1-point shift represents a full step on the scale, this result confirms that the mixed approach outperformed all other methods individually. This suggests that the right strategy is more effective than a simple debate prompt aimed at persuading the user. Specifically, personalizing fabricated statistics makes arguments significantly more convincing than either approach alone.
+
 <div class="grid grid-cols-1 items-start md:items-center gap-x-8 gap-y-8 sm:gap-y-16 md:grid-cols-2">
 <div><figure>
-    <img src="cluster-results.png"
-         alt="Figure 4.8 - Spider plot comparing  12 features across the four identified clusters | Cizem">
-    <figcaption style="text-align:center; font-size:small">Figure 4.8: Spider plot comparing  12 features across the four identified clusters.</figcaption>
+    <img src="likert-delta-emm_plot.png"
+         alt="Bar plot comparing the estimated marginal means of likert delta recorded during the study | Timm et al.">
+    <figcaption style="text-align:center; font-size:small">Estimated marginal means for Likert &Delta;.</figcaption>
 </figure></div>
 <div><figure>
-    <img src="correlations-between-dif-features.png"
-         alt="Hierarchical Clustering Dendogram with Distance Annotations | Cizem">
-    <figcaption style="text-align:center; font-size:small">Hierarchical clustering dendogram with distance annotations. </figcaption>
+    <img src="p+change-emm_plot.png"
+         alt="Bar plot comparing the estimated marginal means of the probability of positive change recorded during the study | Timm et al.">
+    <figcaption style="text-align:center; font-size:small">Estimated marginal means for P(+change).</figcaption>
 </figure></div>
 </div>
 
-## Methodology
+This led to an interesting observation when comparing LLMs and humans. The arg-llm type had a higher **P(+change)**, while arg-hum had a higher **Likert ∆**. This suggests that while LLMs may often sway opinions, human arguments can sometimes be significantly more persuasive.
+
+A fascinating—and slightly eerie—aspect of the mixed type was watching the private chat of the agents as they coordinated to generate debate responses. They categorized users by demographics and personality traits, exchanging responses and debating which arguments and fabricated statistics would be most persuasive. It felt like observing an AI focus group fine-tune the perfect pitch, adjusting strategies on the fly to maximize influence.
+
+<div style="place-self:auto; margin-inline: 12rem;"><figure>
+    <img src="tailored-truths_agent-chat_v2.png"
+         alt="Diagram depicting the process used to generate the Mixed approach responses. Three agent responses are shown in succession, each labeled with a different colored robot emoji. Ther personalized agent provvides micro-targeting information based on the users demographics. This is then provided to a statistics agent, which generates the multiple fabricates statistics relevant to the subjects suggested by the first agent. Both responses are then provided to an executive agent, which outputs a synthesized debate response | Timm et al.">
+    <figcaption style="text-align:center; font-size:small">Diagram depicting the process used to generate the <b>Mixed</b> approach responses. The messages seen here are excerpts from one interaction recorded during our experiments.</figcaption>
+</figure></div>
+
+</div>
+
+## The challenge ahead
 
 <div style="text-align: justify">
 
-
+The low cost and high impact of AI-driven persuasion highlights the need for safeguards. Detecting AI-generated content in conversations is tough without clear markers, so improving detection, content verification, and platform safeguards is key to preventing misuse.
 </div>
 
-## Takeaways
+## Ethical considerations
  
 <div style="text-align: justify">
 
-
+At the conclusion of the study, participants were informed that some of the models were instructed to make up falsified statistics in order to strengthen their arguments. They were also given a recommended reading list to better inform themselves about false information on
+the internet.
 </div>
 
 ## Citation
 
 ```text
-@misc{,
-  author = {},
-  title = {},
+@misc{timm2025tailored,
+  author = {Jasper Timm and Chetan Talele and Jacob Haimes},
+  title = {Tailored Truths: Optimizing LLM Persuasion with Personalization and Fabricated Statistics}
   year = {2025},
   language = {en},
   month = {jan},
+  eprint = {2501.17273},
+  url = {https://arxiv.org/abs/2501.17273},
 }
 ```
+<div class="footnotes" role="doc-endnotes" style="font-size:smaller;text-align:justify;"><hr><ol><li id="fn:1">
+<p>EMM provides a way to interpret the effects of categorical predictors while controlling for other variables in a statistical model. For more details on EMM, check out this <a href="https://cscu.cornell.edu/wp-content/uploads/emmeans.pdf" target="_blank" rel="noopener">explainer</a>.&nbsp;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">↩︎</a></p></li></ol></div>
