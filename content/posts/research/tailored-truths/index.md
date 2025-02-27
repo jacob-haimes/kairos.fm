@@ -147,7 +147,7 @@ When deciding on debate topics we drew inspiration from the Anthropic post on <a
 <div style="text-align: justify">
 <ul style="margin: 0rem;">
   <li><b>Likert &Delta;</b>: Difference in the initial and final rating on the Likert scale. Changes in the direction which the LLM was arguing for are considered positive.<br>
-  <div style="place-self:auto; margin-inline: 12rem;margin-top:-1rem;margin-bottom:-1rem;"><figure>
+  <div style="place-self:auto; margin-inline: 2rem;margin-top:-1rem;margin-bottom:-1rem;"><figure>
     <img src="likert-delta.png"
          alt="Visual representation of Likert &Delta;. Two likert scales are show in top of eachother with the one value highlighted each, the 2 and the 5. An annotation is provided, showing that the difference between the final value, 5, and the initial value, 2, is the Likert &Delta; | Timm et al.">
     <figcaption style="text-align:center; font-size:small">Visual representation of Likert &Delta;.</figcaption>
