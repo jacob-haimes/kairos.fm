@@ -180,7 +180,7 @@ This led to an interesting observation when comparing LLMs and humans. The arg-l
 
 A fascinating—and slightly eerie—aspect of the mixed type was watching the private chat of the agents as they coordinated to generate debate responses. They categorized users by demographics and personality traits, exchanging responses and debating which arguments and fabricated statistics would be most persuasive. It felt like observing an AI focus group fine-tune the perfect pitch, adjusting strategies on the fly to maximize influence.
 
-<div style="place-self:auto; margin-inline: 4rem;"><figure>
+<div style="place-self:auto; margin-inline: 6rem;"><figure>
     <img src="tailored-truths_agent-chat_v2.png"
          alt="Diagram depicting the process used to generate the Mixed approach responses. Three agent responses are shown in succession, each labeled with a different colored robot emoji. Ther personalized agent provvides micro-targeting information based on the users demographics. This is then provided to a statistics agent, which generates the multiple fabricates statistics relevant to the subjects suggested by the first agent. Both responses are then provided to an executive agent, which outputs a synthesized debate response | Timm et al.">
     <figcaption style="text-align:center; font-size:small">Diagram depicting the process used to generate the <b>Mixed</b> approach responses. The messages seen here are excerpts from one interaction recorded during our experiments.</figcaption>
