@@ -104,5 +104,5 @@ Check out our DeepSeek [minisode](https://kairos.fm/muckraikers/b012/) for a sna
 - TechCrunch [article](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/) - OpenAI adopts rival Anthropic's standard for connecting AI models to data
 - Reuters [article](https://www.reuters.com/technology/artificial-intelligence/openai-meta-talks-with-reliance-ai-partnerships-information-reports-2025-03-22/) - OpenAI, Meta in talks with Reliance for AI partnerships, The Information reports
 - 2024 AI Index [report](https://hai.stanford.edu/ai-index/2024-ai-index-report)
-- NDTV [article]()https://www.ndtv.com/world-news/ghibli-style-images-to-memes-white-house-embraces-alt-right-online-culture-8066199 - Ghibli-Style Images To Memes: White House Embraces Alt-Right Online Culture
+- NDTV [article](https://www.ndtv.com/world-news/ghibli-style-images-to-memes-white-house-embraces-alt-right-online-culture-8066199) - Ghibli-Style Images To Memes: White House Embraces Alt-Right Online Culture
 - Elk [post](https://elk.zone/carhenge.club/@skiles/114203147063483693) on DOGE and AI
