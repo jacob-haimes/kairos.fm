@@ -1,7 +1,7 @@
 ---
 url: /intoaisafety/e020/
 title: Making Your Voice Heard w/ Tristan Williams & Felix de Simone
-summary: 
+summary: Tristan Williams and Felix de Simone join me to discuss the value of constituent communication on AI
 date: 2025-05-17
 lastmod: 2025-05-17
 
