@@ -4,7 +4,6 @@ title: Making Your Voice Heard w/ Tristan Williams & Felix de Simone
 summary: 
 date: 2025-05-17
 lastmod: 2025-05-17
-draft: true
 
 image:
   caption: 'Into AI Safety Cover Art'
