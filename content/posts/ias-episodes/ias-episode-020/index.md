@@ -2,17 +2,9 @@
 url: /intoaisafety/e020/
 title: Making Your Voice Heard w/ Tristan Williams & Felix de Simone
 summary: 
-date: 2025-04-07
-lastmod: 2025-04-07
+date: 2025-05-17
+lastmod: 2025-05-17
 draft: true
-
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
 
 image:
   caption: 'Into AI Safety Cover Art'
@@ -37,11 +29,24 @@ Check out the <a href="https://forum.effectivealtruism.org/posts/5oStggnYLGzomhv
 
 <!-- "You don't need to be wortking full time on AI safety or have a background in machine learning to have an impact; you can have an impact _as a citizen_." -->
 
-{{< transistor src="" >}}
+{{< transistor src="https://share.transistor.fm/e/a9294c9e" >}}
 
 ### Chapters
 
-0: - 
+<div style="text-align: left; font-family:monospace;">
+00:01:53 ❙ Introductions<br>
+00:04:04 ❙ Starting the project<br>
+00:13:30 ❙ Project overview<br>
+00:16:36 ❙ Understanding constituent communication<br>
+00:28:50 ❙ Literature review<br>
+00:35:52 ❙ Phase 2<br>
+00:43:26 ❙ Creating a tool for citizen engagement<br>
+00:50:16 ❙ Crafting your message<br>
+00:59:40 ❙ The game of advocacy<br>
+01:15:19 ❙ Difficulties on the project<br>
+01:22:33 ❙ Call to action<br>
+01:32:30 ❙ Outro
+</div>
 
 ### Links
 

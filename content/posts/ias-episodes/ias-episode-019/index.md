@@ -27,7 +27,7 @@ The *almost* Dr. Igor Krawczuk joins me for what is the equivalent of 4 of my pr
 
 {{< transistor src="https://share.transistor.fm/e/b8225038" >}}
 
-If you're interested in connecting with Igor, head on over to his <a href="https://krawczuk.eu" target="_blank" rel="noreferrer noopener">website</a>, or check out <a href="" target="_blank" rel="noreferrer noopener">placeholder for thesis</a> (it isn't published yet).
+If you're interested in connecting with Igor, head on over to his <a href="https://krawczuk.eu" target="_blank" rel="noreferrer noopener">website</a>, or check out his <a href="https://infoscience.epfl.ch/entities/publication/8a267366-77e7-473a-82e1-a2e3fa4d9563" target="_blank" rel="noreferrer noopener">thesis</a>!
 </div>
 
 Because these shownotes have a whopping 115 additional links below, I'll highlight some that I think are particularly worthwhile:
