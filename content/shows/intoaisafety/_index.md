@@ -134,7 +134,7 @@ sections:
   - block: subscribe
     content: 
       title: Listen Anywhere
-      rss: https://feeds.transistor.fm/into-ai-safety
+      rss: https://feeds.transistor.fm/intoaisafety
       rss_span: 3
       items:
         - name: Apple Podcasts
