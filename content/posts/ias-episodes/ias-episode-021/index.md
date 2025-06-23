@@ -39,7 +39,6 @@ Will Petillo, onboarding team lead at PauseAI, joins me to discuss the grassroot
 ### Chapters
 
 <div style="text-align: left; font-family:monospace;">
-
 00:00:00 ❙ Intro <br>
 00:03:36 ❙ What is PauseAI<br>
 00:10:10 ❙ Will Petillo's journey into AI safety advocacy<br>

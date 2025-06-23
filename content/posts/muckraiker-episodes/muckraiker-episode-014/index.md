@@ -25,9 +25,8 @@ categories:
 In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopian AI provisions: automated fraud detection systems, centralized citizen databases, military AI integration, and a 10-year moratorium blocking all state AI regulation. We explore the historical parallels with authoritarian data consolidation and why this represents a fundamental shift away from limited government principles once held by US conservatives.
 
 {{< transistor src="https://share.transistor.fm/e/4feaace0" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.06.15</a></div>
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.06.15; <a href="https://share.transistor.fm/s/4feaace0/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
 </div>
-
 
 ## Chapters
 
@@ -37,11 +36,11 @@ In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopia
 05:14 ❙ Bill, AI overview<br>
 07:54 ❙ Medicaid fraud detection systems<br>
 11:20 ❙ Bias in AI Systems and Ethical Concerns<br>
-18:37 ❙ Centralization of data<br>
-30:43 ❙ Military integration of AI<br>
-37:43 ❙ Tax incentives for development<br>
-41:35 ❙ Regulatory moratorium<br>
-49:05 ❙ One big bad authoritarian regime
+17:58 ❙ Centralization of data<br>
+30:04 ❙ Military integration of AI<br>
+37:05 ❙ Tax incentives for development<br>
+40:57 ❙ Regulatory moratorium<br>
+47:58 ❙ One big bad authoritarian regime
 </div>
 
 ## Links
