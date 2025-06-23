@@ -14,7 +14,7 @@ authors:
   - muckraikers
 
 tags:
-  - AI Governance
+  - Governance
 
 categories: 
   - Podcast

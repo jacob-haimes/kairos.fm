@@ -15,7 +15,7 @@ authors:
 
 tags:
   - '"AI"'
-  - Economics
+  - Business
 
 categories: 
   - Podcast
