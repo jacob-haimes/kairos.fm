@@ -1,9 +1,9 @@
 ---
 url: /muckraikers/e015/
-title: Reasoning v2
+title: Introduce a definitional shift for current AI reasoning as mere rambling, explaining recent studies on what models are more likely doing.
 summary: 
-date: 2025-07-13
-lastmod: 2025-07-13
+date: 2025-07-12
+lastmod: 2025-07-12
 
 _build:
   render: never
@@ -30,7 +30,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-In this episode, we provide a critical, evidence-based update on what reasoning models could be doing. Words do indeed matter; we suggest that reasoning language models should be perceived as rambling models since do not develop reasoning in the classical sense i.e "drawing conclusions from facts using logical inference" but rather ... + potempkin  
+In this episode, we redefine AI's "reasoning" as mere "rambling," exposing the "illusion of thinking" and "Potemkin understanding" in current models. We contrast the classical definition of reasoning (requiring logic and consistency) with Big Tech's new version, which is a generic statement about information processing. We explain how Large Rambling Models generate extensive, often irrelevant, "rambling traces" that appear to improve benchmarks, largely due to "best-of-N sampling" and "benchmark gaming." Words and definitions actually matter! Carelessness leads to misplaced investments and an overestimation of systems that are currently just "surprisingly useful autocorrects.
 
 
 {{< transistor src="" >}}
@@ -40,18 +40,20 @@ In this episode, we provide a critical, evidence-based update on what reasoning 
 
 ## Chapters
 <div style="text-align: left; font-family:monospace;">
-00:00:28 ❙ OBB follow-up and Zack's talent poaching<br>
-03:09:03 ❙ Reasoning vs ranbling language models<br>
-06:48:00 ❙ Distinguishing Classical Reasoning from AI Reasoning<br>
-08:40 ❙ The Importance of Definitions in AI<br>
-10:24 ❙ Implications of AI Reasoning in High-Risk Domains<br>
-11:45 ❙ The Evolution of Large Rambling Models<br>
-13:52 ❙ Understanding the Rambling Process<br>
-14:54 ❙ Critiques of AI Reasoning Models<br>
-15:32 ❙ The Potemkin Understanding in AI<br>
-17:17 ❙ Evaluating AI Performance and Benchmarks<br>
-18:47 ❙ The Future of AI Reasoning and Rambling Models
-Outro
+00:00 ❙ Intro<br>
+00:40 ❙ OBB update and Meta's talent acquisition<br>
+03:09 ❙ What are rambling models?<br> 
+04:25 ❙ Definitions and polarization<br>
+09:50 ❙ Logic and consistency<br>
+17:00 ❙ Why does this matter?<br>
+21:40 ❙ More likely explanations<br>
+35:05 ❙ The "illusion of thinking" and task complexity<br>
+39:07 ❙ "Potemkin understanding" and surface-level recall<br>
+50:00 ❙ Benchmark gaming and best-of-n sampling<br>
+55:40 ❙ Costs and limitations<br>
+58:24 ❙ Claude's anecdote and the Vending Bench<br>
+01:02 ❙ Definitional switch and implications<br>
+01:09 ❙ Outro<br>
 </div>
 
 ## Links
@@ -77,7 +79,7 @@ Outro
 - [Preprint](https://arxiv.org/abs/2410.05229) - GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models
 
 
-### Other Sources
+### Other sources
 - Zuck's Haul [webpage](https://zuckshaul.com/) - Meta's talent acquisition tracker
     - Hacker News [discussion](https://news.ycombinator.com/item?id=44477512) - Opinions from the AI community 
 - Interconnects [blogpost](https://www.interconnects.ai/p/the-rise-of-reasoning-machines) - The rise of reasoning machines
