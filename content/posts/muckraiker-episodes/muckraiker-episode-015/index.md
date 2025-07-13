@@ -30,7 +30,10 @@ categories:
 ---
 
 <div style="text-align: justify">
-In this episode, we redefine AI's "reasoning" as mere "rambling," exposing the "illusion of thinking" and "Potemkin understanding" in current models. We contrast the classical definition of reasoning (requiring logic and consistency) with Big Tech's new version, which is a generic statement about information processing. We explain how Large Rambling Models generate extensive, often irrelevant, "rambling traces" that appear to improve benchmarks, largely due to "best-of-N sampling" and "benchmark gaming." Words and definitions actually matter! Carelessness leads to misplaced investments and an overestimation of systems that are currently just "surprisingly useful autocorrects.
+
+In this episode, we redefine AI's "reasoning" as mere *rambling*, exposing the "illusion of thinking" and "Potemkin understanding" in current models. We contrast the classical definition of reasoning (requiring logic and consistency) with Big Tech's new version, which is a generic statement about information processing. We explain how Large Rambling Models generate extensive, often irrelevant, *rambling traces* that appear to improve benchmarks, largely due to best-of-N sampling and benchmark gaming.
+
+Words and definitions actually matter! Carelessness leads to misplaced investments and an overestimation of systems that are currently just surprisingly useful autocorrects.
 
 
 {{< transistor src="" >}}
@@ -63,7 +66,7 @@ In this episode, we redefine AI's "reasoning" as mere "rambling," exposing the "
 
 
 ### Theoretical understanding
-- Max M. Schlereth  [Manuscript] (https://philarchive.org/rec/SCHAIM-14) - The limits of AGI part II
+- Max M. Schlereth [Manuscript] (https://philarchive.org/rec/SCHAIM-14) - The limits of AGI part II
 - [Preprint](https://arxiv.org/html/2504.09762v1) - (How) Do Reasoning Models Reason?
 - [Preprint](http://arxiv.org/abs/2503.03961) - A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers
 - NeurIPS 2024 [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3107e4bdb658c79053d7ef59cbc804dd-Abstract-Conference.html) - How Far Can Transformers Reason? The Globality Barrier and Inductive Scratchpad
