@@ -1,9 +1,9 @@
 ---
 url: /muckraikers/e015/
-title: Introduce a definitional shift for current AI reasoning as mere rambling, explaining recent studies on what models are more likely doing.
-summary: 
-date: 2025-07-12
-lastmod: 2025-07-12
+title: AI, Reasoning or Rambling?
+summary: We introduce a definitional shift for current AI reasoning as mere rambling, explaining recent studies on what models are more likely doing.
+date: 2025-07-13
+lastmod: 2025-07-13
 
 _build:
   render: never
@@ -36,37 +36,37 @@ In this episode, we redefine AI's "reasoning" as mere *rambling*, exposing the "
 Words and definitions actually matter! Carelessness leads to misplaced investments and an overestimation of systems that are currently just surprisingly useful autocorrects.
 
 
-{{< transistor src="" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.XX.XX; <a href="" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
+{{< transistor src="https://share.transistor.fm/e/3ac97807" >}}
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.07.07</div>
 </div>
 
 
 ## Chapters
 <div style="text-align: left; font-family:monospace;">
-00:00 ❙ Intro<br>
-00:40 ❙ OBB update and Meta's talent acquisition<br>
-03:09 ❙ What are rambling models?<br> 
-04:25 ❙ Definitions and polarization<br>
-09:50 ❙ Logic and consistency<br>
-17:00 ❙ Why does this matter?<br>
-21:40 ❙ More likely explanations<br>
-35:05 ❙ The "illusion of thinking" and task complexity<br>
-39:07 ❙ "Potemkin understanding" and surface-level recall<br>
-50:00 ❙ Benchmark gaming and best-of-n sampling<br>
-55:40 ❙ Costs and limitations<br>
-58:24 ❙ Claude's anecdote and the Vending Bench<br>
-01:02 ❙ Definitional switch and implications<br>
-01:09 ❙ Outro<br>
+00:00:00 ❙ Intro<br>
+00:00:40 ❙ OBB update and Meta's talent acquisition<br>
+00:03:09 ❙ What are rambling models?<br> 
+00:04:25 ❙ Definitions and polarization<br>
+00:09:50 ❙ Logic and consistency<br>
+00:17:00 ❙ Why does this matter?<br>
+00:21:40 ❙ More likely explanations<br>
+00:35:05 ❙ The "illusion of thinking" and task complexity<br>
+00:39:07 ❙ "Potemkin understanding" and surface-level recall<br>
+00:50:00 ❙ Benchmark gaming and best-of-n sampling<br>
+00:55:40 ❙ Costs and limitations<br>
+00:58:24 ❙ Claude's anecdote and the Vending Bench<br>
+01:03:05 ❙ Definitional switch and implications<br>
+01:10:18 ❙ Outro<br>
 </div>
 
 ## Links
 - Apple [paper](http://arxiv.org/abs/2506.06941) - The Illusion of Thinking
-- ICML 2025 [paper] (https://arxiv.org/abs/2506.21521) - Potemkin Understanding in Large Language Models
+- ICML 2025 [paper](https://arxiv.org/abs/2506.21521) - Potemkin Understanding in Large Language Models
 - [Preprint](https://arxiv.org/abs/2407.21787) - Large Language Monkeys: Scaling Inference Compute with Repeated Sampling
 
 
 ### Theoretical understanding
-- Max M. Schlereth [Manuscript] (https://philarchive.org/rec/SCHAIM-14) - The limits of AGI part II
+- Max M. Schlereth [Manuscript](https://philarchive.org/rec/SCHAIM-14) - The limits of AGI part II
 - [Preprint](https://arxiv.org/html/2504.09762v1) - (How) Do Reasoning Models Reason?
 - [Preprint](http://arxiv.org/abs/2503.03961) - A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers
 - NeurIPS 2024 [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3107e4bdb658c79053d7ef59cbc804dd-Abstract-Conference.html) - How Far Can Transformers Reason? The Globality Barrier and Inductive Scratchpad
