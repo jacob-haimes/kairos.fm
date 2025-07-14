@@ -5,14 +5,6 @@ summary: We introduce a definitional shift for current AI reasoning as mere ramb
 date: 2025-07-13
 lastmod: 2025-07-13
 
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
-
 image:
   caption: 'muckrAIkers Cover Art'
   preview_only: true
