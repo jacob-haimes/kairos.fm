@@ -37,12 +37,21 @@ Description
 
 ### Chapters
 
-0: - 
+## Chapters
 
-### Links
+<div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Recording date<br>
+</div>
 
-Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.
-- <a href="" target="_blank" rel="noreferrer noopener"></a>
+## Links
+- []()
+
+### 
+- []()
+
+
+### Other Sources
+- []()
 
 <!-- end of the list -->
 </div>

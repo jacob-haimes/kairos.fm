@@ -2,8 +2,8 @@
 url: /muckraikers/e015/
 title: AI, Reasoning or Rambling?
 summary: We introduce a definitional shift for current AI reasoning as mere rambling, explaining recent studies on what models are more likely doing.
-date: 2025-07-13
-lastmod: 2025-07-13
+date: 2025-07-14
+lastmod: 2025-07-14
 
 image:
   caption: 'muckrAIkers Cover Art'
