@@ -20,7 +20,7 @@ tags:
   - StakeOut.AI Feb 2024
   - AISC
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -98,6 +98,5 @@ Links to all articles/papers which are mentioned throughout the episode can be f
   - <a href="https://arxiv.org/abs/2308.14752" target="_blank" rel="noreferrer noopener">AI Deception: A Survey of Examples, Risks, and Potential Solutions</a>
 - <a href="https://demos.co.uk/research/open-sourcing-the-ai-revolution-framing-the-debate-on-open-source-artificial-intelligence-and-regulation/" target="_blank" rel="noreferrer noopener">Open Sourcing the AI Revolution: Framing the debate on open source, artificial intelligence and regulation</a>
 - <a href="https://aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp</a>
-- <a href="https://www.patreon.com/IntoAISafety" target="_blank" rel="noreferrer noopener">Into AI Safety Patreon</a>
 
 <!-- end of the list -->

@@ -17,7 +17,7 @@ tags:
   - Interview
   - Jobs
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -54,16 +54,16 @@ For any listeners in Colorado, consider attending an RMAIIG event: [Boulder](htt
 - Layoff tracker [website](https://layoffs.fyi/)
 - The Big Newsletter [article](https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going) - Why Are We Pretending AI Is Going to Take All the Jobs?
 - METR [preprint](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) - Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
-- AI Business [blogpost](https://aibusiness.com/responsible-ai/debunking-the-ai-job-crisis) - https://aibusiness.com/responsible-ai/debunking-the-ai-job-crisis
+- AI Business [blogpost](https://aibusiness.com/responsible-ai/debunking-the-ai-job-crisis) - Debunking the AI Job Crisis
 - Crunchbase [article](https://news.crunchbase.com/layoffs/big-tech-leads-workforce-cuts-msft-amzn/) - Data: Tech Layoffs Remain Stubbornly High, With Big Tech Leading The Way
 - Computerworld [article](https://www.computerworld.com/article/4003261/tech-layoffs-surge-even-as-us-unemployment-remains-stable.html) - Tech layoffs surge even as US unemployment remains stable
-- Apollo Technical [blogpost](https://www.apollotechnical.com/ghost-jobs-in-tech-why-companies-are-posting-roles-they-dont-plan-to-fill/) - Ghost jobs in tech: Why companies are posting roles they don’t plan to fill 
+- Apollo Technical [blogpost](https://www.apollotechnical.com/ghost-jobs-in-tech-why-companies-are-posting-roles-they-dont-plan-to-fill/) - Ghost jobs in tech: Why companies are posting roles they don’t plan to fill
 - The HR Digest [article](https://www.thehrdigest.com/the-rise-of-ghost-jobs-is-leaving-job-seekers-frustrated-and-disappointed/) - The Rise of Ghost Jobs Is Leaving Job Seekers Frustrated and Disappointed
-- A Life After Layoff [video](https://www.youtube.com/watch?v=rp06jQIYQ-w) - 
+- A Life After Layoff [video](https://www.youtube.com/watch?v=rp06jQIYQ-w) -
 The Tech Job Market Is Hot Trash Right Now
-- Economy Media [video](https://www.youtube.com/watch?v=ppYtD18CokI) - 
+- Economy Media [video](https://www.youtube.com/watch?v=ppYtD18CokI) -
 Will The Tech Job Market Ever Recover?
-- Soleyman Shahir [video](https://www.youtube.com/watch?v=X0aYO8GMB4c) - 
+- Soleyman Shahir [video](https://www.youtube.com/watch?v=X0aYO8GMB4c) -
 Tech CEO Explains: The Real Reason Behind AI Layoffs
 
 ### Dark Patterns
@@ -72,7 +72,7 @@ Tech CEO Explains: The Real Reason Behind AI Layoffs
 - ICLR [paper](https://arxiv.org/abs/2503.10728) - DarkBench: Benchmarking Dark Patterns in Large Language Models
 - Computing Within Limits [paper](https://computingwithinlimits.org/2025/papers/limits2025-beigon-imposing-ai.pdf) - Imposing AI: Deceptive design patterns against sustainability
 - Communications of the ACM [blogpost](https://cacm.acm.org/practice/dark-patterns/) - Dark Patterns
-- [Preprint] - A Comprehensive Study on Dark Patterns
+- [Preprint](https://arxiv.org/html/2412.09147v1) - A Comprehensive Study on Dark Patterns
 
 ### Colorado AI Regulation
 - Senate Bill 24-205 (Colorado AI Act) [bill](https://leg.colorado.gov/sites/default/files/2024a_205_signed.pdf) and [webpage](https://leg.colorado.gov/bills/sb24-205)
