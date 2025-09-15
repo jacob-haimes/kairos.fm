@@ -1,9 +1,9 @@
 ---
 url: /intoaisafety/e02X/
-title: 
-summary: 
-date: 
-lastmod: 
+title:
+summary:
+date:
+lastmod:
 draft: true
 
 _build:
@@ -23,9 +23,9 @@ authors:
   - intoaisafety
 
 tags:
-  - 
+  -
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -33,20 +33,18 @@ categories:
 Description
 
 {{< transistor src="" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.XX.XX; ASIDES RECORDED 2025.XX.XX; <a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
-
-### Chapters
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.XX.XX; ASIDES RECORDED 2025.XX.XX; <a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
 
 ## Chapters
 
 <div style="text-align: left; font-family:monospace;">
-00:00:00 ❙ Recording date<br>
+00:00:00 ❙ Intro<br>
 </div>
 
 ## Links
 - []()
 
-### 
+###
 - []()
 
 

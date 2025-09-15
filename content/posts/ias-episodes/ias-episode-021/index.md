@@ -18,7 +18,7 @@ tags:
   - Advocacy
   - Governance
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -34,7 +34,7 @@ Will Petillo, onboarding team lead at PauseAI, joins me to discuss the grassroot
 
 
 {{< transistor src="https://share.transistor.fm/e/7ce784af" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.05.22; ASIDES RECORDED 2025.06.11; <a href="https://share.transistor.fm/s/7ce784af/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.05.22; ASIDES RECORDED 2025.06.11; <a href="https://share.transistor.fm/s/7ce784af/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
 
 ### Chapters
 
@@ -76,7 +76,7 @@ Will Petillo, onboarding team lead at PauseAI, joins me to discuss the grassroot
 - International Journal of Intelligent Systems <a href="https://onlinelibrary.wiley.com/doi/10.1155/2023/8676366" target="_blank" rel="noreferrer noopener">article</a> - Artificial Intelligence in the Military: An Overview of the Capabilities, Applications, and Challenges
 - <a href="https://arxiv.org/abs/2411.17840" target="_blank" rel="noreferrer noopener">Preprint</a> - Basic Research, Lethal Effects: Military AI Research Funding as Enlistment
 - AOAV <a href="https://aoav.org.uk/2019/military-age-males-in-us-drone-strikes/#:~:text=Military-age%20males%20refers%20to,boys%20and%20men%20with%20combatants" target="_blank" rel="noreferrer noopener">Article</a> - ‘Military Age Males’ in US Drone Strikes
-- The Conversation <a href="https://theconversation.com/gaza-war-israel-using-ai-to-identify-human-targets-raising-fears-that-innocents-are-being-caught-in-the-net-227422" target="_blank" rel="noreferrer noopener">article</a> - Gaza war: Israel using AI to identify human targets raising fears that innocents are being caught in the net 
+- The Conversation <a href="https://theconversation.com/gaza-war-israel-using-ai-to-identify-human-targets-raising-fears-that-innocents-are-being-caught-in-the-net-227422" target="_blank" rel="noreferrer noopener">article</a> - Gaza war: Israel using AI to identify human targets raising fears that innocents are being caught in the net
 - 972 <a href="https://www.972mag.com/lavender-ai-israeli-army-gaza/" target="_blank" rel="noreferrer noopener">article</a> - ‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza
 - IDF <a href="https://www.idf.il/210062" target="_blank" rel="noreferrer noopener">press release</a> - The IDF's Use of Data Technologies in Intelligence Processing
 - Lieber Institute West Point <a href="https://lieber.westpoint.edu/gospel-lavender-law-armed-conflict/" target="_blank" rel="noreferrer noopener">article</a> - Israel–Hamas 2024 Symposium
