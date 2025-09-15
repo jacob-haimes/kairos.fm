@@ -25,6 +25,7 @@ categories:
 <div style="text-align: justify">
 I'm joined by my good friend, Li-Lian Ang, first hire and product manager at BlueDot Impact. We discuss how BlueDot has evolved from their original course offerings to a new "defense-in-depth" approach, which focuses on three core threat models: reduced oversight in high risk scenarios (e.g. accelerated warfare), catastrophic terrorism (e.g. rogue actors with bioweapons), and the concentration of wealth and power (e.g. supercharged surveillance states). On top of that, we cover how BlueDot's strategies account for and reduce the negative impacts of common issues in AI safety, including exclusionary tendencies, elitism, and echo chambers.
 
+
 {{% callout warning %}}
 2025.09.15: BlueDot Impact is <a href="https://bluedot.org/join-us" target="_blank" rel="noreferrer noopener">hiring</a> right now, and should be looking to fill additional positions in the near future! If you think you'd be a good fit, I definitely recommend applying, I had a great experience when I contracted as a course facilitator. If you end up applying, let them know you found out about the opportunity from the podcast!
 {{% /callout %}}
