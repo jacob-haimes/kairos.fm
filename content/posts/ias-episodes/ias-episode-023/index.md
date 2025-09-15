@@ -1,6 +1,6 @@
 ---
 url: /intoaisafety/e023/
-title: BlueDot's Evolution w/ Li-Lian Ang
+title: Next Steps at BlueDot w/ Li-Lian Ang
 summary: How does (likely) the biggest AI safety training organization do it? Li-Lian Ang shares their strategy.
 date: 2025-09-15
 lastmod: 2025-09-15
