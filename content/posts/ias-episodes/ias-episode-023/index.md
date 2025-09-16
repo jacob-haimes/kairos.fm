@@ -1,6 +1,6 @@
 ---
 url: /intoaisafety/e023/
-title: Next Steps at BlueDot w/ Li-Lian Ang
+title: Growing BlueDot's Impact w/ Li-Lian Ang
 summary: How does (likely) the biggest AI safety training organization do it? Li-Lian Ang shares their strategy.
 date: 2025-09-15
 lastmod: 2025-09-15
@@ -8,7 +8,7 @@ lastmod: 2025-09-15
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
-  filename: ias_cover_art.jpeg
+  filename: intoaisafety-thumbnail_li-lian-ang_1280x720.jpg
 
 authors:
   - intoaisafety
@@ -26,7 +26,8 @@ categories:
 I'm joined by my good friend, Li-Lian Ang, first hire and product manager at BlueDot Impact. We discuss how BlueDot has evolved from their original course offerings to a new "defense-in-depth" approach, which focuses on three core threat models: reduced oversight in high risk scenarios (e.g. accelerated warfare), catastrophic terrorism (e.g. rogue actors with bioweapons), and the concentration of wealth and power (e.g. supercharged surveillance states). On top of that, we cover how BlueDot's strategies account for and reduce the negative impacts of common issues in AI safety, including exclusionary tendencies, elitism, and echo chambers.
 
 {{% callout warning %}}
-2025.09.15: BlueDot Impact is <a href="https://bluedot.org/join-us" target="_blank" rel="noreferrer noopener">hiring</a> right now, and should be looking to fill additional positions in the near future! If you think you'd be a good fit, I definitely recommend applying, I had a great experience when I contracted as a course facilitator. If you end up applying, let them know you found out about the opportunity from the podcast!
+2025.09.15: BlueDot Impact is  right now, and should be looking to fill additional positions in the near future! If you think you'd be a good fit, I definitely recommend applying, I had a great experience when I contracted as a course facilitator. If you end up applying, let them know you found out about the opportunity from the podcast!
+2025.09.15: Learn more about how to make design effective interventions to make AI go well and potentially even get funded for it on BlueDot Impact's <a href="https://bluedot.org/courses/agi-strategy" target="_blank" rel="noreferrer noopener">AGI Strategy course</a>! BlueDot is also <a href="https://bluedot.org/join-us" target="_blank" rel="noreferrer noopener">hiring</a>, so if you think you’d be a good fit, I definitely recommend applying; I had a great experience when I contracted as a course facilitator. If you do end up applying, let them know you found out about the opportunity from the podcast!
 {{% /callout %}}
 
 Follow Li-Lian on [LinkedIn](https://www.linkedin.com/in/anglilian/), and look at more of her work on her [blog](https://anglilian.com/)!
