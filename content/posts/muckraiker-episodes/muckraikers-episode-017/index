@@ -1,6 +1,6 @@
 ---
 url: /muckraikers/e017/
-title: Who Controls Your Chatbot
+title: AI Safety for Who?
 summary: AI safety is making you less safe: chatbot anthropomorphization, mental health harms, dark patterns
 date: 2025-10-13
 lastmod: 2025-10-13
@@ -30,22 +30,23 @@ categories:
 ---
 
 <div style="text-align: justify">
+
 Jacob and Igor argue that AI safety is hurting users, not helping them. The techniques used to make chatbots "safe" and "aligned," such as instruction tuning and RLHF, anthropomorphize AI systems such they take advantage of our instincts as social beings. At the same time, Big Tech companies push these systems for "wellness" while dodging healthcare liability, causing real harms *today*. We discuss what actual safety would look like, drawing on self-driving car regulations.
 
-{{< transistor src="" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.09.28; <a href="" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
+{{< transistor src="https://share.transistor.fm/e/222dc32a" >}}
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.09.28; <a href="https://share.transistor.fm/s/222dc32a/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
 </div>
 
 
 ## Chapters
 
 <div style="text-align: left; font-family:monospace;">
-00:00:00 ❙ Introduction & AI Investment Insanity<br>
-00:01:43 ❙ The Problem with AI Safety<br>
-00:08:16 ❙ Anthropomorphizing AI & Its Dangers<br>
-00:26:55 ❙ Mental Health, Wellness, and AI<br>
-00:39:15 ❙ Censorship, Bias, and Dual Use<br>
-00:44:42 ❙ Solutions, Community Action & Final Thoughts
+00:00 ❙ Introduction & AI Investment Insanity<br>
+01:43 ❙ The Problem with AI Safety<br>
+08:16 ❙ Anthropomorphizing AI & Its Dangers<br>
+26:55 ❙ Mental Health, Wellness, and AI<br>
+39:15 ❙ Censorship, Bias, and Dual Use<br>
+44:42 ❙ Solutions, Community Action & Final Thoughts
 </div>
 
 ## Links
