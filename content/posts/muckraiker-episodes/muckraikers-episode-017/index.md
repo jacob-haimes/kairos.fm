@@ -1,7 +1,7 @@
 ---
 url: /muckraikers/e017/
 title: AI Safety for Who?
-summary: AI safety is making you less safe: chatbot anthropomorphization, mental health harms, dark patterns
+summary: "AI safety is making you less safe: chatbot anthropomorphization, mental health harms, dark patterns"
 date: 2025-10-13
 lastmod: 2025-10-13
 
