@@ -2,7 +2,7 @@
 url: /intoaisafety/e024/
 title: Getting Agentic w/ Alistair Lowe-Norris
 summary: Responsible AI veteran Alistair Lowe-Norris on ISO standards, compliance frameworks, and building safer AI by design.
-date:2025-10-20
+date: 2025-10-20
 lastmod: 2025-10-20
 
 _build:
