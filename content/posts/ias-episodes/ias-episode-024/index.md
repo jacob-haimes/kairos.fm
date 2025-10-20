@@ -5,18 +5,10 @@ summary: Responsible AI veteran Alistair Lowe-Norris on ISO standards, complianc
 date: 2025-10-20
 lastmod: 2025-10-20
 
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
-
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
-  filename: ias_cover_art.jpeg
+  filename: intoaisafety-thumbnail_alistair-lowe-norris_1280x720.jpg
 
 authors:
   - intoaisafety
