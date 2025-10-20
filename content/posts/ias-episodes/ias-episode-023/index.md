@@ -27,7 +27,7 @@ categories:
 
 {{% callout warning %}}
 2025.09.15: Learn more about how to make design effective interventions to make AI go well and potentially even get funded for it on BlueDot Impact's <a href="https://bluedot.org/courses/agi-strategy" target="_blank" rel="noreferrer noopener">AGI Strategy course</a>! BlueDot is also <a href="https://bluedot.org/join-us" target="_blank" rel="noreferrer noopener">hiring</a>, so if you think you’d be a good fit, I definitely recommend applying; I had a great experience when I contracted as a course facilitator. If you do end up applying, let them know you found out about the opportunity from the podcast!
-{{% /callout %}}
+{{% /callout %}}<br>
 
 Follow Li-Lian on [LinkedIn](https://www.linkedin.com/in/anglilian/), and look at more of her work on her [blog](https://anglilian.com/)!
 
