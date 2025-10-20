@@ -35,7 +35,7 @@ As part of my effort to make this whole podcasting thing more sustainable, I hav
 ## Chapters
 
 <div style="text-align: left; font-family:monospace;">
-00:00:00 ❙ Intro<br>
+00:00:00 ❙ Intro <br>
 00:02:46 ❙ Trustworthy AI and the Human Side of Change<br>
 00:13:57 ❙ This is Essentially Avatar, Right?<br>
 00:23:00 ❙ AI Call Centers<br>
