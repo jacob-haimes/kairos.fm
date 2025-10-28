@@ -1,16 +1,16 @@
 ---
 url: /sue-your-ai-therapist-for-malpractice/
-title: "You Should Sue Your AI Therapist for Malpractice"
+title: 'You Should Sue Your "AI Therapist" for Malpractice'
 subtitle: Language model developers are taking advantage of you for the benefit of the shareholders
-summary: Millions of people are using language models for mental health support, and we're already seeing extensive damage. Why is this happening, and how can we stop it?
+summary: Millions are using language models for mental health support, and we're already seeing the damage. Why is this happening, and how can we stop it?
 date: 2025-10-27
 lastmod: 2025-10-27
 math: true
 
 image:
-  caption: 'DataWorker / Janet Turra'
+  caption: 'Isolation / Kathryn Conrad & Digit'
   preview_only: true
-  filename: JanetTurra_DataWorker_1280x1280.png
+  filename: KathrynConrad-DigitIsolation-1280x720.png
 
 authors:
   - jacobhaimes
@@ -23,17 +23,20 @@ categories:
 
 read_time: true
 ---
-<figure>
-    <img src="JanetTurra_DataWorker_1280x1280.png"
-         alt="A small figure sitting at a computer with his head in his hands. The top of his computer is in flames and above it a whirlwind of toxic content is spewing out. Demons, devils, skulls, death, violence, triple X, the words hate and harm bloom out from the computer and tower over him.">
-    <figcaption style="font-size:small">Image by <a href="janetturra.wordpress.com" target="_blank" rel="noreferrer noopener">Janet Turra</a> / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / DataWorker / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
-</figure>
+
+# Language model developers are taking advantage of you for the benefit of the shareholders
 
 {{% callout note %}}
 This post was adapted from an aside I wrote for <a href="https;//kairos.fm/intoaisafety/e023" target="_blank" rel="noreferrer noopener">Accelerating BlueDot's Impact w/ Li-Lian Ang</a>. I ended up cutting it out of the episode, as it really isn't what we were talking about; if you're really interested in the audio version, you can find it on the <a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noreferrer noopener">Patreon cut</a> of the episode.
 
 Regardless, the reason I did the research was because I couldn't find a formalized version of this argument. Given that, I figured it would be a shame if I didn't share it more broadly. Then I did a bit more research...
 {{% /callout %}}
+
+<figure>
+    <img src="KathrynConrad-DigitIsolation-1280x720.png"
+         alt="Illustrations of six data workers, working at computers in isolation from each other. Painted background includes hazy image of cubicles; digital overlay of glass fractures.">
+    <figcaption style="font-size:small">Image by <a href="kathrynconrad.com" target="_blank" rel="noreferrer noopener">Kathryn Conrad</a> & <a href="https://digital-dialogues.co.uk/" target="_blank" rel="noreferrer noopener">Digit</a> / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / <a href="https://betterimagesofai.org/images?artist=KathrynConrad&title=Isolation" target="_blank" rel="noreferrer noopener">Isolation</a> / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
+</figure>
 
 <div style="text-align: justify">
 
@@ -84,7 +87,7 @@ The simplest solution, in my opinion, is to create meaningful liability for mode
 
 To be clear, the rapid adoption of language models for consumer mental health support indicates a massive problem with our current society and how we treat mental health. People use these systems in place of proven interventions due to difficulties of [access](https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5557278/ai-artificial-intelligence-mental-health-therapy-chatgpt-openai) and issues with societal stigma. There are specific [applications](https://ui.adsabs.harvard.edu/abs/2025arXiv250110374M/abstract) of language models which are quite promising for making mental health care much easier to come by; however, these technologies must be investigated ethically before they are deployed en masse. As it stands right now, we are all living in a clinical trial with no ethical oversight.
 
-{{% callout note %}}
+### Extra Links
 
 If you're interested on reading up about these topics, here are some of the articles which I found most helpful when conducting my research (but weren't already linked above):
 
@@ -94,19 +97,13 @@ If you're interested on reading up about these topics, here are some of the arti
 * [4 reasons not to turn ChatGPT into your therapist](https://www.brightfama.com/blog/2025/08/28/4-reasons-not-to-turn-chatgpt-into-your-therapist/)
 * [Large language models cannot replace mental health professionals](https://makingnoiseandhearingthings.com/2022/08/03/large-language-models-cannot-replace-mental-health-professionals/)
 
-{{% /callout %}}
-
-## Footnotes
-
 [^1]: For a perspective on informed consent which is tailored to mental healthcare and psychiatry specifically, check out this [article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7055160/) from the Indian Journal of Medical Research.
 
 [^2]: Although the more concerning cases are those like Character.AI and Replika, the process of Reinforcement Learning through Human Feedback (RLHF) _necessarily_ does this as well. Igor and I get into this more on [this](https://kairos.fm/muckraikers/e017/) episode of muckrAIkers.
 
 [^3]: Found and app called "[AI Listener: Your Emotional Guide](https://www.meta.com/experiences/ai-listener-your-emotional-guide/7182773695092320/?srsltid=AfmBOop9-JHpjv75EJGP_GqaIOyjDqPpCki-S7_Kv2xU5SsvhHRH-s_0)" on Meta's marketplace while researching... truly horrifying.
 
-[^4]: For example, a recent update to Anthropic's [Use Agreement](https://www.anthropic.com/legal/aup) (from September 15th, 2025) states "Use cases related to healthcare decisions, medical diagnosis, patient care, therapy, mental health, or other medical guidance. Wellness advice (e.g., advice on sleep, stress, nutrition, exercise, etc.) does not fall under this category."
-
-Similarly, [OpenAI's](https://openai.com/policies/service-terms/) reads "Our Services are not intended for use in the diagnosis or treatment of any health condition. You are responsible for complying with applicable laws for any use of our Services in a medical or healthcare context."
+[^4]: For example, a recent update to Anthropic's [Use Agreement](https://www.anthropic.com/legal/aup) (from September 15th, 2025) states "Use cases related to healthcare decisions, medical diagnosis, patient care, therapy, mental health, or other medical guidance. Wellness advice (e.g., advice on sleep, stress, nutrition, exercise, etc.) does not fall under this category." Similarly, [OpenAI's](https://openai.com/policies/service-terms/) reads "Our Services are not intended for use in the diagnosis or treatment of any health condition. You are responsible for complying with applicable laws for any use of our Services in a medical or healthcare context."
 
 [^5]: Not to mention the [evidence](https://pubmed.ncbi.nlm.nih.gov/38471511/); while not unilaterally negative, self-diagnosis comes with significant risks and can make the jobs of healthcare professionals much more difficult.
 
