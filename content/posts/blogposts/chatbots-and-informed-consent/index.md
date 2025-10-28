@@ -23,8 +23,8 @@ categories:
 
 read_time: true
 ---
-<div style="font-size: larger,font-style: italic">
-Language model developers are taking advantage of you for the benefit of the shareholders
+<div style="font-size: larger;font-style: italic">
+Language model developers are taking advantage of you for the benefit of the shareholders.<br>
 </div>
 
 <div style="text-align: justify">
