@@ -23,8 +23,9 @@ categories:
 
 read_time: true
 ---
-
-# Language model developers are taking advantage of you for the benefit of the shareholders
+<div style="font-size: larger,font-style: italic">
+Language model developers are taking advantage of you for the benefit of the shareholders
+</div>
 
 <div style="text-align: justify">
 
@@ -46,7 +47,7 @@ Regardless, the reason I did the research was because I couldn't find a formaliz
 
 Let's start with the strong statement, and then I'll build up my argument a bit more:
 
-_**Companies developing language models (primarily user-facing chatbots) are subverting informed consent of their users. They can and should be held accountable.**_
+_Companies developing language models (primarily user-facing chatbots) are subverting informed consent of their users. They can and should be held accountable._
 
 ## What is informed consent
 To understand my perspective, we have to start with the concept of [informed consent](https://journals.lww.com/jmso/fulltext/2024/38010/importance_of_informed_consent_in_medical_practice.1.aspx) and its role in healthcare.[^1] Basically, it's a core principle in medical practice, and requires that the healthcare professional ensure the patient is fully aware of and agrees to the treatments being proposed.
@@ -57,7 +58,7 @@ Getting a bit more specific, that means the patient needs to have:
   * potential outcomes, and consequences
   * alternative interventions and their risks and benefits
 * The ability to understanding this information
-* The competency to make the decision accounting for that understanding.
+* The competency to make the decision accounting for that understanding
 
 For a number of reasons, there are very few people who can easily demonstrate informed consent when it comes to the use of LLMs for mental health.
 
@@ -69,13 +70,13 @@ These practices lead to unearned trust and asymmetric relationships with a tool 
 
 ## Don't worry, it's for "wellness"
 
-While I truly don't understand how the likes of chatbot companion companies like Character.AI and Replika have gotten away with their behavior for this long, the largest developers aren't by any means innocent.
+While I truly don't understand how the likes of chatbot companion apps like Character.AI and Replika have gotten away with their behavior for this long, the largest developers aren't by any means innocent.
 
 Big Tech is [pushing](https://opentools.ai/news/panasonic-and-anthropic-team-up-for-ai-powered-family-wellness-revolution) the use of their systems for "wellness," which includes discussions of stress, habits, and other aspects of daily life.[^3] Importantly, the fineprint in their Use Agreements take very explicit care to note that using the models for healthcare is not condoned.[^4] This exploits a [shortcoming](https://blogs.depaul.edu/jhli/2025/04/10/legal-loophole-of-health-apps-by-samra-saleem/) of current legislation, which was not designed to account for the chatbots of today. Because of the wording used, the _user_ is made accountable for knowing when they are using the system in an acceptable way for “wellness” or an unacceptable way for mental health. This allows the companies to avoid the more rigorous regulations applied to mental health software regarding aspects like privacy and data security.
 
-But the line here is extremely thin, dependent on extensive context, and requires clinical expertise, not to mention the fact that mental health professionals have been [outspoken](https://health.clevelandclinic.org/dangers-of-self-diagnosis) against self-diagnosis of conditions.[^5] Together, these factors place an unreasonable burden on users and intentionally subvert informed consent.
+But the line between "wellness" and mental health support is extremely thin, dependent on extensive context, and requires clinical expertise, not to mention the fact that mental health professionals have been [outspoken](https://health.clevelandclinic.org/dangers-of-self-diagnosis) against self-diagnosis of conditions.[^5] Together, these factors place an unreasonable burden on users and intentionally subvert informed consent.
 
-Regardless of what developers put in their Use Agreements, the fact is that tens of millions of American adults are _currently_ using chatbots and language model based technology for mental health support. In a recent [preprint](https://osf.io/preprints/osf/ygx5q_v1) "Current Real-World Use of Large Language Models for Mental Health," Stade et al. approximate this number to be 13-17 million Americans adults, but that number has grown since their survey. Additionally, their count doesn't include teens, who are traditionally quicker to adopt new technologies.
+Regardless of what developers put in their Use Agreements, the fact is that tens of millions of American adults are _currently_ using chatbots and language model based technology for mental health support.[^6] In a recent [preprint](https://osf.io/preprints/osf/ygx5q_v1) "Current Real-World Use of Large Language Models for Mental Health," Stade et al. approximate this number to be 13-17 million Americans adults, but that number has grown since their survey. Additionally, their count doesn't include teens, who are traditionally quicker to adopt new technologies.
 
 So, while model developers hide behind Use Agreements, their intentionally ill-defined technology is undeniably being used for mental health support.
 
@@ -110,5 +111,7 @@ If you're interested on reading up about these topics, here are some of the arti
 [^4]: For example, a recent update to Anthropic's [Use Agreement](https://www.anthropic.com/legal/aup) (from September 15th, 2025) states "Use cases related to healthcare decisions, medical diagnosis, patient care, therapy, mental health, or other medical guidance [are prohibited]. Wellness advice (e.g., advice on sleep, stress, nutrition, exercise, etc.) does not fall under this category." Similarly, [OpenAI's](https://openai.com/policies/service-terms/) reads "Our Services are not intended for use in the diagnosis or treatment of any health condition. You are responsible for complying with applicable laws for any use of our Services in a medical or healthcare context."
 
 [^5]: Not to mention the [evidence](https://pubmed.ncbi.nlm.nih.gov/38471511/); while not unilaterally negative, self-diagnosis comes with significant risks and can make the jobs of healthcare professionals much more difficult.
+
+[^6]: I only make a claim about American adults because that's the best data I know of. This problem is by no means isolated to the United States.
 
 </div>
