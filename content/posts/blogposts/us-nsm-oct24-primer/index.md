@@ -1,19 +1,10 @@
 ---
 url: /us-nsm-oct24-primer/
 title: US AI NSM Primer, Oct 2024
-summary: 
+summary: Primer on Joe Biden's October 2024 National Security Memorandum
 date: 2024-11-19
-lastmod: 2024-01-19
-draft: true
+lastmod: 2024-11-19
 math: true
-
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
 
 image:
   caption: 'White Security Camera / Francesco Ungaro'
@@ -27,18 +18,18 @@ tags:
   - United States
   - AI Governance
 
-categories: 
+categories:
   - Blogpost
 
 read_time: true
 ---
 <figure>
-    <img loading="lazy" width="" height="" decoding="async" data-nimg="1" 
-         src=""
-         alt="">
+    <img loading="lazy" width="" height="" decoding="async" data-nimg="1"
+         src="pexels-francesco-ungaro"
+         alt="A white security camera">
     <figcaption style="font-size:small">
-    Image by 
-    <a target="_blank" rel="noreferrer noopener" href="https://www.pexels.com/@francesco-ungaro/">Francesco Ungaro</a> / <a href="https://www.pexels.com" target="_blank" rel="noreferrer noopener">Pexels</a> / 
+    Image by
+    <a target="_blank" rel="noreferrer noopener" href="https://www.pexels.com/@francesco-ungaro/">Francesco Ungaro</a> / <a href="https://www.pexels.com" target="_blank" rel="noreferrer noopener">Pexels</a> /
     White Security Camera</figcaption>
 </figure>
 
@@ -221,4 +212,4 @@ To us muckrAIkers, this memorandum proposes an opportunity to understand how the
 
 </div>
 
-## 
+##

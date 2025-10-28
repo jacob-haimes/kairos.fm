@@ -1,0 +1,37 @@
+I'm joined by my good friend, Li-Lian Ang, first hire and product manager at BlueDot Impact. We discuss how BlueDot has evolved from their original course offerings to a new "defense-in-depth" approach, which focuses on three core threat models: reduced oversight in high risk scenarios (e.g. accelerated warfare), catastrophic terrorism (e.g. rogue actors with bioweapons), and the concentration of wealth and power (e.g. supercharged surveillance states). On top of that, we cover how BlueDot's strategies account for and reduce the negative impacts of common issues in AI safety, including exclusionary tendencies, elitism, and echo chambers.
+
+2025.09.15: BlueDot Impact is hiring (https://bluedot.org/join-us)  right now, and should be looking to fill additional positions in the near future! If you think you'd be a good fit, I definitely recommend applying, I had a great experience when I contracted as a course facilitator. If you end up applying, let them know you found out about the opportunity from the podcast!
+
+Follow Li-Lian on LinkedIn (https://www.linkedin.com/in/anglilian/) , and look at more of her work on her blog (https://anglilian.com/) !
+
+As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm Patreon (https://www.patreon.com/cw/Kairosfm)  which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.
+
+  •  (03:23) - Meeting Through the Course
+  •  (05:46) - Eating Your Own Dog Food
+  •  (13:13) - Impact Acceleration
+  •  (22:13) - Breaking Out of the AI Safety Mold
+  •  (26:06) - Bluedot’s Risk Framework
+  •  (41:38) - Dangers of "Frontier" Models
+  •  (54:06) - The Need for AI Safety Advocates
+  •  (01:00:11) - Hot Takes and Pet Peeves
+
+This episode had too many links to fit all of them into the YouTube description, so check them out at https://kairos.fm/intoaisafety/e023/
+
+Selected Links
+  •  BlueDot Impact (https://bluedot.org/)
+  •  Nature article (https://arxiv.org/abs/2502.09288) - AI Safety for Everyone
+  •  RAND report (https://www.rand.org/pubs/research_reports/RRA2977-2.html) - The Operational Risks of AI in Large-Scale Biological Attacks
+  •  Nature Human Behavior article (https://www.nature.com/articles/s41562-025-02194-6?error=cookies_not_supported&code=32f522a9-c964-4efa-9565-e013fbef4d63) - On the conversational persuasiveness of GPT-4
+  •  Western News article (https://news.westernu.ca/2025/08/danger-of-anthropomorphic-ai/) - Expert insight: Humanlike chatbots detract from developing AI for the human good
+  •  Artificial Ignorance article (https://www.ignorance.ai/p/the-chatbot-trap) - The Chatbot Trap
+  •  Carnegie Council blogpost (https://carnegiecouncil.org/media/article/what-do-we-mean-when-we-talk-about-ai-democratization) - What Do We Mean When We Talk About "AI Democratization"?
+  •  BlueDot Impact blogpost(https://bluedot.org/blog/how-does-ai-learn) - How Does AI Learn? A Beginner's Guide with Examples
+  •  BlueDot Impact blogpost(https://bluedot.org/blog/ai-safety-advocacy) - AI safety needs more public-facing advocacy
+
+More Li-Lian Links
+  •  Humans of Minerva podcast website (https://humansofminerva.com)
+  •  Li-Lian's book (https://www.goodreads.com/book/show/57027582-purple-is-the-noblest-shroud) - Purple is the Noblest Shroud
+
+Relevant Podcasts from Kairos.fm
+  •  Scaling Democracy w/ Dr. Igor Krawczuk (https://kairos.fm/intoaisafety/e019/) for AI safety exclusion and echo chambers
+  •  Getting into PauseAI w/ Will Petillo (https://kairos.fm/intoaisafety/e021/) for AI in warfare and exclusion in AI safety
