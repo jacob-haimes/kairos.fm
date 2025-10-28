@@ -26,11 +26,15 @@ read_time: true
 
 # Language model developers are taking advantage of you for the benefit of the shareholders
 
+<div style="text-align: justify">
+
 {{% callout note %}}
 This post was adapted from an aside I wrote for <a href="https;//kairos.fm/intoaisafety/e023" target="_blank" rel="noreferrer noopener">Accelerating BlueDot's Impact w/ Li-Lian Ang</a>. I ended up cutting it out of the episode, as it really isn't what we were talking about; if you're really interested in the audio version, you can find it on the <a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noreferrer noopener">Patreon cut</a> of the episode.
 
 Regardless, the reason I did the research was because I couldn't find a formalized version of this argument. Given that, I figured it would be a shame if I didn't share it more broadly. Then I did a bit more research...
 {{% /callout %}}
+
+</div>
 
 <figure>
     <img src="KathrynConrad-DigitIsolation-1280x720.png"
@@ -42,7 +46,7 @@ Regardless, the reason I did the research was because I couldn't find a formaliz
 
 Let's start with the strong statement, and then I'll build up my argument a bit more:
 
-> Companies developing language models (primarily user-facing chatbots) are subverting informed consent of their users. They can and should be held accountable.
+_**Companies developing language models (primarily user-facing chatbots) are subverting informed consent of their users. They can and should be held accountable.**_
 
 ## What is informed consent
 To understand my perspective, we have to start with the concept of [informed consent](https://journals.lww.com/jmso/fulltext/2024/38010/importance_of_informed_consent_in_medical_practice.1.aspx) and its role in healthcare.[^1] Basically, it's a core principle in medical practice, and requires that the healthcare professional ensure the patient is fully aware of and agrees to the treatments being proposed.
@@ -103,7 +107,7 @@ If you're interested on reading up about these topics, here are some of the arti
 
 [^3]: Found and app called "[AI Listener: Your Emotional Guide](https://www.meta.com/experiences/ai-listener-your-emotional-guide/7182773695092320/?srsltid=AfmBOop9-JHpjv75EJGP_GqaIOyjDqPpCki-S7_Kv2xU5SsvhHRH-s_0)" on Meta's marketplace while researching... truly horrifying.
 
-[^4]: For example, a recent update to Anthropic's [Use Agreement](https://www.anthropic.com/legal/aup) (from September 15th, 2025) states "Use cases related to healthcare decisions, medical diagnosis, patient care, therapy, mental health, or other medical guidance. Wellness advice (e.g., advice on sleep, stress, nutrition, exercise, etc.) does not fall under this category." Similarly, [OpenAI's](https://openai.com/policies/service-terms/) reads "Our Services are not intended for use in the diagnosis or treatment of any health condition. You are responsible for complying with applicable laws for any use of our Services in a medical or healthcare context."
+[^4]: For example, a recent update to Anthropic's [Use Agreement](https://www.anthropic.com/legal/aup) (from September 15th, 2025) states "Use cases related to healthcare decisions, medical diagnosis, patient care, therapy, mental health, or other medical guidance [are prohibited]. Wellness advice (e.g., advice on sleep, stress, nutrition, exercise, etc.) does not fall under this category." Similarly, [OpenAI's](https://openai.com/policies/service-terms/) reads "Our Services are not intended for use in the diagnosis or treatment of any health condition. You are responsible for complying with applicable laws for any use of our Services in a medical or healthcare context."
 
 [^5]: Not to mention the [evidence](https://pubmed.ncbi.nlm.nih.gov/38471511/); while not unilaterally negative, self-diagnosis comes with significant risks and can make the jobs of healthcare professionals much more difficult.
 
