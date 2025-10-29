@@ -17,8 +17,10 @@ authors:
 
 tags:
   - Interview
+  - Hype
+  - Big Tech Narratives
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -103,7 +105,7 @@ Links to all articles/papers which are mentioned throughout the episode can be f
 - <a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/7e05d6f828574fbc975a896b25bb011e-Paper.pdf" target="_blank" rel="noreferrer noopener">The Smoothed Possibility of Social Choice</a>, an intro in social choice theory and how it overlaps with ML
 - Relating to Dan Hendrycks
   - <a href="https://arxiv.org/abs/2303.16200" target="_blank" rel="noreferrer noopener">Natural Selection Favors AIs over Humans</a>
-    - "One easy-to-digest source to highlight what he gets wrong [is] <a href="https://pressbooks.calstate.edu/explorationsbioanth2/chapter/17/" target="_blank" rel="noreferrer noopener">Social and Biopolitical Dimensions of Evolutionary Thinking</a>" -Igor 
+    - "One easy-to-digest source to highlight what he gets wrong [is] <a href="https://pressbooks.calstate.edu/explorationsbioanth2/chapter/17/" target="_blank" rel="noreferrer noopener">Social and Biopolitical Dimensions of Evolutionary Thinking</a>" -Igor
   - <a href="https://www.aisafetybook.com" target="_blank" rel="noreferrer noopener">Introduction to AI Safety, Ethics, and Society</a>, recently published textbook
   - "<a href="https://arxiv.org/pdf/2306.12001#page=10.19" target="_blank" rel="noreferrer noopener">Source</a> to the section [of this paper] that makes Dan one of my favs from that crowd." -Igor
   - <a href="https://twitter.com/DanHendrycks/status/1710312043503321141" target="_blank" rel="noreferrer noopener">Twitter post</a> referenced in the episode

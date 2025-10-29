@@ -14,10 +14,11 @@ authors:
   - muckraikers
 
 tags:
-  - '"AI"'
+  - Big Tech Narratives
+  - Hype
   - Business
 
-categories: 
+categories:
   - Podcast
 ---
 

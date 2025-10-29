@@ -14,9 +14,10 @@ authors:
   - muckraikers
 
 tags:
-  - '"AI"'
+  - Big Tech Narratives
+  - Hype
 
-categories: 
+categories:
   - Podcast
 ---
 

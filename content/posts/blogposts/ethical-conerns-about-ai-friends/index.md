@@ -14,10 +14,10 @@ authors:
   - sucizem
 
 tags:
-  - '"AI"'
-  - Current Harms
+  - AI and Mental Health
+  - Harms
 
-categories: 
+categories:
   - Blogpost
 
 read_time: true
@@ -26,7 +26,7 @@ read_time: true
 </a></div>
 
 <figure>
-    <img loading="lazy" width="1024" height="576" decoding="async" data-nimg="1" 
+    <img loading="lazy" width="1024" height="576" decoding="async" data-nimg="1"
          src="Ying-ChiehLee-KingstonSchool of Art Who'sCreating the Kawaii Girl_-1280x905.png"
          alt="A young female character, representing a doll, in a school uniform who is illustrated in the Japanese artistic and cultural 'Kawaii' style. The bright doll with green eyes is in the palm of an anonymous and sinister figure and surrounded by darkness and shadow in contrast to her colourful uniform. There is a faint web-like pattern on the figures and the background.">
     <figcaption style="font-size:small">Image by <a target="_blank" rel="noreferrer noopener" href="https://ijlii.myportfolio.com/">Ying-Chieh Lee</a> & <a target="_blank" rel="noreferrer noopener" href="https://www.kingston.ac.uk/faculties/kingston-school-of-art/">Kingston School of Art</a> / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / Who's Creating the Kawaii Girl? / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
@@ -91,4 +91,3 @@ As AI friends become more integrated into everyday life, we must carefully consi
 By demanding clinical validation, promoting transparency, and encouraging balanced usage, we can create a future where AI friends enhance social well-being without compromising human values. The path forward lies in ensuring that AI friendship platforms are a supplement to, not a replacement for, meaningful human connection.
 
 </div>
-

@@ -15,9 +15,10 @@ authors:
 
 tags:
   - Minisode
-  - '"AI"'
+  - Big Tech Narratives
+  - Hype
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -48,7 +49,7 @@ DeepSeek R1 has taken the world by storm, causing a stock market crash and promp
 
 ### Fallout coverage
 - The Verge [article](https://www.theverge.com/news/601195/openai-evidence-deepseek-distillation-ai-data) - OpenAI has evidence that its models helped train China’s DeepSeek
-- The Signal [article](https://signalscv.com/2025/01/nvidia-loses-nearly-600-billion-in-deepseek-crash/) - Nvidia loses nearly $600 billion in DeepSeek crash 
+- The Signal [article](https://signalscv.com/2025/01/nvidia-loses-nearly-600-billion-in-deepseek-crash/) - Nvidia loses nearly $600 billion in DeepSeek crash
 - CNN [article](https://edition.cnn.com/2025/02/06/tech/deepseek-ai-us-ban-bill/index.html) - US lawmakers want to ban DeepSeek from government devices
 - Fortune [article](https://fortune.com/2025/01/27/mark-zuckerberg-meta-llama-assembling-war-rooms-engineers-deepseek-ai-china/) - Meta is reportedly scrambling ‘war rooms’ of engineers to figure out how DeepSeek’s AI is beating everyone else at a fraction of the price
 - Dario Amodei's [blogpost](https://darioamodei.com/on-deepseek-and-export-controls) - On DeepSeek and Export Controls

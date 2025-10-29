@@ -16,7 +16,7 @@ authors:
 tags:
   - Interview
   - Advocacy
-  - Governance
+  - AI Governance
 
 categories:
   - Podcast

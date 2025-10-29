@@ -14,9 +14,11 @@ authors:
   - muckraikers
 
 tags:
-  - '"AI"'
+  - Big Tech Narratives
+  - Hype
+  - Machine Learning
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -75,7 +77,7 @@ Check out our DeepSeek [minisode](https://kairos.fm/muckraikers/b012/) for a sna
 - The Verge [article](https://www.theverge.com/news/601195/openai-evidence-deepseek-distillation-ai-data) - OpenAI has evidence that its models helped train China’s DeepSeek
 - Interesting Engineer [article](https://interestingengineering.com/culture/deepseeks-ai-training-cost-billion?group=test_a) - $6M myth: DeepSeek’s true AI cost is 216x higher at $1.3B, research reveals
 - Ars Technica [article](https://arstechnica.com/ai/2025/01/microsoft-embraces-openai-competitor-deepseek-on-its-ai-hosting-service/) - Microsoft now hosts AI model accused of copying OpenAI data
-- The Signal [article](https://signalscv.com/2025/01/nvidia-loses-nearly-600-billion-in-deepseek-crash/) - Nvidia loses nearly $600 billion in DeepSeek crash 
+- The Signal [article](https://signalscv.com/2025/01/nvidia-loses-nearly-600-billion-in-deepseek-crash/) - Nvidia loses nearly $600 billion in DeepSeek crash
 - Yahoo Finance [article](https://finance.yahoo.com/news/the-magnificent-7-stocks-are-having-their-worst-quarter-in-more-than-2-years-190335944.html) - The 'Magnificent 7' stocks are having their worst quarter in more than 2 years
 - Reuters [article](https://www.reuters.com/technology/microsoft-pulls-back-more-data-center-leases-us-europe-analysts-say-2025-03-26/) - Microsoft pulls back from more data center leases in US and Europe, analysts say
 

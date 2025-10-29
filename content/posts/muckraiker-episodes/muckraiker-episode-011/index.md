@@ -3,7 +3,7 @@ url: /muckraikers/e011/
 title: Understanding AI World Models w/ Chris Canal
 summary: Chris Canal, founder of Equistamp, joins muckrAIkers as our first ever podcast guest to discuss AI risks and the world models that inform them.
 date: 2025-01-27
-lastmod: 
+lastmod:
 
 image:
   caption: 'muckrAIkers Cover Art'
@@ -14,15 +14,16 @@ authors:
   - muckraikers
 
 tags:
-  - '"AI"'
+  - Big Tech Narratives
+  - Hype
   - Interview
 
-categories: 
+categories:
   - Podcast
 ---
 
 <div style="text-align: justify">
-Chris Canal, co-founder of EquiStamp, joins muckrAIkers as our first ever podcast guest! In this ~3.5 hour interview, we discuss intelligence vs. competencies, the importance of test-time compute, moving goalposts, the orthogonality thesis, and much more. 
+Chris Canal, co-founder of EquiStamp, joins muckrAIkers as our first ever podcast guest! In this ~3.5 hour interview, we discuss intelligence vs. competencies, the importance of test-time compute, moving goalposts, the orthogonality thesis, and much more.
 
 A seasoned software developer, Chris started EquiStamp as a way to improve our current understanding of model failure modes and capabilities in late 2023. Now a key contractor for METR, EquiStamp evaluates the next generation of LLMs from frontier model developers like OpenAI and Anthropic.
 

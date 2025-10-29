@@ -13,10 +13,11 @@ authors:
   - muckraikers
 
 tags:
-  - '"AI"'
+  - Big Tech Narratives
+  - Hype
   - Close Read
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -82,7 +83,7 @@ In-context Scheming
 - [Paper](https://arxiv.org/abs/2402.04614) - Faithfulness vs. Plausibility: On the (Un)Reliability of Explanations from Large Language Models
 
 ### Other Mentioned/Relevant Sources
-- Andy Jones [blogpost](https://andrewcharlesjones.github.io/journal/rao-blackwellization.html) - Rao-Blackwellization 
+- Andy Jones [blogpost](https://andrewcharlesjones.github.io/journal/rao-blackwellization.html) - Rao-Blackwellization
 - [Paper](https://arxiv.org/abs/2407.07890) - Training on the Test Task Confounds Evaluation and Emergence
 - [Paper](https://arxiv.org/abs/2412.03556) - Best-of-N Jailbreaking
 - Research [landing page](https://www.swebench.com) - SWE Bench
@@ -95,6 +96,6 @@ In-context Scheming
 ### Unrelated Developments
 - Cruz's [letter](https://www.commerce.senate.gov/services/files/55267EFF-11A8-4BD6-BE1E-61452A3C48E3) to Merrick Garland
 - AWS News Blog [article](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/) - Introducing Amazon Nova foundation models: Frontier intelligence and industry leading price performance
-- BleepingComputer [article](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/) - Ultralytics AI model hijacked to infect thousands with cryptominer 
+- BleepingComputer [article](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/) - Ultralytics AI model hijacked to infect thousands with cryptominer
 - The Register [article](https://www.theregister.com/2024/12/07/microsoft_copilot_vision/) - Microsoft teases Copilot Vision, the AI sidekick that judges your tabs
 - Fox Business [article](https://www.foxbusiness.com/technology/openai-ceo-sam-altman-looking-forward-working-trump-admin-says-us-must-build-best-ai-infrastructure) - OpenAI CEO Sam Altman looking forward to working with Trump admin, says US must build best AI infrastructure

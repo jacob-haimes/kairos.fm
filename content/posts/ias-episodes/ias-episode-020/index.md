@@ -15,9 +15,11 @@ authors:
 
 tags:
   - Interview
+  - Advocacy
+  - AI Governance
   - AISC
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -74,7 +76,7 @@ Links to all articles/papers which are mentioned throughout the episode can be f
 - Global Justice Now <a href="https://www.globaljustice.org.uk/resource/democracy-at-risk-in-davos-new-report-exposes-big-tech-lobbying-and-political-interference/" target="_blank" rel="noreferrer noopener">report</a> - Democracy at risk in Davos: new report exposes big tech lobbying and political interference
 - Ipsos <a href="https://www.ipsos.com/en-us/where-americans-stand-ai" target="_blank" rel="noreferrer noopener">article</a> - Where Americans stand on AI
 - AP-NORC <a href="https://apnorc.org/projects/there-is-bipartisan-concern-about-the-use-of-ai-in-the-2024-elections/" target="_blank" rel="noreferrer noopener">report</a> - There Is Bipartisan Concern About the Use of AI in the 2024 Elections
-- AI Action Summit <a href="https://arxiv.org/pdf/2501.17805" target="_blank" rel="noreferrer noopener">report</a> - International AI Safety Report 
+- AI Action Summit <a href="https://arxiv.org/pdf/2501.17805" target="_blank" rel="noreferrer noopener">report</a> - International AI Safety Report
 - YouGov <a href="https://today.yougov.com/technology/articles/51368-do-americans-think-ai-will-have-positive-or-negative-impact-society-artificial-intelligence-poll" target="_blank" rel="noreferrer noopener">article</a> - Do Americans think AI will have a positive or negative impact on society?
 
 <!-- end of the list -->

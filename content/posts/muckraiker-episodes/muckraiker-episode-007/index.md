@@ -14,10 +14,11 @@ authors:
   - muckraikers
 
 tags:
-  - '"AI"'
+  - Big Tech Narratives
+  - Hype
   - Business
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -68,7 +69,7 @@ Multiple news outlets, including The Information, Bloomberg, and Reuters [see so
 - NBER [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=226909) - Bubbles, Rational Expectations and Financial Markets
 - Clayton Christensen [lecture capture](https://www.youtube.com/watch?v=rpkoCZ4vBSI) - Clayton Christensen: Disruptive innovation
 - The New Republic [article](https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction) - The “Godfather of AI” Predicted I Wouldn’t Have a Job. He Was Wrong.
-- Latent Space [article](https://www.latent.space/p/gpu-bubble) - $2 H100s: How the GPU Rental Bubble Burst 
+- Latent Space [article](https://www.latent.space/p/gpu-bubble) - $2 H100s: How the GPU Rental Bubble Burst
 
 ### On Productization
 - Palantir [press release](https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/) on introduction of Claude to US security and defense

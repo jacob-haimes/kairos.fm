@@ -16,7 +16,7 @@ tags:
   - Interview
   - Research
 
-categories: 
+categories:
   - Podcast
 ---
 

@@ -14,9 +14,10 @@ authors:
   - muckraikers
 
 tags:
-  - Governance
+  - AI Governance
+  - Hype
 
-categories: 
+categories:
   - Podcast
 ---
 
@@ -56,7 +57,7 @@ While on the campaign trail, Trump made claims about repealing Biden's Executive
 - Bengio's [paper](https://www.journalofdemocracy.org/articles/ai-and-catastrophic-risk/) - AI and Catastrophic Risk
 - Davidad's Safeguarded AI [program](https://www.aria.org.uk/programme-safeguarded-ai/) at ARIA
 - MIT Technology Review [article](https://www.technologyreview.com/2024/01/17/1086704/china-ai-regulation-changes-2024/) - Four things to know about China’s new AI rules in 2024
-- GovInsider [article](https://govinsider.asia/intl-en/article/australias-national-policy-for-ethical-use-of-ai-starts-to-take-shape) - Australia’s national policy for ethical use of AI starts to take shape 
+- GovInsider [article](https://govinsider.asia/intl-en/article/australias-national-policy-for-ethical-use-of-ai-starts-to-take-shape) - Australia’s national policy for ethical use of AI starts to take shape
 - Future of Privacy forum [article](https://fpf.org/blog/global/the-african-unions-continental-ai-strategy-data-protection-and-governance-laws-set-to-play-a-key-role-in-ai-regulation/) - The African Union’s Continental AI Strategy: Data Protection and Governance Laws Set to Play a Key Role in AI Regulation
 
 ### Taxes

@@ -1,5 +1,5 @@
 ---
-url: /sue-your-ai-therapist-for-malpractice/
+url: /sue-your-ai-therapist/
 title: 'You Should Sue Your "AI Therapist" for Malpractice'
 subtitle: Language model developers are taking advantage of you for the benefit of the shareholders
 summary: Millions are using language models for mental health support, and we're already seeing the damage. Why is this happening, and how can we stop it?
@@ -17,14 +17,15 @@ authors:
 
 tags:
   - AI and Mental Health
+  - Harms
 
 categories:
   - Blogpost
 
 read_time: true
 ---
-<div style="font-size: larger;font-style: italic">
-Language model developers are taking advantage of you for the benefit of the shareholders.<br>
+<div style="font-size: larger;font-style: italic;">
+Language model developers are taking advantage of you for the benefit of the shareholders.<br><br>
 </div>
 
 <div style="text-align: justify">

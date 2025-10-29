@@ -24,6 +24,7 @@ authors:
 
 tags:
   - AI Governance
+  - Odyssean Institute
 
 categories:
   - Blogpost

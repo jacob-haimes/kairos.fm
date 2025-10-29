@@ -16,6 +16,8 @@ authors:
 tags:
   - Interview
   - Jobs
+  - Harms
+  - Training/Field-building
 
 categories:
   - Podcast

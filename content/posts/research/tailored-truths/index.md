@@ -13,7 +13,7 @@ date: 2025-02-11
 doi: ''
 lastmod: 2025-02-11
 
-categories: 
+categories:
   - Research
 
 reading_time: false
@@ -33,7 +33,8 @@ summary: 'Landing page for "Tailored Truths" research paper.'
 
 tags:
   - Disinformation
-  - Evals
+  - Language Model Evals
+  - Apart Research
 
 featured: true
 
@@ -47,7 +48,7 @@ links:
   url: https://llmdebate.jaspa.codes/
 # - name: blog
 #   icon: custom/blog-solid
-#   url: 
+#   url:
 
 url_pdf: 'https://arxiv.org/pdf/2501.17273'
 url_code: 'https://github.com/JasperTimm/LLMPersuasion'
@@ -78,7 +79,7 @@ projects: []
 slides: ""
 ---
 
-## Main Motivation and Research Question: 
+## Main Motivation and Research Question:
 
 <div style="text-align: justify">
 
@@ -196,7 +197,7 @@ The low cost and high impact of AI-driven persuasion highlights the need for saf
 </div>
 
 ## Ethical considerations
- 
+
 <div style="text-align: justify">
 
 At the conclusion of the study, participants were informed that some of the models were instructed to make up falsified statistics in order to strengthen their arguments. They were also given a recommended reading list to better inform themselves about false information on

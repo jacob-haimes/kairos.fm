@@ -14,10 +14,10 @@ authors:
   - muckraikers
 
 tags:
-  - Governance
+  - AI Governance
   - United States
 
-categories: 
+categories:
   - Podcast
 ---
 

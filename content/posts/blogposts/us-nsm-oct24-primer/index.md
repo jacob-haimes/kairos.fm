@@ -9,7 +9,7 @@ math: true
 image:
   caption: 'White Security Camera / Francesco Ungaro'
   preview_only: true
-  filename: pexels-francesco-ungaro
+  filename: pexels-francesco-ungaro.jpg
 
 authors:
   - jacobhaimes
@@ -23,21 +23,22 @@ categories:
 
 read_time: true
 ---
-<figure>
-    <img loading="lazy" width="" height="" decoding="async" data-nimg="1"
-         src="pexels-francesco-ungaro"
-         alt="A white security camera">
-    <figcaption style="font-size:small">
-    Image by
-    <a target="_blank" rel="noreferrer noopener" href="https://www.pexels.com/@francesco-ungaro/">Francesco Ungaro</a> / <a href="https://www.pexels.com" target="_blank" rel="noreferrer noopener">Pexels</a> /
-    White Security Camera</figcaption>
-</figure>
 
 <div style="text-align: justify">
 
 As a companion to muckrAIkers sixth episode, [US National Security Memorandum on AI, Oct 2024](https://kairos.fm/muckraikers/e006/), we wanted to release a short blogpost summarizing key takeaways from the lengthy document. Perhaps it will be moot in a couple months, but we can still use it to gain insights on how the US government is addressing "AI".
 
 </div>
+
+<figure>
+    <img loading="lazy" width="" height="" decoding="async" data-nimg="1"
+         src="pexels-francesco-ungaro.jpg"
+         alt="A white security camera">
+    <figcaption style="font-size:small">
+    Image by
+    <a target="_blank" rel="noreferrer noopener" href="https://www.pexels.com/@francesco-ungaro/">Francesco Ungaro</a> / <a href="https://www.pexels.com" target="_blank" rel="noreferrer noopener">Pexels</a> /
+    White Security Camera</figcaption>
+</figure>
 
 ## A Behemoth Shouldn't Twitch
 

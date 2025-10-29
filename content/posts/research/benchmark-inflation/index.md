@@ -25,7 +25,7 @@ date: 2024-10-11
 doi: ''
 lastmod: 2025-01-27
 
-categories: 
+categories:
   - Research
 
 reading_time: false
@@ -44,7 +44,7 @@ summary: Landing page for the Benchmark Inflation research paper.
 
 tags:
   - Machine Learning
-  - Evaluations
+  - Language Model Evals
   - Apart Research
 
 featured: true
@@ -166,16 +166,16 @@ Please send all inquiries to <code>jacob.d.haimes@gmail.com</code> and <code>cwe
   eprint = {2410.09247},
   archivePrefix = {arXiv},
   primaryClass = {cs.LG},
-  url = {https://arxiv.org/abs/2410.09247}, 
+  url = {https://arxiv.org/abs/2410.09247},
   language = {en},
 }
 ```
-  <!-- 
+  <!--
   month        = {},
   publisher    = {},
   version      = {},
   doi          = {},
-  url          = {} 
+  url          = {}
   https://docs.citationstyles.org/en/stable/specification.html#appendix-iv-variables
   -->
   <!-- </code>

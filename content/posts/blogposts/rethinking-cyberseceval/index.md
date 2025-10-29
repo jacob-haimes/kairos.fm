@@ -16,8 +16,9 @@ authors:
 tags:
   - Machine Learning
   - Cybersecurity
+  - Apart Research
 
-categories: 
+categories:
   - Blogpost
 
 read_time: true
@@ -25,12 +26,12 @@ read_time: true
 <div style="font-size:small;font-style: italic;">This is a linkpost for <a href="https://www.apartresearch.com/post/rethinking-cyberseceval-an-llm-aided-approach-to-evaluation-critique" target="_blank" rel="noreferrer noopener">https://www.apartresearch.com/post/rethinking-cyberseceval-an-llm-aided-approach-to-evaluation-critique</a></div>
 
 <figure>
-    <img loading="lazy" width="" height="" decoding="async" data-nimg="1" 
+    <img loading="lazy" width="" height="" decoding="async" data-nimg="1"
          src="rethinking-cse.svg"
          alt="Thumbnail for the Rethinking CyberSecEval blogposts">
     <figcaption style="font-size:small">
-    Image by Harihan et al. / <a href="https://www.apartresearch.com" target="_blank" rel="noreferrer noopener">Apart Research</a> / 
-    Rethinking CyberSecEval Thumbnail / 
+    Image by Harihan et al. / <a href="https://www.apartresearch.com" target="_blank" rel="noreferrer noopener">Apart Research</a> /
+    Rethinking CyberSecEval Thumbnail /
     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
 </figure>
 
