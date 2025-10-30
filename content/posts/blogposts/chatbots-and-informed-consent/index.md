@@ -4,7 +4,7 @@ title: 'You Should Sue Your "AI Therapist" for Malpractice'
 subtitle: Language model developers are taking advantage of you for the benefit of the shareholders
 summary: Millions are using language models for mental health support, and we're already seeing the damage. Why is this happening, and how can we stop it?
 date: 2025-10-27
-lastmod: 2025-10-27
+lastmod: 2025-10-30
 math: true
 
 image:
@@ -83,11 +83,11 @@ So, while model developers hide behind Use Agreements, their intentionally ill-d
 
 ## One way to solve the problem
 
-Here's the thing, this isn't a difficult problem to solve. We can address a very significant portion of this problem _right now_ with known technical solutions similar to those that have been implemented to prevent chatbots from saying the names of certain [specific individuals](https://www.theatlantic.com/technology/archive/2024/12/chatgpt-wont-say-my-name/681028/). Doing so would require a coarse filter that stops conversations whenever they vear too close towards _potentially_ problematic.
+Here's the thing, this isn't a difficult problem to solve. We can address a very significant portion of this problem _right now_ with known technical solutions similar to those that have been implemented to prevent chatbots from saying the names of certain [specific individuals](https://www.theatlantic.com/technology/archive/2024/12/chatgpt-wont-say-my-name/681028/). Doing so would require a coarse filter that stops conversations whenever they vear too close towards _potentially_ problematic.[^7]
 
 However, as mentioned previously, whether or not a chat response is indicative of a concerning mental health problem is not trivial; depending on the patient and context, two chat conversations could be seen as harmless or extremely concerning. As a result, Big Tech would massively reduce the space of conversations that could be had with their systems if they were to implement such an approach. They simply won't do this, because it will hurt their bottom line.
 
-The simplest solution, in my opinion, is to create meaningful liability for model developers when their intentionally ill-defined systems are used for mental health. Similarly to the [scramble](https://futurism.com/openai-forensic-psychiatrist) we've recently seen OpenAI conducting in an attempt to calm this brewing storm, we would see a massive shift in the priorities of these companies.
+The simplest solution, in my opinion, is to create meaningful liability for model developers when their intentionally ill-defined systems are used for mental health. Similarly to the [scramble](https://futurism.com/openai-forensic-psychiatrist) we've recently seen OpenAI conducting in an [attempt](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/) to calm this brewing storm, we would see a massive shift in the priorities of these companies.
 
 ## The mental health crisis
 
@@ -114,5 +114,7 @@ If you're interested on reading up about these topics, here are some of the arti
 [^5]: Not to mention the [evidence](https://pubmed.ncbi.nlm.nih.gov/38471511/); while not unilaterally negative, self-diagnosis comes with significant risks and can make the jobs of healthcare professionals much more difficult.
 
 [^6]: I only make a claim about American adults because that's the best data I know of. This problem is by no means isolated to the United States.
+
+[^7]: After writing this piece, a friend shared a [press release](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/) from OpenAI that was published on the same day discussing their approach for improving their model's responses to sensitive conversations. The first footnote acknowledges that the company _could_ prevent all potentially harmful conversations, but doing so would necessarily prevent many non-sensitive conversations as well.
 
 </div>
