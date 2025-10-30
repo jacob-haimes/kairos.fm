@@ -107,7 +107,7 @@ If you're interested on reading up about these topics, here are some of the arti
 
 [^2]: Although the more concerning cases are those like Character.AI and Replika, the process of Reinforcement Learning through Human Feedback (RLHF) _necessarily_ does this as well. Igor and I get into this more on [this](https://kairos.fm/muckraikers/e017/) episode of muckrAIkers.
 
-[^3]: Found and app called "[AI Listener: Your Emotional Guide](https://www.meta.com/experiences/ai-listener-your-emotional-guide/7182773695092320/?srsltid=AfmBOop9-JHpjv75EJGP_GqaIOyjDqPpCki-S7_Kv2xU5SsvhHRH-s_0)" on Meta's marketplace while researching... truly horrifying.
+[^3]: Found an app called "[AI Listener: Your Emotional Guide](https://www.meta.com/experiences/ai-listener-your-emotional-guide/7182773695092320/?srsltid=AfmBOop9-JHpjv75EJGP_GqaIOyjDqPpCki-S7_Kv2xU5SsvhHRH-s_0)" on Meta's marketplace while researching... truly horrifying.
 
 [^4]: For example, a recent update to Anthropic's [Use Agreement](https://www.anthropic.com/legal/aup) (from September 15th, 2025) states "Use cases related to healthcare decisions, medical diagnosis, patient care, therapy, mental health, or other medical guidance [are prohibited]. Wellness advice (e.g., advice on sleep, stress, nutrition, exercise, etc.) does not fall under this category." Similarly, [OpenAI's](https://openai.com/policies/service-terms/) reads "Our Services are not intended for use in the diagnosis or treatment of any health condition. You are responsible for complying with applicable laws for any use of our Services in a medical or healthcare context."
 
