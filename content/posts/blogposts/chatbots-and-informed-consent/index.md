@@ -115,6 +115,6 @@ If you're interested on reading up about these topics, here are some of the arti
 
 [^6]: I only make a claim about American adults because that's the best data I know of. This problem is by no means isolated to the United States.
 
-[^7]: After writing this piece, a friend shared a [press release](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/) from OpenAI that was published on the same day discussing their approach for improving their model's responses to sensitive conversations. The first footnote acknowledges that the company _could_ prevent all potentially harmful conversations, but doing so would necessarily prevent many non-sensitive conversations as well.
+[^7]: After writing this piece, a friend shared a [press release](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/) from OpenAI, that was published on the same day as this article discussing their approach for improving their model's responses to sensitive conversations. Their first footnote acknowledges that the company _could_ prevent all potentially harmful conversations, but doing so would necessarily prevent many non-sensitive conversations as well.
 
 </div>
