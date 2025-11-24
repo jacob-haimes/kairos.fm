@@ -8,7 +8,7 @@ lastmod: 2025-11-24
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
-  filename: ias_cover_art.jpeg
+  filename: intoaisafety-thumbnail_dr-david-thorstad_1280x720.jpg
 
 authors:
   - intoaisafety
