@@ -2,8 +2,8 @@
 url: /intoaisafety/e025/
 title: "Against 'The Singularity' w/ Dr. David Thorstad"
 summary: Philosopher Dr. David Thorstad breaks down why AI doom arguments are overblown (and what isn't)
-date: 2025/11/24
-lastmod: 2025/11/24
+date: 2025-11-24
+lastmod: 2025-11-24
 
 image:
   caption: 'Into AI Safety Cover Art'
