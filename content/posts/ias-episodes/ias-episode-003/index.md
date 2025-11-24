@@ -15,6 +15,7 @@ authors:
 
 tags:
   - Minisode
+  - Effective Altruism
 
 categories: 
   - Podcast

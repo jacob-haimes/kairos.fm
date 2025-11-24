@@ -15,8 +15,8 @@ authors:
 
 tags:
   - Minisode
-  - Big Tech Narratives
-  - Hype
+  - Narratives & Hype
+  - Machine Learning
 
 categories:
   - Podcast

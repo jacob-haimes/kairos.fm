@@ -16,7 +16,7 @@ authors:
 
 tags:
   - Interview
-  - Misinfo/Disinfo
+  - Disnformation
   - Cybersecurity
 
 categories: 

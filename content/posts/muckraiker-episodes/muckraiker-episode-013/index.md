@@ -14,9 +14,8 @@ authors:
   - muckraikers
 
 tags:
-  - Big Tech Narratives
-  - Hype
-  - Business
+  - Narratives & Hype
+  - AIxBusiness
 
 categories:
   - Podcast

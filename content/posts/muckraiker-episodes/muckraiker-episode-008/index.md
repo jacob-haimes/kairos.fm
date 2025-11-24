@@ -15,7 +15,7 @@ authors:
 
 tags:
   - AI Governance
-  - Hype
+  - Narratives & Hype
 
 categories:
   - Podcast

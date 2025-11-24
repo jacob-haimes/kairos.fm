@@ -16,6 +16,7 @@ authors:
 tags:
   - Minisode
   - Advice
+  - Training & Field-building
 
 categories: 
   - Podcast

@@ -16,6 +16,7 @@ authors:
 tags:
   - Interview
   - StakeOut.AI Feb 2024
+  - Advocacy
   - AISC
 
 categories: 

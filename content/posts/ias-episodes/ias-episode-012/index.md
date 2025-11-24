@@ -16,7 +16,7 @@ authors:
 tags:
   - Minisode
   - Advice
-  - Research
+  - Reviews & Close Reads
 
 categories: 
   - Podcast

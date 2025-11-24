@@ -16,6 +16,7 @@ authors:
 tags:
   - Minisode
   - Advice
+  - Podcast (Meta)
 
 categories: 
   - Podcast

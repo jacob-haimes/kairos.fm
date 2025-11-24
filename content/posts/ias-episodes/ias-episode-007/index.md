@@ -15,7 +15,6 @@ authors:
 
 tags:
   - Hackathon
-  - Research
   - Evals November 2023
 
 categories: 

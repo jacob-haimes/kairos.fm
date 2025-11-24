@@ -22,8 +22,8 @@ role: Making the world's complex problems accessible
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
-  # - name: 
-    # url: 
+  # - name:
+    # url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,25 +34,25 @@ profiles:
   - icon: brands/youtube
     url: https://www.youtube.com/@KairosFMNetwork/podcasts
   # - icon: brands/x
-  #   url: 
+  #   url:
   # - icon: brands/gitlab
-  #   url: 
+  #   url:
   # - icon: brands/linkedin
-  #   url: 
+  #   url:
   - icon: custom/bluesky
-    url: https://bsky.app/profile/kairosfm.bsky.social
+    url: https://bsky.app/profile/kairos.fm
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
 # #   Only `title`, `awarder`, and `date` are required.
 # #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 # awards:
-#   - title: 
-#     url: 
-#     certificate_url: 
-#     date: 
-#     awarder: 
-#     icon: 
+#   - title:
+#     url:
+#     certificate_url:
+#     date:
+#     awarder:
+#     icon:
 #     summary: |
 #       summary
 ---

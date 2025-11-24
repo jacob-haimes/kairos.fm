@@ -14,8 +14,7 @@ authors:
   - muckraikers
 
 tags:
-  - Big Tech Narratives
-  - Hype
+  - Narratives & Hype
   - Machine Learning
 
 categories:

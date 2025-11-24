@@ -15,7 +15,8 @@ authors:
 
 tags:
   - Interview
-  - Jobs
+  - Jobs & Applications
+  - Training & Field-building
 
 categories:
   - Podcast

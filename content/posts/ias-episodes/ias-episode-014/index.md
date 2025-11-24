@@ -15,8 +15,7 @@ authors:
 
 tags:
   - Minisode
-  - Paper Review
-  - Survey
+  - Reviews & Close Reads
 
 categories: 
   - Podcast

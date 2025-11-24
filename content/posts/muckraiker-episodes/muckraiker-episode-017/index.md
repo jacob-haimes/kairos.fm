@@ -14,8 +14,8 @@ authors:
   - muckraikers
 
 tags:
-  - Hype
-  - Harms
+  - Narratives & Hype
+  - Current Harms
 
 categories:
   - Podcast

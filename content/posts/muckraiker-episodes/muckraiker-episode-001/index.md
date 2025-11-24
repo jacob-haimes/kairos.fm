@@ -15,8 +15,7 @@ authors:
 
 tags:
   - Machine Learning
-  - Big Tech Narratives
-  - Hype
+  - Narratives & Hype
 
 categories:
   - Podcast

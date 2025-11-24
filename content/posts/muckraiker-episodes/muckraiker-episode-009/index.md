@@ -13,9 +13,8 @@ authors:
   - muckraikers
 
 tags:
-  - Big Tech Narratives
-  - Hype
-  - Close Read
+  - Narratives & Hype
+  - Reviews & Close Reads
 
 categories:
   - Podcast

@@ -15,9 +15,9 @@ authors:
 
 tags:
   - Interview
-  - Jobs
-  - Harms
-  - Training/Field-building
+  - Jobs & Applications
+  - Current Harms
+  - Training & Field-building
 
 categories:
   - Podcast

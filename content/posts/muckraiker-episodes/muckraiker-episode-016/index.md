@@ -14,8 +14,8 @@ authors:
   - muckraikers
 
 tags:
-  - Big Tech Narratives
-  - Hype
+  - Narratives & Hype
+  - Current Harms
 
 categories:
   - Podcast

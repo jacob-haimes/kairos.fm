@@ -15,7 +15,7 @@ authors:
 
 tags:
   - AI and Mental Health
-  - Harms
+  - Current Harms
 
 categories:
   - Blogpost

@@ -17,8 +17,8 @@ authors:
 
 tags:
   - Interview
-  - Hype
-  - Big Tech Narratives
+  - Narratives & Hype
+  - Effective Altruism
 
 categories:
   - Podcast

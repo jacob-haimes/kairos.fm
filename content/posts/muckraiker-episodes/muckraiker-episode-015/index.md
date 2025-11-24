@@ -14,8 +14,9 @@ authors:
   - muckraikers
 
 tags:
-  - Reasoning
-  - Agents
+  - AI Reasoning
+  - Agentic AI
+  - Machine Learning
 
 categories: 
   - Podcast

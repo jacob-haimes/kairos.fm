@@ -16,6 +16,8 @@ authors:
 tags:
   - Minisode
   - Advice
+  - Jobs & Applications
+  - Training & Field-building
 
 categories: 
   - Podcast
