@@ -25,7 +25,7 @@ categories:
 <div style="text-align: justify">
 Philosopher Dr. David Thorstad tears into one of AI safety's most influential arguments: the singularity hypothesis. We discuss why the idea of recursive self-improvement leading to superintelligence doesn't hold up under scrutiny, how these arguments have redirected hundreds of millions in funding away from proven interventions, and why people keep backpedaling to weaker versions when challenged.
 
-David walks through the actual structure of singularity arguments, explains why similar patterns show up in other longtermist claims, and makes the case for why we should focus on concrete problems happening right now like poverty, disease, the rise of authoritarianism instead of speculative far-future scenarios.
+David walks through the actual structure of singularity arguments, explains why similar patterns show up in other longtermist claims, and makes the case for why we should focus on concrete problems happening right now like poverty, disease, the rise of authoritarianism instead of speculative far-future scenarios. 
 
 {{< transistor src="https://share.transistor.fm/e/5c0f0e45" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.10.11; ASIDES RECORDED 2025.11.13; <a href="https://share.transistor.fm/s/5c0f0e45/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
