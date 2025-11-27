@@ -64,13 +64,13 @@ sections:
           icon: custom/bluesky
           url: https://bsky.app/profile/jacobhaimes.bsky.social
         - text: Patreon
-          icon: brands/patreon
+          icon: custom/patreon-icon
           url: https://www.patreon.com/cw/Kairosfm
         - text: Into AI Safety
           icon: custom/ias_logo_wht
           url: /intoaisafety/
           label: Into AI Safety
-        - name: muckrAIkers
+        - text: muckrAIkers
           icon: custom/muckraikers-logo
           url: /muckraikers/
         - text: On What Matters
@@ -88,29 +88,30 @@ sections:
       #     filename: tesselation.svg
       #     filters:
       #       brightness: 0.4
-  # - block: markdown
-  #   content:
-  #     text: "#### ⮦ Podcasts ⮧"
-  #   design:
-  #     no_padding: true
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
-  # - block: cta-button-list
-  #   content: 
-  #     buttons:
-  #       - text: Signal
-  #         icon: custom/signal-messenger
-  #         url: https://signal.me/#eu/lmvrRbZqNYd9-gPitIJEnKRyGX_uk0NbRrhmv1ISViaAgb7Em1lCDJweM9_bChU7
-  #       - text: Email
-  #         icon: at-symbol
-  #         url: 'mailto:jacob.d.haimes@gmail.com'
-  #       - text: Venmo
-  #         icon: custom/venmo
-  #         url: https://venmo.com/code?user_id=2315691537465344537
-  #   design:
-  #     no_padding: true
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      text: "#### ⮦ Podcasts ⮧"
+    design:
+      no_padding: true
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+  - block: cta-button-list
+    content: 
+      buttons:
+        - text: Into AI Safety
+          icon: custom/ias_logo_wht
+          url: /intoaisafety/
+          label: Into AI Safety
+        - text: muckrAIkers
+          icon: custom/muckraikers-logo
+          url: /muckraikers/
+        - text: On What Matters
+          icon: custom/owm_wht
+          url: /onwhatmatters/
+    design:
+      no_padding: true
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 ---
