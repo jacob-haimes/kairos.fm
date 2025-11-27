@@ -35,22 +35,6 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 6, 0, 0]
       # For full-screen, add `min-h-screen` below
-      # css_class: "dark"
-      # background:
-      #   color: "#1B4066"
-      #   image:
-      #     # Add your image background to `assets/media/`.
-      #     filename: tesselation.svg
-      #     filters:
-      #       brightness: 0.4
-  # - block: markdown
-  #   content:
-  #     text: "#### ⮦ Professional Links ⮧"
-  #   design:
-  #     no_padding: true
-  #     spacing:
-  #       padding: [0, 0, , 0]
-  #       margin: [0, 0, 0, 0]
   - block: link-list
     content: 
       buttons:
@@ -67,14 +51,14 @@ sections:
           icon: custom/patreon-icon
           url: https://www.patreon.com/cw/Kairosfm
         - text: Into AI Safety
-          icon: custom/ias_logo_wht
+          icon: custom/ias_logo_currentcolor
           url: /intoaisafety/
           label: Into AI Safety
         - text: muckrAIkers
-          icon: custom/muckraikers-logo
+          icon: custom/muckraikers-logo-currentcolor
           url: /muckraikers/
         - text: On What Matters
-          icon: custom/owm_wht
+          icon: custom/owm_navy
           url: /onwhatmatters/
     design:
       no_padding: true
@@ -88,30 +72,30 @@ sections:
       #     filename: tesselation.svg
       #     filters:
       #       brightness: 0.4
-  - block: markdown
-    content:
-      text: "#### ⮦ Podcasts ⮧"
-    design:
-      no_padding: true
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-  - block: cta-button-list
-    content: 
-      buttons:
-        - text: Into AI Safety
-          icon: custom/ias_logo_wht
-          url: /intoaisafety/
-          label: Into AI Safety
-        - text: muckrAIkers
-          icon: custom/muckraikers-logo
-          url: /muckraikers/
-        - text: On What Matters
-          icon: custom/owm_wht
-          url: /onwhatmatters/
-    design:
-      no_padding: true
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+  # - block: markdown
+  #   content:
+  #     text: "#### ⮦ Podcasts ⮧"
+  #   design:
+  #     no_padding: true
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
+  #       margin: [0, 0, 0, 0]
+  # - block: cta-button-list
+  #   content: 
+  #     buttons:
+  #       - text: Into AI Safety
+  #         icon: custom/ias_logo_wht
+  #         url: /intoaisafety/
+  #         label: Into AI Safety
+  #       - text: muckrAIkers
+  #         icon: custom/muckraikers-logo
+  #         url: /muckraikers/
+  #       - text: On What Matters
+  #         icon: custom/owm_wht
+  #         url: /onwhatmatters/
+  #   design:
+  #     no_padding: true
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
+  #       margin: [0, 0, 0, 0]
 ---
