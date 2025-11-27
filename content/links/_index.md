@@ -46,7 +46,7 @@ sections:
           url: https://www.youtube.com/channel/UCFrRF0l4C_CPuyucx6Dt8Qg
         - text: Bluesky
           icon: custom/bluesky
-          url: https://bsky.app/profile/jacobhaimes.bsky.social
+          url: https://bsky.app/profile/kairos.fm
         - text: Patreon
           icon: custom/patreon-icon
           url: https://www.patreon.com/cw/Kairosfm
