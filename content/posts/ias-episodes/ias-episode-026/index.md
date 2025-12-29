@@ -24,7 +24,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-Sean McGregor and I discuss about why evaluating AI systems has become so difficult; we cover everything from the breakdown of benchmarking, how incentives shape safety work, and what approaches like BenchRisk (his recent paper at NeurIPS) and AI auditing aim to fix as systems move into the real world. We also talk about his history and journey in AI safety, including his PhD on ML for public policy, how he started the AI Incident Database, and what he's working on now: AVERI, a non-profit for frontier model auditing.
+Sean McGregor and I discuss about why evaluating AI systems has become so difficult; we cover everything from the breakdown of benchmarking, how incentives shape safety work, and what approaches like BenchRisk (his recent paper at NeurIPS) and AI auditing aim to fix as systems move into the real world. We also talk about his history and journey in AI safety, including his PhD on ML for public policy, how he started the AI Incident Database, and what he's working on now: AVERI, a non-profit for frontier model auditing.<br><br>
 
 {{% callout warning %}}
 2025.12.29: AVERI will be officially launching in January of 2026. If you're interested, consider checking out their listings to see if you'd be a good fit; if you do end up applying, let them know you found out about the opportunity from the podcast!
