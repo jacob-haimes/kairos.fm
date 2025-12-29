@@ -16,7 +16,7 @@ authors:
 tags:
   - Interview
   - AI Governance
-  - Agents
+  - Agentic AI
 
 categories:
   - Podcast

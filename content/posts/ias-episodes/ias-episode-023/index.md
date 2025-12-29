@@ -16,7 +16,7 @@ authors:
 tags:
   - Interview
   - Advocacy
-  - Training/Field-building
+  - Training & Field-building
 
 categories:
   - Podcast
