@@ -1,1 +1,15 @@
+# Hugo build output
 /public
+
+# Hugo generated resources
+/resources/_gen/
+
+# Hugo stats
+hugo_stats.json
+
+# Node dependencies
+node_modules/
+
+# npm lock file (optional - some teams commit this, some don't)
+# Uncomment the line below if you don't want to commit package-lock.json
+# package-lock.json

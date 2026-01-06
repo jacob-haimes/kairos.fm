@@ -1,0 +1,12 @@
+{
+  "name": "kairos-fm",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "hugo server",
+    "build": "hugo --gc --minify"
+  },
+  "devDependencies": {
+    "hugo-extended": "^0.126.0"
+  }
+}
