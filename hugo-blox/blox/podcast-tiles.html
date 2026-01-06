@@ -1,0 +1,30 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+<div class="podcast-tiles grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto px-4">
+    {{ range $idx, $item := $block.content.items }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+            {{ $pack_prefix = "fa" }}
+        {{ end }}
+        {{ $link := $item.url | default $item.link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+            {{ $link = ($item.url | default $item.link) | relLangURL }}
+            {{ if eq (path.Ext $link) ".pdf" }}{{ $target = "target=\"_blank\" rel=\"noopener\"" }}{{ end }}
+        {{ else if in (slice "http" "https") $scheme }}
+            {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} 
+           class="podcast-tile flex flex-col p-8 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors aspect-square">
+            <div class="podcast-icon flex items-center justify-center" style="flex: 1 1 auto; min-height: 0;{{ if eq $idx 1 }} padding-left: 2rem;{{ end }}">
+                {{ partial "functions/get_icon" (dict "name" $item.icon "attributes" "style=\"height: 12rem; max-width: 100%; display: block;\"")  }}
+            </div>
+            <div class="podcast-title text-center text-2xl font-semibold text-gray-900 dark:text-white" style="flex: 0 0 auto; margin-top: auto; padding-top: 1.5rem;">
+                {{ $item.text | default $item.name }}
+            </div>
+        </a>
+    {{ end }}
+</div>

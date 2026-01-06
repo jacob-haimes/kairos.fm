@@ -18,9 +18,9 @@ sections:
       title: Kairos.fm
       username: admin
       primary_action: 
-        text: Email us
-        url: 'mailto:listen@kairos.fm'
-        icon: at-symbol
+        text: Join our Discord server
+        url: 'https://discord.gg/uFVBJgRgR5'
+        icon: custom/discord
       # primary_action: 
       #   text: 
       #   url: 
@@ -38,6 +38,9 @@ sections:
   - block: link-list
     content: 
       buttons:
+        - text: Email
+          icon: at-symbol
+          url: mailto:listen@kairos.fm
         - text: LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/company/kairos-fm/
@@ -50,52 +53,36 @@ sections:
         - text: Patreon
           icon: custom/patreon-icon
           url: https://www.patreon.com/cw/Kairosfm
-        - text: Into AI Safety
-          icon: custom/ias_logo_currentcolor
-          url: /intoaisafety/
-          label: Into AI Safety
-        - text: muckrAIkers
-          icon: custom/muckraikers-logo-currentcolor
-          url: /muckraikers/
-        - text: On What Matters
-          icon: custom/owm_navy
-          url: /onwhatmatters/
+        - text: Ko-Fi
+          icon: custom/ko-fi
+          url: https://ko-fi.com/kairosfm
+        
     design:
       no_padding: true
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      # background:
-      #   color: "#1B4066"
-      #   image:
-      #     # Add your image background to `assets/media/`.
-      #     filename: tesselation.svg
-      #     filters:
-      #       brightness: 0.4
-  # - block: markdown
-  #   content:
-  #     text: "#### ⮦ Podcasts ⮧"
-  #   design:
-  #     no_padding: true
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
-  # - block: cta-button-list
-  #   content: 
-  #     buttons:
-  #       - text: Into AI Safety
-  #         icon: custom/ias_logo_wht
-  #         url: /intoaisafety/
-  #         label: Into AI Safety
-  #       - text: muckrAIkers
-  #         icon: custom/muckraikers-logo
-  #         url: /muckraikers/
-  #       - text: On What Matters
-  #         icon: custom/owm_wht
-  #         url: /onwhatmatters/
-  #   design:
-  #     no_padding: true
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      text: "## Our Podcasts"
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: ['2rem', 0, '1.5rem', 0]
+  - block: podcast-tiles
+    content: 
+      items:
+        - text: Into AI Safety
+          icon: custom/ias_logo_currentcolor
+          url: /intoaisafety/
+        - text: muckrAIkers
+          icon: custom/muckrAIkers-logo-currentColor
+          url: /muckraikers/
+        - text: On What Matters
+          icon: custom/owm_wht
+          url: /onwhatmatters/
+    design:
+      spacing:
+        padding: ['2rem', 0, '3rem', 0]
+        margin: [0, 0, 0, 0]
 ---
