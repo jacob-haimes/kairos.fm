@@ -1,23 +1,14 @@
 ---
 url: /intoaisafety/e027/
-title: 
-summary: 
+title: Scaling AI Safety Through Mentorship w/ Dr. Ryan Kidd
+summary: Dr. Ryan Kidd of MATS shares what actually works in AI safety field-building, and highlights key areas for improvement
 date: 2026-02-01
 lastmod: 2026-02-01
-draft: true
-
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
 
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
-  filename: ias_cover_art.jpeg
+  filename: intoaisafety-thumbnail_dr-ryan-kidd_landscape.png
 
 authors:
   - intoaisafety
@@ -32,15 +23,29 @@ categories:
 ---
 
 <div style="text-align: justify">
-Description
 
-{{< transistor src="" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.01.06; ASIDES RECORDED 2026.01.25; <a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
+What does it actually take to build a successful AI safety organization? I'm joined by Dr. Ryan Kidd, who has co-lead MATS from a small pilot program to one of the field's premier talent pipelines. In this episode, he reveals the low-hanging fruit in AI safety field-building that most people are missing: the amplifier archetype.
+
+I pushed Ryan on some hard questions, from balancing funder priorities and research independence, to building a robust selection process for both mentors and participants. Whether you're considering a career pivot into AI safety or already working in the field, this conversation offers practical advice on how to actually make an impact.
+
+As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm [Patreon](https://www.patreon.com/cw/Kairosfm) which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.
+
+{{< transistor src="https://share.transistor.fm/e/4b4ebed7" >}}
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.01.06; ASIDES RECORDED 2026.01.25; <a href="https://share.transistor.fm/s/4b4ebed7/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
 
 ## Chapters
 
 <div style="text-align: left; font-family:monospace;">
 00:00:00 ❙ Intro<br>
+00:08:16 ❙ Building MATS Post-FTX & Summer of Love<br>
+00:13:09 ❙ Balancing Funder Priorities and Research Independence<br>
+00:19:44 ❙ The MATS Selection Process<br>
+00:33:15 ❙ Talent Archetypes in AI Safety<br>
+00:50:22 ❙ Comparative Advantage and Career Capital in AI Safety<br>
+01:04:35 ❙ Building the AI Safety Ecosystem<br>
+01:15:28 ❙ What Makes a Great AI Safety Amplifier<br>
+01:21:44 ❙ Lightning Round Questions<br>
+01:30:30 ❙ Final Thoughts & Outro
 </div>
 
 ## Links
