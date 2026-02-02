@@ -33,7 +33,7 @@ categories:
 Description
 
 {{< transistor src="" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.XX.XX; ASIDES RECORDED 2025.XX.XX; <a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.XX.XX; ASIDES RECORDED 2026.XX.XX; <a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
 
 ## Chapters
 
