@@ -24,7 +24,7 @@ categories:
 
 <div style="text-align: justify">
 
-What does it actually take to build a successful AI safety organization? I'm joined by Dr. Ryan Kidd, who has co-lead MATS from a small pilot program to one of the field's premier talent pipelines. In this episode, he reveals the low-hanging fruit in AI safety field-building that most people are missing: the amplifier archetype.
+What does it actually take to build a successful AI safety organization? I'm joined by Dr. Ryan Kidd, who has co-led MATS from a small pilot program to one of the field's premier talent pipelines. In this episode, he reveals the low-hanging fruit in AI safety field-building that most people are missing: the amplifier archetype.
 
 I pushed Ryan on some hard questions, from balancing funder priorities and research independence, to building a robust selection process for both mentors and participants. Whether you're considering a career pivot into AI safety or already working in the field, this conversation offers practical advice on how to actually make an impact.
 
@@ -107,7 +107,7 @@ As part of my effort to make this whole podcasting thing more sustainable, I hav
 
 ### Other Sources
 * AXRP [website](https://axrp.net) - The AI X-risk Research Podcast
-
+* LessWrong [blogpost](https://www.lesswrong.com/posts/xqkGmfikqapbJ2YMj/shard-theory-an-overview) - Shard Theory: An Overview
 
 <!-- end of the list -->
 </div>
