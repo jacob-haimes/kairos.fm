@@ -1,5 +1,5 @@
 ---
-url: /muckraikers/e01X/
+url: /muckraikers/e02X/
 title: 
 summary: 
 date: 
@@ -31,7 +31,7 @@ categories:
 <div style="text-align: justify">
 
 {{< transistor src="" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.XX.XX; <a href="" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.XX.XX; <a href="" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
 </div>
 
 

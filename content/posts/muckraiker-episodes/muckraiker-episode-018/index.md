@@ -42,6 +42,7 @@ NOTE: The project that we cite for the $64 billion blockage is actually a pro-da
 </div>
 
 ## Links
+
 ### Public Sentiment on AI
 - Pew Research [report](https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/) - How People Around the World View AI
 - Pew Research [report](https://www.pewresearch.org/internet/2025/04/03/how-the-us-public-and-ai-experts-view-artificial-intelligence/) - How the U.S. Public and AI Experts View Artificial Intelligence
