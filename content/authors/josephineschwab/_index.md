@@ -36,6 +36,8 @@ profiles:
     url: https://linkedin.com/in/jreschwab
   - icon: brands/medium
     url: https://jreschwab.medium.com/
+  - icon: brands/linktree
+    url: https://linktr.ee/jreschwab
 ---
 
 <div style="text-align: justify">
