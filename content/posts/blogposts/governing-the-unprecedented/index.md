@@ -1,5 +1,5 @@
 ---
-url: /governing-the-unprecedented/
+url: /what-ai-governance-can-learn-from-climate/
 title: "What AI Governance Can Learn From Climate – And Why It Mostly Hasn't"
 summary: AI governance ignores hard-won climate lessons on systemic risk, lock-in, and precaution – doing so at greater speed, with a narrower window to act.
 date: 2026-03-04
