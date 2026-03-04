@@ -24,7 +24,7 @@ categories:
 <div style="text-align: justify">
 We're talking about developments in AI while those in power have unapologetically revealed their true fascist intensions; are we spending our time in the right way? Igor and I discuss the importance of shining a light on the techno-authoritarians who have played a very significant role in current state-of-the-world.
 
-While we discuss the murders of Nicole Good and Alex Pretti during this episode, it's important that we also acknowledge the many marginalized people have been killed as a result of ICE's behavior, and they same level of outcry didn't happen. Six additional individuals died in ICE custody under suspicious circumstances between January 1st and 25th of 2026: Victor Manuel Díaz, Geraldo Lunas Campos, Luis Gustavo Núñez Cáceres, Luis Beltrán Yáñez-Cruz, Parady La, and Heber Sánchez Domínguez.
+While we discuss the murders of Nicole Good and Alex Pretti during this episode, it's important that we also acknowledge the many marginalized people who have died as a result of ICE's behavior, and the same level of outcry didn't happen. Six additional individuals died in ICE custody under suspicious circumstances between January 1st and 25th of 2026: Victor Manuel Díaz, Geraldo Lunas Campos, Luis Gustavo Núñez Cáceres, Luis Beltrán Yáñez-Cruz, Parady La, and Heber Sánchez Domínguez.
 
 {{< transistor src="https://share.transistor.fm/e/20244848" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.01.25; <a href="https://share.transistor.fm/s/20244848/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
@@ -36,7 +36,7 @@ While we discuss the murders of Nicole Good and Alex Pretti during this episode,
 <div style="text-align: left; font-family:monospace;">
 00:00 ❙ Introduction<br>
 03:57 ❙ The Authoritarian Stack<br>
-08:33 ❙ Palantir & Theil-Government Consolidation<br>
+08:33 ❙ Palantir & Thiel-Government Consolidation<br>
 13:44 ❙ Move Fast & Break Everything<br>
 23:14 ❙ Fascism in the US & Starving the Beast<br>
 39:48 ❙ Finding Local Opportunities for Action
@@ -64,13 +64,12 @@ While we discuss the murders of Nicole Good and Alex Pretti during this episode,
 - Britannica [article](https://www.britannica.com/place/Sudan/Conflict-in-Darfur) - Conflict in Darfur
 
 ### Getting Involved
+- Fight Corruption [website](https://fightcorruption.us/)
 - Swing Left [groups finder](https://swingleft.org/groups)
-- BlackSky Community [website](https://blacksky.community/)
 - Bernie Sanders [website](https://berniesanders.com/)
 - Southern Poverty Law Center [website](https://www.splcenter.org/)
 - Indivisible [website](https://indivisible.org/)
 - Truthout [article](https://truthout.org/articles/grassroots-assemblies-empower-people-to-fight-back-against-trumps-agenda/) - Grassroots Assemblies Empower People to Fight Back Against Trump's Agenda
-- Fight Corruption [website](https://fightcorruption.us/)
 
 ### AI-Specific Organizing
 - Distributed AI Research Institute [projects](https://www.dair-institute.org/projects/)
