@@ -34,9 +34,9 @@ user_groups:
 profiles:
   - icon: brands/linkedin
     url: https://linkedin.com/in/jreschwab
-  - icon: brands/medium
+  - icon: custom/medium
     url: https://jreschwab.medium.com/
-  - icon: brands/linktree
+  - icon: custom/linktree
     url: https://linktr.ee/jreschwab
 ---
 
