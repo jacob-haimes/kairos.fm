@@ -27,6 +27,8 @@ Jacy Reese-Anthis, founder of Sentience Institute and researcher at Stanford, be
 
 Jacy also shares his median AGI estimate somewhere in there, so stay tuned if you want to catch it.
 
+As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm [Patreon](https://www.patreon.com/cw/Kairosfm) which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.
+
 {{< transistor src="https://share.transistor.fm/e/9a54c377" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.02.03; ASIDES RECORDED 2026.03.02; <a href="https://share.transistor.fm/s/9a54c377/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
 
