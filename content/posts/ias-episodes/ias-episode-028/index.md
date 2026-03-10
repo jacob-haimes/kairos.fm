@@ -5,16 +5,6 @@ summary: Sentience Institite founder Jacy Reese-Anthis on moral circles, digital
 date: 2026-03-09
 lastmod: 2026-03-09
 
-draft: true
-
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
-
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
@@ -61,11 +51,11 @@ Jacy also shares his median AGI estimate somewhere in there, so stay tuned if yo
 - Sentience Institute [website](https://www.sentienceinstitute.org)
 
 ### Jacy's Relevant Works
-- The Guardian [article](https://www.theguardian.com/commentisfree/2025/sep/30/artificial-intelligence-personhood) - The case for AI personhood
-- CHI [paper](https://arxiv.org/abs/2510.15905) - Digital Minds: Contextualizing Moral Status Assessments
-- ICML [paper](https://arxiv.org/abs/2504.02234) - Measuring AI Sentience
+- The Guardian [article](https://www.theguardian.com/commentisfree/2025/sep/30/artificial-intelligence-personhood) - It’s time to prepare for AI personhood
+- CHI [paper](https://arxiv.org/abs/2510.15905) - Digital Companionship: Overlapping Uses of AI Companions and AI Assistants
+- ICML [paper](https://arxiv.org/abs/2504.02234) - LLM Social Simulations Are a Promising Research Method
 - Sentience Institute [blogpost](https://www.sentienceinstitute.org/blog/key-questions-for-digital-minds) - Key Questions for Digital Minds
-- ACL [paper](https://arxiv.org/abs/2406.03198) - AI as a Tool and Partner: Examining the Effects of AI Assistance on Human Performance
+- ACL [paper](https://arxiv.org/abs/2406.03198) - The Impossibility of Fair LLMs
 - [Preprint](https://arxiv.org/abs/2509.08494) - HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants
 
 ### The ELIZA Effect
