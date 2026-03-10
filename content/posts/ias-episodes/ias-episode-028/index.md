@@ -8,7 +8,7 @@ lastmod: 2026-03-09
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
-  filename: ias_cover_art.jpeg
+  filename: intoaisafety-thumbnail_jacy-reese-anthis_1280x720.png
 
 authors:
   - intoaisafety
