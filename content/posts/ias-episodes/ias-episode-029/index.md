@@ -31,7 +31,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-Description
+What do you do when the technology is moving faster than the politics? Su Cizem has spent the last few years trying to answer that question. As an analyst at the Future Society, she works on global AI governance, specifically on building international consensus around AI red lines: the thresholds we collectively agree must never be crossed. In this conversation, Su walks through her path from philosophy to policy, the evolution of the global AI safety summit series, why voluntary commitments from AI labs aren't enough, and what it would actually take to make international cooperation on AI safety real.
 
 {{< transistor src="https://share.transistor.fm/e/1690daad" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.03.12; ASIDES RECORDED 2026.03.31; <a href="https://share.transistor.fm/s/1690daad/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
