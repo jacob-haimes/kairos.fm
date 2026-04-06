@@ -2,22 +2,13 @@
 url: /intoaisafety/e029/
 title: Drawing Red Lines w/ Su Cizem
 summary: 'Su Cizem of the Futures Society joins the show to discuss her path into AI governance and "AI Red Lines"'
-date: 2026-04-05
-lastmod: 2026-04-05
-draft: true
-
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
+date: 2026-04-06
+lastmod: 2026-04-06
 
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
-  filename: ias_cover_art.jpeg
+  filename: intoaisafety-thumbnail_su-cizem_1280x720.png
 
 authors:
   - intoaisafety
@@ -31,7 +22,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-What do you do when the technology is moving faster than the politics? Su Cizem has spent the last few years trying to answer that question. As an analyst at the Future Society, she works on global AI governance, specifically on building international consensus around AI red lines: the thresholds we collectively agree must never be crossed. In this conversation, Su walks through her path from philosophy to policy, the evolution of the global AI safety summit series, why voluntary commitments from AI labs aren't enough, and what it would actually take to make international cooperation on AI safety real.
+Technology has been moving faster than policy for some time now, and the advent of AI isn't changing that, so what can we do to maintain safety despite uncertainty? Su Cizem has spent the last few years trying to answer that question. As an analyst at the Future Society, she works on global AI governance, specifically on building international consensus around AI red lines: the thresholds we collectively agree must never be crossed. In this conversation, Su walks through her path from philosophy to policy, the evolution of the global AI safety summit series, why voluntary commitments from AI labs aren't enough, and what it would actually take to make international cooperation on AI safety real.
 
 {{< transistor src="https://share.transistor.fm/e/1690daad" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.03.12; ASIDES RECORDED 2026.03.31; <a href="https://share.transistor.fm/s/1690daad/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
