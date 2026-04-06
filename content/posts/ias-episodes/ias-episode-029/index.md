@@ -1,7 +1,7 @@
 ---
 url: /intoaisafety/e029/
 title: Drawing Red Lines w/ Su Cizem
-summary: 'Su Cizem of the Futures Society joins the show to discuss her path into AI governance and "AI Red Lines"
+summary: 'Su Cizem of the Futures Society joins the show to discuss her path into AI governance and "AI Red Lines"'
 date: 2026-04-05
 lastmod: 2026-04-05
 draft: true
