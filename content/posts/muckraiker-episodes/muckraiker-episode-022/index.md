@@ -24,7 +24,7 @@ categories:
 
 <div style="text-align: justify">
 
-In this episode, Jacob and Igor break down the DoD vs. Anthropic standoff, tracing how Claude's use in military operations led to Anthropic being designated a supply chain security risk. They use it as a case study in how to read the real motivations behind big institutions: intrinsic values, rational self-interest, and realpolitik.
+In this episode, Jacob and Igor break down the DoD vs. Anthropic standoff, tracing how Claude's use in military operations led to Anthropic being designated a supply chain security risk. Perhaps more importantly, why did Anthropic choose to take a stand _now_, and what can that tell us about the corporations behavior moving forward. The investigation is used as a case study in how to read the real motivations behind big institutions: intrinsic values, rational self-interest, and realpolitik.
 
 {{< transistor src="https://share.transistor.fm/e/3cb922a8" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.03.17; <a href="https://share.transistor.fm/s/3cb922a8/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
