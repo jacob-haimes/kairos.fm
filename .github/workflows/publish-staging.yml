@@ -40,7 +40,7 @@ jobs:
       env:
         HUGO_ENVIRONMENT: staging
       run: |
-        hugo --minify --baseURL "https://jacob-haimes.github.io/kairos.fm/staging/"
+        hugo --minify --baseURL "https://jacob-haimes.github.io/kairos.fm-staging/"
 
     - name: Generate Pagefind search index
       run: npx pagefind --source "public"
