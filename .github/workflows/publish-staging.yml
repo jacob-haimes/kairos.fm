@@ -103,7 +103,7 @@ jobs:
     - name: Deploy to kairos.fm-staging repo
       uses: peaceiris/actions-gh-pages@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        personal_token: ${{ secrets.STAGING_DEPLOY_TOKEN }}
         external_repository: jacob-haimes/kairos.fm-staging
         publish_branch: gh-pages
         publish_dir: ./public
