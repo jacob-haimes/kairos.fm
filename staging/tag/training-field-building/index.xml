@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Training &amp; Field-Building | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/training-field-building/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/training-field-building/index.xml" rel="self" type="application/rss+xml"/><description>Training &amp; Field-Building</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Training &amp; Field-Building</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/training-field-building/</link></image><item><title>Scaling AI Safety Through Mentorship w/ Dr. Ryan Kidd</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e027/</link><pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e027/</guid><description>&lt;div style="text-align: justify">
+&lt;p>What does it actually take to build a successful AI safety organization? I&amp;rsquo;m joined by Dr. Ryan Kidd, who has co-led MATS from a small pilot program to one of the field&amp;rsquo;s premier talent pipelines. In this episode, he reveals the low-hanging fruit in AI safety field-building that most people are missing: the amplifier archetype.&lt;/p>
+&lt;p>I pushed Ryan on some hard questions, from balancing funder priorities and research independence, to building a robust selection process for both mentors and participants. Whether you&amp;rsquo;re considering a career pivot into AI safety or already working in the field, this conversation offers practical advice on how to actually make an impact.&lt;/p>
+&lt;p>As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm &lt;a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noopener">Patreon&lt;/a> which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/4b4ebed7">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.01.06; ASIDES RECORDED 2026.01.25; &lt;a href="https://share.transistor.fm/s/4b4ebed7/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:08:16 ❙ Building MATS Post-FTX &amp; Summer of Love&lt;br>
+00:13:09 ❙ Balancing Funder Priorities and Research Independence&lt;br>
+00:19:44 ❙ The MATS Selection Process&lt;br>
+00:33:15 ❙ Talent Archetypes in AI Safety&lt;br>
+00:50:22 ❙ Comparative Advantage and Career Capital in AI Safety&lt;br>
+01:04:35 ❙ Building the AI Safety Ecosystem&lt;br>
+01:15:28 ❙ What Makes a Great AI Safety Amplifier&lt;br>
+01:21:44 ❙ Lightning Round Questions&lt;br>
+01:30:30 ❙ Final Thoughts &amp; Outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://matsprogram.org/apply?utm_source=ias&amp;amp;utm_medium=&amp;amp;utm_campaign=s26" target="_blank" rel="noopener">MATS&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="ryans-writing">Ryan&amp;rsquo;s Writing&lt;/h3>
+&lt;ul>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/QzQQvGJYDeaDE4Cfg/talent-needs-of-technical-ai-safety-teams" target="_blank" rel="noopener">post&lt;/a> - Talent needs of technical AI safety teams&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/yw9B5jQazBKGLjize/ai-safety-undervalues-founders" target="_blank" rel="noopener">post&lt;/a> - AI safety undervalues founders&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/tPjAgWpsQrveFECWP/ryan-kidd-s-shortform?commentId=6dwq7qkszz5dyZ6sj" target="_blank" rel="noopener">comment&lt;/a> - Comment permalink with 2025 MATS program details&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/WGNYAdBrsNjujJaB8/talk-ai-safety-fieldbuilding-at-mats" target="_blank" rel="noopener">post&lt;/a> - Talk: AI Safety Fieldbuilding at MATS&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/LvswJts75fnpdjAEj/mats-mentor-selection" target="_blank" rel="noopener">post&lt;/a> - MATS Mentor Selection&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/Yjiw5rnu4mJsYN8Xc/why-i-funded-pibbss-1" target="_blank" rel="noopener">post&lt;/a> - Why I funded PIBBSS&lt;/li>
+&lt;li>EA Forum &lt;a href="https://forum.effectivealtruism.org/posts/sGwPgwvaL2FkBHsRh/how-mats-addresses-mass-movement-building-concerns" target="_blank" rel="noopener">post&lt;/a> - How MATS addresses mass movement building concerns&lt;/li>
+&lt;/ul>
+&lt;h3 id="ftx-funding-of-ai-safety">FTX Funding of AI Safety&lt;/h3>
+&lt;ul>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/WGpFFJo2uFe5ssgEb/an-overview-of-the-ai-safety-funding-situation" target="_blank" rel="noopener">blogpost&lt;/a> - An Overview of the AI Safety Funding Situation&lt;/li>
+&lt;li>Fortune &lt;a href="https://fortune.com/2022/11/15/sam-bankman-fried-ftx-collapse-a-i-safety-research-effective-altruism-debacle/" target="_blank" rel="noopener">article&lt;/a> - Why Sam Bankman-Fried’s FTX debacle is roiling A.I. research&lt;/li>
+&lt;li>NY Times &lt;a href="https://www.nytimes.com/2022/12/01/technology/sam-bankman-fried-crypto-artificial-intelligence.html" target="_blank" rel="noopener">article&lt;/a> - FTX probes $6.5M in payments to AI safety group amid clawback crusade&lt;/li>
+&lt;li>Cointelegraph &lt;a href="https://cointelegraph.com/news/crypto-exchange-ftx-subpoena-center-ai-safety-group-bankruptcy-proceedings" target="_blank" rel="noopener">article&lt;/a> - FTX probes $6.5M in payments to AI safety group amid clawback crusade&lt;/li>
+&lt;li>FTX Future Fund &lt;a href="https://archive.is/JYJJP" target="_blank" rel="noopener">article&lt;/a> - Future Fund June 2022 Update (archive)&lt;/li>
+&lt;li>Tracxn &lt;a href="https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors#funding-rounds" target="_blank" rel="noopener">page&lt;/a> - Anthropic Funding and Investors&lt;/li>
+&lt;/ul>
+&lt;h3 id="training--support-programs">Training &amp;amp; Support Programs&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://catalyze-impact.org" target="_blank" rel="noopener">Catalyze Impact&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seldonlab.com" target="_blank" rel="noopener">Seldon Lab&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sparai.org" target="_blank" rel="noopener">SPAR&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bluedot.org" target="_blank" rel="noopener">BlueDot Impact&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ycombinator.com" target="_blank" rel="noopener">YCombinator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pivotal-research.org" target="_blank" rel="noopener">Pivotal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://researchathena.org" target="_blank" rel="noopener">Athena&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.constellation.org/programs/astra-fellowship" target="_blank" rel="noopener">Astra Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://horizonpublicservice.org/programs/become-a-fellow/" target="_blank" rel="noopener">Horizon Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.baseresearch.org/base-fellowship" target="_blank" rel="noopener">BASE Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lasrlabs.org" target="_blank" rel="noopener">LASR Labs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.joinef.com" target="_blank" rel="noopener">Entrepeneur First&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="funding-organizations">Funding Organizations&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://coefficientgiving.org" target="_blank" rel="noopener">Coefficient Giving&lt;/a> (previously Open Philanthropy)&lt;/li>
+&lt;li>&lt;a href="https://funds.effectivealtruism.org/funds/far-future" target="_blank" rel="noopener">LTFF&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.longview.org" target="_blank" rel="noopener">Longview Philanthropy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.renaissancephilanthropy.org" target="_blank" rel="noopener">Renaissance Philanthropy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="coworking-spaces">Coworking Spaces&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.safeai.org.uk" target="_blank" rel="noopener">LISA&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://moxsf.com" target="_blank" rel="noopener">Mox&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lighthaven.space" target="_blank" rel="noopener">Lighthaven&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.far.ai/programs/far-labs" target="_blank" rel="noopener">FAR Labs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.constellation.org" target="_blank" rel="noopener">Constellation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://collider.nyc" target="_blank" rel="noopener">Collider&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://emergingthreat.net" target="_blank" rel="noopener">NET Office&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.baish.com.ar/en" target="_blank" rel="noopener">BAISH&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="research-organizations--startups">Research Organizations &amp;amp; Startups&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://atla-ai.com" target="_blank" rel="noopener">Atla AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.apolloresearch.ai" target="_blank" rel="noopener">Apollo Research&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://timaeus.co" target="_blank" rel="noopener">Timaeus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology.html" target="_blank" rel="noopener">RAND CAST&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://humancompatible.ai" target="_blank" rel="noopener">CHAI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>AXRP &lt;a href="https://axrp.net" target="_blank" rel="noopener">website&lt;/a> - The AI X-risk Research Podcast&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/xqkGmfikqapbJ2YMj/shard-theory-an-overview" target="_blank" rel="noopener">blogpost&lt;/a> - Shard Theory: An Overview&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Growing BlueDot's Impact w/ Li-Lian Ang</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e023/</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e023/</guid><description>&lt;div style="text-align: justify">
+I'm joined by my good friend, Li-Lian Ang, first hire and product manager at BlueDot Impact. We discuss how BlueDot has evolved from their original course offerings to a new "defense-in-depth" approach, which focuses on three core threat models: reduced oversight in high risk scenarios (e.g. accelerated warfare), catastrophic terrorism (e.g. rogue actors with bioweapons), and the concentration of wealth and power (e.g. supercharged surveillance states). On top of that, we cover how BlueDot's strategies account for and reduce the negative impacts of common issues in AI safety, including exclusionary tendencies, elitism, and echo chambers.&lt;br>&lt;br>
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900">
+&lt;span class="pr-3 pt-1 text-red-400">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">2025.09.15: Learn more about how to make design effective interventions to make AI go well and potentially even get funded for it on BlueDot Impact&amp;rsquo;s &lt;a href="https://bluedot.org/courses/agi-strategy" target="_blank" rel="noreferrer noopener">AGI Strategy course&lt;/a>! BlueDot is also &lt;a href="https://bluedot.org/join-us" target="_blank" rel="noreferrer noopener">hiring&lt;/a>, so if you think you’d be a good fit, I definitely recommend applying; I had a great experience when I contracted as a course facilitator. If you do end up applying, let them know you found out about the opportunity from the podcast!&lt;/span>
+&lt;/div>
+&lt;p>Follow Li-Lian on &lt;a href="https://www.linkedin.com/in/anglilian/" target="_blank" rel="noopener">LinkedIn&lt;/a>, and look at more of her work on her &lt;a href="https://anglilian.com/" target="_blank" rel="noopener">blog&lt;/a>!&lt;/p>
+&lt;p>As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm &lt;a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noopener">Patreon&lt;/a> which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/693171f2">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.08.27; ASIDES RECORDED 2025.09.07&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:03:23 ❙ Meeting Through the Course&lt;br>
+00:05:46 ❙ Eating Your Own Dog Food&lt;br>
+00:13:13 ❙ Impact Acceleration&lt;br>
+00:22:13 ❙ Breaking Out of the AI Safety Mold&lt;br>
+00:26:06 ❙ Bluedot’s Risk Framework&lt;br>
+00:41:38 ❙ Dangers of "Frontier" Models&lt;br>
+00:54:06 ❙ The Need for AI Safety Advocates&lt;br>
+01:00:11 ❙ Hot Takes and Pet Peeves
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>BlueDot Impact &lt;a href="https://bluedot.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="defense-in-depth">Defense-in-Depth&lt;/h3>
+&lt;ul>
+&lt;li>BlueDot Impact &lt;a href="https://bluedot.org/blog/course-portfolio-vision" target="_blank" rel="noopener">blogpost&lt;/a> - Our vision for comprehensive AI safety training&lt;/li>
+&lt;li>Engineering for Humans &lt;a href="https://www.engineeringforhumans.com/systems-engineering/the-swiss-cheese-model-designing-to-reduce-catastrophic-losses/" target="_blank" rel="noopener">blogpost&lt;/a> - The Swiss cheese model: Designing to reduce catastrophic losses&lt;/li>
+&lt;li>Open Journal of Safety Science and Technology &lt;a href="https://www.scirp.org/journal/paperinformation?paperid=70457" target="_blank" rel="noopener">article&lt;/a> - The Evolution of Defense in Depth Approach: A Cross Sectorial Analysis&lt;/li>
+&lt;/ul>
+&lt;h3 id="x-clusion-and-x-risk">X-clusion and X-risk&lt;/h3>
+&lt;ul>
+&lt;li>Nature &lt;a href="https://arxiv.org/abs/2502.09288" target="_blank" rel="noopener">article&lt;/a> - AI Safety for Everyone&lt;/li>
+&lt;li>Ben Kuhn &lt;a href="https://www.benkuhn.net/welcoming/" target="_blank" rel="noopener">blogpost&lt;/a> - On being welcoming&lt;/li>
+&lt;li>Reflective Altruism &lt;a href="https://reflectivealtruism.com/2023/01/12/off-series-that-bostrom-email/" target="_blank" rel="noopener">blogpost&lt;/a> - Belonging (Part 1: That Bostrom email)&lt;/li>
+&lt;/ul>
+&lt;h3 id="aixbio">AIxBio&lt;/h3>
+&lt;ul>
+&lt;li>RAND &lt;a href="https://www.rand.org/pubs/research_reports/RRA2977-2.html" target="_blank" rel="noopener">report&lt;/a> - The Operational Risks of AI in Large-Scale Biological Attacks&lt;/li>
+&lt;li>OpenAI &lt;a href="https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/" target="_blank" rel="noopener">&amp;ldquo;publication&amp;rdquo;&lt;/a> (press release) - Building an early warning system for LLM-aided biological threat creation&lt;/li>
+&lt;li>Anthropic Frontier AI Red Team &lt;a href="https://red.anthropic.com/2025/biorisk/" target="_blank" rel="noopener">blogpost&lt;/a> - Why do we take LLMs seriously as a potential source of biorisk?&lt;/li>
+&lt;li>Kevin Esvelt &lt;a href="https://arxiv.org/pdf/2503.15182" target="_blank" rel="noopener">preprint&lt;/a> - Foundation models may exhibit staged progression in novel CBRN threat disclosure&lt;/li>
+&lt;li>Anthropic &lt;a href="https://www.anthropic.com/news/activating-asl3-protections" target="_blank" rel="noopener">press release&lt;/a> - Activating AI Safety Level 3 protections&lt;/li>
+&lt;/ul>
+&lt;h3 id="persuasive-ai">Persuasive AI&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2412.17128v1" target="_blank" rel="noopener">Preprint&lt;/a> - Lies, Damned Lies, and Distributional Language Statistics: Persuasion and Deception with Large Language Models&lt;/li>
+&lt;li>Nature Human Behavior &lt;a href="https://www.nature.com/articles/s41562-025-02194-6?error=cookies_not_supported&amp;amp;code=32f522a9-c964-4efa-9565-e013fbef4d63" target="_blank" rel="noopener">article&lt;/a> - On the conversational persuasiveness of GPT-4&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2505.09662" target="_blank" rel="noopener">Preprint&lt;/a> - Large Language Models Are More Persuasive Than Incentivized Human Persuaders&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai-anthropomorphization-and-mental-health">AI, Anthropomorphization, and Mental Health&lt;/h3>
+&lt;ul>
+&lt;li>Western News &lt;a href="https://news.westernu.ca/2025/08/danger-of-anthropomorphic-ai/" target="_blank" rel="noopener">article&lt;/a> - Expert insight: Humanlike chatbots detract from developing AI for the human good&lt;/li>
+&lt;li>AI &amp;amp; Society &lt;a href="https://link.springer.com/article/10.1007/s00146-022-01492-1" target="_blank" rel="noopener">article&lt;/a> - Anthropomorphization and beyond: conceptualizing humanwashing of AI-enabled machines&lt;/li>
+&lt;li>Artificial Ignorance &lt;a href="https://www.ignorance.ai/p/the-chatbot-trap" target="_blank" rel="noopener">article&lt;/a> - The Chatbot Trap&lt;/li>
+&lt;li>Making Noise and Hearing Things &lt;a href="https://makingnoiseandhearingthings.com/2022/08/03/large-language-models-cannot-replace-mental-health-professionals/" target="_blank" rel="noopener">blogpost&lt;/a> - Large language models cannot replace mental health professionals&lt;/li>
+&lt;li>Idealogo &lt;a href="https://www.brightfama.com/blog/2025/08/28/4-reasons-not-to-turn-chatgpt-into-your-therapist/" target="_blank" rel="noopener">blogpost&lt;/a> - 4 reasons not to turn ChatGPT into your therapist&lt;/li>
+&lt;li>Journal of Medical Society &lt;a href="https://journals.lww.com/jmso/fulltext/2024/38010/importance_of_informed_consent_in_medical_practice.1.aspx" target="_blank" rel="noopener">Editorial&lt;/a> - Importance of informed consent in medical practice&lt;/li>
+&lt;li>Indian Journal of Medical Research &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7055160/" target="_blank" rel="noopener">article&lt;/a> - Consent in psychiatry - concept, application &amp;amp; implications&lt;/li>
+&lt;li>Media Naama &lt;a href="https://www.medianama.com/2025/04/223-chatgpt-sycophantic-tone-risks-humanizing-ai-chatbots/" target="_blank" rel="noopener">article&lt;/a> - The Risk of Humanising AI Chabots: Why ChatGPT Mimicking Feelings Can Backfire&lt;/li>
+&lt;li>Becker&amp;rsquo;s Behavioral Health &lt;a href="https://www.beckersbehavioralhealth.com/ai-2/openais-mental-health-roadmap-5-things-to-know/" target="_blank" rel="noopener">blogpost&lt;/a> - OpenAI’s mental health roadmap: 5 things to know&lt;/li>
+&lt;/ul>
+&lt;h3 id="miscellaneous-references">Miscellaneous References&lt;/h3>
+&lt;ul>
+&lt;li>Carnegie Council &lt;a href="https://carnegiecouncil.org/media/article/what-do-we-mean-when-we-talk-about-ai-democratization" target="_blank" rel="noopener">blogpost&lt;/a> - What Do We Mean When We Talk About &amp;ldquo;AI Democratization&amp;rdquo;?&lt;/li>
+&lt;li>Collective Intelligence Project &lt;a href="https://www.cip.org/research/democratizing-ai" target="_blank" rel="noopener">policy brief&lt;/a> - Four Approaches to Democratizing AI&lt;/li>
+&lt;li>BlueDot Impact &lt;a href="https://bluedot.org/blog/how-does-ai-learn" target="_blank" rel="noopener">blogpost&lt;/a> - How Does AI Learn? A Beginner&amp;rsquo;s Guide with Examples&lt;/li>
+&lt;li>BlueDot Impact &lt;a href="https://bluedot.org/blog/ai-safety-advocacy" target="_blank" rel="noopener">blogpost&lt;/a> - AI safety needs more public-facing advocacy&lt;/li>
+&lt;/ul>
+&lt;h3 id="more-li-lian-links">More Li-Lian Links&lt;/h3>
+&lt;ul>
+&lt;li>Humans of Minerva podcast &lt;a href="https://humansofminerva.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Li-Lian&amp;rsquo;s &lt;a href="https://www.goodreads.com/book/show/57027582-purple-is-the-noblest-shroud" target="_blank" rel="noopener">book&lt;/a> - Purple is the Noblest Shroud&lt;/li>
+&lt;/ul>
+&lt;h3 id="relevant-podcasts-from-kairosfm">Relevant Podcasts from Kairos.fm&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://kairos.fm/intoaisafety/e019/" target="_blank" rel="noopener">Scaling Democracy w/ Dr. Igor Krawczuk&lt;/a> for AI safety exclusion and echo chambers&lt;/li>
+&lt;li>&lt;a href="https://kairos.fm/intoaisafety/e021/" target="_blank" rel="noopener">Getting into PauseAI w/ Will Petillo&lt;/a> for AI in warfare and exclusion in AI safety&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Layoffs to Leadership w/ Andres Sepulveda Morales</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e022/</link><pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e022/</guid><description>&lt;div style="text-align: justify">
+Andres Sepulveda Morales joins me to discuss his journey from three tech layoffs to founding Red Mage Creative and leading the Fort Collins chapter of the Rocky Mountain AI Interest Group (RMAIIG). We explore the current tech job market, AI anxiety in nonprofits, dark patterns in AI systems, and building inclusive tech communities that welcome diverse perspectives.
+&lt;p>Reach out to Andres on his &lt;a href="https://www.linkedin.com/in/andres-sepulveda-morales/" target="_blank" rel="noopener">LinkedIn&lt;/a>, or check out the Red Mage Creative &lt;a href="https://redmage.cc/" target="_blank" rel="noopener">website&lt;/a>!&lt;/p>
+&lt;p>For any listeners in Colorado, consider attending an RMAIIG event: &lt;a href="https://www.meetup.com/rmaiig/" target="_blank" rel="noopener">Boulder&lt;/a>; &lt;a href="https://www.meetup.com/fort-collins-ai-for-everyone-rmaiig/events/307983383/?eventOrigin=group_upcoming_events" target="_blank" rel="noopener">Fort Collins&lt;/a>&lt;/p>
+&lt;/div>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/6dc56af2">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.07.16; ASIDES RECORDED 2025.07.27&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:01:04 ❙ Andres' Journey&lt;br>
+00:05:15 ❙ Tech Layoff Cycle&lt;br>
+00:26:12 ❙ Why AI?&lt;br>
+00:30:58 ❙ What is Red Mage?&lt;br>
+00:36:12 ❙ AI as a Tool&lt;br>
+00:41:55 ❙ AInxiety&lt;br>
+00:47:26 ❙ Dark Patterns and Critical Perspectives&lt;br>
+01:01:35 ❙ RMAIIG&lt;br>
+01:10:09 ❙ Inclusive Tech Education&lt;br>
+01:18:05 ❙ Colorado AI Governance&lt;br>
+01:23:46 ❙ Building Your Own Tech Community
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="tech-job-market">Tech Job Market&lt;/h3>
+&lt;ul>
+&lt;li>Layoff tracker &lt;a href="https://layoffs.fyi/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>The Big Newsletter &lt;a href="https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going" target="_blank" rel="noopener">article&lt;/a> - Why Are We Pretending AI Is Going to Take All the Jobs?&lt;/li>
+&lt;li>METR &lt;a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/" target="_blank" rel="noopener">preprint&lt;/a> - Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity&lt;/li>
+&lt;li>AI Business &lt;a href="https://aibusiness.com/responsible-ai/debunking-the-ai-job-crisis" target="_blank" rel="noopener">blogpost&lt;/a> - Debunking the AI Job Crisis&lt;/li>
+&lt;li>Crunchbase &lt;a href="https://news.crunchbase.com/layoffs/big-tech-leads-workforce-cuts-msft-amzn/" target="_blank" rel="noopener">article&lt;/a> - Data: Tech Layoffs Remain Stubbornly High, With Big Tech Leading The Way&lt;/li>
+&lt;li>Computerworld &lt;a href="https://www.computerworld.com/article/4003261/tech-layoffs-surge-even-as-us-unemployment-remains-stable.html" target="_blank" rel="noopener">article&lt;/a> - Tech layoffs surge even as US unemployment remains stable&lt;/li>
+&lt;li>Apollo Technical &lt;a href="https://www.apollotechnical.com/ghost-jobs-in-tech-why-companies-are-posting-roles-they-dont-plan-to-fill/" target="_blank" rel="noopener">blogpost&lt;/a> - Ghost jobs in tech: Why companies are posting roles they don’t plan to fill&lt;/li>
+&lt;li>The HR Digest &lt;a href="https://www.thehrdigest.com/the-rise-of-ghost-jobs-is-leaving-job-seekers-frustrated-and-disappointed/" target="_blank" rel="noopener">article&lt;/a> - The Rise of Ghost Jobs Is Leaving Job Seekers Frustrated and Disappointed&lt;/li>
+&lt;li>A Life After Layoff &lt;a href="https://www.youtube.com/watch?v=rp06jQIYQ-w" target="_blank" rel="noopener">video&lt;/a> -
+The Tech Job Market Is Hot Trash Right Now&lt;/li>
+&lt;li>Economy Media &lt;a href="https://www.youtube.com/watch?v=ppYtD18CokI" target="_blank" rel="noopener">video&lt;/a> -
+Will The Tech Job Market Ever Recover?&lt;/li>
+&lt;li>Soleyman Shahir &lt;a href="https://www.youtube.com/watch?v=X0aYO8GMB4c" target="_blank" rel="noopener">video&lt;/a> -
+Tech CEO Explains: The Real Reason Behind AI Layoffs&lt;/li>
+&lt;/ul>
+&lt;h3 id="dark-patterns">Dark Patterns&lt;/h3>
+&lt;ul>
+&lt;li>Deceptive Design &lt;a href="https://www.deceptive.design" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Journal of Legal Analysis &lt;a href="https://www.researchgate.net/publication/350340175_Shining_a_Light_on_Dark_Patterns" target="_blank" rel="noopener">article&lt;/a> - Shining a Light on Dark Patterns&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/2503.10728" target="_blank" rel="noopener">paper&lt;/a> - DarkBench: Benchmarking Dark Patterns in Large Language Models&lt;/li>
+&lt;li>Computing Within Limits &lt;a href="https://computingwithinlimits.org/2025/papers/limits2025-beigon-imposing-ai.pdf" target="_blank" rel="noopener">paper&lt;/a> - Imposing AI: Deceptive design patterns against sustainability&lt;/li>
+&lt;li>Communications of the ACM &lt;a href="https://cacm.acm.org/practice/dark-patterns/" target="_blank" rel="noopener">blogpost&lt;/a> - Dark Patterns&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/html/2412.09147v1" target="_blank" rel="noopener">Preprint&lt;/a> - A Comprehensive Study on Dark Patterns&lt;/li>
+&lt;/ul>
+&lt;h3 id="colorado-ai-regulation">Colorado AI Regulation&lt;/h3>
+&lt;ul>
+&lt;li>Senate Bill 24-205 (Colorado AI Act) &lt;a href="https://leg.colorado.gov/sites/default/files/2024a_205_signed.pdf" target="_blank" rel="noopener">bill&lt;/a> and &lt;a href="https://leg.colorado.gov/bills/sb24-205" target="_blank" rel="noopener">webpage&lt;/a>&lt;/li>
+&lt;li>NAAG &lt;a href="https://www.naag.org/attorney-general-journal/a-deep-dive-into-colorados-artificial-intelligence-act/" target="_blank" rel="noopener">article&lt;/a> - A Deep Dive into Colorado’s Artificial Intelligence Act&lt;/li>
+&lt;li>Colorado Sun &lt;a href="https://coloradosun.com/2025/04/23/colorado-artificial-intelligence-law-ai/" target="_blank" rel="noopener">article&lt;/a> - Why Colorado’s artificial intelligence law is a big deal for the whole country&lt;/li>
+&lt;li>CFO Dive &lt;a href="https://www.cfodive.com/news/a-heavy-lift-colorado-ai-law-sets-high-bar-analysts-say/753025/" target="_blank" rel="noopener">blogpost&lt;/a> - ‘Heavy lift’: Colorado AI law sets high bar, analysts say&lt;/li>
+&lt;li>Denver 7 &lt;a href="https://www.denver7.com/money/science-and-tech/colorado-could-lose-funding-as-trump-administration-targets-ai-regulations" target="_blank" rel="noopener">article&lt;/a> - Colorado could lose federal funding as Trump administration targets AI regulations&lt;/li>
+&lt;li>America&amp;rsquo;s AI Action Plan &lt;a href="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf" target="_blank" rel="noopener">document&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Concordia Framework &lt;a href="https://arxiv.org/abs/2312.03664" target="_blank" rel="noopener">report&lt;/a> and &lt;a href="https://github.com/google-deepmind/concordia" target="_blank" rel="noopener">repo&lt;/a>&lt;/li>
+&lt;li>80,000 Hours &lt;a href="https://80000hours.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>AI Incident Database &lt;a href="https://incidentdatabase.ai" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Bloomberg &lt;a href="https://www.bloomberg.com/news/features/2025-07-30/startup-builder-ai-goes-from-1-5-billion-unicorn-to-bankruptcy" target="_blank" rel="noopener">article&lt;/a> - How an ‘Entrepreneur of the Year’ Brought the First Big Bust to AI Boom&lt;/li>
+&lt;li>Cos &lt;a href="https://cosminnovac.medium.com/rag-easily-explained-3d443eb1cd10" target="_blank" rel="noopener">blogpost&lt;/a> - RAG Easily Explained&lt;/li>
+&lt;li>HuggingFace &lt;a href="https://huggingface.co/blog/Kseniase/mcp" target="_blank" rel="noopener">blogpost&lt;/a> - What Is MCP, and Why Is Everyone – Suddenly!– Talking About It?&lt;/li>
+&lt;li>We and AI &lt;a href="https://weandai.org/leaving-ai-explainers-up-to-tech-companies-what-could-go-wrong/" target="_blank" rel="noopener">blogpost&lt;/a> - Leaving AI explainers up to tech companies: What could go wrong?&lt;/li>
+&lt;li>Politico &lt;a href="https://www.politico.com/news/magazine/2025/07/10/musk-grok-hitler-ai-00447055" target="_blank" rel="noopener">article&lt;/a> - Why Grok Fell in Love With Hitler&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Portfolios</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e010/</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e010/</guid><description>&lt;div style="text-align: justify">
+I provide my thoughts and recommendations regarding personal professional portfolios.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/0258007f">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:35 ❙ Intro to portfolios&lt;br>
+01:42 ❙ Modern portfolios&lt;br>
+02:27 ❙ What to include&lt;br>
+04:38 ❙ Importance of visual&lt;br>
+05:50 ❙ The "About" page&lt;br>
+06:25 ❙ Tools&lt;br>
+08:12 ❙ Future of "Minisodes"
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://jime.open.ac.uk/articles/10.5334/jime.574" target="_blank" rel="noreferrer noopener">From Portafoglio to Eportfolio: The Evolution of Portfolio in Higher Education&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.gimp.org" target="_blank" rel="noreferrer noopener">GIMP&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alternativeto.net" target="_blank" rel="noreferrer noopener">AlternativeTo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jekyllrb.com" target="_blank" rel="noreferrer noopener">Jekyll&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mmistakes.github.io/minimal-mistakes/" target="_blank" rel="noreferrer noopener">Minimal Mistakes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pages.github.com" target="_blank" rel="noreferrer noopener">GitHub Pages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">My portfolio&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Applications w/ Alice Rigg</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e005/</link><pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e005/</guid><description>&lt;div style="text-align: justify">
+Alice Rigg, a mechanistic interpretability researcher from Ottawa, Canada, joins me to discuss their path and the applications process for research/mentorship programs.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/2889532d">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>Join the &lt;a href="https://discord.gg/KNxJwaytTG" target="_blank" rel="noreferrer noopener">Mech Interp Discord server&lt;/a> and attend reading groups at 11:00am on Wednesdays (Mountain Time)!&lt;/p>
+&lt;p>Check out Alice&amp;rsquo;s &lt;a href="https://woog97.github.io" target="_blank" rel="noreferrer noopener">website&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.eleuther.ai" target="_blank" rel="noreferrer noopener">EleutherAI&lt;/a>
+&lt;ul>
+&lt;li>Join the public &lt;a href="https://www.discord.gg/eleutherai" target="_blank" rel="noreferrer noopener">EleutherAI discord server&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://distill.pub" target="_blank" rel="noreferrer noopener">Distill&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.effectivealtruism.org" target="_blank" rel="noreferrer noopener">Effective Altruism&lt;/a> (EA)&lt;/li>
+&lt;li>&lt;a href="https://www.lesswrong.com/posts/zwf68YaySvXhWYCdh/mats-summer-2023-retrospective" target="_blank" rel="noreferrer noopener">MATS Retrospective Summer 2023&lt;/a> post&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1jce3f64Fz7PXmdCEyd9i0PTmcFaiP1pZdcBn5ye5sxY/edit" target="_blank" rel="noreferrer noopener">Ambitious Mechanistic Interpretability&lt;/a> AISC research plan by Alice Rigg&lt;/li>
+&lt;li>&lt;a href="https://berkeleyaisafety.com/spar" target="_blank" rel="noreferrer noopener">SPAR&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stability.ai" target="_blank" rel="noreferrer noopener">Stability AI&lt;/a>
+&lt;ul>
+&lt;li>During their most recent fundraising round, Stability AI had a valuation of $4B &lt;a href="https://www.bloomberg.com/news/articles/2023-03-03/openai-rival-stable-diffusion-maker-seeks-to-raise-funds-at-4-billion-valuation" target="_blank" rel="noreferrer noopener">(Bloomberg)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://discord.gg/KNxJwaytTG" target="_blank" rel="noreferrer noopener">Mech Interp Discord Server&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Program Applications (Winter 2024)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e004/</link><pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e004/</guid><description>&lt;div style="text-align: justify">
+We're back after a month-long hiatus with a podcast refactor and advice on the applications process for research/mentorship programs.
+&lt;!-- Check out the &lt;a href="https://into-ai-safety.github.io/about/" target="_blank" rel="noreferrer noopener">About&lt;/a> page on the &lt;a href="https://into-ai-safety.github.io" target="_blank" rel="noreferrer noopener">Into AI Safety&lt;/a> website for a summary of the logistics updates. -->
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/6a54c881">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.matsprogram.org" target="_blank" rel="noreferrer noopener">MATS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.constellation.org/programs/astra-fellowship" target="_blank" rel="noreferrer noopener">ASTRA Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.arena.education" target="_blank" rel="noreferrer noopener">ARENA&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bluedotimpact.org" target="_blank" rel="noreferrer noopener">BlueDot Impact&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.techwithtim.net" target="_blank" rel="noreferrer noopener">Tech with Tim&lt;/a>&lt;/li>
+&lt;li>Fast.AI&amp;rsquo;s &lt;a href="https://course.fast.ai" target="_blank" rel="noreferrer noopener">Practical Deep Learning for Coders&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com" target="_blank" rel="noreferrer noopener">Kaggle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alignmentjam.com" target="_blank" rel="noreferrer noopener">AlignmentJams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lesswrong.com" target="_blank" rel="noreferrer noopener">LessWrong&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.alignmentforum.org" target="_blank" rel="noreferrer noopener">AI Alignment Forum&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item></channel></rss>

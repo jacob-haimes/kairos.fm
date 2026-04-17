@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Governance | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/ai-governance/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/ai-governance/index.xml" rel="self" type="application/rss+xml"/><description>AI Governance</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>AI Governance</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/ai-governance/</link></image><item><title>Drawing Red Lines w/ Su Cizem</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e029/</link><pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e029/</guid><description>&lt;div style="text-align: justify">
+Technology has been moving faster than policy for some time now, and the advent of AI isn't changing that, so what can we do to maintain safety despite uncertainty? Su Cizem has spent the last few years trying to answer that question. As an analyst at the Future Society, she works on global AI governance, specifically on building international consensus around AI red lines: the thresholds we collectively agree must never be crossed. In this conversation, Su walks through her path from philosophy to policy, the evolution of the global AI safety summit series, why voluntary commitments from AI labs aren't enough, and what it would actually take to make international cooperation on AI safety real.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/1690daad">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.03.12; ASIDES RECORDED 2026.03.31; &lt;a href="https://share.transistor.fm/s/1690daad/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Introduction&lt;br>
+00:03:23 ❙ From Philosophy to Policy&lt;br>
+00:22:25 ❙ What AI Governance Actually Means&lt;br>
+00:26:49 ❙ The Summit Series&lt;br>
+00:43:01 ❙ Drawing The Red Lines&lt;br>
+01:10:51 ❙ Can These Companies Govern Themselves?&lt;br>
+01:24:01 ❙ Breaking Into The Field&lt;br>
+01:27:51 ❙ Closing Thoughts &amp; Outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Su&amp;rsquo;s &lt;a href="https://www.linkedin.com/in/su-zeynep-cizem/" target="_blank" rel="noopener">LinkedIn&lt;/a>&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Track_II_diplomacy" target="_blank" rel="noopener">article&lt;/a> - Track II Diplomacy&lt;/li>
+&lt;/ul>
+&lt;h3 id="red-lines">Red Lines&lt;/h3>
+&lt;ul>
+&lt;li>Global &lt;a href="https://red-lines.ai/" target="_blank" rel="noopener">Call&lt;/a> for AI Red Lines&lt;/li>
+&lt;li>The Futures Society &lt;a href="https://thefuturesociety.org/2025-athens-roundtable-report" target="_blank" rel="noopener">report&lt;/a> - “Facing the Stakes of AI Together”: 2025 Athens Roundtable Report&lt;/li>
+&lt;li>The Futures Society &lt;a href="https://thefuturesociety.org/indiaaisummit/" target="_blank" rel="noopener">blogpost&lt;/a> - Key Takeaways from the India AI Impact Summit&lt;/li>
+&lt;li>The Futures Society &lt;a href="https://thefuturesociety.org/ai-red-lines-iaseai-workshop" target="_blank" rel="noopener">blogpost&lt;/a> - Where Do We Draw the Line? Inside the IASEAI Expert Workshop on AI Red Lines&lt;/li>
+&lt;/ul>
+&lt;h3 id="global-ai-safety-summit-series">Global AI Safety Summit Series&lt;/h3>
+&lt;ul>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/AI_Safety_Summit_2023" target="_blank" rel="noopener">article&lt;/a> - AI Safety Summit 2023&lt;/li>
+&lt;li>UK government &lt;a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener">press release&lt;/a> - The Bletchley Declaration by Countries Attending the AI Safety Summit&lt;/li>
+&lt;li>Politico &lt;a href="https://www.politico.eu/article/how-the-global-effort-to-keep-ai-safe-went-off-the-rails/" target="_blank" rel="noopener">article&lt;/a> - How the global effort to keep AI safe went off the rails&lt;/li>
+&lt;li>TechPolicy.Press &lt;a href="https://www.techpolicy.press/us-delegation-heads-to-india-ai-summit-intent-on-domination/" target="_blank" rel="noopener">article&lt;/a> - US Delegation Heads to India AI Summit Intent on ‘Domination’&lt;/li>
+&lt;li>TIME &lt;a href="https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/" target="_blank" rel="noopener">article&lt;/a> - World Leaders Near Declaration on AI, Indian Government Says&lt;/li>
+&lt;li>Indian government &lt;a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230201&amp;amp;reg=3&amp;amp;lang=2" target="_blank" rel="noopener">press release&lt;/a> - Championing Inclusive and Multilingual AI for the Global South, India Unveils New Delhi Frontier AI Commitments&lt;/li>
+&lt;li>AI Impact Summit &lt;a href="https://www.mea.gov.in/bilateral-documents.htm?dtl/40809" target="_blank" rel="noopener">Declaration&lt;/a>&lt;/li>
+&lt;li>The Futures Society &lt;a href="https://thefuturesociety.org/aiactionsummitconsultationreport/" target="_blank" rel="noopener">report&lt;/a> - Citizens and Experts Unite: Final Report on Global Consultations for France’s 2025 AI Action Summit&lt;/li>
+&lt;/ul>
+&lt;h3 id="anthropic-vs-dod">Anthropic vs. DoD&lt;/h3>
+&lt;ul>
+&lt;li>TechPolicy.Press &lt;a href="https://www.techpolicy.press/a-timeline-of-the-anthropic-pentagon-dispute/" target="_blank" rel="noopener">article&lt;/a> - A Timeline of the Anthropic-Pentagon Dispute&lt;/li>
+&lt;li>Congressional Research Service &lt;a href="https://www.everycrsreport.com/reports/IN12669.html" target="_blank" rel="noopener">report&lt;/a> - Pentagon-Anthropic Dispute over Autonomous Weapon Systems: Potential Issues for Congress&lt;/li>
+&lt;li>Center for American Progress &lt;a href="https://www.americanprogress.org/article/the-department-of-defenses-conflict-with-anthropic-and-deal-with-openai-are-a-call-for-congress-to-act/" target="_blank" rel="noopener">article&lt;/a> - The Department of Defense’s Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act&lt;/li>
+&lt;li>The Guardian &lt;a href="https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying" target="_blank" rel="noopener">article&lt;/a> - AI got the blame for the Iran school bombing. The truth is far more worrying&lt;/li>
+&lt;/ul>
+&lt;h3 id="openai--google-employee-open-letter">OpenAI + Google Employee Open Letter&lt;/h3>
+&lt;ul>
+&lt;li>The &lt;a href="https://notdivided.org/" target="_blank" rel="noopener">open letter&lt;/a> - We Will Not Be Divided&lt;/li>
+&lt;li>Engadget &lt;a href="https://www.engadget.com/ai/google-and-openai-employees-sign-open-letter-in-solidarity-with-anthropic-194957274.html" target="_blank" rel="noopener">article&lt;/a> - Google and OpenAI employees sign open letter in ‘solidarity’ with Anthropic&lt;/li>
+&lt;li>TechCrunch &lt;a href="https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/" target="_blank" rel="noopener">article&lt;/a> - Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter&lt;/li>
+&lt;/ul>
+&lt;h3 id="openais-new-dodeal">OpenAI&amp;rsquo;s New DoDeal&lt;/h3>
+&lt;ul>
+&lt;li>The Register &lt;a href="https://www.theregister.com/2026/03/06/openai_dod_deal/" target="_blank" rel="noopener">article&lt;/a> - Altman said no to military AI abuses – then signed Pentagon deal anyway&lt;/li>
+&lt;li>CNBC &lt;a href="https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html" target="_blank" rel="noopener">article&lt;/a> - Sam Altman tells OpenAI staffers that military’s ‘operational decisions’ are up to the government&lt;/li>
+&lt;li>Transformer &lt;a href="https://www.transformernews.ai/p/openai-pentagon-department-of-war-dow-dod-red-lines-surveillance" target="_blank" rel="noopener">article&lt;/a> - OpenAI&amp;rsquo;s Pentagon red lines are a mirage&lt;/li>
+&lt;li>OpenAI &lt;a href="https://openai.com/index/our-agreement-with-the-department-of-war/" target="_blank" rel="noopener">press release&lt;/a> - Our agreement with the Department of War&lt;/li>
+&lt;li>EFF &lt;a href="https://www.eff.org/deeplinks/2026/03/anthropic-dod-conflict-privacy-protections-shouldnt-depend-decisions-few-powerful" target="_blank" rel="noopener">article&lt;/a> - The Anthropic-DOD Conflict: Privacy Protections Shouldn’t Depend On the Decisions of a Few Powerful People&lt;/li>
+&lt;/ul>
+&lt;h3 id="peter-singer">Peter Singer&lt;/h3>
+&lt;ul>
+&lt;li>Singer&amp;rsquo;s 1972 &lt;a href="https://rintintin.colorado.edu/~vancecd/phil308/Singer2.pdf" target="_blank" rel="noopener">paper&lt;/a> - Famine, Affluence, and Morality&lt;/li>
+&lt;li>Singer&amp;rsquo;s &lt;a href="https://ia600507.us.archive.org/18/items/feast-fast-or-famine-food-and-drink-in-byzantium/Famine%2C%20Affluence%2C%20and%20Morality%20%28%20PDFDrive%20%29.pdf" target="_blank" rel="noopener">book&lt;/a> of the same name&lt;/li>
+&lt;li>The Partially Examined Life &lt;a href="https://partiallyexaminedlife.com/2016/10/24/ep150-1-peter-singer/" target="_blank" rel="noopener">podcast episode&lt;/a> - Episode 150: Guest Peter Singer on Famine, Affluence, and Morality&lt;/li>
+&lt;/ul>
+&lt;h3 id="responsible-scaling-policies-etc">Responsible Scaling Policies, etc.&lt;/h3>
+&lt;ul>
+&lt;li>SaferAI &lt;a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener">report&lt;/a> - Evaluating AI Providers’ Frontier AI Safety Frameworks&lt;/li>
+&lt;li>Anthropic&amp;rsquo;s &lt;a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener">RSP&lt;/a>&lt;/li>
+&lt;li>OpenAI&amp;rsquo;s &lt;a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener">Preparedness Framework&lt;/a>&lt;/li>
+&lt;li>Google Deepmind&amp;rsquo;s &lt;a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener">Frontier Safety Framework&lt;/a>&lt;/li>
+&lt;li>Meta&amp;rsquo;s &lt;a href="https://about.fb.com/news/2025/02/meta-approach-frontier-ai/?utm_source=bluedot-impact" target="_blank" rel="noopener">Frontier AI Framework&lt;/a>&lt;/li>
+&lt;li>Don&amp;rsquo;t Worry About the Vase &lt;a href="https://thezvi.substack.com/p/anthropic-responsible-scaling-policy" target="_blank" rel="noopener">article&lt;/a> - Anthropic Responsible Scaling Policy v3: A Matter of Trust&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>What AI Governance Can Learn From Climate – And Why It Mostly Hasn't</title><link>https://jacob-haimes.github.io/kairos.fm/staging/what-ai-governance-can-learn-from-climate/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/what-ai-governance-can-learn-from-climate/</guid><description>&lt;figure>
+&lt;img loading="lazy" width="1080" height="900" decoding="async" data-nimg="1"
+src="jesse-allen_mackenzie-meets-beaufort_9000x7500.jpg"
+alt="Canada’s largest and longest river delivers vast amounts of fresh water and sediment to the sea.">
+&lt;figcaption style="font-size:small">
+Image by Jesse Allen / &lt;a target="_blank" rel="noreferrer noopener" href="https://science.nasa.gov/earth/earth-observatory/">NASA Earth Observatory
+&lt;/a> /
+&lt;a target="_blank" rel="noreferrer noopener" href="https://science.nasa.gov/earth/earth-observatory/mackenzie-meets-beaufort-90703/">Mackenzie Meets Beaufort
+&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: justify">
+&lt;p>For roughly three decades, climate governance has been our most sustained real-world experiment in managing a slow-moving, civilisation-scale risk. Not because it has worked especially well, but because it has forced institutions to confront something genuinely hard: acting when harms are unevenly distributed across time and geography, and when feedback from decision–making arrives only after the damage has already begun.&lt;/p>
+&lt;p>I have been working at the intersections of both climate and AI governance (UK Country Representative of the Global Ecovillage Network &lt;em>vis-à-vis&lt;/em> Arcadia Impact AI Governance Taskforce), international justice (Platform for Peace &amp;amp; Humanity), and foresight (Futures4Europe). What strikes me is how relatively little this accumulated experience informs contemporary AI safety debates. The communities are strikingly siloed – and given that AI is advancing far faster than climate change ever did, that seems like a problem.&lt;/p>
+&lt;p>We are behaving, in some ways, as though we have never encountered a high-stakes global risk before.&lt;/p>
+&lt;/div>
+&lt;h2 id="the-parallels-that-are-drawn--and-the-ones-that-arent">The parallels that are drawn – and the ones that aren’t&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Comparisons between AI and climate change do get &lt;a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70002" target="_blank" rel="noopener">drawn&lt;/a> occasionally. When they do, they usually focus on democratic accountability, compressed decision cycles, representation and legitimacy, or public trust. These are real concerns, but they tend to pivot toward speculative political outcomes rather than the underlying question: &lt;em>what happens when risks accelerate faster than institutional learning?&lt;/em>&lt;/p>
+&lt;p>Climate research communities spent years developing tools to reason across long time horizons – accounting for feedback loops, identifying lock-in dynamics, anticipating tipping points, while AI governance faces comparable structural challenges – non-linear capability growth, deployment decisions that may be difficult or impossible to reverse, and incentives that systematically reward speed over caution.&lt;/p>
+&lt;p>There&amp;rsquo;s also a version of the comparison that narrows too quickly. An Oxford &lt;a href="https://blogs.law.ox.ac.uk/oblb/blog-post/2025/05/ai-and-corporate-climate-governance-time-ai-pragmatism" target="_blank" rel="noopener">law blog&lt;/a> that I recently came across framed AI and climate change as twin transformations, then spent most of its length on AI&amp;rsquo;s carbon footprint. That question matters, but it treats AI more as an environmental hazard rather than a global-risk technology. (Although, the IEA &lt;a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener">projects&lt;/a> global data-centre electricity consumption will reach around 945 TWh by 2030, roughly equivalent to Japan&amp;rsquo;s current total electricity use. Worth knowing about.)&lt;/p>
+&lt;/div>
+&lt;h2 id="where-the-analogies-are-genuinely-useful">Where the analogies are genuinely useful&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>The UNU Institute for Environment and Human Security has &lt;a href="https://unu.edu/ehs/commentary/aligning-ai-and-climate-governance" target="_blank" rel="noopener">argued&lt;/a> that AI governance frameworks can learn from climate adaptation – specifically from the inflection point when adaptation stopped being treated as a niche environmental concern, and was reframed as a cross-sectoral risk affecting security, infrastructure, and economic stability. Climate governance accelerated once those linkages were recognised and institutionalised.&lt;/p>
+&lt;p>The solar geoengineering parallel is instructive, and underused. Both geoengineering and frontier AI are global-scale technologies characterised by profound scientific uncertainty, asymmetric incentives, and the risk of unilateral deployment by a small number of actors who are thereby capable of forcing a planetary transition. Geoengineering has long been haunted by what some call the &amp;ldquo;governance-gap paradox&amp;rdquo; – the need for regulation before technical feasibility is fully proven because, by the time it is proven, the window may have closed. However, solar geoengineering startups are now entering a commercial &lt;a href="https://www.justsecurity.org/125056/solar-geoengineering-startup-security" target="_blank" rel="noopener">take-off&lt;/a> phase without adequate governance frameworks. That trajectory should look familiar to AI governance activists. In fact, climate activists have &lt;a href="https://physicstoday.aip.org/features/the-urgent-need-for-research-governance-of-solar-geoengineering" target="_blank" rel="noopener">spotted&lt;/a> the pattern, and are watching the AI governance space keenly.&lt;/p>
+&lt;p>The lesson I draw from this is that once frontier-scale technologies attract serious capital, the window for responsible governance narrows fast. The SB 1047 case is instructive. This particular California AI safety bill – which would have required frontier model developers to implement basic safety protocols – passed both chambers of the state legislature with strong support, only to be vetoed by Governor Newsom in September 2024 after an intense industry lobbying campaign. Among those who publicly opposed it was former House Speaker Nancy Pelosi, whose household held between $16 million and $80 million in AI-adjacent stocks including Nvidia, Amazon, Google, and Microsoft at the time of her opposition (American Prospect, 2024). The bill had been endorsed by Geoffrey Hinton, Yoshua Bengio, Elon Musk, and Anthropic. The governance window, in other words, was open, but investment capital closed it.&lt;/p>
+&lt;p>If we wait until highly capable models are deployed across critical infrastructure, the options shrink dramatically. In my current work with Arcadia Impact – developing severity thresholds for AI incident escalation – I have already seen how difficult it is to define governance triggers before systems are deployed. As the California SB 1047 case illustrates, once deployment occurs, political and institutional incentives shift toward preserving existing capabilities rather than constraining them. This is why calls for &lt;a href="https://www.brookings.edu/articles/licensing-ai-is-not-the-answer-but-it-contains-the-answers" target="_blank" rel="noopener">pre-deployment licensing&lt;/a>, &lt;a href="https://metr.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment" target="_blank" rel="noopener">capability forecasting&lt;/a>, and &lt;a href="https://www.un.org/sg/en/content/sg/statements/2025-09-25/secretary-generals-remarks-high-level-multi-stakeholder-informal-meeting-launch-the-global-dialogue-artificial-intelligence-governance-delivered" target="_blank" rel="noopener">international coordination&lt;/a> are not alarmist – they are simply late.&lt;/p>
+&lt;/div>
+&lt;h2 id="where-the-strongest-analyses-still-underestimate">Where the strongest analyses still underestimate&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Even comparative &lt;a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ffo2.203" target="_blank" rel="noopener">analyses&lt;/a> which I find otherwise useful tend to underestimate the tempo of AI risk. A November 2024 analysis categorised AI impacts as &amp;ldquo;intermittent&amp;rdquo; and &amp;ldquo;non-linear,&amp;rdquo; labelled it a &amp;ldquo;sectoral&amp;rdquo; rather than collective risk, and described its economic stakes as &amp;ldquo;low to medium.&amp;rdquo; This framing, to me, already feels far behind the curve – though perhaps not for the reasons most commonly cited.&lt;/p>
+&lt;p>Common framing of AI governance urgency understandably leans on the most dramatic examples: &lt;a href="https://bbc.com/news/articles/cly7jrez2jno" target="_blank" rel="noopener">autonomous weapons use&lt;/a> in conflicts where the forces are still overwhelmingly human,&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> AI in &lt;a href="https://www.anthropic.com/news/disrupting-AI-espionage" target="_blank" rel="noopener">cyberoperations&lt;/a>, &lt;a href="https://www.apolloresearch.ai/research/frontier-models-are-capable-of-incontext-scheming/#:~:text=Several%20models%20are%20capable%20of,sandbag%20Multiple%20models%20can%20sandbag" target="_blank" rel="noopener">deceptive&lt;/a> model behaviour – these are real and documented, but they are neither new nor what they appear.&lt;/p>
+&lt;p>Whether harmful outcomes emerge from misaligned systems that human deceptivity can exploit, or from entirely rational competitive incentive – such as companies deploying models faster than safety allows, cutting corners to reduce costs, and prioritising capability over accountability – the governance gap is the same. The problem does not require AI to &amp;ldquo;go rogue&amp;rdquo; – it only requires that no adequate framework exists when the consequences compound.&lt;/p>
+&lt;p>A direct comparison makes the point:&lt;/p>
+&lt;p>&lt;strong>Climate risk:&lt;/strong> Short-term: extreme weather events. Medium-term: ecosystem degradation, biodiversity loss. Long-term: ocean-current collapse, polar permafrost thaw&lt;/p>
+&lt;p>&lt;strong>AI risk:&lt;/strong> Short-term: biased automated decision-making, AI-driven cyberattacks. Medium-term: power concentration, pervasive AI surveillance. Long-term: misaligned advanced systems operating beyond human control&lt;/p>
+&lt;p>Both trajectories involve cascading risks and feedback loops. The difference is the timescale. Climate unfolds over generations. AI risk may be compressed into a few training cycles – some say as early as by 2027.&lt;/p>
+&lt;/div>
+&lt;h2 id="why-climate-communities-are-natural-allies">Why climate communities are natural allies&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>As climate activists, we understand how windows of opportunity open and close – the gap between the Rio 1992 Earth Summit and meaningful action taking place is the story of a window missed. We know how early decisions lock in structural disadvantages: carbon-intensive infrastructure commits us to decades of emissions regardless of subsequent political will, and between now and 2030, &lt;a href="https://www.citizen.digital/article/greener-infrastructure-said-key-to-paris-climate-deal-study-144371" target="_blank" rel="noopener">$90 trillion&lt;/a> in global infrastructure investment could either deepen or begin to break that lock-in. We know how problems can resist standard policy tools — &lt;a href="https://earth.org/how-not-to-introduce-a-carbon-tax-australia" target="_blank" rel="noopener">Australia&lt;/a> repealed its carbon tax within two years of introduction; &lt;a href="https://corporateknights.com/energy/lessons-from-the-yellow-vests" target="_blank" rel="noopener">France&amp;rsquo;s&lt;/a> fuel tax increases triggered a political revolt. We have watched bifurcated responses undermine collective action, as US withdrawal from the Paris Agreement — twice — demonstrated that no framework is stable when its largest actors treat participation as optional. And we have spent decades arguing that uneven risk distribution demands coordinated response: the nations facing existential loss from sea-level rise — Tuvalu, Kiribati, the Maldives — contribute less than 1% of global emissions.&lt;/p>
+&lt;p>None of this is abstract for us. These are the structural features of governing a global commons under political inertia. These patterns also map almost directly onto frontier AI governance.&lt;/p>
+&lt;p>Then there is the psychological parallel. Climate change appeared too abstract and too slow-moving to demand aggressive early action, becoming politically unavoidable only once harms were visible and, by which point, much harm was already locked in. AI risk has the opposite problem: it moves at a pace that denies policymakers the time needed to form new instincts. Slow recognition is as dangerous as slow response, just for different reasons.&lt;/p>
+&lt;p>The Montréal Protocol is the counterexample I keep returning to. When the scientific community accepted the evidence of ozone depletion, governments acted with unusual speed. The protocol was negotiated in 1987, within two years of the critical findings, establishing a stabilisation period before irreversible damage. It demonstrates that precaution taken early enough can avert worst-case outcomes even under genuine uncertainty. Our current inability to forecast the capabilities of the next generation of AI systems is not a reason to wait – it may be the strongest case for acting before thresholds are crossed.&lt;/p>
+&lt;p>I have consistently argued that frontier AI needs something equivalent to the International Civil Aviation Organisation: you cannot certify a new aircraft design without the plans being scrutinised and approved. We should be doing the same with foundation models.&lt;/p>
+&lt;/div>
+&lt;h2 id="the-case-for-bridging-these-communities">The case for bridging these communities&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>AI governance is largely driven by a few thousand professionals, many of whom share common assumptions and common blind spots. It draws on concepts long familiar in climate governance, peace studies, and foresight – on systemic risk, irreversibility, on collective action problems and path dependence – but it often does so without consistently engaging the communities that have been working on those concepts for decades.&lt;/p>
+&lt;p>Climate communities have spent decades on precaution under uncertainty. Peace communities know what effective treaties and de-escalation frameworks need to look like. Foresight work is built on the detection of weak yet aggregated signals and path dependence. The question is &lt;em>why do these communities so rarely intersect with AI governance work, given how directly their accumulated knowledge applies?&lt;/em>&lt;/p>
+&lt;p>The window for precaution in climate governance was measured in decades, and we still struggled to use it well. In AI, the equivalent window may be measured in years. Keeping these conversations siloed risks repeating – at far greater speed – the failures we now look back on in climate action. I have become increasingly frustrated by this as a practical constraint on my own work. I move between climate governance spaces, AI safety discussions, international justice forums, and foresight networks regularly. The conversations are often uncannily parallel, sometimes using different terminology for identical concepts, frequently reinventing frameworks that already exist elsewhere. The waste is significant.&lt;/p>
+&lt;p>More importantly, the missed synthesis means that we are slower than we should be at recognising patterns, slower at adapting lessons, and slower at building upon institutional muscle memory. I am not merely making an analytical claim. This is a practical problem about where talent, attention, and cross-community relationships need to head, fairly urgently.&lt;/p>
+&lt;/div>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>In the Russo-Ukrainian war, according to the GFP, as of 2026 &lt;a href="https://www.globalfirepower.com/country-military-strength-detail.php?country_id=russia" target="_blank" rel="noopener">Russia&lt;/a> has over 1.32 million active-duty personnel and close to two million reservists, while &lt;a href="https://www.globalfirepower.com/country-military-strength-detail.php?country_id=ukraine" target="_blank" rel="noopener">Ukraine&lt;/a> has 900,000 active-duty personnel and four million reservists.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Getting Agentic w/ Alistair Lowe-Norris</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e024/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e024/</guid><description>&lt;div style="text-align: justify">
+Alistair Lowe-Norris, Chief Responsible AI Officer at Iridius and co-host of The Agentic Insider podcast, joins to discuss AI compliance standards, the importance of narrowly scoping systems, and how procurement requirements could encourage responsible AI adoption across industries. We explore the gap between the empty promises companies provide and actual safety practices, as well as the importance of vigilance and continuous oversight.
+&lt;p>Listen to Alistair on his &lt;a href="https://agenticinsider.show" target="_blank" rel="noreferrer noopener">podcast&lt;/a>, The Agentic Insider!&lt;/p>
+&lt;p>As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm &lt;a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noopener">Patreon&lt;/a> which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/32031ccd">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.09.05; ASIDES RECORDED 2025.10.06; &lt;a href="https://share.transistor.fm/s/32031ccd/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro &lt;br>
+00:02:46 ❙ Trustworthy AI and the Human Side of Change&lt;br>
+00:13:57 ❙ This is Essentially Avatar, Right?&lt;br>
+00:23:00 ❙ AI Call Centers&lt;br>
+00:49:38 ❙ Standards, Audits, and Accountability&lt;br>
+01:04:11 ❙ What Happens when Standards aren’t Met?&lt;br>
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Iridius &lt;a href="https://iridius.ai" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="gpt-5-commentary">GPT-5 Commentary&lt;/h3>
+&lt;ul>
+&lt;li>Where&amp;rsquo;s Your Ed At &lt;a href="https://www.wheresyoured.at/how-does-gpt-5-work/" target="_blank" rel="noopener">blogpost&lt;/a> - How Does GPT-5 Work?&lt;/li>
+&lt;li>Zvi LessWrong &lt;a href="https://www.lesswrong.com/posts/eFd7NZ4KpYLM4ocBv/gpt-5-the-reverse-deepseek-moment" target="_blank" rel="noopener">blogpost&lt;/a> - GPT-5: The Reverse DeepSeek moment&lt;/li>
+&lt;li>Blood in the Machine &lt;a href="https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter" target="_blank" rel="noopener">article&lt;/a> - GPT-5 Is a Joke. Will It Matter?&lt;/li>
+&lt;li>Futurism &lt;a href="https://futurism.com/gpt-5-underwhelming" target="_blank" rel="noopener">article&lt;/a> - Evidence Grows That GPT-5 Is a Bit of a Dud&lt;/li>
+&lt;li>Gary Marcus &lt;a href="https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming" target="_blank" rel="noopener">substack&lt;/a> - GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.&lt;/li>
+&lt;/ul>
+&lt;h3 id="customer-service-and-ai-adoption">Customer Service and AI Adoption&lt;/h3>
+&lt;ul>
+&lt;li>Gartner &lt;a href="https://www.gartner.com/en/newsroom/press-releases/2024-07-09-gartner-survey-finds-64-percent-of-customers-would-prefer-that-companies-didnt-use-ai-for-customer-service" target="_blank" rel="noopener">press release&lt;/a> - Gartner Survey Finds 64% of Customers Would Prefer That Companies Didn&amp;rsquo;t Use AI for Customer Service&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2504.06145" target="_blank" rel="noopener">Preprint&lt;/a> - Deploying Chatbots in Customer Service: Adoption Hurdles and Simple Remedies&lt;/li>
+&lt;li>KDD &amp;lsquo;25 &lt;a href="https://dl.acm.org/doi/10.1145/3711896.3736557" target="_blank" rel="noopener">paper&lt;/a> - Retrieval And Structuring Augmented Generation with Large Language Models&lt;/li>
+&lt;li>Global Nerdy &lt;a href="https://www.globalnerdy.com/2024/04/16/retrieval-augmented-generation-explained-star-wars-style/" target="_blank" rel="noopener">blogpost&lt;/a> - Retrieval-augmented generation explained “Star Wars” style&lt;/li>
+&lt;li>The Security Cafe &lt;a href="https://securitycafe.io/p/quick-dirty-guide-soc2-compliance" target="_blank" rel="noopener">article&lt;/a> - A Quick And Dirty Guide To Starting SOC2&lt;/li>
+&lt;/ul>
+&lt;h3 id="standards">Standards&lt;/h3>
+&lt;ul>
+&lt;li>ISO &lt;a href="https://www.iso.org/artificial-intelligence/ai-management-systems" target="_blank" rel="noopener">overview&lt;/a> - AI management systems&lt;/li>
+&lt;li>ISO &lt;a href="https://www.iso.org/standard/42001" target="_blank" rel="noopener">standard&lt;/a> - ISO/IEC 42001
+&lt;ul>
+&lt;li>CyberZoni &lt;a href="https://cyberzoni.com/standards/iso-42001/" target="_blank" rel="noopener">guide&lt;/a> - ISO 42001 The Complete Guide&lt;/li>
+&lt;li>A-LIGN &lt;a href="https://www.a-lign.com/articles/understanding-iso-42001" target="_blank" rel="noopener">article&lt;/a> - Understanding ISO 42001&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ISO &lt;a href="https://www.iso.org/standard/27001" target="_blank" rel="noopener">standard&lt;/a> - ISO/IEC 27001&lt;/li>
+&lt;li>ISO &lt;a href="https://www.iso.org/standard/42005" target="_blank" rel="noopener">standard&lt;/a> - ISO/IEC 42005&lt;/li>
+&lt;/ul>
+&lt;h3 id="governance-and-regulation">Governance and Regulation&lt;/h3>
+&lt;ul>
+&lt;li>NIST &lt;a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener">framework&lt;/a> - AI Risk Management Framework&lt;/li>
+&lt;li>EU AI Act &lt;a href="https://artificialintelligenceact.eu/article/99/" target="_blank" rel="noopener">article&lt;/a> - Article 99: Penalties&lt;/li>
+&lt;li>Colorado Senate Bill 24-205 (Colorado AI Act) &lt;a href="https://leg.colorado.gov/bills/sb24-205" target="_blank" rel="noopener">webpage&lt;/a>&lt;/li>
+&lt;li>Utah Senate Bill 149 &lt;a href="https://le.utah.gov/~2024/bills/static/SB0149.html" target="_blank" rel="noopener">webpage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="microsoft-ai-compliance">Microsoft AI Compliance&lt;/h3>
+&lt;ul>
+&lt;li>Schellman &lt;a href="https://www.schellman.com/blog/privacy/microsoft-dpr-ai-requirements-and-iso-42001" target="_blank" rel="noopener">blogpost&lt;/a> - Microsoft DPR AI Requirements and ISO 42001&lt;/li>
+&lt;li>Microsoft &lt;a href="https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001" target="_blank" rel="noopener">documentation&lt;/a> - ISO/IEC 42001 AI Management System offering&lt;/li>
+&lt;li>Microsoft &lt;a href="https://www.microsoft.com/ai/principles-and-approach" target="_blank" rel="noopener">webpage&lt;/a> - Responsible AI Principles and Approach&lt;/li>
+&lt;li>Microsoft Service Trust Portal &lt;a href="https://servicetrust.microsoft.com/DocumentPage/227a27b7-30c5-4110-8c8b-eb57a113e10f" target="_blank" rel="noopener">documentation&lt;/a> - Responsible AI Standard v2&lt;/li>
+&lt;li>Microsoft &lt;a href="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/accex/documents/presentations/FY25-Program-Guide-v11_en-US.pdf" target="_blank" rel="noopener">documentation&lt;/a> - Supplier Security &amp;amp; Privacy Assurance Program Guide v11 April 2025&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Getting into PauseAI w/ Will Petillo</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e021/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e021/</guid><description>&lt;div style="text-align: justify">
+Will Petillo, onboarding team lead at PauseAI, joins me to discuss the grassroots movement advocating for a pause on frontier AI model development. We explore PauseAI's strategy, talk about common misconceptions Will hears, and dig into how diverse perspectives still converge on the need to slow down AI development.
+&lt;/div>
+&lt;h3 id="wills-links">Will&amp;rsquo;s Links&lt;/h3>
+&lt;ul>
+&lt;li>Personal &lt;a href="https://www.zenmarmotdigital.com/blog" target="_blank" rel="noreferrer noopener">blog&lt;/a> on AI&lt;/li>
+&lt;li>His &lt;a href="https://www.figma.com/board/q1jTwOez837RG3SjGcfvlv/AI-Safety-Debate?node-id=0-1" target="_blank" rel="noreferrer noopener">mindmap&lt;/a> of the AI x-risk debate&lt;/li>
+&lt;li>&lt;a href="https://will9371.itch.io/" target="_blank" rel="noreferrer noopener">Game demos&lt;/a>&lt;/li>
+&lt;li>AI focused YouTube &lt;a href="https://youtube.com/@willpetillo1189?si=mt0z348YVus1JKfL" target="_blank" rel="noreferrer noopener">channel&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/7ce784af">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.05.22; ASIDES RECORDED 2025.06.11; &lt;a href="https://share.transistor.fm/s/7ce784af/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro &lt;br>
+00:03:36 ❙ What is PauseAI&lt;br>
+00:10:10 ❙ Will Petillo's journey into AI safety advocacy&lt;br>
+00:21:13 ❙ Understanding PauseAI&lt;br>
+00:31:35 ❙ Pursuing a pause&lt;br>
+00:40:06 ❙ Balancing advocacy in a complex world&lt;br>
+00:45:54 ❙ Why a pause on frontier models?&lt;br>
+00:54:48 ❙ Diverse perspectives within PauseAI&lt;br>
+00:59:55 ❙ PauseAI misconceptions&lt;br>
+01:16:40 ❙ Ongoing AI governance efforts (SB1047)&lt;br>
+01:28:52 ❙ The role of incremental progress&lt;br>
+01:35:16 ❙ Safety-washing and corporate responsibility&lt;br>
+01:37:23 ❙ Lessons from environmentalism&lt;br>
+01:41:59 ❙ Will's superlatives&lt;br>
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://pauseai.info/" target="_blank" rel="noreferrer noopener">PauseAI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pauseai-us.org/" target="_blank" rel="noreferrer noopener">PauseAI-US&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-kairosfm-episodes">Related Kairos.fm Episodes&lt;/h3>
+&lt;ul>
+&lt;li>Into AI Safety &lt;a href="https://kairos.fm/intoaisafety/e019/" target="_blank" rel="noreferrer noopener">episode&lt;/a> with Dr. Igor Krawczuk&lt;/li>
+&lt;li>muckrAIkers &lt;a href="https://kairos.fm/muckraikers/e002/" target="_blank" rel="noreferrer noopener">episode&lt;/a> on SB1047&lt;/li>
+&lt;/ul>
+&lt;h3 id="exclusionary-tendencies">Exclusionary Tendencies&lt;/h3>
+&lt;ul>
+&lt;li>Jacobin &lt;a href="https://jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism" target="_blank" rel="noreferrer noopener">article&lt;/a> - Elite Universities Gave Us Effective Altruism, the Dumbest Idea of the Century&lt;/li>
+&lt;li>SSIR &lt;a href="https://ssir.org/articles/entry/the_elitist_philanthropy_of_so_called_effective_altruism" target="_blank" rel="noreferrer noopener">article&lt;/a> - The Elitist Philanthropy of So-Called Effective Altruism&lt;/li>
+&lt;li>Persuasion &lt;a href="https://www.persuasion.community/p/the-problem-with-effective-altruism" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - The Problem with Effective Altruism&lt;/li>
+&lt;li>Dark Markets &lt;a href="https://davidzmorris.substack.com/p/whats-so-bad-about-rationalism" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - What&amp;rsquo;s So Bad About Rationalism?&lt;/li>
+&lt;li>FEE &lt;a href="https://fee.org/articles/whats-wrong-with-the-rationality-community/" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - What’s Wrong With the Rationality Community?&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai-in-warfare">AI in Warfare&lt;/h3>
+&lt;ul>
+&lt;li>Master&amp;rsquo;s &lt;a href="https://apps.dtic.mil/sti/tr/pdf/ADA255221.pdf" target="_blank" rel="noreferrer noopener">Thesis&lt;/a> - The Evolution of Artificial Intelligence and Expert Computer Systems in the Army&lt;/li>
+&lt;li>International Journal of Intelligent Systems &lt;a href="https://onlinelibrary.wiley.com/doi/10.1155/2023/8676366" target="_blank" rel="noreferrer noopener">article&lt;/a> - Artificial Intelligence in the Military: An Overview of the Capabilities, Applications, and Challenges&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2411.17840" target="_blank" rel="noreferrer noopener">Preprint&lt;/a> - Basic Research, Lethal Effects: Military AI Research Funding as Enlistment&lt;/li>
+&lt;li>AOAV &lt;a href="https://aoav.org.uk/2019/military-age-males-in-us-drone-strikes/#:~:text=Military-age%20males%20refers%20to,boys%20and%20men%20with%20combatants" target="_blank" rel="noreferrer noopener">Article&lt;/a> - ‘Military Age Males’ in US Drone Strikes&lt;/li>
+&lt;li>The Conversation &lt;a href="https://theconversation.com/gaza-war-israel-using-ai-to-identify-human-targets-raising-fears-that-innocents-are-being-caught-in-the-net-227422" target="_blank" rel="noreferrer noopener">article&lt;/a> - Gaza war: Israel using AI to identify human targets raising fears that innocents are being caught in the net&lt;/li>
+&lt;li>972 &lt;a href="https://www.972mag.com/lavender-ai-israeli-army-gaza/" target="_blank" rel="noreferrer noopener">article&lt;/a> - ‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza&lt;/li>
+&lt;li>IDF &lt;a href="https://www.idf.il/210062" target="_blank" rel="noreferrer noopener">press release&lt;/a> - The IDF&amp;rsquo;s Use of Data Technologies in Intelligence Processing&lt;/li>
+&lt;li>Lieber Institute West Point &lt;a href="https://lieber.westpoint.edu/gospel-lavender-law-armed-conflict/" target="_blank" rel="noreferrer noopener">article&lt;/a> - Israel–Hamas 2024 Symposium&lt;/li>
+&lt;li>Verfassungsblog &lt;a href="https://verfassungsblog.de/gaza-artificial-intelligence-and-kill-lists/" target="_blank" rel="noreferrer noopener">article&lt;/a> - Gaza, Artificial Intelligence, and Kill Lists&lt;/li>
+&lt;li>RAND &lt;a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2600/RRA2679-1/RAND_RRA2679-1.pdf" target="_blank" rel="noreferrer noopener">research report&lt;/a> - Dr. Li Bicheng, or How China Learned to Stop Worrying and Love Social Media Manipulation&lt;/li>
+&lt;li>The Intercept &lt;a href="https://theintercept.com/drone-papers/" target="_blank" rel="noreferrer noopener">article collection&lt;/a> - The Drone Papers&lt;/li>
+&lt;li>AFIT &lt;a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=2572&amp;context=facpub" target="_blank" rel="noreferrer noopener">faculty publication&lt;/a> - On Large Language Models in National Security Applications&lt;/li>
+&lt;li>Nature &lt;a href="https://link.springer.com/chapter/10.1057/978-1-137-55408-6_1?error=cookies_not_supported&amp;code=63211579-2434-43a1-bbad-974daff6cd7f" target="_blank" rel="noreferrer noopener">article&lt;/a> - Death by Metadata: The Bioinformationalisation of Life and the Transliteration of Algorithms to Flesh&lt;/li>
+&lt;/ul>
+&lt;h3 id="legislation">Legislation&lt;/h3>
+&lt;ul>
+&lt;li>LegiScan &lt;a href="https://legiscan.com/CA/text/SB1047/2023" target="_blank" rel="noreferrer noopener">page&lt;/a> on SB1047&lt;/li>
+&lt;li>NY State Senate &lt;a href="https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/A" target="_blank" rel="noreferrer noopener">page&lt;/a> on the RAISE Act&lt;/li>
+&lt;li>Congress &lt;a href="https://www.congress.gov/bill/119th-congress/senate-bill/146" target="_blank" rel="noreferrer noopener">page&lt;/a> on the TAKE IT DOWN Act&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-gavernor">The Gavernor&lt;/h3>
+&lt;ul>
+&lt;li>FastCompany &lt;a href="https://www.fastcompany.com/91175604/big-tech-lobbyists-ai-safety-bill-gavin-newsom" target="_blank" rel="noreferrer noopener">article&lt;/a> - Big Tech may be focusing its lobbying push on the California AI safety bill’s last stop: Gavin Newsom&lt;/li>
+&lt;li>POLITICO &lt;a href="https://www.politico.com/news/2024/10/01/newsom-silicon-valley-ai-safety-00181776" target="_blank" rel="noreferrer noopener">article&lt;/a> - How California politics killed a nationally important AI bill&lt;/li>
+&lt;li>Newsom&amp;rsquo;s &lt;a href="https://www.documentcloud.org/documents/25178071-sb-1047-veto-message/?responsive=1&amp;title=1" target="_blank" rel="noreferrer noopener">veto message&lt;/a>&lt;/li>
+&lt;li>Additional relevant lobbying documentation - &lt;a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=2978661&amp;amendid=0" target="_blank" rel="noreferrer noopener">[1]&lt;/a>, &lt;a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=2935898&amp;amendid=1" target="_blank" rel="noreferrer noopener">[2]&lt;/a>&lt;/li>
+&lt;li>Jacobin &lt;a href="https://jacobin.com/2024/09/gavin-newsom-ai-tech-bill-sb-1047" target="_blank" rel="noreferrer noopener">article&lt;/a> - With Newsom’s Veto, Big Tech Beats Democracy&lt;/li>
+&lt;/ul>
+&lt;h3 id="misc-links">Misc. Links&lt;/h3>
+&lt;ul>
+&lt;li>FLI &lt;a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" target="_blank" rel="noreferrer noopener">Open Letter&lt;/a> on an AI pause&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Overton_window" target="_blank" rel="noreferrer noopener">article&lt;/a> - Overton window&lt;/li>
+&lt;li>Daniel Smachtenburger YouTube &lt;a href="https://www.youtube.com/watch?v=4kBoLVvoqVY&amp;t=11s" target="_blank" rel="noreferrer noopener">video&lt;/a> - An Introduction to the Metacrisis&lt;/li>
+&lt;li>VAISU &lt;a href="https://vaisu.ai" target="_blank" rel="noreferrer noopener">website&lt;/a> (looks broken as of 2025.06.19)&lt;/li>
+&lt;li>AI Impacts &lt;a href="https://aiimpacts.org/wp-content/uploads/2023/04/Why-Did-Environmentalism-Become-Partisan-1.pdf" target="_blank" rel="noreferrer noopener">report&lt;/a> - Why Did Environmentalism Become Partisan?&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>One Big Bad Bill</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e014/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e014/</guid><description>&lt;div style="text-align: justify">
+In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopian AI provisions: automated fraud detection systems, centralized citizen databases, military AI integration, and a 10-year moratorium blocking all state AI regulation. We explore the historical parallels with authoritarian data consolidation and why this represents a fundamental shift away from limited government principles once held by US conservatives.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/4feaace0">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.06.15; &lt;a href="https://share.transistor.fm/s/4feaace0/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00 ❙ Intro&lt;br>
+01:13 ❙ Bill, general overview&lt;br>
+05:14 ❙ Bill, AI overview&lt;br>
+07:54 ❙ Medicaid fraud detection systems&lt;br>
+11:20 ❙ Bias in AI Systems and Ethical Concerns&lt;br>
+17:58 ❙ Centralization of data&lt;br>
+30:04 ❙ Military integration of AI&lt;br>
+37:05 ❙ Tax incentives for development&lt;br>
+40:57 ❙ Regulatory moratorium&lt;br>
+47:58 ❙ One big bad authoritarian regime
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Congress &lt;a href="https://www.congress.gov/bill/119th-congress/house-bill/1/text" target="_blank" rel="noopener">page&lt;/a> on the One Big Beautiful Bill Act&lt;/li>
+&lt;li>NYMag &lt;a href="https://nymag.com/intelligencer/article/republicans-admit-they-didnt-read-their-big-beautiful-bill.html" target="_blank" rel="noopener">article&lt;/a> - Republicans Admit They Didn’t Even Read Their Big Beautiful Bill&lt;/li>
+&lt;li>Everything is Horrible &lt;a href="https://www.everythingishorrible.net/p/they-did-vote-for-this-gop-house?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F508bba10-2efa-4a3e-ba6c-8c9998dd53fa_998x1032.png&amp;amp;open=false" target="_blank" rel="noopener">Blogpost&lt;/a> - They Did Vote For This (GOP House Edition)&lt;/li>
+&lt;/ul>
+&lt;h3 id="authoritarianism">Authoritarianism&lt;/h3>
+&lt;ul>
+&lt;li>Historical context
+&lt;ul>
+&lt;li>Holocaust Encyclopedia &lt;a href="https://encyclopedia.ushmm.org/content/en/article/gleichschaltung-coordinating-the-nazi-state" target="_blank" rel="noopener">article&lt;/a> - Gleichschaltung: Coordinating the Nazi State&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/1943_Amsterdam_civil_registry_office_bombing" target="_blank" rel="noopener">article&lt;/a> - 1943 Amsterdam civil registry office bombing&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Four_Ds#Decentralisation" target="_blank" rel="noopener">article&lt;/a> - Four Ds&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Conservative leaning, pro-privacy, anti-government
+&lt;ul>
+&lt;li>Data Governance Hub &lt;a href="https://datagovhub.elliott.gwu.edu/review-and-literature-guide-of-trumps-one-big-beautiful-dataset/" target="_blank" rel="noopener">blogpost&lt;/a> - Review and Literature Guide of Trump’s “One Big Beautiful Dataset”&lt;/li>
+&lt;li>Cato Institute &lt;a href="https://www.cato.org/commentary/you-value-privacy-resist-any-form-national-id-cards" target="_blank" rel="noopener">blogpost&lt;/a> - If You Value Privacy, Resist Any Form of National ID Cards&lt;/li>
+&lt;li>American Enterprise Intitute &lt;a href="https://www.aei.org/technology-and-innovation/the-dangerous-road-to-a-master-file-why-linking-government-databases-is-a-terrible-idea/" target="_blank" rel="noopener">blogpost&lt;/a> - The Dangerous Road to a “Master File”—Why Linking Government Databases Is a Terrible Idea&lt;/li>
+&lt;li>EFF &lt;a href="https://www.eff.org/deeplinks/2025/06/dangers-consolidating-all-government-information" target="_blank" rel="noopener">blogpost&lt;/a> - The Dangers of Consolidating All Government Information&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ACLU against national ID cards
+&lt;ul>
+&lt;li>ACLU &lt;a href="https://www.aclu.org/issues/privacy-technology/national-id" target="_blank" rel="noopener">main page&lt;/a> on national ID cards&lt;/li>
+&lt;li>ACLU &lt;a href="https://www.aclu.org/documents/national-identification-cards-why-does-aclu-oppose-national-id-system" target="_blank" rel="noopener">blogpost&lt;/a> - National Identification Cards: Why Does the ACLU Oppose a National I.D. System?&lt;/li>
+&lt;li>ACLU &lt;a href="https://www.aclu.org/documents/5-problems-national-id-cards" target="_blank" rel="noopener">blogpost&lt;/a> - 5 Problems with National ID Cards&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Inherent unfairness of ML
+&lt;ul>
+&lt;li>Lighthouse Reports &lt;a href="https://www.lighthousereports.com/investigation/the-limits-of-ethical-ai/" target="_blank" rel="noopener">investigation&lt;/a> - The Limits of Ethical AI&lt;/li>
+&lt;li>Lighthouse Reports &lt;a href="https://www.lighthousereports.com/investigation/suspicion-machines/" target="_blank" rel="noopener">investigation&lt;/a> - Suspicion Machines&lt;/li>
+&lt;li>Amazon Science &lt;a href="https://www.amazon.science/publications/bias-preservation-in-machine-learning-the-legality-of-fairness-metrics-under-eu-non-discrimination-law" target="_blank" rel="noopener">publication&lt;/a> - Bias preservation in machine learning: The legality of fairness metrics under EU non-discrimination law&lt;/li>
+&lt;li>Michigan Technology Law Review &lt;a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4331652" target="_blank" rel="noopener">article&lt;/a> - The Unfairness of Fair Machine Learning: Levelling down and strict egalitarianism by default&lt;/li>
+&lt;li>Wired &lt;a href="https://www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/" target="_blank" rel="noopener">article&lt;/a> - Health Care Bias Is Dangerous. But So Are ‘Fairness’ Algorithms&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="military">Military&lt;/h3>
+&lt;ul>
+&lt;li>WallStreet Journal &lt;a href="https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360" target="_blank" rel="noopener">article&lt;/a> - The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More&lt;/li>
+&lt;li>Trump &lt;a href="https://www.whitehouse.gov/presidential-actions/2025/06/unleashing-american-drone-dominance/" target="_blank" rel="noopener">executive order&lt;/a> - Unleashing American Drone Dominance&lt;/li>
+&lt;li>Anthropic &lt;a href="https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers" target="_blank" rel="noopener">press release&lt;/a> - Claude Gov Models for U.S. National Security Customers&lt;/li>
+&lt;/ul>
+&lt;h3 id="moratorium-on-state-ai-regulation">Moratorium on State AI Regulation&lt;/h3>
+&lt;ul>
+&lt;li>TechPolicy.Press &lt;a href="https://www.techpolicy.press/the-state-ai-laws-likeliest-to-be-blocked-by-a-moratorium/" target="_blank" rel="noopener">article&lt;/a> - The State AI Laws Likeliest To Be Blocked by a Moratorium&lt;/li>
+&lt;li>Forbes &lt;a href="https://www.forbes.com/sites/alonzomartinez/2025/05/09/colorado-ai-law-update-fails/" target="_blank" rel="noopener">article&lt;/a> - Colorado’s AI Law Still Stands After Update Effort Fails&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>KPMG &lt;a href="https://kpmg.com/kpmg-us/content/dam/kpmg/taxnewsflash/pdf/2025/05/kpmg-report-credits-one-big-beautiful-bill-may-15-2025.pdf" target="_blank" rel="noopener">report&lt;/a> - Incentives and credits tax provisions in “One Big Beautiful Bill Act”&lt;/li>
+&lt;li>The Register &lt;a href="https://www.theregister.com/2025/06/10/trump_admin_leak_government_ai_plans/" target="_blank" rel="noopener">article&lt;/a> - Trump team leaks AI plans in public GitHub repository&lt;/li>
+&lt;li>WallStreet Journal &lt;a href="https://www.wsj.com/articles/to-feed-power-wolfing-ai-lawmakers-are-embracing-nuclear-a461ab7d" target="_blank" rel="noopener">article&lt;/a> - To Feed Power-Wolfing AI, Lawmakers Are Embracing Nuclear&lt;/li>
+&lt;li>CBS Austin &lt;a href="https://cbsaustin.com/news/nation-world/irs-direct-file-program-exceeded-its-expectations-but-faces-uncertain-future-internal-revenue-service-tax-returns-intuit-hr-block-refund-free-file-alliance" target="_blank" rel="noopener">article&lt;/a> - IRS direct file program exceeded its expectations but faces uncertain future&lt;/li>
+&lt;/ul></description></item><item><title>Making Your Voice Heard w/ Tristan &amp; Felix de Simone</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e020/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e020/</guid><description>&lt;div style="text-align: justify">
+I am joined by Tristan Williams and Felix de Simone to discuss their work on the potential of constituent communication, specifically in the context of AI legislation. These two worked as part of an AI Safety Camp team to understand whether or not it would be useful for more people to be sharing their experiences, concerns, and opinions with their government representative (hint, it is).
+&lt;p>Check out the &lt;a href="https://forum.effectivealtruism.org/posts/5oStggnYLGzomhvvn/talking-to-congress-can-constituents-contacting-their" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> on their findings, &amp;ldquo;Talking to Congress: Can constituents contacting their legislator influence policy?&amp;rdquo; and the &lt;a href="https://www.guidedtrack.com/programs/e7xnz7q/run" target="_blank" rel="noreferrer noopener">tool&lt;/a> they created!&lt;/p>
+&lt;!-- "You don't need to be wortking full time on AI safety or have a background in machine learning to have an impact; you can have an impact _as a citizen_." -->
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/a9294c9e">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:01:53 ❙ Introductions&lt;br>
+00:04:04 ❙ Starting the project&lt;br>
+00:13:30 ❙ Project overview&lt;br>
+00:16:36 ❙ Understanding constituent communication&lt;br>
+00:28:50 ❙ Literature review&lt;br>
+00:35:52 ❙ Phase 2&lt;br>
+00:43:26 ❙ Creating a tool for citizen engagement&lt;br>
+00:50:16 ❙ Crafting your message&lt;br>
+00:59:40 ❙ The game of advocacy&lt;br>
+01:15:19 ❙ Difficulties on the project&lt;br>
+01:22:33 ❙ Call to action&lt;br>
+01:32:30 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bluedot.org" target="_blank" rel="noreferrer noopener">BlueDot Impact&lt;/a>&lt;/li>
+&lt;li>TIME &lt;a href="https://time.com/6972134/ai-lobbying-tech-policy-surge/" target="_blank" rel="noreferrer noopener">article&lt;/a> - There’s an AI Lobbying Frenzy in Washington. Big Tech Is Dominating&lt;/li>
+&lt;li>Congressional Management Foundation &lt;a href="https://www.congressfoundation.org/storage/documents/CMF_Pubs/cwc-perceptions-of-citizen-advocacy.pdf" target="_blank" rel="noreferrer noopener">study&lt;/a> - Communicating with Congress: Perceptions of Citizen Advocacy on Capitol Hill&lt;/li>
+&lt;li>Congressional Management Foundation &lt;a href="https://www.congressfoundation.org/storage/documents/CMF_Pubs/cmf_citizen_engagement_rebuilding_democratic_dialogue.pdf" target="_blank" rel="noreferrer noopener">study&lt;/a> - The Future of Citizen Engagement: Rebuilding the Democratic Dialogue&lt;/li>
+&lt;li>Tristan and Felix&amp;rsquo;s &lt;a href="https://forum.effectivealtruism.org/posts/5oStggnYLGzomhvvn/talking-to-congress-can-constituents-contacting-their" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - Talking to Congress: Can constituents contacting their legislator influence policy?&lt;/li>
+&lt;li>Wired &lt;a href="https://www.wired.com/story/opengov-report-congress-constituent-communication/" target="_blank" rel="noreferrer noopener">article&lt;/a> - What It Takes to Make Congress Actually Listen&lt;/li>
+&lt;li>American Journal of Polical Science &lt;a href="https://projects.iq.harvard.edu/files/cces/files/AnsolabehereKuriwaki_AJPS.pdf" target="_blank" rel="noreferrer noopener">article&lt;/a> - Congressional Representation: Accountability from the Constituent’s Perspective&lt;/li>
+&lt;li>Political Behavior &lt;a href="https://www.jstor.org/stable/43653416" target="_blank" rel="noreferrer noopener">article&lt;/a> - Call Your Legislator: A Field Experimental Study of the Impact of a Constituency Mobilization Campaign on Legislative Voting&lt;/li>
+&lt;li>Guided Track &lt;a href="https://www.guidedtrack.com" target="_blank" rel="noreferrer noopener">website&lt;/a>&lt;/li>
+&lt;li>The &lt;a href="https://www.guidedtrack.com/programs/e7xnz7q/run" target="_blank" rel="noreferrer noopener">Tool&lt;/a>&lt;/li>
+&lt;li>Holistic AI global regulatory &lt;a href="https://tracker.holisticai.com/feed" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>White &amp;amp; Case global regulatory &lt;a href="https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Steptoe US AI legislation &lt;a href="https://www.steptoe.com/en/ai-legislative-tracker.html" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Manatt US AIxHealth legislation &lt;a href="https://www.manatt.com/insights/newsletters/health-highlights/manatt-health-health-ai-policy-tracker" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Issue One &lt;a href="https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/" target="_blank" rel="noreferrer noopener">article&lt;/a> - Big Tech Cozies Up to New Administration After Spending Record Sums on Lobbying Last Year&lt;/li>
+&lt;li>Verfassungsblog &lt;a href="https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/" target="_blank" rel="noreferrer noopener">article&lt;/a> - BigTech’s Efforts to Derail the AI Act&lt;/li>
+&lt;li>MIT Technology Review &lt;a href="https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/" target="_blank" rel="noreferrer noopener"> article&lt;/a> - OpenAI has upped its lobbying efforts nearly sevenfold&lt;/li>
+&lt;li>Open Secrets &lt;a href="https://www.opensecrets.org/federal-lobbying/issues/lobbyists?id=SCI&amp;year=2023" target="_blank" rel="noreferrer noopener">webpage&lt;/a> - Issue Profile: Science &amp;amp; Technology&lt;/li>
+&lt;li>Statista &lt;a href="https://www.statista.com/statistics/257344/top-lobbying-spenders-in-the-us/" target="_blank" rel="noreferrer noopener">data&lt;/a> - Leading lobbying spenders in the United States in 2024&lt;/li>
+&lt;li>Global Justice Now &lt;a href="https://www.globaljustice.org.uk/resource/democracy-at-risk-in-davos-new-report-exposes-big-tech-lobbying-and-political-interference/" target="_blank" rel="noreferrer noopener">report&lt;/a> - Democracy at risk in Davos: new report exposes big tech lobbying and political interference&lt;/li>
+&lt;li>Ipsos &lt;a href="https://www.ipsos.com/en-us/where-americans-stand-ai" target="_blank" rel="noreferrer noopener">article&lt;/a> - Where Americans stand on AI&lt;/li>
+&lt;li>AP-NORC &lt;a href="https://apnorc.org/projects/there-is-bipartisan-concern-about-the-use-of-ai-in-the-2024-elections/" target="_blank" rel="noreferrer noopener">report&lt;/a> - There Is Bipartisan Concern About the Use of AI in the 2024 Elections&lt;/li>
+&lt;li>AI Action Summit &lt;a href="https://arxiv.org/pdf/2501.17805" target="_blank" rel="noreferrer noopener">report&lt;/a> - International AI Safety Report&lt;/li>
+&lt;li>YouGov &lt;a href="https://today.yougov.com/technology/articles/51368-do-americans-think-ai-will-have-positive-or-negative-impact-society-artificial-intelligence-poll" target="_blank" rel="noreferrer noopener">article&lt;/a> - Do Americans think AI will have a positive or negative impact on society?&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>How to Safely Handle Your AGI</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e008/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e008/</guid><description>&lt;div style="text-align: justify">
+While on the campaign trail, Trump made claims about repealing Biden's Executive Order on AI, but what will actually be changed when he gets into office? We take this opportunity to examine policies being discussed or implemented by leading governments around the world.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/3c15afa1">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00 ❙ Intro&lt;br>
+00:29 ❙ Hot off the press&lt;br>
+02:59 ❙ Repealing the AI executive order?&lt;br>
+11:16 ❙ "Manhattan" for AI&lt;br>
+24:33 ❙ EU&lt;br>
+30:47 ❙ UK&lt;br>
+39:27 ❙ Bengio&lt;br>
+44:39 ❙ Comparing EU/UK to USA&lt;br>
+45:23 ❙ China&lt;br>
+51:12 ❙ Taxes&lt;br>
+55:29 ❙ The muck
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>SFChronicle &lt;a href="https://www.sfchronicle.com/business/article/us-gathers-allies-to-talk-ai-safety-trump-s-vow-19932278.php" target="_blank" rel="noopener">article&lt;/a> - US gathers allies to talk AI safety as Trump&amp;rsquo;s vow to undo Biden&amp;rsquo;s AI policy overshadows their work&lt;/li>
+&lt;li>Trump&amp;rsquo;s &lt;a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-promoting-use-trustworthy-artificial-intelligence-federal-government/" target="_blank" rel="noopener">Executive Order&lt;/a> on AI (the AI governance executive order at home)&lt;/li>
+&lt;li>Biden&amp;rsquo;s &lt;a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/" target="_blank" rel="noopener">Executive Order&lt;/a> on AI&lt;/li>
+&lt;li>Congressional &lt;a href="https://www.uscc.gov/sites/default/files/2024-11/2024_Executive_Summary.pdf" target="_blank" rel="noopener">report brief&lt;/a> which advises a &amp;ldquo;Manhattan Project for AI&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="non-usa">Non-USA&lt;/h3>
+&lt;ul>
+&lt;li>CAIRNE &lt;a href="https://cairne.eu/cern-for-ai/" target="_blank" rel="noopener">resource collection&lt;/a> on CERN for AI&lt;/li>
+&lt;li>UK Frontier AI Taskforce &lt;a href="https://www.gov.uk/government/publications/frontier-ai-taskforce-first-progress-report/frontier-ai-taskforce-first-progress-report" target="_blank" rel="noopener">report&lt;/a> (2023)&lt;/li>
+&lt;li>International &lt;a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener">interim report&lt;/a> (2024)&lt;/li>
+&lt;li>Bengio&amp;rsquo;s &lt;a href="https://www.journalofdemocracy.org/articles/ai-and-catastrophic-risk/" target="_blank" rel="noopener">paper&lt;/a> - AI and Catastrophic Risk&lt;/li>
+&lt;li>Davidad&amp;rsquo;s Safeguarded AI &lt;a href="https://www.aria.org.uk/programme-safeguarded-ai/" target="_blank" rel="noopener">program&lt;/a> at ARIA&lt;/li>
+&lt;li>MIT Technology Review &lt;a href="https://www.technologyreview.com/2024/01/17/1086704/china-ai-regulation-changes-2024/" target="_blank" rel="noopener">article&lt;/a> - Four things to know about China’s new AI rules in 2024&lt;/li>
+&lt;li>GovInsider &lt;a href="https://govinsider.asia/intl-en/article/australias-national-policy-for-ethical-use-of-ai-starts-to-take-shape" target="_blank" rel="noopener">article&lt;/a> - Australia’s national policy for ethical use of AI starts to take shape&lt;/li>
+&lt;li>Future of Privacy forum &lt;a href="https://fpf.org/blog/global/the-african-unions-continental-ai-strategy-data-protection-and-governance-laws-set-to-play-a-key-role-in-ai-regulation/" target="_blank" rel="noopener">article&lt;/a> - The African Union’s Continental AI Strategy: Data Protection and Governance Laws Set to Play a Key Role in AI Regulation&lt;/li>
+&lt;/ul>
+&lt;h3 id="taxes">Taxes&lt;/h3>
+&lt;ul>
+&lt;li>Macroeconomic Dynamics &lt;a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/abs/automation-stagnation-and-the-implications-of-a-robot-tax/3D796A6890203B0C268EE4D6DF18A39B" target="_blank" rel="noopener">paper&lt;/a> - Automation, Stagnation, and the Implications of a Robot Tax&lt;/li>
+&lt;li>CESifo &lt;a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4811796" target="_blank" rel="noopener">paper&lt;/a> - AI, Automation, and Taxation&lt;/li>
+&lt;li>GavTax &lt;a href="https://gavtax.com/taxation-of-artificial-intelligence-and-automation/" target="_blank" rel="noopener">article&lt;/a> - Taxation of Artificial Intelligence and Automation&lt;/li>
+&lt;/ul>
+&lt;h3 id="perplexity-pages">Perplexity Pages&lt;/h3>
+&lt;ul>
+&lt;li>CERN for AI &lt;a href="https://www.perplexity.ai/page/europe-s-eur100b-cern-for-ai-p-xpSRjjyrRMiZJ.GdP1.PEA" target="_blank" rel="noopener">page&lt;/a>&lt;/li>
+&lt;li>China&amp;rsquo;s AI policy &lt;a href="https://www.perplexity.ai/search/what-is-chinese-ai-policy-regu-gf11zQ_vTNGoj80n5evyow" target="_blank" rel="noopener">page&lt;/a>&lt;/li>
+&lt;li>Singapore&amp;rsquo;s AI policy &lt;a href="https://www.perplexity.ai/search/what-is-singapores-ai-governan-ljJgnM38STeDEZwrKzY0Kg" target="_blank" rel="noopener">page&lt;/a>&lt;/li>
+&lt;li>AI policy in Africa, India, Australia &lt;a href="https://perplexity.ai/search/what-are-the-ai-governancy-pol-XCD7tNKKSWmnswxW6iV0Zg" target="_blank" rel="noopener">page&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Artificial Intelligence Made Simple &lt;a href="https://artificialintelligencemadesimple.substack.com/p/nyts-ai-outperforms-doctors-story" target="_blank" rel="noopener">article&lt;/a> - NYT&amp;rsquo;s &amp;ldquo;AI Outperforms Doctors&amp;rdquo; Story Is Wrong&lt;/li>
+&lt;li>Intel &lt;a href="https://download.intel.com/newsroom/2024/client-computing/ai-pc-productivity-112024-report.pdf" target="_blank" rel="noopener">report&lt;/a> - Reclaim Your Day: The Impact of AI PCs on Productivity&lt;/li>
+&lt;li>Heise Online &lt;a href="https://www.heise.de/news/Anwender-an-KI-PCs-langsamer-Intel-sieht-Problem-in-unaufgeklaerten-Nutzern-10108194.html" target="_blank" rel="noopener">article&lt;/a> - Users on AI PCs slower, Intel sees problem in unenlightened users&lt;/li>
+&lt;li>The Hacker News &lt;a href="https://thehackernews.com/2024/11/north-korean-hackers-steal-10m-with-ai.html" target="_blank" rel="noopener">article&lt;/a> - North Korean Hackers Steal $10M with AI-Driven Scams and Malware on LinkedIn&lt;/li>
+&lt;li>Futurism &lt;a href="https://futurism.com/character-ai-pedophile-chatbots" target="_blank" rel="noopener">article&lt;/a> - Character.AI Is Hosting Pedophile Chatbots That Groom Users Who Say They&amp;rsquo;re Underage&lt;/li>
+&lt;li>Vice &lt;a href="https://www.vice.com/en/article/ai-jesus-is-now-taking-confessions-at-a-church-in-switzerland/" target="_blank" rel="noopener">article&lt;/a> - &amp;lsquo;AI Jesus&amp;rsquo; Is Now Taking Confessions at a Church in Switzerland&lt;/li>
+&lt;li>Politico &lt;a href="https://www.politico.com/news/2023/06/15/ai-ted-cruz-congress-00102116" target="_blank" rel="noopener">article&lt;/a> - Ted Cruz: Congress &amp;lsquo;doesn&amp;rsquo;t know what the hell it&amp;rsquo;s doing&amp;rsquo; with AI regulation&lt;/li>
+&lt;li>US Senate Committee on Commerce, Science, and Transportation &lt;a href="https://www.commerce.senate.gov/2024/9/sen-cruz-sounds-alarm-over-industry-role-in-ai-czar-harris-s-censorship-agenda" target="_blank" rel="noopener">press release&lt;/a> - Sen. Cruz Sounds Alarm Over Industry Role in AI Czar Harris’s Censorship Agenda&lt;/li>
+&lt;/ul></description></item><item><title>Navigating Trump's AI Strategy: A Roadmap for International AI Safety Institutes</title><link>https://jacob-haimes.github.io/kairos.fm/staging/navigating-trumps-ai-strategy/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/navigating-trumps-ai-strategy/</guid><description>&lt;div style="font-size:small;font-style: italic;">This is a linkpost for &lt;a href="https://www.techpolicy.press/navigating-trumps-ai-strategy-a-roadmap-for-international-ai-safety-institutes/" target="_blank" rel="noreferrer noopener">https://www.techpolicy.press/navigating-trumps-ai-strategy-a-roadmap-for-international-ai-safety-institutes/
+&lt;/a>&lt;/div>
+&lt;figure>
+&lt;img loading="lazy" width="" height="" decoding="async" data-nimg="1"
+src="navigating-trumps-ai-policy-thumbnail.png"
+alt="BROWNSVILLE, TEXAS - NOVEMBER 19, 2024: US President-elect Donald Trump speaks alongside Elon Musk (R) and Senate members including Sen. Kevin Cramer (R-ND (C) before attending a viewing of the launch of the sixth test flight of the SpaceX Starship rocket.">
+&lt;figcaption style="font-size:small">
+Photo by
+Brandon Bell / Getty Images /
+BROWNSVILLE, TEXAS - NOVEMBER 19, 2024: US President-elect Donald Trump speaks alongside Elon Musk (R) and Senate members including Sen. Kevin Cramer (R-ND (C) before attending a viewing of the launch of the sixth test flight of the SpaceX Starship rocket)&lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: justify">
+&lt;p>As the Biden administration prepares to &lt;a href="https://www.commerce.gov/news/press-releases/2024/09/us-secretary-commerce-raimondo-and-us-secretary-state-blinken-announce" target="_blank" rel="noopener">host&lt;/a> the International Network of AI Safety Institutes (IN AISI) for its first meeting this week in San Francisco, uncertainty looms over the gathering. Just two weeks after Donald Trump was elected to return to the White House, the network – &lt;a href="https://www.nist.gov/news-events/news/2024/05/us-secretary-commerce-gina-raimondo-releases-strategic-vision-ai-safety" target="_blank" rel="noopener">founded&lt;/a> earlier this year by US Commerce Secretary Gina Raimondo – grapples with questions about its direction and sustainability under a leader who &lt;a href="https://www.techpolicy.press/one-year-into-bidens-ai-order-will-a-new-president-change-course/" target="_blank" rel="noopener">promised&lt;/a> to revoke the Biden &lt;a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/" target="_blank" rel="noopener">AI Executive Order&lt;/a> that created the &lt;a href="https://www.nist.gov/aisi" target="_blank" rel="noopener">US AI Safety Institute&lt;/a>.&lt;/p>&lt;p>With the global proliferation of artificial intelligence, the IN AISI’s &lt;a href="https://www.gov.uk/government/publications/seoul-ministerial-statement-for-advancing-ai-safety-innovation-and-inclusivity-ai-seoul-summit-2024/seoul-ministerial-statement-for-advancing-ai-safety-innovation-and-inclusivity-ai-seoul-summit-2024" target="_blank" rel="noopener">mandate&lt;/a> to foster international collaboration on AI safety is vital. But preserving US membership and leadership in the international network will require deft navigation of Trump’s AI policy priorities.&lt;/p>&lt;p>Understanding the Trump administration's likely approach to AI – heavily &lt;a href="https://www.theverge.com/2024/11/11/24291401/elon-musk-donald-trump-ai-policy" target="_blank" rel="noopener">influenced&lt;/a> by his relationship with Elon Musk – reveals potential paths forward for the IN AISI. From President-elect Trump’s &lt;a href="https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto" target="_blank" rel="noopener">campaign statements&lt;/a> and the &lt;a href="https://trumpwhitehouse.archives.gov/ai/executive-order-ai/" target="_blank" rel="noopener">Feb. 2019&lt;/a> and &lt;a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-promoting-use-trustworthy-artificial-intelligence-federal-government/" target="_blank" rel="noopener">Dec. 2020&lt;/a> AI Executive Orders he issued in his first term to Musk’s &lt;a href="https://www.techpolicy.press/how-elon-musks-influence-could-shift-us-ai-regulation-under-the-trump-administration/" target="_blank" rel="noopener">public commentary&lt;/a> about AI, a few principles emerge about the new administration’s likely AI strategy. The approach will prioritize strategic competition with China, existential risk management, deregulation, and innovation.&lt;/p>
+&lt;/div>
+&lt;h2 id="the-current-landscape">The Current Landscape&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>The US AISI, established in 2023, made significant &lt;a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/30/fact-sheet-key-ai-accomplishments-in-the-year-since-the-biden-harris-administrations-landmark-executive-order/" target="_blank" rel="noopener">strides&lt;/a> in its first year. Operating within the National Institute of Standards and Technology (NIST) under the Department of Commerce, the Institute signed an &lt;a href="https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research" target="_blank" rel="noopener">agreement&lt;/a> with leading AI labs to test their pre- and post-deployment models (which I analyzed &lt;a href="https://www.techpolicy.press/the-us-governments-ai-safety-gambit-a-step-forward-or-just-another-voluntary-commitment/" target="_blank" rel="noopener">here&lt;/a>) and published &lt;a href="https://www.nist.gov/news-events/news/2024/07/department-commerce-announces-new-guidance-tools-270-days-following" target="_blank" rel="noopener">best practices&lt;/a> for managing generative AI risks.&lt;/p>&lt;p>The upcoming &lt;a href="https://www.csis.org/analysis/ai-safety-institute-international-network-next-steps-and-recommendations" target="_blank" rel="noopener">meeting&lt;/a> will bring together AI Safety Institutes from the United Kingdom, Australia, Canada, the European Union, France, Japan, Kenya, South Korea, and Singapore. While China isn't a member of the IN AISI, it has participated in previous AI Safety Summits and &lt;a href="https://www.securite-ia.fr/en/post/communique-de-presse-du-cesia-sur-la-declaration-conjointe-france-chine-sur-lia" target="_blank" rel="noopener">plans&lt;/a> to attend the next summit in Paris in February 2025 – after President-elect Trump takes office.&lt;/p>
+&lt;/div>
+&lt;h2 id="trumps-ai-strategy">Trump&amp;rsquo;s AI Strategy&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Three key principles are likely to shape the new administration’s approach to AI safety and the IN AISI:&lt;/p>
+&lt;/div>
+&lt;h3 id="1-strategic-competition-with-china">1. Strategic Competition with China&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>&lt;em>Membership:&lt;/em> President-elect Trump views China as the &lt;a href="https://time.com/7174210/what-donald-trump-win-means-for-ai/" target="_blank" rel="noopener">“primary threat”&lt;/a> to US AI dominance. Based on his first-term policies, he is &lt;a href="https://www.wired.com/story/treasury-outbound-investment-china-artificial-intelligence/" target="_blank" rel="noopener">expected&lt;/a> to &lt;a href="https://newsletter.safe.ai/p/ai-safety-newsletter-39-implications" target="_blank" rel="noopener">expand&lt;/a> restrictions on China's access to critical AI development resources, including semiconductors, compute capabilities, and energy for data centers. This poses a delicate challenge for the IN AISI: while completely excluding China from dialogue could be counterproductive for global AI safety, President-elect Trump is unlikely to support an organization that welcomes Chinese membership.&lt;/p>&lt;p>&lt;em>Recommendation: &lt;/em>Establish clear criteria for joining the IN AISI, with a &lt;a href="https://www.iaps.ai/research/international-network-aisis" target="_blank" rel="noopener">tiered membership&lt;/a> model that could allow for structured engagement with China without jeopardizing US participation. This approach can address President-elect Trump’s concerns about strategic competition without excluding critical voices from global AI safety discussions.&lt;/p>&lt;p>&lt;em>Open-source:&lt;/em> While congressional Republicans have &lt;a href="https://www.rstreet.org/commentary/ai-policy-in-the-trump-administration-and-congress-after-the-2024-elections/" target="_blank" rel="noopener">advocated&lt;/a> for open-source AI as a way to challenge Big Tech dominance and foster competition, recent &lt;a href="https://www.reuters.com/technology/artificial-intelligence/chinese-researchers-develop-ai-model-military-use-back-metas-llama-2024-11-01/" target="_blank" rel="noopener">reports&lt;/a> revealing China's military adaptation of Meta's open-source Llama model may force a shift in this position. This creates a conflict between international efforts to promote AI transparency and President-elect Trump's priority of maintaining a US strategic advantage over China.&lt;/p>
+&lt;p>&lt;em>Recommendation&lt;/em>: The IN AISI will need to carefully navigate this tension – potentially by recommending a tiered access framework for open source models, with enhanced monitoring and testing protocols for more capable models. Such an approach could preserve innovation while implementing safeguards against military exploitation, making it more palatable to a Trump administration focused on strategic competition. The timing is particularly sensitive, as a &lt;a href="https://babl.ai/u-s-to-host-inaugural-international-ai-safety-institutes-meeting/" target="_blank" rel="noopener">goal&lt;/a> of the IN AISI meeting is to prepare for the 2025 AI Safety Summit in Paris– which will &lt;a href="https://carnegieendowment.org/posts/2024/07/france-ai-summit-reshape-global-narrative?lang=en" target="_blank" rel="noopener">focus&lt;/a> on open-source models&lt;/p>
+&lt;/div>
+&lt;h3 id="2-existential-risk-management">2. Existential Risk Management&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>Understanding the Trump administration’s potential willingness to engage with the IN AISI also requires interpreting the role of Elon Musk. Officially &lt;a href="https://www.nytimes.com/2024/11/12/us/politics/elon-musk-vivek-ramaswamy-trump.html" target="_blank" rel="noopener">named&lt;/a> co-leader of the so-called Trump’s Department of Government Efficiency, Musk’s prominence as an informal advisor has &lt;a href="https://www.forbes.com/sites/emilsayegh/2024/11/18/decoding-trumps-tech-and-ai-agenda-innovation-and-policy-impacts/" target="_blank" rel="noopener">grown&lt;/a> during the transition period. Musk's likely influence on Trump's AI policy cannot be overstated. Musk has consistently &lt;a href="https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-combat-existential-threat-tesla-spacex-ceo" target="_blank" rel="noopener">prioritized&lt;/a> managing &lt;a href="https://www.safe.ai/ai-risk" target="_blank" rel="noopener">catastrophic AI risks&lt;/a> over addressing near-term concerns like misinformation and deepfakes. Musk’s track record also includes:&lt;/p>&lt;ul>&lt;li>&lt;a href="https://www.theguardian.com/technology/2024/nov/12/elon-musk-donald-trump-ai-artificial-general-intelligence" target="_blank" rel="noopener">Supporting&lt;/a> California's bill to safeguard against catastrophic AI risk&lt;/li>&lt;li>Signing an &lt;a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" target="_blank" rel="noopener">open letter&lt;/a> calling for a pause in AI development&lt;/li>&lt;li>Co-founding OpenAI as a safety-focused &lt;a href="https://www.business-standard.com/world-news/elon-musk-s-ai-nightmares-could-blunt-donald-trump-s-tech-ambitions-124111200547_1.html" target="_blank" rel="noopener">competitor&lt;/a> to Google DeepMind&lt;/li>&lt;li>Warning that AI could result in &lt;a href="https://www.forbes.com/sites/robertzafft/2023/04/19/musk-ai-and-civilizational-destruction-prophecy-or-product-launch/" target="_blank" rel="noopener">"civilization destruction"&lt;/a>&lt;/li>&lt;li>&lt;a href="https://news.bloomberglaw.com/artificial-intelligence/musk-calls-for-ai-regulations-in-chat-with-uk-prime-minister" target="_blank" rel="noopener">Advocating&lt;/a> for a government-run AI safety agency&lt;/li>&lt;/ul>&lt;p>&lt;em>Recommendation: &lt;/em>For the IN AISI to maintain US support under President-elect Trump, prioritizing existential risks could be integral. This approach could include &lt;a href="https://www.governance.ai/post/computing-power-and-the-governance-of-ai" target="_blank" rel="noopener">monitoring GPU capacity usage&lt;/a> to detect highly capable model training and assessing AI systems for &lt;a href="https://www.credo.ai/blog/ai-cbrn-risks-governance-lessons-from-the-most-dangerous-misuses-of-ai" target="_blank" rel="noopener">Chemical, Biological, Radiological, and Nuclear (CBRN) &lt;/a>risks. This technical, security-focused approach would align with Musk's long-standing concerns about catastrophic risks and nimbly reprioritize discussion about AI bias and fairness, which both Trump and Musk have &lt;a href="https://www.wired.com/story/donald-trump-ai-safety-regulation/" target="_blank" rel="noopener">denounced&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;h3 id="3-deregulation-and-innovation">3. Deregulation and Innovation&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>&lt;em>Censorship: &lt;/em>President-elect Trump and Musk have both criticized Big Tech for designing AI models that generate content they see as &lt;a href="https://www.theguardian.com/us-news/article/2024/sep/06/amazon-alexa-kamala-harris-support" target="_blank" rel="noopener">politically biased&lt;/a> or &lt;a href="https://www.euronews.com/next/2023/04/18/truthgpt-elon-musk-says-he-is-working-on-an-ai-to-counter-politically-correct-chatgpt" target="_blank" rel="noopener">politically correct&lt;/a>. Indicating his intent to spur start-up competition with Big Tech, Trump &lt;a href="https://www.nytimes.com/2024/11/17/technology/fcc-nominee-brendan-carr-trump.html" target="_blank" rel="noopener">appointed&lt;/a> Big Tech critic Brendan Carr to lead the Federal Communications Commission, his plans for which Carr wrote a &lt;a href="https://static.project2025.org/2025_MandateForLeadership_CHAPTER-28.pdf" target="_blank" rel="noopener">chapter&lt;/a> about in “Project 2025.” This cabinet appointment, Trump’s rhetoric around Big Tech &lt;a href="https://www.nytimes.com/2024/11/07/technology/trump-apple-amazon-google-meta.html" target="_blank" rel="noopener">“censorship,”&lt;/a> and Musk’s disdain for &lt;a href="https://www.wired.com/llm-political-bias/" target="_blank" rel="noopener">“woke AI”&lt;/a> suggest that the IN AISI will face scrutiny if it advocates for governance frameworks perceived to favor progressive agendas or Big Tech.&lt;/p>&lt;p>&lt;em>Recommendation&lt;/em>: There's potential common ground in promoting innovation while managing extreme risks. The IN AISI could position itself as a vehicle for US leadership in international AI testing and evaluation, focusing on sharing best technical practices for managing existential safety risks while enabling strategic domestic and global competition.&lt;/p>&lt;p>&lt;em>International governance:&lt;/em> Notably, Musk attended and &lt;a href="https://www.reuters.com/technology/ai-summit-wants-establish-third-party-referee-spot-risks-musk-2023-11-01/" target="_blank" rel="noopener">lauded&lt;/a> the UK’s 2023 AI Safety Summit, demonstrating interest in international governance that stands apart from Trump’s approach. In a 2023 &lt;a href="https://www.cnn.com/2023/04/17/tech/elon-musk-ai-warning-tucker-carlson/index.html" target="_blank" rel="noopener">interview&lt;/a>, Musk outlined three key roles for a future AI regulatory body: seeking insight into AI, soliciting industry opinion, and proposing rules. The IN AISI could integrate this framework into its governance structure while maintaining flexibility for national implementation. This approach could help thread the needle between necessary oversight (which Musk &lt;a href="https://www.washingtonpost.com/technology/2023/04/26/elon-musk-capitol-hill-ai/" target="_blank" rel="noopener">advocates&lt;/a>) and preserving each national AI Safety Institute’s competitive advantages.&lt;/p>&lt;p>&lt;em>Recommendation: &lt;/em>Position the IN AISI as a platform for &lt;a href="https://www.atlanticcouncil.org/blogs/new-atlanticist/ai-safety-concerns-transcend-borders-to-meet-the-challenge-us-efforts-need-to-go-global/" target="_blank" rel="noopener">sharing&lt;/a> safety protocols and testing methodologies rather than setting regulatory constraints. Highlighting the network’s role in advancing global adaptation to AI without revealing proprietary data that could fuel international competition will be key.&lt;/p>
+&lt;/div>
+&lt;h2 id="looking-ahead">Looking Ahead&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>President-elect Trump’s track record of &lt;a href="https://www.bbc.com/news/science-environment-54797743" target="_blank" rel="noopener">abandoning&lt;/a> international agreements, from the &lt;a href="https://unfccc.int/process-and-meetings/the-paris-agreement" target="_blank" rel="noopener">Paris Climate Accord&lt;/a> to threatening to &lt;a href="https://www.atlanticcouncil.org/blogs/natosource/trump-confirms-he-threatened-to-withdraw-from-nato/" target="_blank" rel="noopener">pull out of NATO&lt;/a>, underscores the precarious position of the IN AISI. By focusing on existential risk management, maintaining a careful approach to China, and enabling national AI Safety Institutes to set their own guardrails for AI innovation, the network could stand the test of a Trump presidency. The success of international AI safety cooperation may depend on finding this delicate balance between global innovation and AI safety governance.&lt;/p>
+&lt;/div></description></item><item><title>US AI NSM Primer, Oct 2024</title><link>https://jacob-haimes.github.io/kairos.fm/staging/us-nsm-oct24-primer/</link><pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/us-nsm-oct24-primer/</guid><description>&lt;div style="text-align: justify">
+&lt;p>As a companion to muckrAIkers sixth episode, &lt;a href="https://kairos.fm/muckraikers/e006/" target="_blank" rel="noopener">US National Security Memorandum on AI, Oct 2024&lt;/a>, we wanted to release a short blogpost summarizing key takeaways from the lengthy document. Perhaps it will be moot in a couple months, but we can still use it to gain insights on how the US government is addressing &amp;ldquo;AI&amp;rdquo;.&lt;/p>
+&lt;/div>
+&lt;figure>
+&lt;img loading="lazy" width="" height="" decoding="async" data-nimg="1"
+src="pexels-francesco-ungaro.jpg"
+alt="A white security camera">
+&lt;figcaption style="font-size:small">
+Image by
+&lt;a target="_blank" rel="noreferrer noopener" href="https://www.pexels.com/@francesco-ungaro/">Francesco Ungaro&lt;/a> / &lt;a href="https://www.pexels.com" target="_blank" rel="noreferrer noopener">Pexels&lt;/a> /
+White Security Camera&lt;/figcaption>
+&lt;/figure>
+&lt;h2 id="a-behemoth-shouldnt-twitch">A Behemoth Shouldn&amp;rsquo;t Twitch&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>When large institutions make fundamental changes, the repercussions have potential to be far reaching and unpredictable. The United States government is such an organization, with the military industrial complex budget set at approximately 850 Billion USD for the fiscal year of 2024 &lt;a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2024/FY2024_Budget_Request_Overview_Book.pdf" target="_blank" rel="noopener">1&lt;/a>. While the slow speed of the government is a source of great frustration to many, including myself, it in general increases institutional stability, and decreases risk [&lt;a href="https://www.govtech.com/pcio/the-slow-government-movement-opinion.html" target="_blank" rel="noopener">2&lt;/a>,&lt;a href="https://economics.mit.edu/sites/default/files/2022-09/Institutional%20Change%20and%20Institutional%20Persistence.pdf" target="_blank" rel="noopener">3&lt;/a>].&lt;/p>
+&lt;p>The US National Security Memorandum on AI published on October 24, 2024, along with a &lt;a href="https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf" target="_blank" rel="noopener">framework&lt;/a> on using AI for national security exemplifies this well; it is a continuation of last year&amp;rsquo;s &lt;a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/" target="_blank" rel="noopener">Executive Order&lt;/a> on AI, with a specific eye towards national security. Similarly to the first installment, the Executive Branch sets many explicit deadlines for the teams and initiatives that were kicked off last year, and also puts forth a number of directives.&lt;/p>
+&lt;p>To us muckrAIkers, this memorandum proposes an opportunity to understand how the Biden administration is thinking about AI.&lt;/p>
+&lt;/div>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>&lt;strong>Safe, secure, and trustworthy AI.&lt;/strong> This phrase is repeated frequently throughout the memorandum and framework. We see this as indication that the Biden administration understands these three characteristics are not necessarily the default when it comes to AI.&lt;/p>
+&lt;p>&lt;strong>Promotion of democratic values.&lt;/strong> While it may seem obvious that a document from the President of the United States explicitly calls out the importance of democratic values, but maybe not&amp;hellip;&lt;/p>
+&lt;p>&lt;strong>Utilization of AI.&lt;/strong> Government entities are tasked with the incorporation of AI systems into their national security relevant procedures.&lt;/p>
+&lt;/div>
+&lt;h2 id="prohibited-ai-uses">Prohibited AI Uses&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;ol>
+&lt;li>No targeting, profiling, or tracking people &lt;em>solely&lt;/em> for exercising constitutional rights like free speech&lt;/li>
+&lt;li>No interfering with free speech, or access to legal representation&lt;/li>
+&lt;li>No &lt;em>unlawful&lt;/em> discrimination&lt;/li>
+&lt;li>No &lt;em>unlawful&lt;/em> sentiment analysis&lt;/li>
+&lt;li>No use of &lt;em>only&lt;/em> biometric data for profiling&lt;/li>
+&lt;li>No use for military estimates (noncombatant identification) &lt;em>unless&lt;/em> there is sufficient testing + assurances, and trained human oversight&lt;/li>
+&lt;li>No &lt;em>final&lt;/em> determination of immigration classification (asylum/US entry)&lt;/li>
+&lt;li>No production of reports based solely on AI outputs, &lt;em>unless&lt;/em> there is a disclaimer&lt;/li>
+&lt;li>No removal of human oversight from presidential decisions to use nuclear weapons&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;h2 id="deliverable-timeline">Deliverable Timeline&lt;/h2>
+&lt;style type="text/css">
+.tg {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:1px;
+overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:1px;
+font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+&lt;/style>
+&lt;table class="tg">&lt;thead>
+&lt;tr>
+&lt;th class="tg-1wig">&lt;span style="font-weight:700;">Date&lt;/span>&lt;/th>
+&lt;th class="tg-1wig">&lt;span style="font-weight:700;">Deliverable&lt;/span>&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Nov 23, 2024 (30)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Establish a formal working group to guide how artificial intelligence is purchased and used for defense and security purposes, with special attention to protecting national security systems.&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Dec 8, 2024 (45)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Establish an AI National Security Coordination Group, which will then create and maintain guidelines on how AI systems are developed, bought, and used for national security.&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax" rowspan="3">&lt;span style="font-weight:400;">Jan 22, 2025 (90)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Make visas for people with sensitive technological backgrounds easier to get.&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Review identification and evaluation of foreign threats to US AI dominance (and chips).&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Coordination Group makes Talent Committee (by deadline), which will then create government standards for finding, hiring, and keeping AI professionals&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax" rowspan="3">&lt;span style="font-weight:400;">Feb 21, 2025 (120)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Many departments shall each create new training programs and educational opportunities to help their employees gain AI knowledge and skills. Also includes new hiring highly skilled individuals.&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Rapid systemic classified testing of AI models capabilities on (a) cyber threats; (b) nuclear safety risks, both public and classified – be able to move models to classified facilities if necessary&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Strategy to work with other countries to create shared rules/standards for safe AI development (which the US likes) – AI governance norm co-development w/ allies.&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax" rowspan="2">&lt;span style="font-weight:400;">Mar 23, 2025 (150)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Evaluation of feasibility of promoting co-development of AI with allies (other countries).&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Issue cybersecurity guidance and/or direction for all AI used for national security&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax" rowspan="10">&lt;span style="font-weight:400;">Apr 22, 2025 (180)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Analysis of AI talent market – US + worldwide&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Competitive advantage analysis of US private sector and how to maintain it&lt;/span>&lt;br>&lt;span style="font-weight:400;">Includes chips design + manufacturing; capital; specialists; compute+energy&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Launch project to assess feasibility of the federal government making a frontier model&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Threat analysis of the AI supply chain&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Guidance for AI developers on how to test and manage risks relating to safety, security, and trustworthiness&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Development of recommended benchmarks or other assessments of AI system capabilities and limitations&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Be able to rapidly test nuclear threat level of a model (within 30 days), and actually do it&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Start gathering the individuals to plan voluntary best practices with regards to biochemical technologies.&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">All agencies must update their policies and procedures to explicitly include AI, these will apply to all contractors/sub-agencies.&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Subject to private sector cooperation—Voluntary preliminary testing of at least two frontier AI models prior to public deployment on harmful capabilities&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax" rowspan="2">&lt;span style="font-weight:400;">May 22, 2025 (210)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Roadmap for future classified evaluations of biochemical threats exacerbated by AI&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Written recommendations on changing existing regulations/guidance to promote creation of AI for US national security purposes&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Jun 21, 2025 (240)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Use AI to enhance biosafety and biosecurity&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax" rowspan="4">&lt;span style="font-weight:400;">Jul 21, 2025 (270)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">AISI report to president including summary of AI safety findings, summary of necessary risk mitigation, adequacy statement about the tools/methods used to reach those conclusions&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">DOE report to president on nuclear threat, recommendation of corrective action, adequacy statement about the tools/methods used to reach those conclusions&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Pilot project to conduct classified tests on biochem capabilities&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Report on activities relating to the memorandum&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Oct 24, 2025 (365)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Joint report on consolidation and interoperability of AI efforts and systems pertaining to national security&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Apr 17, 2026 (540)&lt;/span>&lt;/td>
+&lt;td class="tg-0lax">&lt;span style="font-weight:400;">Guidance on promoting benefits and mitigating risks of &lt;/span>&lt;span style="font-weight:400;font-style:italic;text-decoration:none;">in silico&lt;/span>&lt;span style="font-weight:400;"> biochem research&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;h2 id="additional-items-of-note">Additional Items of Note&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>&lt;strong>Chips are not neglected.&lt;/strong> The importance of advanced computer chips and the chip supply chain has not gone unnoticed.&lt;/p>
+&lt;p>&lt;strong>Talent is emphasized.&lt;/strong> To maintain it&amp;rsquo;s edge, the US will need to remain the go-to destination for technical expertise relevant to AI.&lt;/p>
+&lt;p>&lt;strong>Presidential reports.&lt;/strong> Many groups will be tasked with the preparation of annual reports, to be given directly to the president.&lt;/p>
+&lt;p>&lt;strong>Blocking foreign acquisition.&lt;/strong> One item explicitly states that the United States government may block the sale of an AI company to foreign parties to prevent leakage of items instrumentally useful to the creation and effective use of powerful AI systems.&lt;/p>
+&lt;/div>
+&lt;h2 id="heading">&lt;/h2></description></item><item><title>US National Security Memorandum on AI, Oct 2024</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e006/</link><pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e006/</guid><description>&lt;div style="text-align: justify">
+&lt;p>October 2024 saw a National Security Memorandum and US framework for using AI in national security contexts. We go through the content so you don&amp;rsquo;t have to, pull out the important bits, and summarize our main takeaways.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/5557694c">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:48 ❙ The memorandum&lt;br>
+00:06:28 ❙ What the press is saying&lt;br>
+00:10:39 ❙ What's in the text&lt;br>
+00:13:48 ❙ Potential harms&lt;br>
+00:17:32 ❙ Miscellaneous notable stuff&lt;br>
+00:31:11 ❙ What's the US governments take on AI?&lt;br>
+00:45:45 ❙ The civil side - comments on reporting&lt;br>
+00:49:31 ❙ The commenters&lt;br>
+01:07:33 ❙ Our final hero&lt;br>
+01:10:46 ❙ The muck
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/" target="_blank" rel="noopener">United States National Security Memorandum on AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/" target="_blank" rel="noopener">Fact Sheet on the National Security Memorandum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf" target="_blank" rel="noopener">Framework to Advance AI Governance and Risk Management in National Security&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.regulations.gov/document/BIS-2024-0047-0001/comment" target="_blank" rel="noopener">Public comments&lt;/a> on AI reporting requirements
+&lt;ul>
+&lt;li>Federal Register request for comments on &lt;a href="https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-artificial-intelligence" target="_blank" rel="noopener">AI reporting requirements&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-media">Related Media&lt;/h3>
+&lt;ul>
+&lt;li>CAIS Newsletter - &lt;a href="https://newsletter.safe.ai/p/ai-safety-newsletter-43-white-house" target="_blank" rel="noopener">AI Safety Newsletter #43&lt;/a>&lt;/li>
+&lt;li>NIST report - &lt;a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" target="_blank" rel="noopener">Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile&lt;/a>&lt;/li>
+&lt;li>ACLU press release - &lt;a href="https://www.aclu.org/press-releases/aclu-warns-that-biden-harris-administration-rules-on-ai-in-national-security-lack-key-protections" target="_blank" rel="noopener">ACLU Warns that Biden-Harris Administration Rules on AI in National Security Lack Key Protections&lt;/a>&lt;/li>
+&lt;li>Wikipedia article - &lt;a href="https://en.wikipedia.org/wiki/Presidential_memorandum" target="_blank" rel="noopener">Presidential Memorandum&lt;/a>&lt;/li>
+&lt;li>Reuters article - &lt;a href="https://www.reuters.com/world/us/white-house-presses-govt-ai-use-with-eye-security-guardrails-2024-10-24/" target="_blank" rel="noopener">White House presses gov&amp;rsquo;t AI use with eye on security, guardrails&lt;/a>&lt;/li>
+&lt;li>Forbes article - &lt;a href="https://www.forbes.com/sites/jamesbroughel/2024/11/02/americas-ai-security-strategy-acknowledges-theres-no-stopping-ai/" target="_blank" rel="noopener">America’s AI Security Strategy Acknowledges There’s No Stopping AI&lt;/a>&lt;/li>
+&lt;li>DefenseScoop article - &lt;a href="https://defensescoop.com/2024/10/24/national-security-memorandum-artificial-intelligence-dod-odni/" target="_blank" rel="noopener">New White House directive prods DOD, intelligence agencies to move faster adopting AI capabilities&lt;/a>&lt;/li>
+&lt;li>NYTimes article - &lt;a href="https://www.nytimes.com/2024/10/24/us/politics/biden-government-guidelines-ai.html" target="_blank" rel="noopener">Biden Administration Outlines Government ‘Guardrails’ for A.I. Tools&lt;/a>&lt;/li>
+&lt;li>Forbes article - &lt;a href="https://www.forbes.com/sites/johnwerner/2024/10/30/5-things-to-know-about-the-new-national-security-memorandum-on-ai--and-what-chatgpt-thinks/" target="_blank" rel="noopener">5 Things To Know About The New National Security Memorandum On AI – And What ChatGPT Thinks&lt;/a>&lt;/li>
+&lt;li>Federal News Network interview - &lt;a href="https://federalnewsnetwork.com/artificial-intelligence/2024/10/a-look-inside-the-latest-white-house-artificial-intelligence-memo/" target="_blank" rel="noopener">A look inside the latest White House artificial intelligence memo&lt;/a>&lt;/li>
+&lt;li>Govtech article - &lt;a href="https://www.govtech.com/artificial-intelligence/reactions-mostly-positive-to-national-security-ai-memo" target="_blank" rel="noopener">Reactions Mostly Positive to National Security AI Memo&lt;/a>&lt;/li>
+&lt;li>The Information article - &lt;a href="https://www.theinformation.com/briefings/biden-memo-encourages-military-use-of-ai" target="_blank" rel="noopener">Biden Memo Encourages Military Use of AI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Physical Intelligence press release - &lt;a href="https://www.physicalintelligence.company/blog/pi0" target="_blank" rel="noopener">π0: Our First Generalist Policy&lt;/a>&lt;/li>
+&lt;li>OpenAI press release - &lt;a href="https://openai.com/index/introducing-chatgpt-search/" target="_blank" rel="noopener">Introducing ChatGPT Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.whopooapp.com" target="_blank" rel="noopener">WhoPoo App&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>SB1047</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e002/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e002/</guid><description>&lt;div style="text-align: justify">
+Why is Mark Ruffalo talking about SB1047, and what is it anyway? Tune in for our thoughts on the now vetoed California legislation that had Big Tech scared.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/21d6cbf9">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:00:31 ❙ Updates from a relatively slow week&lt;br>
+00:03:32 ❙ Disclaimer: SB1047 vetoed during recording (still worth a listen)&lt;br>
+00:05:24 ❙ What is SB1047&lt;br>
+00:12:30 ❙ Definitions&lt;br>
+00:17:18 ❙ Understanding the bill&lt;br>
+00:28:42 ❙ What are the players saying about it?&lt;br>
+00:46:44 ❙ Addressing critiques&lt;br>
+00:55:59 ❙ Open Source&lt;br>
+01:02:36 ❙ Takeaways&lt;br>
+01:15:40 ❙ Clarification on impact to big tech&lt;br>
+01:18:51 ❙ Outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://legiscan.com/CA/text/SB1047/2023" target="_blank" rel="noopener">SB1047 legislation page&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://digitaldemocracy.calmatters.org/bills/ca_202320240sb1047" target="_blank" rel="noopener">SB1047 CalMatters page&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://calmatters.org/economy/2024/09/california-artificial-intelligence-bill-veto/" target="_blank" rel="noopener">Newsom vetoes SB1047&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://newsletter.safe.ai/p/aisn-40-california-ai-legislation" target="_blank" rel="noopener">CAIS newsletter on SB1047&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://safesecureai.org/experts" target="_blank" rel="noopener">Prominent AI nerd letter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cdn.sanity.io/files/4zrzovbb/website/6a3b14a98a781a6b69b9a3c5b65da26a44ecddc6.pdf" target="_blank" rel="noopener">Anthropic&amp;rsquo;s letter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/guide-to-sb-1047" target="_blank" rel="noopener">SB1047 ~explainer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="additional-sb1047-related-coverage">Additional SB1047 Related Coverage&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://techcrunch.com/2024/08/21/openais-opposition-to-californias-ai-law-makes-no-sense-says-state-senator/" target="_blank" rel="noopener">Opposition to SB1047 &amp;lsquo;makes no sense&amp;rsquo;&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://techcrunch.com/2024/09/17/governor-newsom-on-california-ai-bill-sb-1047-i-cant-solve-for-everything/" target="_blank" rel="noopener">Newsom on SB1047&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://a16z.com/sb-1047-what-you-need-to-know-with-anjney-midha/" target="_blank" rel="noopener">Andreesen Horowitz on SB1047&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://x.com/DanHendrycks/status/1816523907777888563" target="_blank" rel="noopener">Classy move by Dan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.windowscentral.com/software-apps/ex-openai-researchers-claim-sam-altmans-public-support-for-ai-regulation-is-a-facade-when-actual-regulation-is-on-the-table-he-opposes-it" target="_blank" rel="noopener">Ex-OpenAI employee says Altman doesn&amp;rsquo;t want regulation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://x.com/shishirpatil_/status/1837205152132153803" target="_blank" rel="noopener">o1 doesn&amp;rsquo;t measure up in new benchmark paper&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cnbc.com/2024/09/27/openai-sees-5-billion-loss-this-year-on-3point7-billion-in-revenue.html?__source=threads%7Cmain" target="_blank" rel="noopener">OpenAI losses and gains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.engadget.com/social-media/openais-x-account-was-hacked-to-promote-a-crypto-scam-130020696.html?guccounter=1" target="_blank" rel="noopener">OpenAI crypto hack&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://x.com/miramurati/status/1839025700009030027" target="_blank" rel="noopener">&amp;ldquo;Murati out&amp;rdquo; -Mira Murati, probably&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bloomberg.com/news/articles/2024-09-24/openai-pitched-white-house-on-unprecedented-data-center-buildout" target="_blank" rel="noopener">Altman pitching datacenters to White House&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro" target="_blank" rel="noopener">Sam Altman, &amp;lsquo;podcast bro&amp;rsquo;&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2311.02537" target="_blank" rel="noopener">Paper: Contract Design with Safety Inspections&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>The US Government's AI Safety Gambit: A Step Forward or Just Another Voluntary Commitment?</title><link>https://jacob-haimes.github.io/kairos.fm/staging/us-gov-ai-safety-gambit/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/us-gov-ai-safety-gambit/</guid><description>&lt;div style="font-size:small;font-style: italic;">This is a linkpost for &lt;a href="https://www.techpolicy.press/the-us-governments-ai-safety-gambit-a-step-forward-or-just-another-voluntary-commitment/" target="_blank" rel="noreferrer noopener">https://www.techpolicy.press/the-us-governments-ai-safety-gambit-a-step-forward-or-just-another-voluntary-commitment/&lt;/a>&lt;/div>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Vice President Kamala Harris, pictured speaking with AI company executives" loading="lazy" width="1024" height="576" decoding="async" data-nimg="1" style="color:transparent;aspect-ratio:1.7777777777777777;width:100%;height:auto" src="us-gov-ai-safety-agreement_thumbnail.png">
+&lt;figcaption style="font-size:small">Vice President Kamala Harris, pictured speaking with AI company executives in May 2023, announced the White House’s policy on uses of AI across government in a speech on March 28, 2024.&lt;br>(Lawrence Jackson / The White House)&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div style="text-align: justify">
+Last month, the year-old &lt;a href="https://www.nist.gov/aisi" target="_blank" rel="noreferrer noopener">US AI Safety Institute&lt;/a> (US AISI) took a significant step by signing &lt;a href="https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research" target="_blank" rel="noreferrer noopener">an agreement&lt;/a> with two AI giants, OpenAI and Anthropic. The companies committed to sharing pre- and post-deployment models for government testing, a move that could mark a leap toward safeguarding society from AI risks. However, the effectiveness of this &lt;a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/" target="_blank" rel="noreferrer noopener">voluntary commitment&lt;/a> remains to be seen, as a &lt;a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november/safety-testing-chairs-statement-of-session-outcomes-2-november-2023" target="_blank" rel="noreferrer noopener">comparable 2023 agreement&lt;/a> with the &lt;a href="https://www.aisi.gov.uk/" target="_blank" rel="noreferrer noopener">UK AI Safety Institute&lt;/a> (UK AISI) has had varied results.&lt;/div>
+&lt;h2 id="the-agreement-a-closer-look">The Agreement: A Closer Look&lt;/h2>
+&lt;div style="text-align: justify">To assess whether this agreement marks a substantive step toward safe AI development, we need to examine it from four perspectives:&lt;/div>
+&lt;ol>
+&lt;li>&lt;strong>Transparency&lt;/strong>: How much information will the companies actually share?&lt;/li>
+&lt;li>&lt;strong>Expertise&lt;/strong>: Does the government agency have the necessary capabilities to evaluate these complex systems?&lt;/li>
+&lt;li>&lt;strong>Accountability&lt;/strong>: What happens if safety issues are identified?&lt;/li>
+&lt;li>&lt;strong>Implementation&lt;/strong>: Can this agreement be effectively operationalized in practice?&lt;/li>
+&lt;/ol>
+&lt;div style="text-align: justify">These criteria are inspired by lessons learned from historical US safety testing in industries such as &lt;a href="https://www.nhtsa.gov/ratings" target="_blank" rel="noreferrer noopener">transportation&lt;/a> and &lt;a href="https://www.faa.gov/about/initiatives/iasa" target="_blank" rel="noreferrer noopener">aviation&lt;/a>, where enforceable standards have built trust and improved safety outcomes. They also draw from my professional experience developing governance strategies for a technology company interfacing with external regulators.&lt;/div>
+&lt;h2 id="overview-the-us-aisi-agreement-with-openai-and-anthropic">Overview: The US AISI Agreement with OpenAI and Anthropic&lt;/h2>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Visual Summary of US AISI Agreement" loading="lazy" decoding="async" data-nimg="1" style="color:transparent;width:100%;height:auto" src="us-aisi-agreement_visual.svg">
+&lt;figcaption style="font-size:small">Issues pertaining to the US AISI agreement with OpenAI and Anthropic.&lt;/figcaption>&lt;/figure>&lt;/div>
+&lt;h4 id="transparency-a-promising-start">Transparency: A Promising Start&lt;/h4>
+&lt;div style="text-align: justify; margin-bottom: .85rem">OpenAI and Anthropic's agreement to submit their AI models for government testing represents a significant step towards transparency in AI development. However, the practical implications of this commitment remain to be seen.&lt;/div>
+&lt;div style="text-align: justify">This isn't the first such agreement for these AI companies – in 2023, they joined other leading labs in a similar pledge to the UK AISI. By June 2024, &lt;a href="https://www.anthropic.com/news/claude-3-5-sonnet" target="_blank" rel="noreferrer noopener">Anthropic&lt;/a> and &lt;a href="https://www.politico.eu/article/rishi-sunak-ai-testing-tech-ai-safety-institute/" target="_blank" rel="noreferrer noopener">Google DeepMind&lt;/a> had followed through. However, while OpenAI has shared post-launch models, it is uncertain whether they've allowed the UK AISI pre-deployment access. Nevertheless, OpenAI CEO Sam Altman specified his support for the US AISI to conduct “pre-release testing” in an August 2024 post on &lt;a href="https://x.com/sama/status/1829205847731515676" target="_blank" rel="noreferrer noopener">X&lt;/a>.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">The UK AISI &lt;a href="https://www.commerce.gov/news/press-releases/2024/04/us-and-uk-announce-partnership-science-ai-safety" target="_blank" rel="noreferrer noopener">shared testing results&lt;/a> with the US AISI this summer, exemplifying growing international cooperation in AI safety efforts. Repeated commitments on both sides of the Atlantic underscore a growing consensus on the importance of external oversight in AI development.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">Still, the devil is in the details when determining whether US AISI can interpret the models once shared. Anthropic's co-founder Jack Clark acknowledged to &lt;a href="https://www.politico.eu/article/rishi-sunak-ai-testing-tech-ai-safety-institute/" target="_blank" rel="noreferrer noopener">Politico&lt;/a> in April that "pre-deployment testing is a nice idea, but very difficult to implement."&lt;/div>
+&lt;h4 id="expertise-building-capacity">Expertise: Building Capacity&lt;/h4>
+&lt;div style="text-align: justify; margin-bottom: .85rem">Led by &lt;a href="https://www.nist.gov/people/elizabeth-kelly" target="_blank" rel="noreferrer noopener">Elizabeth Kelly&lt;/a>, one of &lt;a href="https://time.com/7012783/elizabeth-kelly/" target="_blank" rel="noreferrer noopener">&lt;em>Time&lt;/em>’s 100 Most Influential People in AI&lt;/a>, the US AISI brings together a multidisciplinary team of technologists, economists, and policy experts. Operating within the (&lt;a href="https://www.washingtonpost.com/technology/2024/03/06/nist-ai-safety-lab-decaying/" target="_blank" rel="noreferrer noopener">reportedly underfunded&lt;/a>) National Institute for Standards and Training (NIST), the US AISI seems substantively well-positioned to develop industry standards for AI safety.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">NIST’s work ranges from &lt;a href="https://www.nist.gov/programs-projects/ai-measurement-and-evaluation/nist-ai-measurement-and-evaluation-projects" target="_blank" rel="noreferrer noopener">biometric recognition to intelligent systems&lt;/a>. While the historical expertise provides a solid foundation, the rapid advancements in large language models (LLMs) present new challenges. NIST’s new &lt;a href="https://www.nist.gov/news-events/news/2024/05/nist-launches-aria-new-program-advance-sociotechnical-testing-and" target="_blank" rel="noreferrer noopener">Assessing Risks and Impacts of AI (ARIA) program&lt;/a> and &lt;a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noreferrer noopener">AI Risk Management Framework&lt;/a> are particularly relevant to evaluating LLMs, but the dynamic field demands continuous adaptation.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">US AISI also faces the challenge of attracting top talent in a competitive market. While leading AI researchers in the private sector can have &lt;a href="https://www.wsj.com/articles/artificial-intelligence-jobs-pay-netflix-walmart-230fc3cb" target="_blank" rel="noreferrer noopener">salaries nearing $1 million&lt;/a>, government agencies typically offer more modest compensation packages, potentially &lt;a href="https://www.wired.com/story/regulators-need-ai-expertise-cant-afford-it/" target="_blank" rel="noreferrer noopener">impacting their ability to recruit&lt;/a> cutting-edge expertise.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">The US AISI's ability to develop robust industry standards for AI safety will depend not only on leveraging NIST's historical expertise, but also on successfully bridging the &lt;a href="https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/" target="_blank" rel="noreferrer noopener">talent gap&lt;/a> between public and private sectors.&lt;/div>
+&lt;h4 id="accountability-the-missing-link">Accountability: The Missing Link&lt;/h4>
+&lt;div style="text-align: justify; margin-bottom: .85rem">While the US AISI agreement with OpenAI and Anthropic &lt;a href="https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research" target="_blank" rel="noreferrer noopener">promises&lt;/a> "&lt;a href="https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research" target="_blank" rel="noreferrer noopener">collaboration on AI safety research, testing and evaluation,"&lt;/a> critical details remain unclear. The full agreement is not publicly available and the press release didn't specify enforcement mechanisms or consequences for disregarding evaluation results – nor did it define what constitutes actionable findings.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">Despite the ambiguity surrounding how OpenAI and Anthropic will incorporate US AISI's test results, this agreement fulfills a commitment made by the US at the 2023 UK AI Safety Summit. There, 28 countries and the European Union &lt;a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november/safety-testing-chairs-statement-of-session-outcomes-2-november-2023" target="_blank" rel="noreferrer noopener">affirmed&lt;/a> their &lt;a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november/safety-testing-chairs-statement-of-session-outcomes-2-november-2023" target="_blank" rel="noreferrer noopener">"responsibility for the overall framework for AI in their countries"&lt;/a> and agreed that testing should address AI models' potentially harmful capabilities.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">While it remains to be seen whether the US AISI will add enforcement power to its agreement with OpenAI and Anthropic, the national - and complementary international - agreement at least creates a pathway for the US AISI to scrutinize AI development in the public interest.&lt;/div>
+&lt;h4 id="implementation-the-real-challenge">Implementation: The Real Challenge&lt;/h4>
+&lt;div style="text-align: justify; margin-bottom: .85rem">Operationalizing this agreement faces several hurdles:&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">&lt;strong>Developing an interface for sharing sensitive model information.&lt;/strong> There are trade-offs between protecting the AI companies’ proprietary technology – in the interest of both business competition and national security – and incentivizing multiple AI companies to share model access with a &lt;a href="https://www.csis.org/analysis/ai-seoul-summit" target="_blank" rel="noreferrer noopener">growing list&lt;/a> of national AI Safety Institutes. Scaling a secure, interoperable application programming interface (API) that enables different AI company systems to communicate with multiple governments’ AI Safety Institute programs may be a cost effective mechanism for both sets of stakeholders to adapt as the landscape of international oversight and regulation evolves.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">&lt;strong>Adapting internal operations to integrate testing.&lt;/strong> For AI companies, this means integrating consistent model submission intervals into their existing product development cycles to minimize business operation and product launch disruptions. Understanding the US AISI's estimated testing timelines will be crucial for standardizing this new step in their processes. Simultaneously, the nascent US AISI faces the challenge of rapidly building its capabilities. Staffing the less-than-year-old institute with AI and testing experts is critical for &lt;a href="https://www.techpolicy.press/mandated-thirdparty-ai-audits-are-coming-addressing-ais-sociotechnical-challenges-will-be-key/" target="_blank" rel="noreferrer noopener">developing robust third-party evaluations&lt;/a> of frontier AI models.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">&lt;strong>Establishing a feedback process between AI labs and the US AISI.&lt;/strong> If the only requirement is for AI labs to submit their models for testing, there may be minimal disruptions to AI labs' development cycles, but also less comprehensive evaluations. Conversely, if AI labs are expected to engage in ongoing dialogue throughout the testing and evaluation process, assessments would be more thorough, but at a higher time and resource cost from both the labs and the US AISI. The selected approach will impact the depth of evaluations, the speed of the process, and the potential for real-time adjustments to AI systems. Clearly defining expectations at the beginning will be fundamental to building trust, ensuring transparency, and maintaining the long-term legitimacy of the agreement.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">&lt;strong>Balancing transparency with the protection of trade secrets.&lt;/strong> While OpenAI and Anthropic are not required to publicly disclose AI safety issues, their approach has been proactive: Anthropic's &lt;a href="https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf" target="_blank" rel="noreferrer noopener">Responsible Scaling Policy&lt;/a> commits to publishing safety guardrail updates, and OpenAI issues &lt;a href="https://openai.com/index/gpt-4o-system-card/" target="_blank" rel="noreferrer noopener">System Cards&lt;/a> detailing safety testing for each model launch. The US AISI, following NIST's long-standing tradition of public reporting, is likely to share its evaluation tools and results. However, all have to be careful to avoid exposing sensitive information that could compromise market competition and/or national security.&lt;/div>
+&lt;h2 id="the-road-ahead-from-voluntary-to-mandatory">The Road Ahead: From Voluntary to Mandatory?&lt;/h2>
+&lt;div style="text-align: justify; margin-bottom: .85rem">While the agreement may not be immediately fully operationalizable – given the &lt;a href="https://www.anthropic.com/news/third-party-testing" target="_blank" rel="noreferrer noopener">early stages&lt;/a> of third-party evaluations – the government's proactive investment in this capability demonstrates foresight. The agreement positions the US AISI to effectively implement evaluations once industry standards solidify. This proactive approach enables the agency to be ready for a future where AI safety testing could &lt;a href="https://www.techpolicy.press/mandated-thirdparty-ai-audits-are-coming-addressing-ais-sociotechnical-challenges-will-be-key/" target="_blank" rel="noreferrer noopener">become a routine&lt;/a> part of development cycles.&lt;/div>
+&lt;div style="text-align: justify; margin-bottom: .85rem">As AI capabilities continue to advance at a breakneck pace, the pressure for mandatory compliance and regulation has grown. In Silicon Valley’s home state of California, where both OpenAI and Anthropic are headquartered, the Governor recently signed into law several AI bills about &lt;a href="https://www.washingtonpost.com/technology/2024/09/18/california-ai-bills-actors-election-deepfake/" target="_blank" rel="noreferrer noopener">deep fakes&lt;/a> and &lt;a href="https://www.gov.ca.gov/2024/09/19/governor-newsom-signs-bills-to-crack-down-on-sexually-explicit-deepfakes-require-ai-watermarking/" target="_blank" rel="noreferrer noopener">watermarking&lt;/a>. While US federal regulation remains &lt;a href="https://www.washingtonpost.com/technology/2024/05/15/congress-ai-road-map-regulation-schumer/" target="_blank" rel="noreferrer noopener">to be seen&lt;/a>, the recently elected UK Labour government has &lt;a href="https://time.com/6997876/uk-labour-ai-kyle-starmer/" target="_blank" rel="noreferrer noopener">signaled&lt;/a> its intent to introduce &lt;a href="https://time.com/6997876/uk-labour-ai-kyle-starmer/" target="_blank" rel="noreferrer noopener">"binding regulation on the handful of companies developing the most powerful AI models."&lt;/a>&lt;/div>
+&lt;h2 id="conclusion-a-foundation-to-build-on">Conclusion: A Foundation to Build On&lt;/h2>
+&lt;div style="text-align: justify; margin-bottom: .85rem">The US AISI's agreement with OpenAI and Anthropic represents a crucial step in the US government's efforts to ensure AI safety. While it falls short in terms of accountability and clear enforcement mechanisms, it establishes a framework for collaboration that can be built upon in the future.&lt;/p>&lt;p>The true test will be in the implementation. Can the US AISI effectively evaluate these AI models? Will the companies act on any safety concerns raised? And perhaps most importantly, will this voluntary agreement pave the way for more robust, legally binding regulations in the future?&lt;/div>
+&lt;div style="text-align: justify">The success or failure of initiatives like this will play a crucial role in shaping the future of AI governance – and potentially, the future of humanity itself.&lt;/div></description></item></channel></rss>

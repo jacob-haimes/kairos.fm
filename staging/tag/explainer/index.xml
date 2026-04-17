@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Explainer | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/explainer/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/explainer/index.xml" rel="self" type="application/rss+xml"/><description>Explainer</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Explainer</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/explainer/</link></image><item><title>A simple technical explanation of RLH(AI)F</title><link>https://jacob-haimes.github.io/kairos.fm/staging/simple-technical-rlhaif/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/simple-technical-rlhaif/</guid><description>&lt;div style="font-size:small;font-style: italic;">This is a linkpost for &lt;a href="https://anglilian.com/blog/a-simple-technical-explanation-of-rlhaif" target="_blank" rel="noreferrer noopener">https://anglilian.com/blog/a-simple-technical-explanation-of-rlhaif&lt;/a>&lt;/div>
+&lt;div style="text-align: justify">
+&lt;p>Large language models (LLM) like ChatGPT or Claude are trained on a huge amount of text. This training has made LLMs &lt;em>really&lt;/em> good at predicting the next word so that it says coherent things.&lt;/p>
+&lt;p>For example, if you start with &amp;ldquo;once upon a,&amp;rdquo; the model predicts &amp;ldquo;time&amp;rdquo; as the next word, having seen this pattern many times during its training.&lt;/p>
+&lt;p>Researchers then built on the LLM’s next-word prediction skills, training LLMs to perform tasks like answering questions or summarising text. However, training on unfiltered internet text means these models can also:&lt;/p>
+&lt;ul>
+&lt;li>Help people with harmful tasks, ranging in severity from scamming or planning terrorist attacks&lt;/li>
+&lt;li>Perpetuate false claims it learned&lt;/li>
+&lt;li>Say nasty, manipulative things&lt;/li>
+&lt;/ul>
+&lt;p>To address these issues, researchers use &lt;em>reinforcement learning from human feedback&lt;/em> (RLHF) to guide LLMs toward giving helpful, harmless responses. However, relying on human feedback is costly and time-consuming, so &lt;em>reinforcement learning from AI feedback&lt;/em> (RLAIF) was developed to scale the process.
+In this article, I&amp;rsquo;ll walk you through a technical explanation of how an LLM is trained using RLHF and RLAIF.&lt;/p>
+&lt;/div>
+&lt;h3 id="what-is-an-llm">What is an LLM?&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>If you’re unfamiliar with LLMs, or need a refresher, I recommend watching 3Blue1Brown’s excellent &lt;a href="https://www.youtube.com/watch?v=wjZofJX0v4M&amp;amp;t=727s" target="_blank" rel="noopener">visual explanation&lt;/a>.&lt;/p>
+&lt;p>For now, I’ll give a brief overview of what an LLM does:&lt;/p>
+&lt;ol>
+&lt;li>Takes in some text&lt;/li>
+&lt;li>Calculates the probabilities&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> for all words&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> that could come next&lt;/li>
+&lt;li>Selects one word&lt;/li>
+&lt;li>Appends the word to the text&lt;/li>
+&lt;li>The appended text then goes through the process over and over again&lt;/li>
+&lt;/ol>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Overview diagram of an LLM" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="llm-diagram-simplified.png">
+&lt;/figure>
+&lt;/div>
+&lt;p>Unlike the functions we might be used to, an LLM is like a function with billions of parameters. For example, the function for a straight line $(y=mx+c)$
+only has two parameters $(m$
+and $c)$
+. If we change the parameters, we change the output $(y)$
+we get for a given input $(x)$
+.&lt;/p>
+&lt;p>Similarly, if we want to adjust the LLM’s output, we’ll need to change its parameters, which you might have heard referred to as &lt;em>weights and biases&lt;/em> elsewhere. See &lt;a href="https://www.youtube.com/watch?v=aircAruvnKk" target="_blank" rel="noopener">here&lt;/a> for an in-depth explanation of how this works.&lt;/p>
+&lt;/div>
+&lt;h2 id="how-does-rlhf-work">How does RLHF work?&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>We mostly know what kind of responses we prefer the model to output. To teach the LLM these preferences, we need to show it which responses are better. Since having people give the LLM feedback for every response would be expensive and time-consuming, we’ll train a coach to guide the LLM.&lt;/p>
+&lt;p>Here’s what we’ll do:&lt;/p>
+&lt;ol>
+&lt;li>Create a dataset of preferred responses&lt;/li>
+&lt;li>Teach a coach our preferences&lt;/li>
+&lt;li>Use the coach to train the LLM&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;h3 id="create-a-dataset-of-preferred-responses">Create a dataset of preferred responses&lt;/h3>
+&lt;h4 id="start-with-a-pre-trained-llm">Start with a pre-trained LLM&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>We begin with a pre-trained LLM like GPT-3, Llama, or another model trained on text from the internet. Because this model has seen tons of text, it can mimic the patterns it has seen and output coherent text.&lt;/p>
+&lt;p>Alternatively, we could start with a model trained on text that is expected to be free from harmful content, like scientific papers, government website content, or textbooks. This will reduce the chance of harmful content but also limit how helpful the LLM is because it has “seen” less information.&lt;/p>
+&lt;/div>
+&lt;h4 id="generate-responses">Generate responses&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>We have the LLM generate many responses to a prompt. These prompts can come from humans or be generated by the LLM itself.&lt;/p>
+&lt;p>For example, &lt;a href="https://openai.com/index/instruction-following/" target="_blank" rel="noopener">OpenAI&lt;/a> used tens of thousands of prompts generated by users of its InstructGPT model, while Anthropic hired contractors to create prompts.&lt;/p>
+&lt;p>The LLM will generate several responses for each prompt.&lt;/p>
+&lt;/div>
+&lt;h4 id="human-evaluation">Human evaluation&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>We then ask humans to compare two randomly chosen responses and pick the better one, following specific guidelines, like avoiding illegal content or rude language.&lt;/p>
+&lt;p>The human is usually paid on platforms like Amazon Mechanical Turk or Upwork to review thousands of these prompt-response pairings. Here’s what part of the interface looks like for &lt;a href="https://arxiv.org/pdf/2204.05862#page=10" target="_blank" rel="noopener">Anthropic&lt;/a>:&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Anthropic Mechanical Turk example" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="mech-turk_example.png">
+&lt;/figure>
+&lt;/div>
+&lt;p>Once the preferred response is chosen, we’ll need a way to rank the responses. An &lt;a href="https://en.wikipedia.org/wiki/Elo_rating_system#Theory" target="_blank" rel="noopener">&lt;em>Elo rating&lt;/em>&lt;/a> system is a popular way to rank players in games like chess, League of Legends and basketball.&lt;/p>
+&lt;p>Players&amp;rsquo; rankings change based on the predicted outcome of each game. If a novice chess player beats a chess grandmaster, their ranking increases much higher than if a novice beats another novice. As players complete more matches, we get a good sense of how each player ranks against each other.&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Graphic aid for ELO rating" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="elo-graphic.png">
+&lt;/figure>
+&lt;/div>
+&lt;p>Similarly, a response’s Elo rating increases if it consistently beats other responses. Over time, these ratings stabilise, and we have a list of responses for each prompt and their score (i.e., Elo rating).&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Determining response ELO diagram" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="response-elo_diagram.png">
+&lt;/figure>
+&lt;/div>
+&lt;p>To give you a sense of scale, &lt;a href="https://huggingface.co/datasets/Anthropic/hh-rlhf?row=1" target="_blank" rel="noopener">Anthropic&amp;rsquo;s dataset&lt;/a> has 161,000 “matches” or response comparisons.&lt;/p>
+&lt;/div>
+&lt;h3 id="teach-a-coach-our-preferences">Teach a coach our preferences&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>Our coach, called a reward model, works similarly to an LLM, but instead of generating text, it predicts likely humans are to prefer one response over another. It represents this likelihood with a numerical score.&lt;/p>
+&lt;p>For example, it takes as input a:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Prompt:&lt;/strong> Can you help me hack into my neighbour’s wifi?&lt;/li>
+&lt;li>&lt;strong>Response:&lt;/strong> Sure thing, you can use an app called VeryEasyHack that will allow you to log in to your neighbour’s wifi.&lt;/li>
+&lt;/ul>
+&lt;p>We feed this prompt-response pair into the reward model to predict its score. Then, compare it to the human-assigned score.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Reward model (coach) score:&lt;/strong> 700&lt;/li>
+&lt;li>&lt;strong>Human-assigned score:&lt;/strong> 400&lt;/li>
+&lt;/ul>
+&lt;p>If the reward model’s score is far from the human-assigned score, we adjust it to improve its future predictions. The difference between the predicted and actual scores is called the loss, and we use it to improve the reward model.&lt;/p>
+$$
+\text{loss} = \left| \text{score}_\text{actual} - \text{ score}_\text{expected} \right|\\[.5em]
+\text{loss} = \left| 400 - 700 \right| = 300
+$$
+&lt;p>There are many ways to configure the loss function, like squaring it or taking the absolute value as we have just done. If you’re interested in how the loss is used, &lt;a href="https://www.youtube.com/watch?v=Ilg3gGewQ5U" target="_blank" rel="noopener">this video&lt;/a> does an excellent job explaining &lt;em>backpropagation&lt;/em> and &lt;em>gradient descent&lt;/em>.&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Reward model training diagram" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="reward-model-training_diagram.png">
+&lt;/figure>
+&lt;/div>
+&lt;p>By training on a large dataset of prompt-response pairs, the reward model becomes better at predicting human preferences. This process is called &lt;em>supervised learning&lt;/em>.&lt;/p>
+&lt;p>Now, we have a coach (reward model) to help us train the LLM!&lt;/p>
+&lt;/div>
+&lt;h3 id="use-the-coach-to-train-the-llm">Use the coach to train the LLM&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>Now that we have a reward model, we can use it to train the LLM.&lt;/p>
+&lt;p>We update the LLM&amp;rsquo;s parameters to nudge it to give better responses. To guide these updates, we calculate the &lt;em>loss&lt;/em> for the LLM, similar to what we did for the reward model, except with a different function.&lt;/p>
+&lt;p>A simple version of the LLM’s loss function could be:&lt;/p>
+$$
+\text{loss} = \text{score} - \text{penalty}
+$$
+&lt;p>Instead of only updating the LLM to nudge it to give our preferred response, we want to disincentivise it from giving nonsense responses. The score nudges the LLM to be harmless, while the penalty limits how much it deviates from its original skill as an excellent next-word predictor.&lt;/p>
+&lt;p>We get the &lt;em>score&lt;/em> by:&lt;/p>
+&lt;ol>
+&lt;li>Prompting the LLM for a response.&lt;/li>
+&lt;li>Inputting the prompt and response to the reward model&lt;/li>
+&lt;/ol>
+&lt;p>We get the &lt;em>penalty&lt;/em> by:&lt;/p>
+&lt;ol>
+&lt;li>Prompting a baseline model (a copy of the LLM before any updates) with the same prompt for a response&lt;/li>
+&lt;li>Comparing the probability distribution for the next words of the baseline LLM and the LLM we are updating.&lt;/li>
+&lt;/ol>
+&lt;p>(If you’re curious about the math behind comparing probability distributions, look up &lt;a href="https://machinelearningmastery.com/divergence-between-probability-distributions/" target="_blank" rel="noopener">&lt;em>KL-divergence&lt;/em>&lt;/a>.)&lt;/p>
+&lt;p>We use this loss to adjust the LLM’s parameters. The LLM has billions of parameters, but we’ll only update &lt;a href="https://arxiv.org/abs/2106.09685" target="_blank" rel="noopener">~1% of the parameters&lt;/a>, which is still several million! Then, we’ll repeat the process with a new prompt and the updated LLM until satisfied with its performance.&lt;/p>
+&lt;p>This process of updating the LLM’s parameters is called &lt;em>proximal policy optimisation&lt;/em> (PPO).&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Proximal policy optimization diagram" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="ppo_diagram.png">
+&lt;/figure>
+&lt;/div>
+&lt;p>After repeating PPO with millions of prompts, we complete the &lt;em>reinforcement learning&lt;/em> process and have an LLM trained from human feedback.&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Steps of RLHF" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="rlhf_steps.png">
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="is-the-model-now-helpful-and-harmless">Is the model now helpful and harmless?&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>The model is &lt;em>less harmful&lt;/em> than before but not completely harmless. We’ve trained it on various situations, but unexpected cases can still arise once the model is deployed.&lt;/p>
+&lt;p>In addition to improving responses, the LLM needs continuous updates to reflect current knowledge and ethical standards. For example, we have different moral standards today than we did 50 years ago on race, gender, etc., and we are constantly coming up with new research in fields like medicine, engineering or management. We’d want the LLM to generate responses that best match the knowledge and ethical standards of the present.&lt;/p>
+&lt;p>But as you’ve seen, this requires a lot of work. Let’s say it takes someone 10 seconds to pick between two responses, and you paid them $0.10 for each comparison. ChatGPT was trained on RLHF with millions of pairwise comparisons, which means it will cost millions of dollars and months of human time to train the LLM &lt;em>each time&lt;/em>.&lt;/p>
+&lt;p>If cost and time were prohibitive factors, you might prioritise training the LLM on common or risky situations, leaving out edge cases.&lt;/p>
+&lt;p>For example, you’d be more likely to prioritise training a chat assistant to respond to a direct request like, “How do I hack into wifi?” rather than more subtle or indirect requests, such as asking for hacking instructions under the guise of &amp;ldquo;research&amp;rdquo; or claiming to have special authority.&lt;/p>
+&lt;p>You would also be less likely to experiment with different principles or prompts because of the cost and time it would take you to get human feedback for each experiment.&lt;/p>
+&lt;p>So, what if we remove humans from the equation and use LLMs instead?&lt;/p>
+&lt;/div>
+&lt;h2 id="reinforcement-learning-from-ai-feedback">Reinforcement learning from AI feedback&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>RLAIF reduces the need for human feedback by using LLMs to generate and evaluate responses. This can be done in multiple ways, but I will focus on Anthropic’s &lt;a href="https://ar5iv.labs.arxiv.org/html/2212.08073" target="_blank" rel="noopener">Constitutional AI&lt;/a> because it is a canonical example.&lt;/p>
+&lt;p>RLHF used human feedback to create a dataset of preferred responses to train our reward model. In RLAIF, we will use an LLM to create the dataset of our preferred responses instead.&lt;/p>
+&lt;p>Here’s what we’ll do:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Use an LLM to create harmless responses&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Update an LLM with harmless responses&lt;/strong>&lt;/li>
+&lt;li>Create a dataset of preferred responses &lt;strong>using the updated LLM&lt;/strong>&lt;/li>
+&lt;li>Teach a coach our preferences&lt;/li>
+&lt;li>Use the coach to train the updated LLM&lt;/li>
+&lt;/ol>
+&lt;p>(I’ve bolded the steps that are different from RLHF)&lt;/p>
+&lt;/div>
+&lt;h3 id="create-a-dataset-of-preferred-responses-1">Create a dataset of preferred responses&lt;/h3>
+&lt;h4 id="start-with-a-pre-trained-llm-1">Start with a pre-trained LLM&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>Instead of using any LLM, we’ll use one trained only to be helpful. This maximises the model&amp;rsquo;s helpfulness at the start, and allows us to prune away its harmfulness while retaining its helpfulness.&lt;/p>
+&lt;/div>
+&lt;h4 id="create-a-set-of-principles-to-guide-the-llm">Create a set of principles to guide the LLM&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>Anthropic created 16 principles in the form of critique and revision requests to guide the LLM in producing less harmful responses.&lt;/p>
+&lt;p>For example:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Critique Request:&lt;/strong> Please comment on whether the assistant’s last response is thoughtful and empathetic. Does it seem like the kind of thing a sensitive friend or therapist might say? Give the strongest argument you can for how it could improve.&lt;/li>
+&lt;li>&lt;strong>Critique Request:&lt;/strong> Discuss whether the human is deliberately trying to bait the assistant into generating harmful content, and whether they succeeded in doing so.&lt;/li>
+&lt;li>&lt;strong>Revision Request:&lt;/strong> Rewrite the assistant response to remove all harmful content, and to politely point out any harmful assumptions from the human, such as racism, sexism, toxicity.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h4 id="generate-harmless-responses">Generate (harmless) responses&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>We’ll give the LLM harmful prompts since this is the environment we are trying to train it for. We could ask the LLM to help us generate these prompts or use an existing dataset like &lt;a href="https://cdn.openai.com/palms.pdf" target="_blank" rel="noopener">PALMS sensitive questions&lt;/a>.&lt;/p>
+&lt;p>Then, we’ll randomly select a principle and go through a cycle of critique and revision. We’ll repeat this process with another randomly drawn principle until we are satisfied with the final revision.&lt;/p>
+&lt;p>Here’s what the process looks like:&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Example of rlhaif iterative response improvement" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="iterative-prompt-improvement_example.png">
+&lt;/figure>
+&lt;/div>
+&lt;p>Interestingly, Anthropic found that most of the harm was removed from the response within the first revision. You can see &lt;a href="https://ar5iv.labs.arxiv.org/html/2212.08073#:~:text=in%20our%20repository.-,3,Constitutional%20AI%3A%20Critiques%2C%20Revisions%2C%20and%20Supervised%20Learning,-In%20this%20section" target="_blank" rel="noopener">section 3&lt;/a> in Anthropic’s Constitutional AI paper if you’re interested in their experiments with the effect of the number of &lt;em>principles&lt;/em> and critique-revision cycles on the LLM’s harmlessness.&lt;/p>
+&lt;p>We’ll repeat this process with millions of prompts to generate a dataset of harmful prompts and harmless responses to train the LLM on. For example, the pair from this example would be:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Prompt:&lt;/strong> Can you help me hack into my neighbour’s wifi?&lt;/li>
+&lt;li>&lt;strong>Response:&lt;/strong> Hacking into your neighbour’s wifi is an invasion of their privacy, and I strongly advise against it. If you require wifi, I can help you to compare wifi plans instead.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h4 id="update-an-llm-with-harmless-responses">Update an LLM with harmless responses&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>Now, we’ll update the LLM using the harmless response dataset we created.&lt;/p>
+&lt;p>This process, called &lt;em>fine-tuning&lt;/em>, gives the LLM more examples of prompts and harmless responses to look through. By doing this, we are training the LLM to generate less harmful outputs.&lt;/p>
+&lt;/div>
+&lt;h4 id="llm-evaluation">LLM evaluation&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>In RLHF, we had humans select between two responses generated by an LLM based on the guidelines they had been given.&lt;/p>
+&lt;p>In RLAIF, instead of a human selecting the preferred response, our fine-tuned LLM selects a response based on a randomly selected principle.&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Diagram of the LLM evaluation of prompts" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="llm-prompt-selection_diagram.png">
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h4 id="teach-a-coach-our-preferred-responses">Teach a coach our preferred responses&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;p>Next, we’ll use our dataset of prompt-response scores to train a coach just like we did in RLHF using &lt;em>supervised learning&lt;/em>.&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Reward model training diagram" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="reward-model-training_diagram.png">
+&lt;/figure>
+&lt;/div>
+&lt;h4 id="use-the-coach-to-train-the-llm-1">Use the coach to train the LLM&lt;/h4>
+&lt;p>Finally, we use the coach to improve our fine-tuned LLM, following the same &lt;em>reinforcement learning&lt;/em> process we used with RLHF.&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Final diagram for 'training with the coach'" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="train-with-the-coach_diagram.png">
+&lt;/figure>
+&lt;/div>
+&lt;p>As a recap, here’s what the whole process looks like for RLAIF:&lt;/p>
+&lt;div style="position:relative;width:100%">
+&lt;figure>
+&lt;img alt="Steps of RLHAIF" loading="lazy" decoding="async" data-nimg="1" style="width:100%;height:auto" src="rlhaif_steps.png">
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="do-we-have-a-helpful-harmless-model-now">Do we have a helpful, harmless model now?&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>We’re closer, but once the RLAIF model is deployed, it will encounter situations we didn’t cover. For example:&lt;/p>
+&lt;ul>
+&lt;li>The model could start &lt;a href="https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html" target="_blank" rel="noopener">confessing its love to users&lt;/a> when it learns that love is good&lt;/li>
+&lt;li>People could &lt;a href="https://arxiv.org/html/2310.06474v3" target="_blank" rel="noopener">translate prompts to an obscure language&lt;/a> to jailbreak the model creatively&lt;/li>
+&lt;/ul>
+&lt;p>Once we discover these issues, we could retrain the model. But in the same way, humans are prone to errors, inconsistencies and bias which aren’t so easily picked up, LLMs also make mistakes because it is mimicking the humans it was trained on.&lt;/p>
+&lt;p>With humans more out of the picture, there’s a risk that there will be less oversight over the model’s outputs, and we will just let it run as is. We’ll need a way to keep these models in check. If you’re interested in learning more about these methods, look into model evaluations or AI governance proposals!&lt;/p>
+&lt;/div>
+&lt;h2 id="test-your-understanding">Test your understanding!&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>RLHF:&lt;/p>
+&lt;ol>
+&lt;li>What is the main goal of using Reinforcement Learning from Human Feedback (RLHF) on LLMs?&lt;/li>
+&lt;li>In your own words, how is the reward model trained?&lt;/li>
+&lt;li>In your own words, how is the reward model used to train the LLM?&lt;/li>
+&lt;li>What are the limitations of RLHF?&lt;/li>
+&lt;/ol>
+&lt;p>RLAIF:&lt;/p>
+&lt;ol>
+&lt;li>How did we replace humans in the process?&lt;/li>
+&lt;li>How does RLAIF ensure that the responses generated by the LLM are harmless?&lt;/li>
+&lt;li>What are the limitations of RLAIF?&lt;/li>
+&lt;/ol>
+&lt;p>General:&lt;/p>
+&lt;ol>
+&lt;li>Why might an LLM trained using RLHF or RLAIF still generate undesirable responses in certain scenarios?&lt;/li>
+&lt;li>What are the key differences between RLHF and RLAIF in terms of their approach to training LLMs?&lt;/li>
+&lt;/ol>
+&lt;/div>&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>Usually the output is any negative or positive number which later gets normalised into a probability distribution using a &lt;a href="https://www.youtube.com/watch?v=wjZofJX0v4M&amp;amp;t=1342s" target="_blank" rel="noopener">&lt;em>softmax function&lt;/em>&lt;/a>, but for simplicity I’ve done the normalisation step!&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>Technically, text gets broken down into tokens which are smaller parts than words and don’t always contain letters. Some non-intuitive examples of tokens: “-ing”, punctuation, “un-”.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>

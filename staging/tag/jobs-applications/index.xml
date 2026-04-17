@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jobs &amp; Applications | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/jobs-applications/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/jobs-applications/index.xml" rel="self" type="application/rss+xml"/><description>Jobs &amp; Applications</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Jobs &amp; Applications</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/jobs-applications/</link></image><item><title>Layoffs to Leadership w/ Andres Sepulveda Morales</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e022/</link><pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e022/</guid><description>&lt;div style="text-align: justify">
+Andres Sepulveda Morales joins me to discuss his journey from three tech layoffs to founding Red Mage Creative and leading the Fort Collins chapter of the Rocky Mountain AI Interest Group (RMAIIG). We explore the current tech job market, AI anxiety in nonprofits, dark patterns in AI systems, and building inclusive tech communities that welcome diverse perspectives.
+&lt;p>Reach out to Andres on his &lt;a href="https://www.linkedin.com/in/andres-sepulveda-morales/" target="_blank" rel="noopener">LinkedIn&lt;/a>, or check out the Red Mage Creative &lt;a href="https://redmage.cc/" target="_blank" rel="noopener">website&lt;/a>!&lt;/p>
+&lt;p>For any listeners in Colorado, consider attending an RMAIIG event: &lt;a href="https://www.meetup.com/rmaiig/" target="_blank" rel="noopener">Boulder&lt;/a>; &lt;a href="https://www.meetup.com/fort-collins-ai-for-everyone-rmaiig/events/307983383/?eventOrigin=group_upcoming_events" target="_blank" rel="noopener">Fort Collins&lt;/a>&lt;/p>
+&lt;/div>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/6dc56af2">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.07.16; ASIDES RECORDED 2025.07.27&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:01:04 ❙ Andres' Journey&lt;br>
+00:05:15 ❙ Tech Layoff Cycle&lt;br>
+00:26:12 ❙ Why AI?&lt;br>
+00:30:58 ❙ What is Red Mage?&lt;br>
+00:36:12 ❙ AI as a Tool&lt;br>
+00:41:55 ❙ AInxiety&lt;br>
+00:47:26 ❙ Dark Patterns and Critical Perspectives&lt;br>
+01:01:35 ❙ RMAIIG&lt;br>
+01:10:09 ❙ Inclusive Tech Education&lt;br>
+01:18:05 ❙ Colorado AI Governance&lt;br>
+01:23:46 ❙ Building Your Own Tech Community
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="tech-job-market">Tech Job Market&lt;/h3>
+&lt;ul>
+&lt;li>Layoff tracker &lt;a href="https://layoffs.fyi/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>The Big Newsletter &lt;a href="https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going" target="_blank" rel="noopener">article&lt;/a> - Why Are We Pretending AI Is Going to Take All the Jobs?&lt;/li>
+&lt;li>METR &lt;a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/" target="_blank" rel="noopener">preprint&lt;/a> - Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity&lt;/li>
+&lt;li>AI Business &lt;a href="https://aibusiness.com/responsible-ai/debunking-the-ai-job-crisis" target="_blank" rel="noopener">blogpost&lt;/a> - Debunking the AI Job Crisis&lt;/li>
+&lt;li>Crunchbase &lt;a href="https://news.crunchbase.com/layoffs/big-tech-leads-workforce-cuts-msft-amzn/" target="_blank" rel="noopener">article&lt;/a> - Data: Tech Layoffs Remain Stubbornly High, With Big Tech Leading The Way&lt;/li>
+&lt;li>Computerworld &lt;a href="https://www.computerworld.com/article/4003261/tech-layoffs-surge-even-as-us-unemployment-remains-stable.html" target="_blank" rel="noopener">article&lt;/a> - Tech layoffs surge even as US unemployment remains stable&lt;/li>
+&lt;li>Apollo Technical &lt;a href="https://www.apollotechnical.com/ghost-jobs-in-tech-why-companies-are-posting-roles-they-dont-plan-to-fill/" target="_blank" rel="noopener">blogpost&lt;/a> - Ghost jobs in tech: Why companies are posting roles they don’t plan to fill&lt;/li>
+&lt;li>The HR Digest &lt;a href="https://www.thehrdigest.com/the-rise-of-ghost-jobs-is-leaving-job-seekers-frustrated-and-disappointed/" target="_blank" rel="noopener">article&lt;/a> - The Rise of Ghost Jobs Is Leaving Job Seekers Frustrated and Disappointed&lt;/li>
+&lt;li>A Life After Layoff &lt;a href="https://www.youtube.com/watch?v=rp06jQIYQ-w" target="_blank" rel="noopener">video&lt;/a> -
+The Tech Job Market Is Hot Trash Right Now&lt;/li>
+&lt;li>Economy Media &lt;a href="https://www.youtube.com/watch?v=ppYtD18CokI" target="_blank" rel="noopener">video&lt;/a> -
+Will The Tech Job Market Ever Recover?&lt;/li>
+&lt;li>Soleyman Shahir &lt;a href="https://www.youtube.com/watch?v=X0aYO8GMB4c" target="_blank" rel="noopener">video&lt;/a> -
+Tech CEO Explains: The Real Reason Behind AI Layoffs&lt;/li>
+&lt;/ul>
+&lt;h3 id="dark-patterns">Dark Patterns&lt;/h3>
+&lt;ul>
+&lt;li>Deceptive Design &lt;a href="https://www.deceptive.design" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Journal of Legal Analysis &lt;a href="https://www.researchgate.net/publication/350340175_Shining_a_Light_on_Dark_Patterns" target="_blank" rel="noopener">article&lt;/a> - Shining a Light on Dark Patterns&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/2503.10728" target="_blank" rel="noopener">paper&lt;/a> - DarkBench: Benchmarking Dark Patterns in Large Language Models&lt;/li>
+&lt;li>Computing Within Limits &lt;a href="https://computingwithinlimits.org/2025/papers/limits2025-beigon-imposing-ai.pdf" target="_blank" rel="noopener">paper&lt;/a> - Imposing AI: Deceptive design patterns against sustainability&lt;/li>
+&lt;li>Communications of the ACM &lt;a href="https://cacm.acm.org/practice/dark-patterns/" target="_blank" rel="noopener">blogpost&lt;/a> - Dark Patterns&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/html/2412.09147v1" target="_blank" rel="noopener">Preprint&lt;/a> - A Comprehensive Study on Dark Patterns&lt;/li>
+&lt;/ul>
+&lt;h3 id="colorado-ai-regulation">Colorado AI Regulation&lt;/h3>
+&lt;ul>
+&lt;li>Senate Bill 24-205 (Colorado AI Act) &lt;a href="https://leg.colorado.gov/sites/default/files/2024a_205_signed.pdf" target="_blank" rel="noopener">bill&lt;/a> and &lt;a href="https://leg.colorado.gov/bills/sb24-205" target="_blank" rel="noopener">webpage&lt;/a>&lt;/li>
+&lt;li>NAAG &lt;a href="https://www.naag.org/attorney-general-journal/a-deep-dive-into-colorados-artificial-intelligence-act/" target="_blank" rel="noopener">article&lt;/a> - A Deep Dive into Colorado’s Artificial Intelligence Act&lt;/li>
+&lt;li>Colorado Sun &lt;a href="https://coloradosun.com/2025/04/23/colorado-artificial-intelligence-law-ai/" target="_blank" rel="noopener">article&lt;/a> - Why Colorado’s artificial intelligence law is a big deal for the whole country&lt;/li>
+&lt;li>CFO Dive &lt;a href="https://www.cfodive.com/news/a-heavy-lift-colorado-ai-law-sets-high-bar-analysts-say/753025/" target="_blank" rel="noopener">blogpost&lt;/a> - ‘Heavy lift’: Colorado AI law sets high bar, analysts say&lt;/li>
+&lt;li>Denver 7 &lt;a href="https://www.denver7.com/money/science-and-tech/colorado-could-lose-funding-as-trump-administration-targets-ai-regulations" target="_blank" rel="noopener">article&lt;/a> - Colorado could lose federal funding as Trump administration targets AI regulations&lt;/li>
+&lt;li>America&amp;rsquo;s AI Action Plan &lt;a href="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf" target="_blank" rel="noopener">document&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Concordia Framework &lt;a href="https://arxiv.org/abs/2312.03664" target="_blank" rel="noopener">report&lt;/a> and &lt;a href="https://github.com/google-deepmind/concordia" target="_blank" rel="noopener">repo&lt;/a>&lt;/li>
+&lt;li>80,000 Hours &lt;a href="https://80000hours.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>AI Incident Database &lt;a href="https://incidentdatabase.ai" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Bloomberg &lt;a href="https://www.bloomberg.com/news/features/2025-07-30/startup-builder-ai-goes-from-1-5-billion-unicorn-to-bankruptcy" target="_blank" rel="noopener">article&lt;/a> - How an ‘Entrepreneur of the Year’ Brought the First Big Bust to AI Boom&lt;/li>
+&lt;li>Cos &lt;a href="https://cosminnovac.medium.com/rag-easily-explained-3d443eb1cd10" target="_blank" rel="noopener">blogpost&lt;/a> - RAG Easily Explained&lt;/li>
+&lt;li>HuggingFace &lt;a href="https://huggingface.co/blog/Kseniase/mcp" target="_blank" rel="noopener">blogpost&lt;/a> - What Is MCP, and Why Is Everyone – Suddenly!– Talking About It?&lt;/li>
+&lt;li>We and AI &lt;a href="https://weandai.org/leaving-ai-explainers-up-to-tech-companies-what-could-go-wrong/" target="_blank" rel="noopener">blogpost&lt;/a> - Leaving AI explainers up to tech companies: What could go wrong?&lt;/li>
+&lt;li>Politico &lt;a href="https://www.politico.com/news/magazine/2025/07/10/musk-grok-hitler-ai-00447055" target="_blank" rel="noopener">article&lt;/a> - Why Grok Fell in Love With Hitler&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Applications w/ Alice Rigg</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e005/</link><pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e005/</guid><description>&lt;div style="text-align: justify">
+Alice Rigg, a mechanistic interpretability researcher from Ottawa, Canada, joins me to discuss their path and the applications process for research/mentorship programs.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/2889532d">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>Join the &lt;a href="https://discord.gg/KNxJwaytTG" target="_blank" rel="noreferrer noopener">Mech Interp Discord server&lt;/a> and attend reading groups at 11:00am on Wednesdays (Mountain Time)!&lt;/p>
+&lt;p>Check out Alice&amp;rsquo;s &lt;a href="https://woog97.github.io" target="_blank" rel="noreferrer noopener">website&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.eleuther.ai" target="_blank" rel="noreferrer noopener">EleutherAI&lt;/a>
+&lt;ul>
+&lt;li>Join the public &lt;a href="https://www.discord.gg/eleutherai" target="_blank" rel="noreferrer noopener">EleutherAI discord server&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://distill.pub" target="_blank" rel="noreferrer noopener">Distill&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.effectivealtruism.org" target="_blank" rel="noreferrer noopener">Effective Altruism&lt;/a> (EA)&lt;/li>
+&lt;li>&lt;a href="https://www.lesswrong.com/posts/zwf68YaySvXhWYCdh/mats-summer-2023-retrospective" target="_blank" rel="noreferrer noopener">MATS Retrospective Summer 2023&lt;/a> post&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1jce3f64Fz7PXmdCEyd9i0PTmcFaiP1pZdcBn5ye5sxY/edit" target="_blank" rel="noreferrer noopener">Ambitious Mechanistic Interpretability&lt;/a> AISC research plan by Alice Rigg&lt;/li>
+&lt;li>&lt;a href="https://berkeleyaisafety.com/spar" target="_blank" rel="noreferrer noopener">SPAR&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stability.ai" target="_blank" rel="noreferrer noopener">Stability AI&lt;/a>
+&lt;ul>
+&lt;li>During their most recent fundraising round, Stability AI had a valuation of $4B &lt;a href="https://www.bloomberg.com/news/articles/2023-03-03/openai-rival-stable-diffusion-maker-seeks-to-raise-funds-at-4-billion-valuation" target="_blank" rel="noreferrer noopener">(Bloomberg)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://discord.gg/KNxJwaytTG" target="_blank" rel="noreferrer noopener">Mech Interp Discord Server&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Program Applications (Winter 2024)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e004/</link><pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e004/</guid><description>&lt;div style="text-align: justify">
+We're back after a month-long hiatus with a podcast refactor and advice on the applications process for research/mentorship programs.
+&lt;!-- Check out the &lt;a href="https://into-ai-safety.github.io/about/" target="_blank" rel="noreferrer noopener">About&lt;/a> page on the &lt;a href="https://into-ai-safety.github.io" target="_blank" rel="noreferrer noopener">Into AI Safety&lt;/a> website for a summary of the logistics updates. -->
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/6a54c881">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.matsprogram.org" target="_blank" rel="noreferrer noopener">MATS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.constellation.org/programs/astra-fellowship" target="_blank" rel="noreferrer noopener">ASTRA Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.arena.education" target="_blank" rel="noreferrer noopener">ARENA&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bluedotimpact.org" target="_blank" rel="noreferrer noopener">BlueDot Impact&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.techwithtim.net" target="_blank" rel="noreferrer noopener">Tech with Tim&lt;/a>&lt;/li>
+&lt;li>Fast.AI&amp;rsquo;s &lt;a href="https://course.fast.ai" target="_blank" rel="noreferrer noopener">Practical Deep Learning for Coders&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com" target="_blank" rel="noreferrer noopener">Kaggle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alignmentjam.com" target="_blank" rel="noreferrer noopener">AlignmentJams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lesswrong.com" target="_blank" rel="noreferrer noopener">LessWrong&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.alignmentforum.org" target="_blank" rel="noreferrer noopener">AI Alignment Forum&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item></channel></rss>

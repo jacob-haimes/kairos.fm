@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Artificial Sentience | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/artificial-sentience/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/artificial-sentience/index.xml" rel="self" type="application/rss+xml"/><description>Artificial Sentience</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Artificial Sentience</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/artificial-sentience/</link></image><item><title>AI Sentience and Moral Rights: Understanding Public Perception</title><link>https://jacob-haimes.github.io/kairos.fm/staging/ai-sentience-and-moral-rights/</link><pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/ai-sentience-and-moral-rights/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>AI sentience is a divisive issue, with public opinion showing a wide spectrum of views. This study used unsupervised clustering algorithms, including K-Means, DBSCAN, and Hierarchical Clustering, to analyze responses from large-scale surveys conducted in 2021 and 2023. The results uncovered distinct clusters of respondents based on their views toward AI sentience and rights, showing strong demographic correlations. Younger, more educated respondents, particularly those exposed to AI narratives, were more likely to advocate for AI rights, while older, less educated, and more conservative individuals expressed caution or skepticism.&lt;/p>
+&lt;p>The study employed a range of clustering methods, ultimately finding that K-Means combined with UMAP produced the most distinct and interpretable clusters. The analysis revealed five main demographic groups, each characterized by different attitudes toward AI sentience, moral consideration, and perceived threats from AI. These insights into public opinion highlight the complexities of AI ethics debates and the importance of considering public sentiment when designing AI governance frameworks.&lt;/p>
+&lt;/div>
+&lt;figure>
+&lt;img src="Alan-Warburton_VirtualHuman_1280x720.jpeg"
+alt="Virtual Human, Alan Warburton. A photographic rendering of a simulated middle-aged white woman against a black background, seen through a refractive glass grid and overlaid with a distorted diagram of a neural network.">
+&lt;figcaption style="font-size:small">Image by &lt;a href="https://alanwarburton.co.uk/" target="_blank" rel="noreferrer noopener">Alan Warburton&lt;/a> / © BBC / &lt;a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI&lt;/a> / Virtual Human / &lt;a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;!-- ## Results
+&lt;div style="text-align: justify">
+- **K-Means Clustering:** Identified four distinct clusters based on public opinions toward AI sentience and rights. The most supportive group was predominantly younger, more diverse, and well-educated, while the most skeptical group was older and politically conservative.
+- **DBSCAN Results:** Revealed that while DBSCAN was effective in identifying outliers, it struggled to produce well-defined clusters, especially when compared to K-Means and Hierarchical Clustering.
+- **Hierarchical Clustering:** Demonstrated a clear separation of groups, but the clustering was less informative and resulted in imbalanced sizes.
+&lt;/div> -->
+&lt;h3 id="key-findings">Key Findings&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;ul>
+&lt;li>&lt;strong>Supportive Cluster:&lt;/strong> Younger, more educated individuals were highly supportive of AI rights and activism, perceiving AI as potentially sentient and deserving of moral consideration.&lt;/li>
+&lt;li>&lt;strong>Cautious Cluster:&lt;/strong> Older, conservative respondents showed significant resistance to AI rights, viewing AI as a potential threat.&lt;/li>
+&lt;li>&lt;strong>Neutral Cluster:&lt;/strong> Respondents with moderate views on AI were more balanced in their attitudes, neither fully supporting nor opposing AI rights.&lt;/li>
+&lt;li>&lt;strong>Demographic Trends:&lt;/strong> Political orientation, age, and education level were key factors in determining public opinion on AI sentience.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="grid grid-cols-1 items-start md:items-center gap-x-8 gap-y-8 sm:gap-y-16 md:grid-cols-2">
+&lt;div>&lt;figure>
+&lt;img src="cluster-results.png"
+alt="Figure 4.8 - Spider plot comparing 12 features across the four identified clusters | Cizem">
+&lt;figcaption style="text-align:center; font-size:small">Figure 4.8: Spider plot comparing 12 features across the four identified clusters.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;div>&lt;figure>
+&lt;img src="correlations-between-dif-features.png"
+alt="Hierarchical Clustering Dendogram with Distance Annotations | Cizem">
+&lt;figcaption style="text-align:center; font-size:small">Hierarchical clustering dendogram with distance annotations. &lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;ul>
+&lt;li>Applied K-Means, DBSCAN, and Hierarchical Clustering to survey data from 2,401 respondents.&lt;/li>
+&lt;li>Used qualitative and quantitative feature reduction techniques (PCA, UMAP) to simplify complex survey data and improve clustering accuracy.&lt;/li>
+&lt;li>Quantitative evaluation included metrics such as Silhouette Score and Davies-Bouldin Index to assess clustering quality.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h2 id="takeaways">Takeaways&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;ul>
+&lt;li>&lt;strong>Demographic Influence:&lt;/strong> Public perceptions of AI sentience and rights are strongly linked to demographic factors such as age, education, and political orientation.&lt;/li>
+&lt;li>&lt;strong>AI Policy Implications:&lt;/strong> Policymakers should consider these diverse public views when crafting AI governance and ethical frameworks, particularly as AI continues to advance and becomes more integrated into society.&lt;/li>
+&lt;li>&lt;strong>Future Research Direction:&lt;/strong> Further studies could explore how public opinion evolves as AI technologies develop and whether changes in public sentiment influence policy decisions.&lt;/li>
+&lt;/ul>
+&lt;!-- This study provides a foundation for understanding how public opinion on AI sentience may shape the future of AI ethics, governance, and policy. -->
+&lt;/div>
+&lt;h2 id="citation">Citation&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">@thesis{cizem2024ai,
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> author = {Zeynep Cizem, Su},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> title = {AI Sentience and Moral Rights: Understanding Public Perception},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> year = {2024},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> language = {en},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minisode | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/minisode/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/minisode/index.xml" rel="self" type="application/rss+xml"/><description>Minisode</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Minisode</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/minisode/</link></image><item><title>DeepSeek Minisode</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/b012/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/b012/</guid><description>&lt;div style="text-align: justify">
+DeepSeek R1 has taken the world by storm, causing a stock market crash and prompting further calls for export controls within the US. Since this story is still very much in development, with follow-up investigations and calls for governance being released almost daily, we thought it best to hold of for a little while longer to be able to tell the whole story. Nonetheless, it's a big story, so we provide a brief overview of all that's out there so far.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/5306c253">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.02.09&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00 ❙ Recording date&lt;br>
+00:04 ❙ Intro&lt;br>
+00:37 ❙ DeepSeek drop and reactions&lt;br>
+04:27 ❙ Export controls&lt;br>
+08:05 ❙ Skepticism and uncertainty&lt;br>
+14:12 ❙ Outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>DeepSeek &lt;a href="https://www.deepseek.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>DeepSeek &lt;a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf" target="_blank" rel="noopener">paper&lt;/a>&lt;/li>
+&lt;li>Reuters &lt;a href="https://www.reuters.com/technology/artificial-intelligence/what-is-deepseek-why-is-it-disrupting-ai-sector-2025-01-27/" target="_blank" rel="noopener">article&lt;/a> - What is DeepSeek and why is it disrupting the AI sector?&lt;/li>
+&lt;/ul>
+&lt;h3 id="fallout-coverage">Fallout coverage&lt;/h3>
+&lt;ul>
+&lt;li>The Verge &lt;a href="https://www.theverge.com/news/601195/openai-evidence-deepseek-distillation-ai-data" target="_blank" rel="noopener">article&lt;/a> - OpenAI has evidence that its models helped train China’s DeepSeek&lt;/li>
+&lt;li>The Signal &lt;a href="https://signalscv.com/2025/01/nvidia-loses-nearly-600-billion-in-deepseek-crash/" target="_blank" rel="noopener">article&lt;/a> - Nvidia loses nearly $600 billion in DeepSeek crash&lt;/li>
+&lt;li>CNN &lt;a href="https://edition.cnn.com/2025/02/06/tech/deepseek-ai-us-ban-bill/index.html" target="_blank" rel="noopener">article&lt;/a> - US lawmakers want to ban DeepSeek from government devices&lt;/li>
+&lt;li>Fortune &lt;a href="https://fortune.com/2025/01/27/mark-zuckerberg-meta-llama-assembling-war-rooms-engineers-deepseek-ai-china/" target="_blank" rel="noopener">article&lt;/a> - Meta is reportedly scrambling ‘war rooms’ of engineers to figure out how DeepSeek’s AI is beating everyone else at a fraction of the price&lt;/li>
+&lt;li>Dario Amodei&amp;rsquo;s &lt;a href="https://darioamodei.com/on-deepseek-and-export-controls" target="_blank" rel="noopener">blogpost&lt;/a> - On DeepSeek and Export Controls&lt;/li>
+&lt;li>SemiAnalysis &lt;a href="https://semianalysis.com/2025/01/31/deepseek-debates/" target="_blank" rel="noopener">article&lt;/a> - DeepSeek Debates&lt;/li>
+&lt;li>Ars Technica &lt;a href="https://arstechnica.com/ai/2025/01/microsoft-embraces-openai-competitor-deepseek-on-its-ai-hosting-service/" target="_blank" rel="noopener">article&lt;/a> - Microsoft now hosts AI model accused of copying OpenAI data&lt;/li>
+&lt;li>Wiz &lt;a href="https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak" target="_blank" rel="noopener">Blogpost&lt;/a> - Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive Information, Including Chat History&lt;/li>
+&lt;/ul>
+&lt;h3 id="investigations-into-reasoning">Investigations into &amp;ldquo;reasoning&amp;rdquo;&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://oatllm.notion.site/oat-zero" target="_blank" rel="noopener">Blogpost&lt;/a> - There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2501.19393" target="_blank" rel="noopener">Preprint&lt;/a> - s1: Simple test-time scaling&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2502.03387" target="_blank" rel="noopener">Preprint&lt;/a> - LIMO: Less is More for Reasoning&lt;/li>
+&lt;li>&lt;a href="https://diffuse.one/p/d1-007" target="_blank" rel="noopener">Blogpost&lt;/a> - Reasoning Reflections&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2501.18576" target="_blank" rel="noopener">Preprint&lt;/a> - Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH&lt;/li>
+&lt;/ul></description></item><item><title>Restructure Vol. 2</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e016/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e016/</guid><description>&lt;div style="text-align: justify">
+After getting some advice and reflecting more on my own personal goals, I have decided to shift the direction of the podcast towards accessible content regarding "AI" instead of the show's original focus. I will still be releasing what I am calling research ride-along content to my &lt;a href="https://www.patreon.com/IntoAISafety" target="_blank" rel="noreferrer noopener">Patreon&lt;/a>, but the show's feed will consist only of content that I aim to make as accessible as possible.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/fa6df270">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:35 ❙ TL;DL&lt;br>
+01:12 ❙ Advice from Pete&lt;br>
+03:10 ❙ My personal goal&lt;br>
+05:39 ❙ Reflection on refining my goal&lt;br>
+09:08 ❙ Looking forward (logistics)
+&lt;/div></description></item><item><title>LLMs, A Survey</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e014/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e014/</guid><description>&lt;div style="text-align: justify">
+Take a trip with me through the paper &lt;a href="https://arxiv.org/abs/2402.06196" target="_blank" rel="noreferrer noopener">Large Language Models, A Survey&lt;/a>, published on February 9th of 2024. All figures and tables mentioned throughout the episode can be found on the Into AI Safety podcast website.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/24982632">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:36 ❙ Intro and authors&lt;br>
+01:50 ❙ My takes and paper structure&lt;br>
+04:40 ❙ Getting to LLMs&lt;br>
+07:27 ❙ Defining LLMs &amp; emergence&lt;br>
+12:12 ❙ Overview of PLMs&lt;br>
+15:00 ❙ How LLMs are built&lt;br>
+18:52 ❙ Limitations if LLMs&lt;br>
+23:06 ❙ Uses of LLMs&lt;br>
+25:16 ❙ Evaluations and Benchmarks&lt;br>
+28:11 ❙ Challenges and future directions&lt;br>
+29:21 ❙ Recap &amp; outro
+&lt;/div>
+&lt;h3 id="select-figures-and-tables">Select Figures and Tables&lt;/h3>
+&lt;div class="relative 2xl:container 2xl:mx-auto md:py-12 lg:px-20 md:px-6 py-9">
+&lt;div id="viewerBox0" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 0 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%201_hu3555832400179830763.webp" alt="image" width="1024" height="493" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox1" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 1 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%202_hu8929624661198047080.webp" alt="image" width="747" height="1024" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox2" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 2 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2024_hu17556133610234335377.webp" alt="image" width="1024" height="598" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox3" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 3 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2025_hu9829964013519034606.webp" alt="image" width="880" height="1024" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox4" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 4 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2036_hu4906402344755598889.webp" alt="image" width="1024" height="785" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox5" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 5 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2041_hu14136407989386307625.webp" alt="image" width="1024" height="923" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox6" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 6 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2042_hu16213303239155888590.webp" alt="image" width="1024" height="977" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox7" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 7 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2043_hu3539301964575474658.webp" alt="image" width="1024" height="719" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox8" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 8 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%208_hu844005871932934650.webp" alt="image" width="1024" height="413" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox9" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 9 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20i_hu6240025984118766728.webp" alt="image" width="1008" height="1024" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox10" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 10 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20ii_hu15732942550563525819.webp" alt="image" width="1011" height="1024" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox11" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 11 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20ix_hu1319326210321459289.webp" alt="image" width="455" height="1024" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox12" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 12 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20vii_hu12460399451947034218.webp" alt="image" width="754" height="1024" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox13" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 13 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20viii_hu17923865212524741611.webp" alt="image" width="863" height="1024" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox14" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 14 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20x_hu3400596050641579775.webp" alt="image" width="1024" height="641" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="viewerBox15" class="absolute hidden lg:p-10 md:p-6 p-4 bg-white dark:bg-gray-800">
+&lt;div class="absolute flex justify-end">
+&lt;button onclick="closeView( 15 )" aria-label="Close" class="focus:outline-none focus:ring-2 focus:ring-gray-800">
+&lt;svg class="bg-primary-600 dark:text-white" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M17.8799 15.9996L23.6133 10.2796C23.8643 10.0285 24.0054 9.688 24.0054 9.33293C24.0054 8.97786 23.8643 8.63733 23.6133 8.38626C23.3622 8.13519 23.0217 7.99414 22.6666 7.99414C22.3115 7.99414 21.971 8.13519 21.7199 8.38626L15.9999 14.1196L10.2799 8.38626C10.0288 8.13519 9.68832 7.99414 9.33325 7.99414C8.97818 7.99414 8.63766 8.13519 8.38659 8.38626C8.13551 8.63733 7.99446 8.97786 7.99446 9.33293C7.99446 9.688 8.13551 10.0285 8.38659 10.2796L14.1199 15.9996L8.38659 21.7196C8.26161 21.8435 8.16242 21.991 8.09473 22.1535C8.02704 22.316 7.99219 22.4902 7.99219 22.6663C7.99219 22.8423 8.02704 23.0166 8.09473 23.179C8.16242 23.3415 8.26161 23.489 8.38659 23.6129C8.51054 23.7379 8.658 23.8371 8.82048 23.9048C8.98296 23.9725 9.15724 24.0073 9.33325 24.0073C9.50927 24.0073 9.68354 23.9725 9.84602 23.9048C10.0085 23.8371 10.156 23.7379 10.2799 23.6129L15.9999 17.8796L21.7199 23.6129C21.8439 23.7379 21.9913 23.8371 22.1538 23.9048C22.3163 23.9725 22.4906 24.0073 22.6666 24.0073C22.8426 24.0073 23.0169 23.9725 23.1794 23.9048C23.3418 23.8371 23.4893 23.7379 23.6133 23.6129C23.7382 23.489 23.8374 23.3415 23.9051 23.179C23.9728 23.0166 24.0077 22.8423 24.0077 22.6663C24.0077 22.4902 23.9728 22.316 23.9051 22.1535C23.8374 21.991 23.7382 21.8435 23.6133 21.7196L17.8799 15.9996Z" fill="#1F2937" />
+&lt;/svg>
+&lt;/button>
+&lt;/div>
+&lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
+&lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
+&lt;div class="flex items-center">
+&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Tables%20iii%20and%20iv_hu11028613769514130346.webp" alt="image" width="1024" height="816" loading="lazy"
+class="inset-0 h-fit w-fit object-cover"
+data-nimg="1"
+decoding="async"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="mx-auto grid grid-cols-3 gap-4">
+&lt;div id="viewerButton0" class="w-full flex justify-center">
+&lt;button onclick="openView( 0 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 1&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton1" class="w-full flex justify-center">
+&lt;button onclick="openView( 1 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 2&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton2" class="w-full flex justify-center">
+&lt;button onclick="openView( 2 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 24&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton3" class="w-full flex justify-center">
+&lt;button onclick="openView( 3 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 25&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton4" class="w-full flex justify-center">
+&lt;button onclick="openView( 4 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 36&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton5" class="w-full flex justify-center">
+&lt;button onclick="openView( 5 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 41&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton6" class="w-full flex justify-center">
+&lt;button onclick="openView( 6 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 42&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton7" class="w-full flex justify-center">
+&lt;button onclick="openView( 7 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 43&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton8" class="w-full flex justify-center">
+&lt;button onclick="openView( 8 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Fig 8&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton9" class="w-full flex justify-center">
+&lt;button onclick="openView( 9 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Table i&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton10" class="w-full flex justify-center">
+&lt;button onclick="openView( 10 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Table ii&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton11" class="w-full flex justify-center">
+&lt;button onclick="openView( 11 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Table ix&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton12" class="w-full flex justify-center">
+&lt;button onclick="openView( 12 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Table vii&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton13" class="w-full flex justify-center">
+&lt;button onclick="openView( 13 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Table viii&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton14" class="w-full flex justify-center">
+&lt;button onclick="openView( 14 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Table x&lt;/button>
+&lt;/div>
+&lt;div id="viewerButton15" class="w-full flex justify-center">
+&lt;button onclick="openView( 15 )" class="w-full rounded-md bg-primary-600 py-1.5 text-sm font-semibold text-white hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600">Tables iii and iv&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;script>
+function openView(ind) {
+document.getElementById("viewerBox" + ind).classList.remove("hidden");
+}
+function closeView(ind) {
+document.getElementById("viewerBox" + ind).classList.add("hidden");
+}
+&lt;/script>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2402.06196" target="_blank" rel="noreferrer noopener">Large Language Models, A Survey&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/posts/meysam-ac_i-am-delighted-to-share-that-our-most-recent-activity-7162768857827377152-wiLu/?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noreferrer noopener">Meysam&amp;rsquo;s LinkedIn Post&lt;/a>&lt;/li>
+&lt;li>Claude E. Shannon
+&lt;ul>
+&lt;li>&lt;a href="https://dspace.mit.edu/handle/1721.1/11173" target="_blank" rel="noreferrer noopener">A symbolic analysis of relay and switching circuits&lt;/a> (Master&amp;rsquo;s Thesis)&lt;/li>
+&lt;li>&lt;a href="https://ieeexplore.ieee.org/document/6769090" target="_blank" rel="noreferrer noopener">Communication theory of secrecy systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ieeexplore.ieee.org/document/6773024" target="_blank" rel="noreferrer noopener">A mathematical theory of communication&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ieeexplore.ieee.org/document/6773263" target="_blank" rel="noreferrer noopener">Prediction and entropy of printed English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://bounded-regret.ghost.io/future-ml-systems-will-be-qualitatively-different/" target="_blank" rel="noreferrer noopener">Future ML Systems Will Be Qualitatively Different&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.science.org/doi/10.1126/science.177.4047.393?ref=bounded-regret.ghost.io" target="_blank" rel="noreferrer noopener">More Is Different&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2401.05566" target="_blank" rel="noreferrer noopener">Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2304.15004" target="_blank" rel="noreferrer noopener">Are Emergent Abilities of Large Language Models a Mirage?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2309.01809" target="_blank" rel="noreferrer noopener">Are Emergent Abilities of Large Language Models just In-Context Learning?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1706.03762" target="_blank" rel="noreferrer noopener">Attention is all you need&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2305.18290" target="_blank" rel="noreferrer noopener">Direct Preference Optimization: Your Language Model is Secretly a Reward Model&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2402.01306" target="_blank" rel="noreferrer noopener">KTO: Model Alignment as Prospect Theoretic Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/TemperAnneal/KirkpatrickAnnealScience1983.pdf" target="_blank" rel="noreferrer noopener">Optimization by Simulated Annealing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openai.com/blog/memory-and-new-controls-for-chatgpt" target="_blank" rel="noreferrer noopener">Memory and new controls for ChatGPT&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4515540/" target="_blank" rel="noreferrer noopener">Hallucinations and related concepts—their conceptual background&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Reading a Research Paper</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e01/</link><pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e01/</guid><description>&lt;div style="text-align: justify">
+Before I begin with the paper-distillation based minisodes, I figured we would go over best practices for reading research papers. I go through the anatomy of typical papers, and some generally applicable advice.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/36d075b9">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:56 ❙ Anatomy of a paper&lt;br>
+02:40 ❙ Most common advice&lt;br>
+05:24 ❙ Reading sparsity and path&lt;br>
+07:30 ❙ Notes and motivation
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7392212/" target="_blank" rel="noreferrer noopener">Ten simple rules for reading a scientific paper&lt;/a>&lt;/li>
+&lt;li>Best sources I found
+&lt;ul>
+&lt;li>&lt;a href="https://subjectguides.york.ac.uk/critical/articles" target="_blank" rel="noreferrer noopener">Let&amp;rsquo;s get critical: Reading academic articles&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.scientifica.uk.com/neurowire/gradhacks-a-guide-to-reading-research-papers" target="_blank" rel="noreferrer noopener">#GradHacks: A guide to reading research papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lib.purdue.edu/sites/default/files/libraries/engr/Tutorials/Newest%20Scientific%20Paper.pdf" target="_blank" rel="noreferrer noopener">How to read a scientific paper&lt;/a> (presentation)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Some more sources
+&lt;ul>
+&lt;li>&lt;a href="https://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf" target="_blank" rel="noreferrer noopener">How to read a scientific article&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf" target="_blank" rel="noreferrer noopener">How to read a research paper&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://resources.nu.edu/researchprocess/readingscientificarticle" target="_blank" rel="noreferrer noopener">Reading a scientific article&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Portfolios</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e010/</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e010/</guid><description>&lt;div style="text-align: justify">
+I provide my thoughts and recommendations regarding personal professional portfolios.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/0258007f">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:35 ❙ Intro to portfolios&lt;br>
+01:42 ❙ Modern portfolios&lt;br>
+02:27 ❙ What to include&lt;br>
+04:38 ❙ Importance of visual&lt;br>
+05:50 ❙ The "About" page&lt;br>
+06:25 ❙ Tools&lt;br>
+08:12 ❙ Future of "Minisodes"
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://jime.open.ac.uk/articles/10.5334/jime.574" target="_blank" rel="noreferrer noopener">From Portafoglio to Eportfolio: The Evolution of Portfolio in Higher Education&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.gimp.org" target="_blank" rel="noreferrer noopener">GIMP&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alternativeto.net" target="_blank" rel="noreferrer noopener">AlternativeTo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jekyllrb.com" target="_blank" rel="noreferrer noopener">Jekyll&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mmistakes.github.io/minimal-mistakes/" target="_blank" rel="noreferrer noopener">Minimal Mistakes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pages.github.com" target="_blank" rel="noreferrer noopener">GitHub Pages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">My portfolio&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Starting a Podcast</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e008/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e008/</guid><description>&lt;div style="text-align: justify">
+A summary and reflections on the path I have taken to get this podcast started, including some resources recommendations for others who want to do something similar.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/4823b96d">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.lesswrong.com" target="_blank" rel="noreferrer noopener">LessWrong&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://podcasters.spotify.com/" target="_blank" rel="noreferrer noopener">Spotify for Podcasters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://into-ai-safety.github.io" target="_blank" rel="noreferrer noopener">Into AI Safety podcast website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.effectivealtruism.org/ea-global" target="_blank" rel="noreferrer noopener">Effective Altruism Global&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://obsproject.com" target="_blank" rel="noreferrer noopener">Open Broadcaster Software (OBS)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://craig.chat" target="_blank" rel="noreferrer noopener">Craig&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://riverside.fm" target="_blank" rel="noreferrer noopener">Riverside&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Staying Up-to-Date in AI</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e006/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e006/</guid><description>&lt;div style="text-align: justify">
+In this minisode I give some tips for staying up-to-date in the everchanging landscape of AI. I would like to point out that I am constantly iterating on these strategies, tools, and sources, so it is likely that I will make an update episode in the future.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/8dc3abe2">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>Tools
+&lt;ul>
+&lt;li>&lt;a href="https://feedly.com" target="_blank" rel="noreferrer noopener">Feedly&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv-sanity-lite.com" target="_blank" rel="noreferrer noopener">arXiv Sanity Lite&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.zotero.org" target="_blank" rel="noreferrer noopener">Zotero&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alternativeto.net" target="_blank" rel="noreferrer noopener">AlternativeTo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>My &amp;ldquo;Distilled AI&amp;rdquo; Folder
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCNJ1Ymd5yFuUPtn21xtRbbw" target="_blank" rel="noreferrer noopener">AI Explained&lt;/a> YouTube channel&lt;/li>
+&lt;li>&lt;a href="https://newsletter.safe.ai" target="_blank" rel="noreferrer noopener">AI Safety newsletter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://datamachina.com" target="_blank" rel="noreferrer noopener">Data Machina&lt;/a> newsletter&lt;/li>
+&lt;li>&lt;a href="https://importai.substack.com" target="_blank" rel="noreferrer noopener">Import AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://midwitalignment.substack.com" target="_blank" rel="noreferrer noopener">Midwit Alignment&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Honourable Mentions
+&lt;ul>
+&lt;li>&lt;a href="https://www.alignmentforum.org" target="_blank" rel="noreferrer noopener">AI Alignment Forum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lesswrong.com" target="_blank" rel="noreferrer noopener">LessWrong&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bounded-regret.ghost.io" target="_blank" rel="noreferrer noopener">Bounded Regret&lt;/a> (Jacob Steinhart&amp;rsquo;s blog)&lt;/li>
+&lt;li>&lt;a href="https://www.cold-takes.com" target="_blank" rel="noreferrer noopener">Cold Takes&lt;/a> (Holden Karnofsky&amp;rsquo;s blog)&lt;/li>
+&lt;li>&lt;a href="https://colah.github.io" target="_blank" rel="noreferrer noopener">Chris Olah&amp;rsquo;s blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://timdettmers.com" target="_blank" rel="noreferrer noopener">Tim Dettmers blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://epochai.org/blog" target="_blank" rel="noreferrer noopener">Epoch blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.apolloresearch.ai/blog" target="_blank" rel="noreferrer noopener">Apollo Research blog&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Program Applications (Winter 2024)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e004/</link><pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e004/</guid><description>&lt;div style="text-align: justify">
+We're back after a month-long hiatus with a podcast refactor and advice on the applications process for research/mentorship programs.
+&lt;!-- Check out the &lt;a href="https://into-ai-safety.github.io/about/" target="_blank" rel="noreferrer noopener">About&lt;/a> page on the &lt;a href="https://into-ai-safety.github.io" target="_blank" rel="noreferrer noopener">Into AI Safety&lt;/a> website for a summary of the logistics updates. -->
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/6a54c881">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.matsprogram.org" target="_blank" rel="noreferrer noopener">MATS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.constellation.org/programs/astra-fellowship" target="_blank" rel="noreferrer noopener">ASTRA Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.arena.education" target="_blank" rel="noreferrer noopener">ARENA&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bluedotimpact.org" target="_blank" rel="noreferrer noopener">BlueDot Impact&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.techwithtim.net" target="_blank" rel="noreferrer noopener">Tech with Tim&lt;/a>&lt;/li>
+&lt;li>Fast.AI&amp;rsquo;s &lt;a href="https://course.fast.ai" target="_blank" rel="noreferrer noopener">Practical Deep Learning for Coders&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com" target="_blank" rel="noreferrer noopener">Kaggle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alignmentjam.com" target="_blank" rel="noreferrer noopener">AlignmentJams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lesswrong.com" target="_blank" rel="noreferrer noopener">LessWrong&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.alignmentforum.org" target="_blank" rel="noreferrer noopener">AI Alignment Forum&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>EAG Takeaways (Boston 2023)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e003/</link><pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e003/</guid><description>&lt;div style="text-align: justify">
+This episode is a brief overview of the major takeaways I had from attending EAG Boston 2023, and an update on my plans for the podcast moving forward.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/101ea918">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="tldl">TL;DL&lt;/h3>
+&lt;ul>
+&lt;li>Starting in early December (2023), I will be uploading episodes on a biweekly basis (day TBD).&lt;/li>
+&lt;li>I won&amp;rsquo;t be releasing another episode until then, so that I can build a cache of episodes up.&lt;/li>
+&lt;li>During this month (November 2023), I&amp;rsquo;ll also try to get the podcast up on more platforms, set up comments on more platforms, and create an anonymous feedback form.
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://forum.effectivealtruism.org/posts/8R2NffQiCsn3F7hpv/how-to-generate-research-proposals" target="_blank" rel="noreferrer noopener">How to generate research proposals&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.effectivealtruism.org/articles/karolina-sarek-how-to-do-research-that-matters" target="_blank" rel="noreferrer noopener">Karolina Sarek: How to do research that matters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.18233" target="_blank" rel="noreferrer noopener">Will releasing the weights of future large language models grant widespread access to pandemic agents?&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Introduction and Motivation</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e001/</link><pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e001/</guid><description>&lt;div style="text-align: justify">Welcome to the Into AI Safety podcast! In this episode I provide reasoning for why I am starting this podcast, what I am trying to accomplish with it, and a little bit of background on how I got here.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/2b9dbb68">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>"Why Existential Risk Work?" - Q&amp;A w/ Coleman Snell</title><link>https://jacob-haimes.github.io/kairos.fm/staging/onwhatmatters/q001/</link><pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/onwhatmatters/q001/</guid><description>&lt;div style="text-align: justify">
+Big thanks to everyone who has submitted questions for future Q&amp;A #1! If you have a question you want answered for me or any other members of the 21st Talks project, you can follow me on Twitter at MajorKant and DM me directly.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/9b56de18">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

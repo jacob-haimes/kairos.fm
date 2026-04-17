@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Effective Altruism | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/effective-altruism/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/effective-altruism/index.xml" rel="self" type="application/rss+xml"/><description>Effective Altruism</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Effective Altruism</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/effective-altruism/</link></image><item><title>Against 'The Singularity' w/ Dr. David Thorstad</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e025/</link><pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e025/</guid><description>&lt;div style="text-align: justify">
+Philosopher Dr. David Thorstad tears into one of AI safety's most influential arguments: the singularity hypothesis. We discuss why the idea of recursive self-improvement leading to superintelligence doesn't hold up under scrutiny, how these arguments have redirected hundreds of millions in funding away from proven interventions, and why people keep backpedaling to weaker versions when challenged.
+&lt;p>David walks through the actual structure of singularity arguments, explains why similar patterns show up in other longtermist claims, and makes the case for why we should focus on concrete problems happening right now like poverty, disease, the rise of authoritarianism instead of speculative far-future scenarios.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/5c0f0e45">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.10.11; ASIDES RECORDED 2025.11.13; &lt;a href="https://share.transistor.fm/s/5c0f0e45/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00 ❙ Intro&lt;br>
+02:13 ❙ David's background&lt;br>
+08:00 ❙ (Against) The Singularity Hypothesis&lt;br>
+29:46 ❙ Beyond the The Singularity&lt;br>
+39:56 ❙ What We Should Actually Be Worried About&lt;br>
+49:00 ❙ Philanthropic Funding
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>David&amp;rsquo;s personal &lt;a href="https://www.dthorstad.com/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://reflectivealtruism.com/" target="_blank" rel="noopener">Reflective Altruism&lt;/a>, David&amp;rsquo;s blog&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-singularity-hypothesis">The Singularity Hypothesis&lt;/h3>
+&lt;ul>
+&lt;li>David&amp;rsquo;s Philosophical Studies &lt;a href="https://link.springer.com/article/10.1007/s11098-024-02143-5" target="_blank" rel="noopener">article&lt;/a> - Against the singularity hypothesis&lt;/li>
+&lt;li>Time &amp;ldquo;AI Dictionary&amp;rdquo; &lt;a href="https://time.com/collections/the-ai-dictionary-from-allbusiness-com/7273993/definition-of-singularity/" target="_blank" rel="noopener">page&lt;/a> - Singularity&lt;/li>
+&lt;li>EA Forum &lt;a href="https://forum.effectivealtruism.org/posts/N8CF4Nb7JHxRM2jKB/summary-against-the-singularity-hypothesis" target="_blank" rel="noopener">blogpost&lt;/a> - Summary: Against the singularity hypothesis&lt;/li>
+&lt;li>Journal of Conciousness Studies &lt;a href="https://gwern.net/doc/existential-risk/2016-chalmers.pdf" target="_blank" rel="noopener">article&lt;/a> - The Singularity: A Philisophical Analysis&lt;/li>
+&lt;li>Interim &lt;a href="https://link.springer.com/chapter/10.1007/978-3-642-32560-1_15#citeas" target="_blank" rel="noopener">Report&lt;/a> from the Panel Chairs: AAAI Presidential Panel on Long-Term AI Futures&lt;/li>
+&lt;li>Epoch AI &lt;a href="https://epoch.ai/blog/do-the-returns-to-software-rnd-point-towards-a-singularity" target="_blank" rel="noopener">blogpost&lt;/a> - Do the returns to software R&amp;amp;D point towards a singularity?&lt;/li>
+&lt;li>Epoch AI &lt;a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4814445" target="_blank" rel="noopener">report&lt;/a> - Estimating Idea Production: A Methodological Survey&lt;/li>
+&lt;/ul>
+&lt;h3 id="funding-references">Funding References&lt;/h3>
+&lt;ul>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/WGpFFJo2uFe5ssgEb/an-overview-of-the-ai-safety-funding-situation" target="_blank" rel="noopener">blogpost&lt;/a> - An Overview of the AI Safety Funding Situation&lt;/li>
+&lt;li>AISafety.com funding &lt;a href="https://www.aisafety.com/funding" target="_blank" rel="noopener">page&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf#page=248" target="_blank" rel="noopener">Report&lt;/a> - Stanford AI Index 2025, Chapter 4.3&lt;/li>
+&lt;li>Forbes &lt;a href="https://www.forbes.com/sites/bethkindig/2024/11/14/ai-spending-to-exceed-a-quarter-trillion-next-year/" target="_blank" rel="noopener">article&lt;/a> - AI Spending To Exceed A Quarter Trillion Next Year&lt;/li>
+&lt;li>AI Panic &lt;a href="https://www.aipanic.news/p/the-ai-existential-risk-industrial" target="_blank" rel="noopener">article&lt;/a> - The “AI Existential Risk” Industrial Complex&lt;/li>
+&lt;li>GiveWell &lt;a href="https://www.givewell.org/how-much-does-it-cost-to-save-a-life" target="_blank" rel="noopener">webpage&lt;/a> - How Much Does It Cost To Save a Life?&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Purchasing_power_parity" target="_blank" rel="noopener">article&lt;/a> - Purchasing power parity&lt;/li>
+&lt;/ul>
+&lt;h3 id="pascals-mugging-and-the-st-petersburg-paradox">Pascal&amp;rsquo;s Mugging and the St. Petersburg Paradox&lt;/h3>
+&lt;ul>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/St._Petersburg_paradox" target="_blank" rel="noopener">article&lt;/a> - St. Petersburg Paradox&lt;/li>
+&lt;li>Conjecture Magazine &lt;a href="https://medium.com/conjecture-magazine/pascals-mugging-and-the-poverty-of-the-expected-value-calculus-70b190d953cd" target="_blank" rel="noopener">article&lt;/a> - Pascal’s Mugging and Bad Explanations&lt;/li>
+&lt;li>neurabites &lt;a href="https://neurabites.com/ergodicity/" target="_blank" rel="noopener">explainer&lt;/a> - Ergodicity: the Most Over-Looked Assumption&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence" target="_blank" rel="noopener">article&lt;/a> - Extraordinary claims require extraordinary evidence&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-time-of-perils">The Time of Perils&lt;/h3>
+&lt;ul>
+&lt;li>Global Priorities Institute &lt;a href="https://philarchive.org/rec/THOERP" target="_blank" rel="noopener">working paper&lt;/a> - Existential risk pessimism and the time of perils&lt;/li>
+&lt;li>Ethics &lt;a href="https://www.journals.uchicago.edu/doi/abs/10.1086/731436?journalCode=et" target="_blank" rel="noopener">article&lt;/a> - Mistakes in the Moral Mathematics of Existential Risk&lt;/li>
+&lt;li>Philosophy &amp;amp; Public Affairs &lt;a href="https://onlinelibrary.wiley.com/doi/10.1111/papa.12248" target="_blank" rel="noopener">article&lt;/a> - High Risk, Low Reward: A Challenge to the Astronomical Value of Existential Risk Mitigation&lt;/li>
+&lt;li>Toby Ord &lt;a href="https://theprecipice.com" target="_blank" rel="noopener">Book&lt;/a> - The Precipice&lt;/li>
+&lt;li>Rethink Priorities &lt;a href="https://rethinkpriorities.org/research-area/charting-the-precipice-the-time-of-perils-and-prioritizing-x-risk/" target="_blank" rel="noopener">blogpost&lt;/a> - Charting the precipice&lt;/li>
+&lt;li>AI Futures Project &lt;a href="https://ai-2027.com" target="_blank" rel="noopener">blogpost&lt;/a> - AI 2027&lt;/li>
+&lt;/ul>
+&lt;h3 id="trumps-higher-education-threat-compact">Trump&amp;rsquo;s Higher Education &lt;del>Threat&lt;/del> Compact&lt;/h3>
+&lt;ul>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Compact_for_Academic_Excellence_in_Higher_Education" target="_blank" rel="noopener">article&lt;/a> - Compact for Academic Excellence in Higher Education&lt;/li>
+&lt;li>Pen America &lt;a href="https://pen.org/trumps-compact-for-higher-education-faq/" target="_blank" rel="noopener">explainer&lt;/a> - What is Trump’s Compact for Higher Education? And More Frequently Asked Questions&lt;/li>
+&lt;li>&lt;a href="https://vanderbiltaaup.org/2025/10/06/statement-by-the-vanderbilt-aaup-executive-committee-on-the-compact-for-academic-excellence-in-higher-education/" target="_blank" rel="noopener">Statement&lt;/a> by the Vanderbilt AAUP Executive Committee on the “Compact for Academic Excellence in Higher Education”&lt;/li>
+&lt;li>The Vanderbilt Hustler &lt;a href="https://vanderbilthustler.com/2025/10/20/breaking-chancellor-daniel-diermeier-fails-to-reject-higher-education-compact-reaffirms-vanderbilts-values-and-openness-to-discussion/" target="_blank" rel="noopener">article&lt;/a> - BREAKING: Chancellor Daniel Diermeier fails to reject higher education compact, reaffirms Vanderbilt’s values and openness to discussion&lt;/li>
+&lt;li>The Vanderbilt Hustler &lt;a href="https://vanderbilthustler.com/2025/11/06/students-and-faculty-organize-rally-outside-kirkland-hall-against-trump-administrations-higher-education-compact/" target="_blank" rel="noopener">article&lt;/a> - Students and faculty organize rally outside Kirkland Hall against Trump administration’s higher education compact&lt;/li>
+&lt;li>Free Speech Center &lt;a href="https://firstamendment.mtsu.edu/article/compact-for-academic-excellence/" target="_blank" rel="noopener">article&lt;/a> - Compact for Academic Excellence&lt;/li>
+&lt;/ul>
+&lt;h3 id="more-of-davids-work">More of David&amp;rsquo;s Work&lt;/h3>
+&lt;ul>
+&lt;li>Global Priorities Institute &lt;a href="https://www.globalprioritiesinstitute.org/wp-content/uploads/David-Thorstad-What-power-seeking-theorems-do-not-show.pdf" target="_blank" rel="noopener">working paper&lt;/a> - What power-seeking theorems do not show&lt;/li>
+&lt;li>&lt;a href="https://global.oup.com/academic/product/essays-on-longtermism-9780192883858?cc=us&amp;amp;lang=en&amp;amp;" target="_blank" rel="noopener">Book&lt;/a> - Essays on Longtermism&lt;/li>
+&lt;/ul>
+&lt;h3 id="vibe-shift">Vibe Shift&lt;/h3>
+&lt;ul>
+&lt;li>Blood in the Machine &lt;a href="https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter" target="_blank" rel="noopener">article&lt;/a> - GPT-5 Is a Joke. Will It Matter?&lt;/li>
+&lt;li>Futurism &lt;a href="https://futurism.com/gpt-5-underwhelming" target="_blank" rel="noopener">article&lt;/a> - Evidence Grows That GPT-5 Is a Bit of a Dud&lt;/li>
+&lt;li>Gary Marcus &lt;a href="https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming" target="_blank" rel="noopener">substack&lt;/a> - GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.&lt;/li>
+&lt;li>Pew Research &lt;a href="https://www.pewresearch.org/internet/2025/04/03/how-the-us-public-and-ai-experts-view-artificial-intelligence/" target="_blank" rel="noopener">report&lt;/a> - How the U.S. Public and AI Experts View Artificial Intelligence&lt;/li>
+&lt;li>New York Times &lt;a href="https://www.nytimes.com/2025/10/20/technology/ai-data-center-backlash-mexico-ireland.html" target="_blank" rel="noopener">article&lt;/a> - From Mexico to Ireland, Fury Mounts Over a Global A.I. Frenzy&lt;/li>
+&lt;li>Pivot to AI &lt;a href="https://pivot-to-ai.com/2025/09/28/the-finance-press-finally-starts-talking-about-the-ai-bubble/" target="_blank" rel="noopener">article&lt;/a> - The finance press finally starts talking about the ‘AI bubble’&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>EconTalk &lt;a href="https://www.econtalk.org/will-macaskill-on-longtermism-and-what-we-owe-the-future/" target="_blank" rel="noopener">podcast&lt;/a> -
+Will MacAskill on Longtermism and What We Owe the Future&lt;/li>
+&lt;li>muckrAIkers &lt;a href="https://kairos.fm/muckraikers/e017/" target="_blank" rel="noopener">podcast&lt;/a> - AI Safety for Who?&lt;/li>
+&lt;li>EMPO &lt;a href="https://www.embopress.org/doi/full/10.15252/embr.202050205" target="_blank" rel="noopener">report&lt;/a> - The cognitive foundations of misinformation on science: What we know and what scientists can do about it&lt;/li>
+&lt;li>Science &lt;a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener">article&lt;/a> - Misinformation exploits outrage to spread online&lt;/li>
+&lt;li>&lt;a href="https://survivalandflourishing.fund" target="_blank" rel="noopener">Website&lt;/a> - Survival &amp;amp; Flourishing Funding&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Rockefeller_Foundation#History" target="_blank" rel="noopener">article&lt;/a> - Rockefeller Foundation, History&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Scaling Democracy w/ Dr. Igor Krawczuk</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e019/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e019/</guid><description>&lt;div style="text-align: justify">
+The *almost* Dr. Igor Krawczuk joins me for what is the equivalent of 4 of my previous episodes. We get into all the classics: eugenics, capitalism, philosophical toads... Need I say more?
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/b8225038">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>If you&amp;rsquo;re interested in connecting with Igor, head on over to his &lt;a href="https://krawczuk.eu" target="_blank" rel="noreferrer noopener">website&lt;/a>, or check out his &lt;a href="https://infoscience.epfl.ch/entities/publication/8a267366-77e7-473a-82e1-a2e3fa4d9563" target="_blank" rel="noreferrer noopener">thesis&lt;/a>!&lt;/p>
+&lt;/div>
+&lt;p>Because these shownotes have a whopping 115 additional links below, I&amp;rsquo;ll highlight some that I think are particularly worthwhile:&lt;/p>
+&lt;ul>
+&lt;li>The best article you&amp;rsquo;ll ever read on &lt;a href="https://jacob-haimes.github.io/independent/Open-Source-AI-is-a-lie/" target="_blank" rel="noreferrer noopener">Open Source AI&lt;/a>&lt;/li>
+&lt;li>The best article you&amp;rsquo;ll ever read on &lt;a href="https://www.odysseaninstitute.org/post/let-s-talk-about-emergence" target="_blank" rel="noreferrer noopener">emergence in ML&lt;/a>&lt;/li>
+&lt;li>Kate Crawford&amp;rsquo;s &lt;em>&lt;a href="https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/" target="_blank" rel="noreferrer noopener">Atlas of AI&lt;/a>&lt;/em> (&lt;a href="https://en.wikipedia.org/wiki/Atlas_of_AI" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>)&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1911.01547" target="_blank" rel="noreferrer noopener">On the Measure of Intelligence&lt;/a>&lt;/li>
+&lt;li>Thomas Piketty&amp;rsquo;s &lt;em>&lt;a href="https://www.hup.harvard.edu/books/9780674430006" target="_blank" rel="noreferrer noopener">Capital in the Twenty-First Century&lt;/a>&lt;/em> (&lt;a href="https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>)&lt;/li>
+&lt;li>Yurii Nesterov&amp;rsquo;s &lt;em>&lt;a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=2-ElBQAAQBAJ&amp;oi=fnd&amp;pg=PA1&amp;dq=info:JTiRBrZ_LZMJ:scholar.google.com&amp;ots=wnpRdsxjjv&amp;sig=1Oa-5P-zZZ_MX_2MFKv5cq2fx48#v=onepage&amp;q&amp;f=false" target="_blank" rel="noreferrer noopener">Introductory Lectures on Convex Optimization&lt;/a>&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+&lt;p>00:02:32 ❙ Introducing Igor&lt;br>
+00:10:11 ❙ Aside on EY, LW, EA, etc., a.k.a. lettersoup&lt;br>
+00:18:30 ❙ Igor on AI alignment&lt;br>
+00:33:06 ❙ &amp;ldquo;Open Source&amp;rdquo; in AI&lt;br>
+00:41:20 ❙ The story of infinite riches and suffering&lt;br>
+00:59:11 ❙ On AI threat models&lt;br>
+01:09:25 ❙ Representation in AI&lt;br>
+01:15:00 ❙ Hazard fishing&lt;br>
+01:18:52 ❙ Intelligence and eugenics&lt;br>
+01:34:38 ❙ Emergence&lt;br>
+01:48:19 ❙ Considering externalities&lt;br>
+01:53:33 ❙ The shape of an argument&lt;br>
+02:01:39 ❙ More eugenics&lt;br>
+02:06:09 ❙ I&amp;rsquo;m convinced, what now?&lt;br>
+02:18:03 ❙ AIxBio (round ??)&lt;br>
+02:29:09 ❙ On open release of models&lt;br>
+02:40:28 ❙ Data and copyright&lt;br>
+02:44:09 ❙ Scientific accessibility and bullshit&lt;br>
+02:53:04 ❙ Igor&amp;rsquo;s point of view&lt;br>
+02:57:20 ❙ Outro&lt;/p>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance. All references, including those only mentioned in the extended version of this episode, are included.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.epfl.ch/labs/lions/" target="_blank" rel="noreferrer noopener">LIONS Lab&lt;/a> at EPFL&lt;/li>
+&lt;li>The &lt;a href="https://pbs.twimg.com/media/D53Q_MYW4AA-wRK.jpg" target="_blank" rel="noreferrer noopener">meme&lt;/a> that Igor references&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2401.01869" target="_blank" rel="noreferrer noopener">On the Hardness of Learning Under Symmetries&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://uvagedl.github.io" target="_blank" rel="noreferrer noopener">Course&lt;/a> on the concept of equivariant deep learning&lt;/li>
+&lt;li>Aside on EY/EA/etc.
+&lt;ul>
+&lt;li>Sources on Eliezer Yudkowski
+&lt;ul>
+&lt;li>&lt;a href="https://encyclopedia.pub/entry/33978" target="_blank" rel="noreferrer noopener">Scholarly Community Encyclopedia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://time.com/collection/time100-ai/6309037/eliezer-yudkowsky/" target="_blank" rel="noreferrer noopener">TIME100 AI&lt;/a>&lt;/li>
+&lt;li>Yudkowski&amp;rsquo;s personal &lt;a href="https://www.yudkowsky.net" target="_blank" rel="noreferrer noopener">website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Eliezer_Yudkowsky" target="_blank" rel="noreferrer noopener">EY Wikipedia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://whatshouldiread.fandom.com/wiki/Eliezer_Yudkowsky#cite_note-1" target="_blank" rel="noreferrer noopener">A Very Literary Wiki&lt;/a>
+-TIME article: &lt;a href="https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/" target="_blank" rel="noreferrer noopener">Pausing AI Developments Isn’t Enough. We Need to Shut it All Down&lt;/a> documenting EY&amp;rsquo;s ruminations of bombing datacenters; this comes up later in the episode but is included here because it about EY.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.lesswrong.com" target="_blank" rel="noreferrer noopener">LessWrong&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/LessWrong" target="_blank" rel="noreferrer noopener">LW Wikipedia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://intelligence.org" target="_blank" rel="noreferrer noopener">MIRI&lt;/a>&lt;/li>
+&lt;li>Coverage on Nick Bostrom (being a racist)
+&lt;ul>
+&lt;li>The Guardian article: &lt;a href="https://www.theguardian.com/technology/2024/apr/28/nick-bostrom-controversial-future-of-humanity-institute-closure-longtermism-affective-altruism" target="_blank" rel="noreferrer noopener">‘Eugenics on steroids’: the toxic and contested legacy of Oxford’s Future of Humanity Institute&lt;/a>&lt;/li>
+&lt;li>The Guardian article: &lt;a href="https://www.theguardian.com/technology/2024/apr/19/oxford-future-of-humanity-institute-closes" target="_blank" rel="noreferrer noopener">Oxford shuts down institute run by Elon Musk-backed philosopher&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Investigative &lt;a href="https://markfuentes1.substack.com/p/emile-p-torress-history-of-dishonesty" target="_blank" rel="noreferrer noopener">piece&lt;/a> on Émile Torres&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3442188.3445922" target="_blank" rel="noreferrer noopener">On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜&lt;/a>&lt;/li>
+&lt;li>NY Times article: &lt;a href="https://www.nytimes.com/2019/11/11/technology/artificial-intelligence-bias.html" target="_blank" rel="noreferrer noopener">We Teach A.I. Systems Everything, Including Our Biases&lt;/a>&lt;/li>
+&lt;li>NY Times article: &lt;a href="https://www.nytimes.com/2020/12/03/technology/google-researcher-timnit-gebru.html" target="_blank" rel="noreferrer noopener">Google Researcher Says She Was Fired Over Paper Highlighting Bias in A.I.&lt;/a>&lt;/li>
+&lt;li>Timnit Gebru&amp;rsquo;s &lt;a href="https://en.wikipedia.org/wiki/Timnit_Gebru" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://firstmonday.org/ojs/index.php/fm/article/view/13636" target="_blank" rel="noreferrer noopener">The TESCREAL Bundle: Eugenics and the Promise of Utopia through Artificial General Intelligence&lt;/a>&lt;/li>
+&lt;li>Sources on the environmental impact of LLMs
+&lt;ul>
+&lt;li>&lt;a href="https://analyticsindiamag.com/the-environmental-impact-of-llms/" target="_blank" rel="noreferrer noopener">The Environmental Impact of LLMs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tinyml.substack.com/p/the-cost-of-inference-running-the" target="_blank" rel="noreferrer noopener">The Cost of Inference: Running the Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1906.02243" target="_blank" rel="noreferrer noopener">Energy and Policy Considerations for Deep Learning in NLP&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://weareyard.com/insights/the-carbon-impact-of-ai-vs-search-engines" target="_blank" rel="noreferrer noopener">The Carbon Impact of AI vs Search Engines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.science.org/doi/full/10.1126/science.abi7176?casa_token=2txe0r_jjhQAAAAA%3ALJa__HZL9COyj9EUpdILZdtnMKLyggfFe7Zpvv0tNze62rLO0CoQHCCJiXfruxUeBLj3YBZ33F8OOv0u" target="_blank" rel="noreferrer noopener">Filling Gaps in Trustworthy Development of AI
+&lt;/a> (Igor is an author on this one)&lt;/li>
+&lt;li>&lt;a href="https://www.hindawi.com/journals/complexity/2022/8210732/" target="_blank" rel="noreferrer noopener">A Computational Turn in Policy Process Studies: Coevolving Network Dynamics of Policy Change&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/7e05d6f828574fbc975a896b25bb011e-Paper.pdf" target="_blank" rel="noreferrer noopener">The Smoothed Possibility of Social Choice&lt;/a>, an intro in social choice theory and how it overlaps with ML&lt;/li>
+&lt;li>Relating to Dan Hendrycks
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2303.16200" target="_blank" rel="noreferrer noopener">Natural Selection Favors AIs over Humans&lt;/a>
+&lt;ul>
+&lt;li>&amp;ldquo;One easy-to-digest source to highlight what he gets wrong [is] &lt;a href="https://pressbooks.calstate.edu/explorationsbioanth2/chapter/17/" target="_blank" rel="noreferrer noopener">Social and Biopolitical Dimensions of Evolutionary Thinking&lt;/a>&amp;rdquo; -Igor&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.aisafetybook.com" target="_blank" rel="noreferrer noopener">Introduction to AI Safety, Ethics, and Society&lt;/a>, recently published textbook&lt;/li>
+&lt;li>&amp;ldquo;&lt;a href="https://arxiv.org/pdf/2306.12001#page=10.19" target="_blank" rel="noreferrer noopener">Source&lt;/a> to the section [of this paper] that makes Dan one of my favs from that crowd.&amp;rdquo; -Igor&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/DanHendrycks/status/1710312043503321141" target="_blank" rel="noreferrer noopener">Twitter post&lt;/a> referenced in the episode&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://proceedings.mlr.press/v162/langosco22a.html" target="_blank" rel="noreferrer noopener">Goal Misgeneralization in Deep Reinforcement Learning&lt;/a>&lt;/li>
+&lt;li>The YouTube Radicalization Pipeline
+&lt;ul>
+&lt;li>MIT Technology Review article: &lt;a href="https://www.technologyreview.com/2020/01/29/276000/a-study-of-youtube-comments-shows-how-its-turning-people-onto-the-alt-right/" target="_blank" rel="noreferrer noopener">YouTube’s Algorithm Seems to be Funneling People to Alt-Right Videos&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1908.08313" target="_blank" rel="noreferrer noopener">Auditing Radicalization Pathways on YouTube&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf" target="_blank" rel="noreferrer noopener">SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets&lt;/a>&lt;/li>
+&lt;li>The best article you&amp;rsquo;ll ever read on &lt;a href="https://jacob-haimes.github.io/independent/Open-Source-AI-is-a-lie/" target="_blank" rel="noreferrer noopener">Open Source AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lighthousereports.com/suspicion-machines-methodology/" target="_blank" rel="noreferrer noopener">Suspicious Machines Methodology&lt;/a>, referred to as the &amp;ldquo;Rotterdam Lighthouse Report&amp;rdquo; in the episode&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noreferrer noopener">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2312.06942" target="_blank" rel="noreferrer noopener">AI Control: Improving Safety Despite Intentional Subversion&lt;/a>&lt;/li>
+&lt;li>Additional reading on mechanism design
+&lt;ul>
+&lt;li>General: &lt;a href="https://books.google.ch/books?hl=en&amp;lr=&amp;id=1uGrBwAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=mechanism+design&amp;ots=nAFspRa_dJ&amp;sig=u9-a2eJslA9SENGtnGAyq--RLoc&amp;redir_esc=y#v=onepage&amp;q=mechanism%20design&amp;f=false" target="_blank" rel="noreferrer noopener">An Introduction to the Theory of Mechanism Design&lt;/a>&lt;/li>
+&lt;li>Relating to ML: &lt;a href="https://ieeexplore.ieee.org/abstract/document/6686198?casa_token=qrJHumQEZLMAAAAA:oPXWIT6MICD8s8_jxMOFzARgNDsK9R4uLtEJNNpTwszVS1gxomrpAts-6c78ExnNSX5ASdcy6-Gd" target="_blank" rel="noreferrer noopener">Understanding Incentives: Mechanism Design Becomes Algorithm Design&lt;/a>&lt;/li>
+&lt;li>Example in ML: &lt;a href="https://arxiv.org/abs/2306.05221" target="_blank" rel="noreferrer noopener">Steering No-Regret Learners to a Desired Equilibrium&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>The more important &lt;a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/jordan.html" target="_blank" rel="noreferrer noopener">Michael Jordan&lt;/a>&lt;/li>
+&lt;li>Pascal&amp;rsquo;s Mugging and Risk
+&lt;ul>
+&lt;li>Pascal&amp;rsquo;s Mugging &lt;a href="https://en.wikipedia.org/wiki/Pascal%27s_mugging" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=5pYeoZaoWrA&amp;t=408s" target="_blank" rel="noreferrer noopener">This is Financial Advice&lt;/a>, a long video on the memestock phenomenon&lt;/li>
+&lt;li>Slides on &lt;a href="https://ethz.ch/content/dam/ethz/special-interest/math/risklab-dam/documents/risk-day/risk-day-2019/Ebert_2019_09_13.pdf" target="_blank" rel="noreferrer noopener">Skewness Preferences in Choice Under Risk&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Intelligence, eugenics, and toads
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/1911.01547" target="_blank" rel="noreferrer noopener">On the Measure of Intelligence&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sciencedirect.com/science/article/pii/S0896627312005843" target="_blank" rel="noreferrer noopener">Fractionating Human Intelligence&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://monthlyreview.org/2022/09/01/intelligence-under-racial-capitalism-from-eugenics-to-standardized-testing-and-online-learning/" target="_blank" rel="noreferrer noopener">Intelligence Under Racial Capitalism: From Eugenics to Standardized Testing and Online Learning&lt;/a>&lt;/li>
+&lt;li>The Physics of Superheroes &lt;a href="https://en.wikipedia.org/wiki/The_Physics_of_Superheroes" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://idlewords.com/talks/superintelligence.htm" target="_blank" rel="noreferrer noopener">Superintelligence: The Idea That Eats Smart People&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://pinboard.in" target="_blank" rel="noreferrer noopener">Pinboard&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.trade.gov/usmca-overview" target="_blank" rel="noreferrer noopener">NAFTA&lt;/a>&lt;/li>
+&lt;li>Lack of representation in AI
+&lt;ul>
+&lt;li>The Guardian article: &lt;a href="https://www.theguardian.com/technology/2018/jan/12/google-racism-ban-gorilla-black-people" target="_blank" rel="noreferrer noopener">Google&amp;rsquo;s solution to accidental algorithmic racism: ban gorillas&lt;/a>&lt;/li>
+&lt;li>TIME article: &lt;a href="https://time.com/6836153/ethical-ai-google-gemini-debacle/" target="_blank" rel="noreferrer noopener">Ethical AI Isn’t to Blame for Google’s Gemini Debacle&lt;/a>&lt;/li>
+&lt;li>TIME article: &lt;a href="https://time.com/6755968/google-gemini-images-race/" target="_blank" rel="noreferrer noopener">Google Pauses AI-Made Images of People After Race Inaccuracies&lt;/a>&lt;/li>
+&lt;li>The Guardian article: &lt;a href="https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app" target="_blank" rel="noreferrer noopener">Google says sorry for racist auto-tag in photo app&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Emergence
+&lt;ul>
+&lt;li>The best article you&amp;rsquo;ll ever read on &lt;a href="https://www.odysseaninstitute.org/post/let-s-talk-about-emergence" target="_blank" rel="noreferrer noopener">emergence in ML&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2309.01809" target="_blank" rel="noreferrer noopener">Are Emergent Abilities in Large Language Models just In-Context Learning?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2206.07682" target="_blank" rel="noreferrer noopener">Emergent Abilities of Large Language Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2304.15004" target="_blank" rel="noreferrer noopener">Are Emergent Abilities of Large Language Models a Mirage?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2401.05566" target="_blank" rel="noreferrer noopener">Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CICERO paper: &lt;a href="https://www.science.org/doi/10.1126/science.ade9097" target="_blank" rel="noreferrer noopener">Human-level play in the game of Diplomacy by combining language models with strategic reasoning&lt;/a>&lt;/li>
+&lt;li>Kate Crawford&amp;rsquo;s &lt;em>&lt;a href="https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/" target="_blank" rel="noreferrer noopener">Atlas of AI&lt;/a>&lt;/em>&lt;/li>
+&lt;li>Malcolm Harris&amp;rsquo; &lt;em>&lt;a href="https://www.goodreads.com/book/show/61108472-palo-alto" target="_blank" rel="noreferrer noopener">Palo Alto: A History of California, Capitalism, and the World&lt;/a>&lt;/em>&lt;/li>
+&lt;li>Thomas Piketty&amp;rsquo;s &lt;em>&lt;a href="https://www.hup.harvard.edu/books/9780674980822" target="_blank" rel="noreferrer noopener">Capital and Ideology&lt;/a>&lt;/em>&lt;/li>
+&lt;li>Video debunking &lt;a href="https://www.youtube.com/watch?v=UBc7qBS1Ujo" target="_blank" rel="noreferrer noopener">The Bell Curve&lt;/a>&lt;/li>
+&lt;li>Occam&amp;rsquo;s razor &lt;a href="https://en.wikipedia.org/wiki/Occam%27s_razor" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://static1.squarespace.com/static/6461e2a5c6399341bcfc84a5/t/654bc268049d687cecac24d8/1699463818729/auditing_framework_web.pdf" target="_blank" rel="noreferrer noopener">A Causal Framework for AI Regulation and Auditing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1811.04502" target="_blank" rel="noreferrer noopener">A Simple Combinatorial Model of World Economic History&lt;/a>&lt;/li>
+&lt;li>Cambridge Analytica &lt;a href="https://en.wikipedia.org/wiki/Cambridge_Analytica" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>Previous &lt;a href="https://www.youtube.com/watch?v=lxaTinmKxs0" target="_blank" rel="noreferrer noopener">interview&lt;/a> w/ Igor and Carla Cremer&lt;/li>
+&lt;li>Roko&amp;rsquo;s basilisk
+&lt;ul>
+&lt;li>&lt;a href="https://rationalwiki.org/wiki/Roko%27s_basilisk" target="_blank" rel="noreferrer noopener">RationalWiki&lt;/a>
+&lt;ul>
+&lt;li>Specific &lt;a href="https://rationalwiki.org/wiki/Roko's_basilisk#cite_note-takenseriously-6" target="_blank" rel="noreferrer noopener">source&lt;/a> highlighted by Igor&lt;/li>
+&lt;li>&lt;a href="https://www.lesswrong.com/posts/ZZTTranBLHwSjrt7g/in-wikipedia-reading-about-roko-s-basilisk-causing-nervous" target="_blank" rel="noreferrer noopener">Counterpoint&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=YGNNTxWkjl8" target="_blank" rel="noreferrer noopener">Point/Counterpoint&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Eugenics and bigots
+&lt;ul>
+&lt;li>Scott Siskind
+&lt;ul>
+&lt;li>Old Reddit discussion on &lt;a href="https://old.reddit.com/r/SneerClub/comments/lm36nk/old_scott_siskind_emails_which_link_him_to_the/" target="_blank" rel="noreferrer noopener">Scott Siskind Emails&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/" target="_blank" rel="noreferrer noopener">Meditations on Moloch&lt;/a> from Slate Star Codex, a.k.a. Scott Sickind&amp;rsquo;s old blog&lt;/li>
+&lt;li>Discussion on Scott Siskind&amp;rsquo;s eugenecist rhetoric: &lt;a href="https://awful.systems/post/904078" target="_blank" rel="noreferrer noopener">awful.systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.eruditorumpress.com/blog/the-beigeness-or-how-to-kill-people-with-bad-writing-the-scott-alexander-method#:~:text=Siskind%E2%80%99s%20defenders%20to%20pull%20shit%20like%20saying%20%E2%80%9Cbut%20he%20voted%20for%20Warren%E2%80%9D%20as%20a%20defense%20when%20someone%20points%20out%20that%20he%20openly%20supports%20eugenics" target="_blank" rel="noreferrer noopener">The Beigeness, or How to Kill People with Bad Writing: The Scott Alexander Method&lt;/a>&lt;/li>
+&lt;li>NY Times article: &lt;a href="https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html" target="_blank" rel="noreferrer noopener">Silicon Valley’s Safe Space&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://nickbostrom.com/papers/vulnerable.pdf" target="_blank" rel="noreferrer noopener">The Vulnerable World Hypothesis&lt;/a> or &amp;ldquo;Nick Bostrom&amp;rsquo;s Black Ball paper&amp;rdquo;&lt;/li>
+&lt;li>Definition of Ur-Fascism on &lt;a href="https://en.wikipedia.org/wiki/Definitions_of_fascism#Umberto_Eco" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Video: &lt;a href="https://www.youtube.com/watch?v=EiZhdpLXZ8Q" target="_blank" rel="noreferrer noopener">The Future is a Dead Mall - Decentraland and the Metaverse&lt;/a>&lt;/li>
+&lt;li>Wired article: &lt;a href="https://www.wired.com/story/the-libertarian-logic-of-peter-thiel/" target="_blank" rel="noreferrer noopener">The Libertarian Logic of Peter Thiel&lt;/a>&lt;/li>
+&lt;li>Hegel
+&lt;ul>
+&lt;li>&lt;a href="https://plato.stanford.edu/entries/hegel-dialectics/" target="_blank" rel="noreferrer noopener">Hegel&amp;rsquo;s Dialectics&lt;/a>&lt;/li>
+&lt;li>Video: &lt;a href="https://www.youtube.com/watch?v=OgNt1C72B_4&amp;pp=ygUhaGVnZWxpYW4gZGlhbGVjdGljIHBoaWxzb3BoeSB0dWJl" target="_blank" rel="noreferrer noopener">Intro to Hegel (&amp;amp; Progressive Politics) | Philosophy Tube&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://math.stackexchange.com/a/2687380" target="_blank" rel="noreferrer noopener">If you assume 1 = 2, you can prove that I&amp;rsquo;m the Pope&lt;/a>&lt;/li>
+&lt;li>The &lt;a href="https://raft.github.io/" target="_blank" rel="noreferrer noopener">Raft&lt;/a> algorithm&lt;/li>
+&lt;li>Video: &lt;a href="https://www.youtube.com/watch?v=4xGawJIseNY&amp;list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ" target="_blank" rel="noreferrer noopener">The Alt-Right Playbook&lt;/a>&lt;/li>
+&lt;li>Igor&amp;rsquo;s resources short-list
+&lt;ul>
+&lt;li>&lt;a href="https://www.tandfonline.com/doi/full/10.1080/01969722.2016.1209375?casa_token=nQub0q8WfkQAAAAA%3A5CEIdF3-S9GxPyIAqygeISfFDuNyrJ6FQgHMrZY68R2q_TX4aA1Er-yZBCoGWXb8mQbZu5rI9XlTglo" target="_blank" rel="noreferrer noopener">A Test of the Viable System Model: Theoretical Claim vs. Empirical Evidence&lt;/a>&lt;/li>
+&lt;li>Jane Jacobs&amp;rsquo; &lt;em>The Death and Life of Great American Cities&lt;/em> &lt;a href="https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>David Graeber&amp;rsquo;s &lt;em>Debt: The First 5000 Years&lt;/em> &lt;a href="https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>Thomas Piketty&amp;rsquo;s Capital in the Twenty-First Century &lt;a href="https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>Yurii Nesterov&amp;rsquo;s &lt;em>&lt;a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=2-ElBQAAQBAJ&amp;oi=fnd&amp;pg=PA1&amp;dq=info:JTiRBrZ_LZMJ:scholar.google.com&amp;ots=wnpRdsxjjv&amp;sig=1Oa-5P-zZZ_MX_2MFKv5cq2fx48#v=onepage&amp;q&amp;f=false" target="_blank" rel="noreferrer noopener">Introductory Lectures on Convex Optimization&lt;/a>&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Secure Socket Layer (SSL) &lt;a href="https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0,_and_3.0" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;li>AIxBio (most of these are repeat references from previous episodes)
+&lt;ul>
+&lt;li>&lt;a href="https://www.rand.org/pubs/research_reports/RRA2977-2.html?utm_source=substack&amp;utm_medium=email" target="_blank" rel="noreferrer noopener">The Operational Risks of AI in Large-Scale Biological Attacks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/?utm_source=substack&amp;utm_medium=email" target="_blank" rel="noreferrer noopener">Building an early warning system for LLM-aided biological threat creation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2306.03809" target="_blank" rel="noreferrer noopener">Can large language models democratize access to dual-use biotechnology?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.18233" target="_blank" rel="noreferrer noopener">Will releasing the weights of future large language models grant widespread access to pandemic agents?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models" target="_blank" rel="noreferrer noopener">Open-Sourcing Highly Capable Foundation Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://1a3orn.com/sub/essays-propaganda-or-science.html" target="_blank" rel="noreferrer noopener">Propaganda or Science: Open Source AI and Bioterrorism Risk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ineffectivealtruismblog.com/2024/03/09/exaggerating-the-risks-part-14-biorisk-from-llms/" target="_blank" rel="noreferrer noopener">Exaggerating the risks (Part 15: Biorisk from LLMs)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://crfm.stanford.edu/open-fms/" target="_blank" rel="noreferrer noopener">On the Societal Impact of Open Foundation Models&lt;/a>&lt;/li>
+&lt;li>Tokyo subway sarin attack &lt;a href="https://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack#:~:text=They%20had%20also%20produced%20several%20other%20nerve%20agents%2C%20including%20VX%2C%20and%20attempted%20to%20produce%20botulinum%20toxin%20and%20had%20perpetrated%20several%20failed%20acts%20of%20bioterrorism" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://spectrum.ieee.org/midjourney-copyright" target="_blank" rel="noreferrer noopener">Generative AI Has a Visual Plagiarism Problem&lt;/a>, a.k.a. &amp;ldquo;The Gary Marcus report&amp;rdquo;
+&lt;ul>
+&lt;li>A follow-up from Gary Marcus: &lt;a href="https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse" target="_blank" rel="noreferrer noopener">Things are about to get a lot worse for Generative AI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Monte-Carlo Tree Search (MCTS) &lt;a href="https://en.wikipedia.org/wiki/Monte_Carlo_tree_search" target="_blank" rel="noreferrer noopener">Wikipedia&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Monte_Carlo_tree_search#cite_note-15" target="_blank" rel="noreferrer noopener">Source&lt;/a> highlighted by Igor&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.semanticscholar.org/paper/The-Rhetoric-of-Economics-McCloskey/fa0aa6f21b5cc1ba331999f39188c02a9c442db2" target="_blank" rel="noreferrer noopener">The Rhetoric of Economics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://complexityzoo.net/Complexity_Zoo" target="_blank" rel="noreferrer noopener">Complexity Zoo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ncatlab.org/nlab/show/HomePage" target="_blank" rel="noreferrer noopener">nLab&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>EAG Takeaways (Boston 2023)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e003/</link><pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e003/</guid><description>&lt;div style="text-align: justify">
+This episode is a brief overview of the major takeaways I had from attending EAG Boston 2023, and an update on my plans for the podcast moving forward.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/101ea918">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="tldl">TL;DL&lt;/h3>
+&lt;ul>
+&lt;li>Starting in early December (2023), I will be uploading episodes on a biweekly basis (day TBD).&lt;/li>
+&lt;li>I won&amp;rsquo;t be releasing another episode until then, so that I can build a cache of episodes up.&lt;/li>
+&lt;li>During this month (November 2023), I&amp;rsquo;ll also try to get the podcast up on more platforms, set up comments on more platforms, and create an anonymous feedback form.
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://forum.effectivealtruism.org/posts/8R2NffQiCsn3F7hpv/how-to-generate-research-proposals" target="_blank" rel="noreferrer noopener">How to generate research proposals&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.effectivealtruism.org/articles/karolina-sarek-how-to-do-research-that-matters" target="_blank" rel="noreferrer noopener">Karolina Sarek: How to do research that matters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.18233" target="_blank" rel="noreferrer noopener">Will releasing the weights of future large language models grant widespread access to pandemic agents?&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

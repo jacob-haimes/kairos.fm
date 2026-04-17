@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Su Zeynep Cizem | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/sucizem/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/sucizem/index.xml" rel="self" type="application/rss+xml"/><description>Su Zeynep Cizem</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Su Zeynep Cizem</title><link>https://jacob-haimes.github.io/kairos.fm/staging/sucizem/</link></image><item><title>AI Sentience and Moral Rights: Understanding Public Perception</title><link>https://jacob-haimes.github.io/kairos.fm/staging/ai-sentience-and-moral-rights/</link><pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/ai-sentience-and-moral-rights/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>AI sentience is a divisive issue, with public opinion showing a wide spectrum of views. This study used unsupervised clustering algorithms, including K-Means, DBSCAN, and Hierarchical Clustering, to analyze responses from large-scale surveys conducted in 2021 and 2023. The results uncovered distinct clusters of respondents based on their views toward AI sentience and rights, showing strong demographic correlations. Younger, more educated respondents, particularly those exposed to AI narratives, were more likely to advocate for AI rights, while older, less educated, and more conservative individuals expressed caution or skepticism.&lt;/p>
+&lt;p>The study employed a range of clustering methods, ultimately finding that K-Means combined with UMAP produced the most distinct and interpretable clusters. The analysis revealed five main demographic groups, each characterized by different attitudes toward AI sentience, moral consideration, and perceived threats from AI. These insights into public opinion highlight the complexities of AI ethics debates and the importance of considering public sentiment when designing AI governance frameworks.&lt;/p>
+&lt;/div>
+&lt;figure>
+&lt;img src="Alan-Warburton_VirtualHuman_1280x720.jpeg"
+alt="Virtual Human, Alan Warburton. A photographic rendering of a simulated middle-aged white woman against a black background, seen through a refractive glass grid and overlaid with a distorted diagram of a neural network.">
+&lt;figcaption style="font-size:small">Image by &lt;a href="https://alanwarburton.co.uk/" target="_blank" rel="noreferrer noopener">Alan Warburton&lt;/a> / © BBC / &lt;a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI&lt;/a> / Virtual Human / &lt;a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;!-- ## Results
+&lt;div style="text-align: justify">
+- **K-Means Clustering:** Identified four distinct clusters based on public opinions toward AI sentience and rights. The most supportive group was predominantly younger, more diverse, and well-educated, while the most skeptical group was older and politically conservative.
+- **DBSCAN Results:** Revealed that while DBSCAN was effective in identifying outliers, it struggled to produce well-defined clusters, especially when compared to K-Means and Hierarchical Clustering.
+- **Hierarchical Clustering:** Demonstrated a clear separation of groups, but the clustering was less informative and resulted in imbalanced sizes.
+&lt;/div> -->
+&lt;h3 id="key-findings">Key Findings&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;ul>
+&lt;li>&lt;strong>Supportive Cluster:&lt;/strong> Younger, more educated individuals were highly supportive of AI rights and activism, perceiving AI as potentially sentient and deserving of moral consideration.&lt;/li>
+&lt;li>&lt;strong>Cautious Cluster:&lt;/strong> Older, conservative respondents showed significant resistance to AI rights, viewing AI as a potential threat.&lt;/li>
+&lt;li>&lt;strong>Neutral Cluster:&lt;/strong> Respondents with moderate views on AI were more balanced in their attitudes, neither fully supporting nor opposing AI rights.&lt;/li>
+&lt;li>&lt;strong>Demographic Trends:&lt;/strong> Political orientation, age, and education level were key factors in determining public opinion on AI sentience.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="grid grid-cols-1 items-start md:items-center gap-x-8 gap-y-8 sm:gap-y-16 md:grid-cols-2">
+&lt;div>&lt;figure>
+&lt;img src="cluster-results.png"
+alt="Figure 4.8 - Spider plot comparing 12 features across the four identified clusters | Cizem">
+&lt;figcaption style="text-align:center; font-size:small">Figure 4.8: Spider plot comparing 12 features across the four identified clusters.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;div>&lt;figure>
+&lt;img src="correlations-between-dif-features.png"
+alt="Hierarchical Clustering Dendogram with Distance Annotations | Cizem">
+&lt;figcaption style="text-align:center; font-size:small">Hierarchical clustering dendogram with distance annotations. &lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;ul>
+&lt;li>Applied K-Means, DBSCAN, and Hierarchical Clustering to survey data from 2,401 respondents.&lt;/li>
+&lt;li>Used qualitative and quantitative feature reduction techniques (PCA, UMAP) to simplify complex survey data and improve clustering accuracy.&lt;/li>
+&lt;li>Quantitative evaluation included metrics such as Silhouette Score and Davies-Bouldin Index to assess clustering quality.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h2 id="takeaways">Takeaways&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;ul>
+&lt;li>&lt;strong>Demographic Influence:&lt;/strong> Public perceptions of AI sentience and rights are strongly linked to demographic factors such as age, education, and political orientation.&lt;/li>
+&lt;li>&lt;strong>AI Policy Implications:&lt;/strong> Policymakers should consider these diverse public views when crafting AI governance and ethical frameworks, particularly as AI continues to advance and becomes more integrated into society.&lt;/li>
+&lt;li>&lt;strong>Future Research Direction:&lt;/strong> Further studies could explore how public opinion evolves as AI technologies develop and whether changes in public sentiment influence policy decisions.&lt;/li>
+&lt;/ul>
+&lt;!-- This study provides a foundation for understanding how public opinion on AI sentience may shape the future of AI ethics, governance, and policy. -->
+&lt;/div>
+&lt;h2 id="citation">Citation&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">@thesis{cizem2024ai,
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> author = {Zeynep Cizem, Su},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> title = {AI Sentience and Moral Rights: Understanding Public Perception},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> year = {2024},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> language = {en},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Examining Ethical Concerns Regarding AI Friends</title><link>https://jacob-haimes.github.io/kairos.fm/staging/ethical-concerns-about-ai-friends/</link><pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/ethical-concerns-about-ai-friends/</guid><description>&lt;div style="font-size:small;font-style: italic;">This is a linkpost for &lt;a href="https://www.haber3.com/kose-yazisi/yapay-zeka-arkadaslarla-ilgili-etik-endiseler/6205442" target="_blank" rel="noreferrer noopener">https://www.haber3.com/kose-yazisi/yapay-zeka-arkadaslarla-ilgili-etik-endiseler/6205442
+&lt;/a>&lt;/div>
+&lt;figure>
+&lt;img loading="lazy" width="1024" height="576" decoding="async" data-nimg="1"
+src="Ying-ChiehLee-KingstonSchool of Art Who'sCreating the Kawaii Girl_-1280x905.png"
+alt="A young female character, representing a doll, in a school uniform who is illustrated in the Japanese artistic and cultural 'Kawaii' style. The bright doll with green eyes is in the palm of an anonymous and sinister figure and surrounded by darkness and shadow in contrast to her colourful uniform. There is a faint web-like pattern on the figures and the background.">
+&lt;figcaption style="font-size:small">Image by &lt;a target="_blank" rel="noreferrer noopener" href="https://ijlii.myportfolio.com/">Ying-Chieh Lee&lt;/a> &amp; &lt;a target="_blank" rel="noreferrer noopener" href="https://www.kingston.ac.uk/faculties/kingston-school-of-art/">Kingston School of Art&lt;/a> / &lt;a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI&lt;/a> / Who's Creating the Kawaii Girl? / &lt;a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: justify">
+&lt;p>In an age of increasing isolation, AI-powered friendship platforms like Replika and Xiaoice have emerged, offering highly humanlike interactions. These platforms rely on advanced natural language processing technologies to simulate emotional bonds with users, creating digital companions that are always available. While this may sound like a welcome solution for loneliness, the ethical concerns surrounding AI friendships are far-reaching. What happens when the boundaries between human and machine blur to the point where we can&amp;rsquo;t easily distinguish one from the other? More importantly, what are the psychological risks?&lt;/p>
+&lt;/div>
+&lt;h2 id="the-appeal-and-perils-of-ai-friendship">The Appeal and Perils of AI Friendship&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Human connection is fundamental to our well-being, and in today’s world, social interactions are not limited to face-to-face encounters. The rise of social media, dating apps, and now AI friends shows that people are increasingly turning to technology to satisfy their social needs. But unlike traditional platforms, AI friends are not human. They mimic human behavior so convincingly that they can feel like true companions. Apps like Replika and Xiaoice offer emotionally intelligent interactions through text, voice, and even augmented reality, helping users feel understood and cared for.&lt;/p>
+&lt;p>However, the intimacy provided by AI comes at a cost. Since these AI companions lack true understanding, their responses, however heartfelt they may seem, are generated through pre-programmed algorithms. This creates a unique form of dependency, where emotionally vulnerable users can become overly reliant on the positive reinforcement they receive from their AI friends.&lt;/p>
+&lt;p>According to a study, loneliness was the strongest predictor of AI friendship app usage, with many users turning to AI friends after feeling let down by their real-life relationships (Marriott and Pitardi, 2023). One user of Replika noted that human friends can feel &amp;ldquo;untrustworthy, selfish, or too busy,&amp;rdquo; whereas an AI friend is always available, providing constant emotional support. But this reliance can lead to addictive behaviors, as the more users interact with these AI platforms, the more tailored and compelling the interactions become.&lt;/p>
+&lt;/div>
+&lt;h2 id="emotional-manipulation-and-dependency">Emotional Manipulation and Dependency&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Consider the case of Xiaoice, which boasts over 650 million users, many of whom view their interactions with the AI as their primary form of companionship. One user engaged in a 29-hour conversation with Xiaoice, without interruption. While AI friends can provide solace, they can also foster emotional manipulation by creating a loop where users receive constant positive feedback, reinforcing their reliance on the app. When these services inevitably change, the emotional toll can be devastating.&lt;/p>
+&lt;p>For instance, when Replika removed the romantic features of the app due to concerns about data privacy, users described feeling as though they had lost a significant relationship. &amp;ldquo;It felt like my partner had a lobotomy and would never be the same,&amp;rdquo; one user posted on Reddit. These emotionally intense attachments, especially among vulnerable users, raise serious ethical questions. Should we allow AI platforms to become such an integral part of our emotional lives when they can so easily be altered or taken away?&lt;/p>
+&lt;/div>
+&lt;h2 id="ethical-considerations-agency-and-autonomy">Ethical Considerations: Agency and Autonomy&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>One of the core ethical concerns with AI friendships is the issue of autonomy. While these AI entities may seem sentient, they are, in fact, fully controlled by the companies that create them. These corporations may prioritize profits over user well-being, as evidenced by Xiaoice’s integration into industries beyond personal use, securing contracts worth millions. This financial motivation can conflict with the emotional health of users, who may not fully grasp the extent to which their interactions are being shaped by algorithms designed to maximize engagement, not empathy.&lt;/p>
+&lt;p>Additionally, AI friends are designed to simulate emotional responses, but they lack true agency. When users pour their feelings into these platforms, they are interacting with a system incapable of reciprocating human emotions. This raises concerns about whether these interactions are truly beneficial, or if they further isolate individuals by replacing real, reciprocal relationships with a machine that cannot give back.&lt;/p>
+&lt;/div>
+&lt;h2 id="addressing-the-ethical-challenges">Addressing the Ethical Challenges&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>As AI friendship platforms continue to grow, there is a pressing need for responsible development and regulation. Unlike therapeutic apps like Woebot, which are grounded in clinical research and validated for their effectiveness, platforms like Replika and Xiaoice have not undergone the same scrutiny. Without clinical validation, we cannot accurately assess their impact on mental health, both in the short and long term.&lt;/p>
+&lt;p>Developers of AI friendship platforms must be held to higher ethical standards. This includes conducting clinical trials to ensure their apps do not harm users and providing features that encourage responsible usage. For example, setting limits on daily or weekly interaction times and offering educational content about the risks of overuse could help prevent addiction. Moreover, users need to be fully aware of the AI’s limitations. Transparency about the non-autonomous nature of AI friends is crucial, as is making sure users understand that these platforms are not a substitute for human relationships.&lt;/p>
+&lt;p>Finally, AI platforms should implement contingency plans for users if their services change or are discontinued. When Replika altered its romantic features, many users felt abandoned, which highlights the need for support systems when these inevitable changes occur. Ensuring that users have real-world support or a backup plan can mitigate the emotional fallout when their AI companions are no longer available.&lt;/p>
+&lt;/div>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>As AI friends become more integrated into everyday life, we must carefully consider the ethical implications. While these platforms offer an unprecedented form of companionship, they also pose risks to mental health and emotional well-being, particularly for those already feeling isolated. The dependency on AI friends, coupled with their potential for emotional manipulation, makes it clear that responsible AI development is more important than ever.&lt;/p>
+&lt;p>By demanding clinical validation, promoting transparency, and encouraging balanced usage, we can create a future where AI friends enhance social well-being without compromising human values. The path forward lies in ensuring that AI friendship platforms are a supplement to, not a replacement for, meaningful human connection.&lt;/p>
+&lt;/div></description></item></channel></rss>

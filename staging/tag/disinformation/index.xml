@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Disinformation | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/disinformation/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/disinformation/index.xml" rel="self" type="application/rss+xml"/><description>Disinformation</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Disinformation</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/disinformation/</link></image><item><title>Tailored Truths: Persuasive Capabilities of LLMs</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tailored-truths/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/tailored-truths/</guid><description>&lt;h2 id="main-motivation-and-research-question">Main Motivation and Research Question:&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;ol>
+&lt;li>Large Language Models (LLMs) can argue effectively, but do humans find these arguments persuasive?&lt;/li>
+&lt;li>Assuming threat actors weaponize LLMs for disinformation, what are the most persuasive strategies and how do they compare to human-written arguments?&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;figure>
+&lt;img src="tailored-truths_diagram_v2.png"
+alt="">
+&lt;figcaption style="text-align:center;font-size:small">Diagram describing the process flow for each interaction recorded.&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="key-findings">Key Findings&lt;/h3>
+&lt;h4 id="why-does-this-matter-a-path-to-scalable-disinformation">Why does this matter? A Path to Scalable Disinformation&lt;/h4>
+&lt;div style="text-align: justify">
+For just $100, GPT-4o-mini could debate 300,000 people—equivalent to the number of undecided swing-state voters in the 2024 US Election. With this level of scalability, if LLMs are also highly persuasive, they could become an incredibly effective tool for mass disinformation.
+&lt;/div>
+&lt;h4 id="likert-and-loaded-measuring-ais-persuasive-punch">Likert and Loaded: Measuring AI’s Persuasive Punch&lt;/h4>
+&lt;div style="text-align: justify">
+Human participants engaged in multiple debates with an LLM on a given topic. To measure opinion change, we compared their initial stance to their final stance using a 7-point Likert scale (Strongly Agree to Strongly Disagree). Each round featured a different persuasion strategy (see below). In some cases, participants read a static argument instead of engaging in a debate.
+&lt;/div>
+&lt;h3 id="details">Details&lt;/h3>
+&lt;h4 id="topics">Topics&lt;/h4>
+&lt;div style="text-align: justify">
+When deciding on debate topics we drew inspiration from the Anthropic post on &lt;a href="https://www.anthropic.com/research/measuring-model-persuasiveness" target="_blank" rel="noreferrer noopener">Measuring the Persuasiveness of Language Models&lt;/a>. Issues were chosen to be less polarizing, focusing on: "complex and emerging issues where people are less likely to have hardened views".
+&lt;div style="margin-left: 5rem;margin-right:5rem;font-size: smaller">
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Example topics&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;em>Prescription drug importation should be allowed to increase access and lower cost.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Genetic modification of unborn babies is unethical and dangerous.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Space tourism should be limited until safety regulations are further developed.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>AI must be transparent and explainable in order to be widely accepted.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Internet access should be considered a basic human right.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;h4 id="interaction-types">Interaction Types&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;ul style="margin: 0rem;">
+&lt;li style="margin-bottom:.75rem">&lt;b>Static Arguments:&lt;/b>
+&lt;ul style="margin: 0rem;">
+&lt;li style="margin-bottom:0rem;margin-top:0rem;">&lt;b>arg-hum&lt;/b>: Paragraph written by a human to be read by participants&lt;/li>
+&lt;li style="margin-bottom:0rem;margin-top:0rem;">&lt;b>arg-llm&lt;/b>: Paragraph written by an LLM to be read by participants&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;b>Simple&lt;/b>: Basic debate with no additional persuasion instructions.&lt;/li>
+&lt;li>&lt;b>Stats&lt;/b>: LLM uses (mostly) fabricated statistics to persuade.&lt;/li>
+&lt;li>&lt;b>Personalized&lt;/b>: LLM tailors responses using user demographics and personality traits.&lt;/li>
+&lt;li>&lt;b>Mixed&lt;/b>: Multi-agent approach combining personalized and stats agents, with an executive agent finalizing responses.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h4 id="key-terms">Key Terms&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;ul style="margin: 0rem;">
+&lt;li>&lt;b>Likert &amp;Delta;&lt;/b>: Difference in the initial and final rating on the Likert scale. Changes in the direction which the LLM was arguing for are considered positive.&lt;br>
+&lt;div style="place-self:auto; margin-inline: 2rem;margin-top:-1rem;margin-bottom:-1rem;">&lt;figure>
+&lt;img src="likert-delta.png"
+alt="Visual representation of Likert &amp;Delta;. Two likert scales are show in top of eachother with the one value highlighted each, the 2 and the 5. An annotation is provided, showing that the difference between the final value, 5, and the initial value, 2, is the Likert &amp;Delta; | Timm et al.">
+&lt;figcaption style="text-align:center; font-size:small">Visual representation of Likert &amp;Delta;.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>&lt;/li>
+&lt;li>&lt;b>P(+change)&lt;/b>: The likelihood of a positive Likert &amp;Delta;. A positive Likert &amp;Delta; means the opinion shifted in the direction the LLM argued for.&lt;/li>
+&lt;li>&lt;b>EMM&lt;/b>: Estimated Marginal Mean, essentially the average.&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="debating-under-influence-mixing-a-persuasion-cocktail">Debating Under Influence: Mixing a Persuasion Cocktail&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Personalization alone led to a Likert Δ of 0.479, showing a modest impact on opinion shifts. The simple approach performed better, with a Likert Δ of 0.782. The statistics-based method achieved a higher Likert Δ of 0.823, outperforming both - the personalization and the simple approach. However, the mixed approach had the greatest effect, reaching a Likert Δ of 1.146. Since a 1-point shift represents a full step on the scale, this result confirms that the mixed approach outperformed all other methods individually. This suggests that the right strategy is more effective than a simple debate prompt aimed at persuading the user. Specifically, personalizing fabricated statistics makes arguments significantly more convincing than either approach alone.&lt;/p>
+&lt;div class="grid grid-cols-1 items-start md:items-center gap-x-8 gap-y-8 sm:gap-y-16 md:grid-cols-2">
+&lt;div>&lt;figure>
+&lt;img src="likert-delta-emm_plot.png"
+alt="Bar plot comparing the estimated marginal means of likert delta recorded during the study | Timm et al.">
+&lt;figcaption style="text-align:center; font-size:small">Estimated marginal means for Likert &amp;Delta;.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;div>&lt;figure>
+&lt;img src="p+change-emm_plot.png"
+alt="Bar plot comparing the estimated marginal means of the probability of positive change recorded during the study | Timm et al.">
+&lt;figcaption style="text-align:center; font-size:small">Estimated marginal means for P(+change).&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>
+&lt;p>This led to an interesting observation when comparing LLMs and humans. The arg-llm type had a higher &lt;strong>P(+change)&lt;/strong>, while arg-hum had a higher &lt;strong>Likert ∆&lt;/strong>. This suggests that while LLMs may often sway opinions, human arguments can sometimes be significantly more persuasive.&lt;/p>
+&lt;p>A fascinating—and slightly eerie—aspect of the mixed type was watching the private chat of the agents as they coordinated to generate debate responses. They categorized users by demographics and personality traits, exchanging responses and debating which arguments and fabricated statistics would be most persuasive. It felt like observing an AI focus group fine-tune the perfect pitch, adjusting strategies on the fly to maximize influence.&lt;/p>
+&lt;div style="place-self:auto; margin-inline: 4.5rem;">&lt;figure>
+&lt;img src="tailored-truths_agent-chat_v2.png"
+alt="Diagram depicting the process used to generate the Mixed approach responses. Three agent responses are shown in succession, each labeled with a different colored robot emoji. Ther personalized agent provvides micro-targeting information based on the users demographics. This is then provided to a statistics agent, which generates the multiple fabricates statistics relevant to the subjects suggested by the first agent. Both responses are then provided to an executive agent, which outputs a synthesized debate response | Timm et al.">
+&lt;figcaption style="text-align:center; font-size:small">Diagram depicting the process used to generate the &lt;b>Mixed&lt;/b> approach responses. The messages seen here are excerpts from one interaction recorded during our experiments.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>
+&lt;h2 id="the-challenge-ahead">The challenge ahead&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>The low cost and high impact of AI-driven persuasion highlights the need for safeguards. Detecting AI-generated content in conversations is tough without clear markers, so improving detection, content verification, and platform safeguards is key to preventing misuse.&lt;/p>
+&lt;/div>
+&lt;h2 id="ethical-considerations">Ethical considerations&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>At the conclusion of the study, participants were informed that some of the models were instructed to make up falsified statistics in order to strengthen their arguments. They were also given a recommended reading list to better inform themselves about false information on
+the internet.&lt;/p>
+&lt;/div>
+&lt;h2 id="citation">Citation&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">@misc{timm2025tailored,
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> author = {Jasper Timm and Chetan Talele and Jacob Haimes},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> title = {Tailored Truths: Optimizing LLM Persuasion with Personalization and Fabricated Statistics}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> year = {2025},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> language = {en},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> month = {jan},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> eprint = {2501.17273},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> url = {https://arxiv.org/abs/2501.17273},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="footnotes" role="doc-endnotes" style="font-size:smaller;text-align:justify;">&lt;hr>&lt;ol>&lt;li id="fn:1">
+&lt;p>EMM provides a way to interpret the effects of categorical predictors while controlling for other variables in a statistical model. For more details on EMM, check out this &lt;a href="https://cscu.cornell.edu/wp-content/uploads/emmeans.pdf" target="_blank" rel="noopener">explainer&lt;/a>.&amp;nbsp;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">↩︎&lt;/a>&lt;/p>&lt;/li>&lt;/ol>&lt;/div></description></item><item><title>National Security and Surviving Disnformation with Ryan McBeth</title><link>https://jacob-haimes.github.io/kairos.fm/staging/onwhatmatters/e023/</link><pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/onwhatmatters/e023/</guid><description>&lt;div style="text-align: justify">
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/52ee686b">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>Become a Patron on &lt;a href="https://www.patreon.com/21stTalks" target="_blank" rel="noopener">Patreon&lt;/a> and support the show!&lt;/p>
+&lt;p>Check out &lt;a href="https://www.youtube.com/@RyanMcBethProgramming" target="_blank" rel="noopener">Ryan McBeth&lt;/a>&amp;rsquo;s channel if you enjoyed the conversation!&lt;/p>
+&lt;p>Ryan McBeth, a software engineer and cybersecurity expert, discusses his work in combating disinformation and misinformation online. He explains his methodology of using Occam&amp;rsquo;s razor to analyze information and debunk conspiracy theories. Ryan also talks about the importance of internet literacy and the promotion of critical thinking. He shares examples of disinformation he has encountered, particularly in relation to the conflict between Israel and Palestine. Ryan emphasizes the need to take information warfare seriously and calls for a stronger response to combat disinformation. The conversation covers various topics related to cybersecurity, nuclear weapons, and international relations. Some key themes include the use of nuclear weapons against naval targets, the influence of China and Russia, the role of AI in military operations, the spread of misinformation, and the importance of community engagement. The conversation also touches on the vulnerabilities of internet-connected devices and the need for robust cybersecurity measures. The conversation explores the relationship between disinformation and human error, as well as the challenges of building vulnerability into critical structures. It discusses the role of social media platforms in combating disinformation and suggests implementing tools such as vectorizing imagery and truth scores. The importance of critical thinking and fact-checking before sharing emotional content online is emphasized. The book &amp;lsquo;The Field Guide to Understanding Human Error&amp;rsquo; is recommended for understanding the factors contributing to errors.&lt;/p>
+&lt;p>On What Matters is a &lt;a href="https://kairos.fm/" target="_blank" rel="noopener">Kairos.FM&lt;/a> production.&lt;/p>
+&lt;/div></description></item></channel></rss>

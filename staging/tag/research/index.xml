@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/research/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/research/index.xml" rel="self" type="application/rss+xml"/><description>Research</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Research</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/research/</link></image><item><title>Thinking Through "Digital Minds" w/ Jacy Reese-Anthis</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e028/</link><pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e028/</guid><description>&lt;div style="text-align: justify">
+Jacy Reese-Anthis, founder of Sentience Institute and researcher at Stanford, began his journey working for animal welfare, but is now finishing up his PhD with research in many different AI subfields at the intersection of neuroscience, philosophy, social science, and machine learning. While this may seem like an odd jump at first, Jacy shares how his work has all been centered around the idea of moral circle expansion. In this episode, we dig into what sentience actually means (or at least how we can begin to think about it), why anthropomorphization is more complicated than it sounds, and how language models may be able to be leveraged as an effective tool for social science research.
+&lt;p>Jacy also shares his median AGI estimate somewhere in there, so stay tuned if you want to catch it.&lt;/p>
+&lt;p>As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm &lt;a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noopener">Patreon&lt;/a> which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/9a54c377">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.02.03; ASIDES RECORDED 2026.03.02; &lt;a href="https://share.transistor.fm/s/9a54c377/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:05:41 ❙ From Animal Welfare to Digital Minds&lt;br>
+00:09:00 ❙ Founding Sentience Institute&lt;br>
+00:22:00 ❙ Defining Sentience&lt;br>
+00:27:13 ❙ The Anthropomorphization Problem&lt;br>
+00:47:51 ❙ Why "Digital Minds" (Not "Artificial Intelligence")&lt;br>
+00:51:05 ❙ LLMs as Social Science Tools&lt;br>
+01:07:03 ❙ Jacy’s AGI Timeline &amp; The Singularity&lt;br>
+01:09:23 ❙ Final Thoughts &amp; Outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Jacy&amp;rsquo;s &lt;a href="https://jacyanthis.com/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Jacy_Reese_Anthis" target="_blank" rel="noopener">article&lt;/a> - Jacy Reese Anthis&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/The_End_of_Animal_Farming" target="_blank" rel="noopener">article&lt;/a> - The End of Animal Farming&lt;/li>
+&lt;li>Sentience Institute &lt;a href="https://www.sentienceinstitute.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="jacys-relevant-works">Jacy&amp;rsquo;s Relevant Works&lt;/h3>
+&lt;ul>
+&lt;li>The Guardian &lt;a href="https://www.theguardian.com/commentisfree/2025/sep/30/artificial-intelligence-personhood" target="_blank" rel="noopener">article&lt;/a> - It’s time to prepare for AI personhood&lt;/li>
+&lt;li>CHI &lt;a href="https://arxiv.org/abs/2510.15905" target="_blank" rel="noopener">paper&lt;/a> - Digital Companionship: Overlapping Uses of AI Companions and AI Assistants&lt;/li>
+&lt;li>ICML &lt;a href="https://arxiv.org/abs/2504.02234" target="_blank" rel="noopener">paper&lt;/a> - LLM Social Simulations Are a Promising Research Method&lt;/li>
+&lt;li>Sentience Institute &lt;a href="https://www.sentienceinstitute.org/blog/key-questions-for-digital-minds" target="_blank" rel="noopener">blogpost&lt;/a> - Key Questions for Digital Minds&lt;/li>
+&lt;li>ACL &lt;a href="https://arxiv.org/abs/2406.03198" target="_blank" rel="noopener">paper&lt;/a> - The Impossibility of Fair LLMs&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2509.08494" target="_blank" rel="noopener">Preprint&lt;/a> - HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-eliza-effect">The ELIZA Effect&lt;/h3>
+&lt;ul>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/ELIZA_effect" target="_blank" rel="noopener">article&lt;/a> - ELIZA effect&lt;/li>
+&lt;li>ACM &lt;a href="https://dl.acm.org/doi/10.1145/365153.365168" target="_blank" rel="noopener">paper&lt;/a> - ELIZA—a computer program for the study of natural language communication between man and machine&lt;/li>
+&lt;li>Elizabot &lt;a href="https://www.masswerk.at/elizabot/" target="_blank" rel="noopener">demo&lt;/a>&lt;/li>
+&lt;li>Smithsonian Magazine &lt;a href="https://www.smithsonianmag.com/history/why-the-computer-scientist-behind-the-worlds-first-chatbot-dedicated-his-life-to-publicizing-the-threat-posed-by-ai-180987971/" target="_blank" rel="noopener">article&lt;/a> - Why the Computer Scientist Behind the World&amp;rsquo;s First Chatbot Dedicated His Life to Publicizing the Threat Posed by AI&lt;/li>
+&lt;li>99% Invisible &lt;a href="https://99percentinvisible.org/episode/the-eliza-effect/" target="_blank" rel="noopener">podcast episode&lt;/a> - The ELIZA Effect&lt;/li>
+&lt;li>Medium &lt;a href="https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae" target="_blank" rel="noopener">article&lt;/a> - On AI Anthropomorphism&lt;/li>
+&lt;/ul>
+&lt;h3 id="lamda">LaMDA&lt;/h3>
+&lt;ul>
+&lt;li>The Atlantic &lt;a href="https://www.theatlantic.com/ideas/archive/2022/06/google-lamda-chatbot-sentient-ai/661322/" target="_blank" rel="noopener">article&lt;/a> - How a Google Employee Fell for the Eliza Effect&lt;/li>
+&lt;li>The Washington Post &lt;a href="https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/" target="_blank" rel="noopener">article&lt;/a> - The Google engineer who thinks the company’s AI has come to life&lt;/li>
+&lt;li>AI Data Analytics Network &lt;a href="https://www.aidataanalytics.network/data-science-ai/news-trends/full-transcript-google-engineer-talks-to-sentient-artificial-intelligence-2" target="_blank" rel="noopener">blogpost&lt;/a> - Full Transcript: Google Engineer Talks to &amp;ldquo;Sentient&amp;rdquo; Artificial Intelligence&lt;/li>
+&lt;li>Ars Technica &lt;a href="https://arstechnica.com/tech-policy/2022/07/google-fires-engineer-who-claimed-lamda-chatbot-is-a-sentient-person/" target="_blank" rel="noopener">article&lt;/a> - Google fires Blake Lemoine, the engineer who claimed AI chatbot is a person&lt;/li>
+&lt;/ul>
+&lt;h3 id="jagged-frontier">Jagged Frontier&lt;/h3>
+&lt;ul>
+&lt;li>Harvard Business School &lt;a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321" target="_blank" rel="noopener">working paper&lt;/a> - Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality&lt;/li>
+&lt;li>One Useful Thing (Ethan Mollick) &lt;a href="https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged" target="_blank" rel="noopener">blogpost&lt;/a> - Centaurs and Cyborgs on the Jagged Frontier&lt;/li>
+&lt;li>One Useful Thing (Ethan Mollick) &lt;a href="https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks" target="_blank" rel="noopener">blogpost&lt;/a> - The Shape of AI: Jaggedness, Bottlenecks and the Uneven Frontier&lt;/li>
+&lt;li>Okanagan College Library &lt;a href="https://libguides.okanagan.bc.ca/c.php?g=743006&amp;amp;p=5383248" target="_blank" rel="noopener">guide&lt;/a> - Artificial Intelligence in Research&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Political Analysis &lt;a href="https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49" target="_blank" rel="noopener">paper&lt;/a> - Out of One, Many: Using Language Models to Simulate Human Samples&lt;/li>
+&lt;li>World Values Survey &lt;a href="https://www.worldvaluessurvey.org/wvs.jsp" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Integrated_information_theory" target="_blank" rel="noopener">article&lt;/a> - Integrated information theory&lt;/li>
+&lt;li>Alignment Forum &lt;a href="https://www.alignmentforum.org/w/mesa-optimization" target="_blank" rel="noopener">article&lt;/a> - Mesa-Optimization&lt;/li>
+&lt;li>Eleos AI &lt;a href="https://eleosai.org/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Sobering up on AI Progress w/ Dr. Sean McGregor</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e026/</link><pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e026/</guid><description>&lt;div style="text-align: justify">
+Sean McGregor and I discuss about why evaluating AI systems has become so difficult; we cover everything from the breakdown of benchmarking, how incentives shape safety work, and what approaches like BenchRisk (his recent paper at NeurIPS) and AI auditing aim to fix as systems move into the real world. We also talk about his history and journey in AI safety, including his PhD on ML for public policy, how he started the AI Incident Database, and what he's working on now: AVERI, a non-profit for frontier model auditing.&lt;br>&lt;br>
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900">
+&lt;span class="pr-3 pt-1 text-red-400">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">2025.12.29: AVERI will be officially launching in January of 2026. If you&amp;rsquo;re interested, consider checking out their listings to see if you&amp;rsquo;d be a good fit; if you do end up applying, let them know you found out about the opportunity from the podcast!&lt;/span>
+&lt;/div>
+&lt;p>As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm &lt;a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noopener">Patreon&lt;/a> which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/8b720c1c">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.11.25; ASIDES RECORDED 2025.12.20; &lt;a href="https://share.transistor.fm/s/8b720c1c/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:02:36 ❙ What's broken about benchmarking&lt;br>
+00:03:41 ❙ Sean’s wild PhD&lt;br>
+00:14:28 ❙ The phantom internship&lt;br>
+00:19:25 ❙ Sean's journey&lt;br>
+00:22:25 ❙ Market-vs-regulatory modes and AIID&lt;br>
+00:32:13 ❙ Drunk on AI progress&lt;br>
+00:38:34 ❙ BenchRisk&lt;br>
+00:43:20 ❙ Moral hazards and Master Hand&lt;br>
+00:50:34 ❙ Liability, Section 230, and open source&lt;br>
+00:59:20 ❙ AVERI&lt;br>
+01:11:30 ❙ Closing thoughts &amp; outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Sean McGregor&amp;rsquo;s &lt;a href="https://seanbmcgregor.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>AVERI &lt;a href="https://www.averi.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="benchrisk">BenchRisk&lt;/h3>
+&lt;ul>
+&lt;li>BenchRisk &lt;a href="https://benchrisk.ai" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>NeurIPS &lt;a href="https://arxiv.org/abs/2510.21460" target="_blank" rel="noopener">paper&lt;/a> - Risk Management for Mitigating Benchmark Failure Modes: BenchRisk&lt;/li>
+&lt;li>NeurIPS &lt;a href="https://arxiv.org/abs/2111.15366" target="_blank" rel="noopener">paper&lt;/a> - AI and the Everything in the Whole Wide World Benchmark&lt;/li>
+&lt;li>CACM &lt;a href="https://arxiv.org/abs/1803.09010" target="_blank" rel="noopener">paper&lt;/a> - Datasheets for Datasets&lt;/li>
+&lt;/ul>
+&lt;h3 id="aiid">AIID&lt;/h3>
+&lt;ul>
+&lt;li>AI Incident Database &lt;a href="https://incidentdatabase.ai" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>IAAI &lt;a href="https://arxiv.org/abs/2011.08512" target="_blank" rel="noopener">paper&lt;/a> - Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/pdf/2409.16425" target="_blank" rel="noopener">Preprint&lt;/a> - Lessons for Editors of AI Incidents from the AI Incident Database&lt;/li>
+&lt;li>AIAAIC &lt;a href="https://www.aiaaic.org/home" target="_blank" rel="noopener">website&lt;/a> (another incident tracker)&lt;/li>
+&lt;/ul>
+&lt;h3 id="hot-ai-summer">Hot AI Summer&lt;/h3>
+&lt;ul>
+&lt;li>CACM &lt;a href="https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf" target="_blank" rel="noopener">article&lt;/a> - A Few Useful Things to Know About Machine Learning&lt;/li>
+&lt;li>CACM &lt;a href="https://cacm.acm.org/opinion/how-the-ai-boom-went-bust/" target="_blank" rel="noopener">article&lt;/a> - How the AI Boom Went Bust&lt;/li>
+&lt;li>Undergraduate &lt;a href="https://www.researchgate.net/publication/333039347_Analyzing_the_Prospect_of_an_Approaching_AI_Winter" target="_blank" rel="noopener">Thesis&lt;/a> - Analyzing the Prospect of an Approaching AI Winter&lt;/li>
+&lt;li>Tech Genies &lt;a href="https://techgenies.com/ai-history-the-first-summer-and-winter-of-ai/" target="_blank" rel="noopener">article&lt;/a> - AI History: The First Summer and Winter of AI&lt;/li>
+&lt;li>CACM &lt;a href="https://cacm.acm.org/opinion/there-was-no-first-ai-winter/" target="_blank" rel="noopener">article&lt;/a> - There Was No ‘First AI Winter’&lt;/li>
+&lt;/ul>
+&lt;h3 id="measuring-generalization">Measuring Generalization&lt;/h3>
+&lt;ul>
+&lt;li>Neural Computation &lt;a href="https://www.researchgate.net/publication/2755783_The_Lack_of_A_Priori_Distinctions_Between_Learning_Algorithms/link/54242c890cf238c6ea6e973c/download" target="_blank" rel="noopener">article&lt;/a> - The Lack of A Priori Distinctions Between Learning Algorithms&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/1611.03530" target="_blank" rel="noopener">paper&lt;/a> - Understanding deep learning requires rethinking generalization&lt;/li>
+&lt;li>ICML &lt;a href="https://arxiv.org/abs/2305.01034v2" target="_blank" rel="noopener">paper&lt;/a> - Model-agnostic Measure of Generalization Difficulty&lt;/li>
+&lt;li>Radiology Artificial Intelligence &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9885377/" target="_blank" rel="noopener">article&lt;/a> - Generalizability of Machine Learning Models: Quantitative Evaluation of Three Methodological Pitfalls&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2410.01769v2" target="_blank" rel="noopener">Preprint&lt;/a> - Quantifying Generalization Complexity for Large Language Models&lt;/li>
+&lt;/ul>
+&lt;h3 id="insurers-exclude-ai">Insurers Exclude AI&lt;/h3>
+&lt;ul>
+&lt;li>Financial Times &lt;a href="https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62" target="_blank" rel="noopener">article&lt;/a> - Insurers retreat from AI cover as risk of multibillion-dollar claims mount&lt;/li>
+&lt;li>Tom&amp;rsquo;s Hardware &lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/insurers-move-to-limit-ai-liability-as-multi-billion-dollar-risks-emerge" target="_blank" rel="noopener">article&lt;/a> - Major insurers move to avoid liability for AI lawsuits as multi-billion dollar risks emerge — Recent public incidents have lead to costly repercussions&lt;/li>
+&lt;li>Insurance Newsnet &lt;a href="https://insurancenewsnet.com/oarticle/insurers-scale-back-ai-coverage-amid-fears-of-billion-dollar-claims" target="_blank" rel="noopener">article&lt;/a> - Insurers Scale Back AI Coverage Amid Fears of Billion-Dollar Claims&lt;/li>
+&lt;li>Insurance Business &lt;a href="https://www.insurancebusinessmag.com/us/news/technology/insurances-gen-ai-reckoning-has-come-559985.aspx" target="_blank" rel="noopener">article&lt;/a> - Insurance’s gen AI reckoning has come&lt;/li>
+&lt;/ul>
+&lt;h3 id="section-230">Section 230&lt;/h3>
+&lt;ul>
+&lt;li>Section 230 &lt;a href="https://www.congress.gov/crs-product/R46751" target="_blank" rel="noopener">overview&lt;/a>&lt;/li>
+&lt;li>Legal &lt;a href="https://www.congress.gov/crs-product/LSB11097" target="_blank" rel="noopener">sidebar&lt;/a> - Section 230 Immunity and Generative Artificial Intelligence&lt;/li>
+&lt;li>Bad Internet Bills &lt;a href="https://www.badinternetbills.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>TechDirt &lt;a href="https://www.techdirt.com/2025/12/17/section-230-faces-repeal-support-the-coverage-thats-been-getting-it-right-all-along/" target="_blank" rel="noopener">article&lt;/a> - Section 230 Faces Repeal. Support The Coverage That’s Been Getting It Right All Along.&lt;/li>
+&lt;li>Privacy Guides &lt;a href="https://www.privacyguides.org/videos/2025/12/16/taylor-lorenz-on-kosa-the-screen-act-and-repealing-section-230/" target="_blank" rel="noopener">video&lt;/a> - Dissecting Bad Internet Bills with Taylor Lorenz: KOSA, SCREEN Act, Section 230&lt;/li>
+&lt;li>Journal of Technology in Behavioral Health &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7785056/" target="_blank" rel="noopener">article&lt;/a> - Social Media and Mental Health: Benefits, Risks, and Opportunities for Research and Practice&lt;/li>
+&lt;li>Time &lt;a href="https://time.com/7337866/big-tech-social-media-regulation/" target="_blank" rel="noopener">article&lt;/a> - Lawmakers Unveil New Bills to Curb Big Tech’s Power and Profit&lt;/li>
+&lt;li>House Hearing &lt;a href="https://www.techpolicy.press/transcript-house-hearing-on-legislative-solutions-to-protect-children-and-teens-online/" target="_blank" rel="noopener">transcript&lt;/a> - Legislative Solutions to Protect Children and Teens Online&lt;/li>
+&lt;/ul>
+&lt;h3 id="relevant-kairosfm-episodes">Relevant Kairos.fm Episodes&lt;/h3>
+&lt;ul>
+&lt;li>Into AI Safety &lt;a href="https://kairos.fm/intoaisafety/e023/" target="_blank" rel="noopener">episode&lt;/a> - Growing BlueDot&amp;rsquo;s Impact w/ Li-Lian Ang&lt;/li>
+&lt;li>muckrAIkers &lt;a href="https://kairos.fm/muckraikers/e010/" target="_blank" rel="noopener">episode&lt;/a> - NeurIPS 2024 Wrapped 🌯&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-links">Other Links&lt;/h3>
+&lt;ul>
+&lt;li>Encyclopedia of Life &lt;a href="https://eol.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>IBM Watson AI XPRIZE &lt;a href="https://www.xprize.org/competitions/artificial-intelligence" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>ML Commons &lt;a href="https://mlcommons.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Enron_scandal" target="_blank" rel="noopener">article&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Polysemanticity w/ Dr. Darryl Wright</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e009/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e009/</guid><description>&lt;div style="text-align: justify">
+Darryl and I discuss his background, how he became interested in machine learning, and a project we are currently working on investigating the penalization of polysemanticity during the training of neural networks.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/0afbbf3c">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;figure>
+&lt;img src="featured.png"
+alt="Polysemanticity Research Diagram, Jacob Haimes">
+&lt;figcaption style="font-size:small; text-align:center">Image by &lt;a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">Jacob Haimes&lt;/a> / © Kairos.fm / Polysemanticity Research Diagram / &lt;a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">CC-BY 4.0&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+01:46 ❙ Interview begins&lt;br>
+02:14 ❙ Supernovae classification&lt;br>
+08:58 ❙ Penalizing polysemanticity&lt;br>
+20:58 ❙ Our "toy model"&lt;br>
+30:06 ❙ Task description&lt;br>
+32:47 ❙ Addressing hurdles&lt;br>
+39:20 ❙ Lessons learned
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.zooniverse.org" target="_blank" rel="noreferrer noopener">Zooniverse&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bluedot.org" target="_blank" rel="noreferrer noopener">BlueDot Impact&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://course.aisafetyfundamentals.com/alignment" target="_blank" rel="noreferrer noopener">AI Safety Fundamentals&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.aisafetysupport.org" target="_blank" rel="noreferrer noopener">AI Safety Support&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://distill.pub/2020/circuits/zoom-in/" target="_blank" rel="noreferrer noopener">Zoom In: An Introduction to Circuits&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mnist" target="_blank" rel="noreferrer noopener">MNIST&lt;/a> dataset on PapersWithCode
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/MNIST_database" target="_blank" rel="noreferrer noopener">MNIST&lt;/a> on Wikipedia&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2103.03386" target="_blank" rel="noreferrer noopener">Clusterability in Neural Networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~kriz/cifar.html" target="_blank" rel="noreferrer noopener">CIFAR-10&lt;/a> dataset&lt;/li>
+&lt;li>&lt;a href="https://www.effectivealtruism.org/ea-global" target="_blank" rel="noreferrer noopener">Effective Altruism Global&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openai.com/research/clip" target="_blank" rel="noreferrer noopener">CLIP&lt;/a> Blog
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/openai/CLIP" target="_blank" rel="noreferrer noopener">CLIP&lt;/a> on GitHub&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://funds.effectivealtruism.org/funds/far-future" target="_blank" rel="noreferrer noopener">Long Term Future Fund&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2211.09169" target="_blank" rel="noreferrer noopener">Engineering Monosemanticity in Toy Models&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item></channel></rss>

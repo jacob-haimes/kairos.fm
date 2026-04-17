@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>StakeOut.AI Feb 2024 | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/stakeout.ai-feb-2024/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/stakeout.ai-feb-2024/index.xml" rel="self" type="application/rss+xml"/><description>StakeOut.AI Feb 2024</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>StakeOut.AI Feb 2024</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/stakeout.ai-feb-2024/</link></image><item><title>StakeOut.AI w/ Dr. Peter Park (3)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e018/</link><pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e018/</guid><description>&lt;div style="text-align: justify">
+As always, the best things come in 3s: dimensions, musketeers, pyramids, and... 3 installments of my interview with Dr. Peter Park, an AI Existential Safety Post-doctoral Fellow working with Dr. Max Tegmark at MIT.
+&lt;p>As you may have ascertained from the previous two segments of the interview, Dr. Park cofounded &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a> along with Harry Luk and one other cofounder whose name has been removed due to requirements of her current position. The non-profit had a simple but important mission: make the adoption of AI technology go well, for humanity, but unfortunately, StakeOut.AI had to dissolve in late February of 2024 because no granter would fund them. Although it certainly is disappointing that the organization is no longer functioning, all three cofounders continue to contribute positively towards improving our world in their current roles.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/8c7eea4d">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>If you would like to investigate further into Dr. Park&amp;rsquo;s work, view his &lt;a href="https://scholar.harvard.edu/pspark" target="_blank" rel="noreferrer noopener">website&lt;/a>, &lt;a href="https://scholar.google.com/citations?user=5lMAPEoAAAAJ&amp;hl=en" target="_blank" rel="noreferrer noopener">Google Scholar&lt;/a>, or follow him on &lt;a href="https://twitter.com/dr_park_phd" target="_blank" rel="noreferrer noopener">Twitter&lt;/a>!&lt;/p>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:54 ❙ Intro&lt;br>
+00:02:41 ❙ Rapid development&lt;br>
+00:08:25 ❙ Provable safety, safety factors, &amp; CSAM&lt;br>
+00:18:50 ❙ Litigation&lt;br>
+00:23:06 ❙ Open/Closed Source&lt;br>
+00:38:52 ❙ AIxBio&lt;br>
+00:47:50 ❙ Scientific rigor in AI&lt;br>
+00:56:22 ❙ AI deception&lt;br>
+01:02:45 ❙ No takesies-backsies&lt;br>
+01:08:22 ❙ StakeOut.AI's start&lt;br>
+01:12:53 ❙ Sustainability &amp; Agency&lt;br>
+01:18:21 ❙ "I'm sold, next steps?" -you&lt;br>
+01:23:53 ❙ Lessons from the amazing Spiderman&lt;br>
+01:33:15 ❙ "I'm ready to switch careers, next steps?" -you&lt;br>
+01:40:00 ❙ The most important question&lt;br>
+01:41:11 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://futureoflife.org/wp-content/uploads/2023/11/FLI_Governance_Scorecard_and_Framework.pdf" target="_blank" rel="noreferrer noopener">AI Governance Scorecard&lt;/a> (go to Pg. 3)&lt;/li>
+&lt;li>&lt;a href="https://civitai.com" target="_blank" rel="noreferrer noopener">CIVITAI&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.404media.co/a16z-funded-ai-platform-generated-images-that-could-be-categorized-as-child-pornography-leaked-documents-show/" target="_blank" rel="noreferrer noopener">Article on CIVITAI and CSAM&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.judiciary.senate.gov/protecting-children-online" target="_blank" rel="noreferrer noopener">Senate Hearing: Protecting Children Online&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.pbs.org/newshour/politics/watch-live-ceos-of-meta-tiktok-x-and-other-social-media-companies-testify-in-senate-hearing" target="_blank" rel="noreferrer noopener">PBS Newshour Coverage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html" target="_blank" rel="noreferrer noopener">The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work&lt;/a>&lt;/li>
+&lt;li>Open Source/Weights/Release/Interpretation
+&lt;ul>
+&lt;li>&lt;a href="https://opensource.org" target="_blank" rel="noreferrer noopener">Open Source Initiative&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://opensource.org/history" target="_blank" rel="noreferrer noopener">History of the OSI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://opensource.org/blog/metas-llama-2-license-is-not-open-source" target="_blank" rel="noreferrer noopener">Meta’s LLaMa 2 license is not Open Source&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://opensourceconnections.com/blog/2023/07/19/is-llama-2-open-source-no-and-perhaps-we-need-a-new-definition-of-open/" target="_blank" rel="noreferrer noopener">Is Llama 2 open source? No – and perhaps we need a new definition of open…&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noreferrer noopener">Apache License, Version 2.0&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.3blue1brown.com/topics/neural-networks" target="_blank" rel="noreferrer noopener">3Blue1Brown: Neural Networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3571884.3604316" target="_blank" rel="noreferrer noopener">Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators&lt;/a>
+&lt;ul>
+&lt;li>The online &lt;a href="https://opening-up-chatgpt.github.io" target="_blank" rel="noreferrer noopener">table&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.signal.org" target="_blank" rel="noreferrer noopener">Signal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/bigscience/bloomz" target="_blank" rel="noreferrer noopener">Bloomz&lt;/a> model on HuggingFace&lt;/li>
+&lt;li>&lt;a href="https://mistral.ai" target="_blank" rel="noreferrer noopener">Mistral&lt;/a> website&lt;/li>
+&lt;li>NASA Tragedies
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank" rel="noreferrer noopener">Challenger disaster&lt;/a> on Wikipedia&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster" target="_blank" rel="noreferrer noopener">Columbia disaster&lt;/a> on Wikipedia&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>AIxBio Risk
+&lt;ul>
+&lt;li>&lt;a href="https://www.nature.com/articles/s42256-022-00465-9" target="_blank" rel="noreferrer noopener">Dual use of artificial-intelligence-powered drug discovery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2306.03809" target="_blank" rel="noreferrer noopener">Can large language models democratize access to dual-use biotechnology?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models" target="_blank" rel="noreferrer noopener">Open-Sourcing Highly Capable Foundation Models&lt;/a> &lt;em>(sadly, I can&amp;rsquo;t rename the article&amp;hellip;)&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://1a3orn.com/sub/essays-propaganda-or-science.html" target="_blank" rel="noreferrer noopener">Propaganda or Science: Open Source AI and Bioterrorism Risk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ineffectivealtruismblog.com/2024/03/09/exaggerating-the-risks-part-14-biorisk-from-llms/" target="_blank" rel="noreferrer noopener">Exaggerating the risks (Part 15: Biorisk from LLMs)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.18233" target="_blank" rel="noreferrer noopener">Will releasing the weights of future large language models grant widespread access to pandemic agents?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://crfm.stanford.edu/open-fms/" target="_blank" rel="noreferrer noopener">On the Societal Impact of Open Foundation Models&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://hai.stanford.edu/sites/default/files/2023-12/Governing-Open-Foundation-Models.pdf" target="_blank" rel="noreferrer noopener">Policy brief&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.apartresearch.com" target="_blank" rel="noreferrer noopener">Apart Research&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.science.org" target="_blank" rel="noreferrer noopener">Science&lt;/a>&lt;/li>
+&lt;li>Cicero
+&lt;ul>
+&lt;li>&lt;a href="https://www.science.org/doi/10.1126/science.ade9097" target="_blank" rel="noreferrer noopener">Human-level play in the game of Diplomacy by combining language models with strategic reasoning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ai.meta.com/research/cicero/" target="_blank" rel="noreferrer noopener">Cicero&lt;/a> webpage&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2308.14752" target="_blank" rel="noreferrer noopener">AI Deception: A Survey of Examples, Risks, and Potential Solutions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://demos.co.uk/research/open-sourcing-the-ai-revolution-framing-the-debate-on-open-source-artificial-intelligence-and-regulation/" target="_blank" rel="noreferrer noopener">Open Sourcing the AI Revolution: Framing the debate on open source, artificial intelligence and regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>StakeOut.AI w/ Dr. Peter Park (2)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e017/</link><pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e017/</guid><description>&lt;div style="text-align: justify">
+Join me for round 2 with Dr. Peter Park, an AI Existential Safety Postdoctoral Fellow working with Dr. Max Tegmark at MIT. Dr. Park was a cofounder of &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>, a non-profit focused on making AI go well &lt;i>for humans&lt;/i>, along with Harry Luk and one other individual, whose name has been removed due to requirements of her current position.
+&lt;p>In addition to the normal links, I wanted to include the links to the petitions that Dr. Park mentions during the podcast. Note that the nonprofit which began these petitions, StakeOut.AI, has been dissolved.&lt;/p>
+&lt;/div>
+&lt;p>&lt;a href="https://www.change.org/p/right-ai-laws-to-right-our-future-support-artificial-intelligence-safety-regulations-now" target="_blank" rel="noreferrer noopener">Right AI Laws, to Right Our Future: Support Artificial Intelligence Safety Regulations Now&lt;/a>&lt;br>
+&lt;a href="https://www.change.org/p/is-deepfake-illegal-not-yet-ban-deepfakes-to-protect-your-family-demand-deepfake-laws" target="_blank" rel="noreferrer noopener">Is Deepfake Illegal? Not Yet! Ban Deepfakes to Protect Your Family &amp;amp; Demand Deepfake Laws&lt;/a>&lt;br>
+&lt;a href="https://www.change.org/p/ban-superintelligence-stop-ai-driven-human-extinction-risk" target="_blank" rel="noreferrer noopener">Ban Superintelligence: Stop AI-Driven Human Extinction Risk&lt;/a>&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/58dfc367">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:54 ❙ Intro&lt;br>
+00:02:34 ❙ Battleground 1: Copyright&lt;br>
+00:06:28 ❙ Battleground 2: Moral Critique of AI Collaborationists&lt;br>
+00:08:15 ❙ Rich Sutton&lt;br>
+00:20:41 ❙ OpenAI &lt;i>Drama&lt;/i>&lt;br>
+00:34:28 ❙ Battleground 3: Contract Negotiations for AI Ban Clauses&lt;br>
+00:37:57 ❙ Tesla, Autopilot, and FSD&lt;br>
+00:40:02 ❙ Recycling&lt;br>
+00:47:40 ❙ Battleground 4: New Laws and Policies&lt;br>
+00:50:00 ❙ Battleground 5: Whistleblower Protections&lt;br>
+00:53:07 ❙ Whistleblowing on Microsoft&lt;br>
+00:54:43 ❙ Andrej Karpathy &amp; Exercises in Empathy&lt;br>
+01:05:57 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html" target="_blank" rel="noreferrer noopener">The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.susmangodfrey.com" target="_blank" rel="noreferrer noopener">Susman Godfrey LLP&lt;/a>&lt;/li>
+&lt;li>Rich Sutton
+&lt;ul>
+&lt;li>WARNING HTTP LINK: &lt;a href="http://incompleteideas.net/book/RLbook2020trimmed.pdf" target="_blank" rel="noreferrer noopener">Reinforcement Learning: An Introduction&lt;/a> (textbook)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=NgHFMolXs3U" target="_blank" rel="noreferrer noopener">AI Succession&lt;/a> (presentation by Rich Sutton)&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2208.11173" target="_blank" rel="noreferrer noopener">The Alberta Plan for AI Research&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Moore&amp;rsquo;s Law
+&lt;ul>
+&lt;li>&lt;a href="https://www.computerhistory.org/collections/catalog/102770836" target="_blank" rel="noreferrer noopener">The Future of Integrated Electronics&lt;/a> (original paper)&lt;/li>
+&lt;li>&lt;a href="https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits/" target="_blank" rel="noreferrer noopener">Computer History Museum&amp;rsquo;s entry on Moore&amp;rsquo;s Law&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent" target="_blank" rel="noreferrer noopener">Stochastic gradient descent (SGD)&lt;/a> on Wikipedia&lt;/li>
+&lt;li>OpenAI &lt;em>Drama&lt;/em>
+&lt;ul>
+&lt;li>&lt;a href="https://maxread.substack.com/p/the-interested-normies-guide-to-openai" target="_blank" rel="noreferrer noopener">Max Read&amp;rsquo;s Substack post&lt;/a>&lt;/li>
+&lt;li>Zvi Mowshowitz&amp;rsquo;s Substack series, in order of posting
+&lt;ul>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-facts-from-a-weekend?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Facts from a Weekend&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-the-battle-of-the-board?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: The Battle of the Board&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-altman-returns?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Altman Returns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-leaks-confirm-the-story?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Leaks Confirm the Story&lt;/a> ← best singular post in the series&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-the-board-expands?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: The Board Expands&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://openai.com/blog/openai-announces-new-members-to-board-of-directors" target="_blank" rel="noreferrer noopener">Official OpenAI announcement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Writers_Guild_of_America" target="_blank" rel="noreferrer noopener">WGA&lt;/a> on Wikipedia&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/SAG-AFTRA" target="_blank" rel="noreferrer noopener">SAG-AFTRA&lt;/a> on Wikipedia&lt;/li>
+&lt;li>Tesla&amp;rsquo;s False Advertising
+&lt;ul>
+&lt;li>&lt;a href="https://www.latimes.com/business/story/2023-12-11/tesla-dmv-false-advertising-charges" target="_blank" rel="noreferrer noopener">Tesla&amp;rsquo;s response to the DMV&amp;rsquo;s false-advertising allegations: What took so long?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.caranddriver.com/news/a35785277/tesla-fsd-california-self-driving/" target="_blank" rel="noreferrer noopener">Tesla Tells California DMV that FSD Is Not Capable of Autonomous Driving&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.caranddriver.com/features/columns/a35769759/carty-self-driving-cars/" target="_blank" rel="noreferrer noopener">What to Call Full Self-Driving When It Isn&amp;rsquo;t Full Self-Driving?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cnbc.com/2022/03/15/tesla-fired-employee-who-posted-fsd-beta-videos-as-ai-addict-on-youtube.html" target="_blank" rel="noreferrer noopener">Tesla fired an employee after he posted driverless tech reviews on YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noreferrer noopener">Tesla&amp;rsquo;s page&lt;/a> on Autopilot and Full Self-Driving&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Recycling
+&lt;ul>
+&lt;li>&lt;a href="https://www.longmontleader.com/regional-news/boulder-county-recycling-center-stockpiles-accurately-sorted-recyclable-materials-2385879" target="_blank" rel="noreferrer noopener">Boulder County Recycling Center Stockpiles Accurately Sorted Recyclable Materials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://boulderweekly.com/news/out-of-sight-out-of-mind/" target="_blank" rel="noreferrer noopener">Out of sight, out of mind&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ecocycle.org/content/uploads/2022/06/2024-Recycling-Guidelines-for-Boulder-County.pdf" target="_blank" rel="noreferrer noopener">Boulder Eco-Cycle Recycling Guidelines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.06009" target="_blank" rel="noreferrer noopener">Divide-and-Conquer Dynamics in AI-Driven Disempowerment&lt;/a>&lt;/li>
+&lt;li>Microsoft Whistleblower
+&lt;ul>
+&lt;li>&lt;a href="https://www.axios.com/2024/03/08/ai-whistleblowers-microsoft-copilot-designer-google-gemini" target="_blank" rel="noreferrer noopener">Whistleblowers call out AI&amp;rsquo;s flaws&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7171135079702753280/" target="_blank" rel="noreferrer noopener">Shane&amp;rsquo;s LinkedIn post&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://media.licdn.com/dms/document/media/D561FAQFfYnpLbIn2Xg/feedshare-document-pdf-analyzed/0/1709731400675?e=1711584000&amp;v=beta&amp;t=W3CLljNWJ8YCQSEuMCR9bt7UoIxsGo24Epj9GddfN8U" target="_blank" rel="noreferrer noopener">Letters sent by Jones&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/karpathy/status/1757600075281547344" target="_blank" rel="noreferrer noopener">Karpathy announces departure from OpenAI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>StakeOut.AI w/ Dr. Peter Park (1)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e015/</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e015/</guid><description>&lt;div style="text-align: justify">
+Dr. Peter Park is an AI Existential Safety Postdoctoral Fellow working with Dr. Max Tegmark at MIT. In conjunction with Harry Luk and one other cofounder, he founded &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>, a non-profit focused on making AI go well _for humans_.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/81a6fb5c">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:54 ❙ Intro&lt;br>
+03:15 ❙ Dr. Park, x-risk, and AGI&lt;br>
+08:55 ❙ StakeOut.AI&lt;br>
+12:05 ❙ Governance scorecard&lt;br>
+19:34 ❙ Hollywood webinar&lt;br>
+22:02 ❙ Regulations.gov comments&lt;br>
+23:48 ❙ Open letters &lt;br>
+26:15 ❙ EU AI Act&lt;br>
+35:07 ❙ Effective accelerationism&lt;br>
+40:50 ❙ Divide and conquer dynamics&lt;br>
+45:40 ❙ AI "art"&lt;br>
+53:09 ❙ Outro
+&lt;/div>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://futureoflife.org/wp-content/uploads/2023/11/FLI_Governance_Scorecard_and_Framework.pdf" target="_blank" rel="noreferrer noopener">AI Governance Scorecard&lt;/a> (go to Pg. 3)&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.regulations.gov" target="_blank" rel="noreferrer noopener">Regulations.gov&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.regulations.gov/comment/COLC-2023-0006-10077" target="_blank" rel="noreferrer noopener">USCO StakeOut.AI Comment&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.regulations.gov/comment/OMB-2023-0020-0170" target="_blank" rel="noreferrer noopener">OMB StakeOut.AI Comment&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://aitreaty.org" target="_blank" rel="noreferrer noopener">AI Treaty open letter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://taisc.org" target="_blank" rel="noreferrer noopener">TAISC&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" target="_blank" rel="noreferrer noopener">Alpaca: A Strong, Replicable Instruction-Following Model&lt;/a>&lt;/li>
+&lt;li>References on EU AI Act and Cedric O
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/cedric_o/status/1728724005459235052" target="_blank" rel="noreferrer noopener">Tweet from Cedric O&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/eu-policymakers-enter-the-last-mile-for-artificial-intelligence-rulebook/" target="_blank" rel="noreferrer noopener">EU policymakers enter the last mile for Artificial Intelligence rulebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/ai-act-eu-parliaments-legal-office-gives-damning-opinion-on-high-risk-classification-filters/" target="_blank" rel="noreferrer noopener">AI Act: EU Parliament’s legal office gives damning opinion on high-risk classification ‘filters’&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/eus-ai-act-negotiations-hit-the-brakes-over-foundation-models/" target="_blank" rel="noreferrer noopener">EU’s AI Act negotiations hit the brakes over foundation models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.foundation-models.eu" target="_blank" rel="noreferrer noopener">The EU AI Act needs Foundation Model Regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/" target="_blank" rel="noreferrer noopener">BigTech’s Efforts to Derail the AI Act&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://demos.co.uk/research/open-sourcing-the-ai-revolution-framing-the-debate-on-open-source-artificial-intelligence-and-regulation/" target="_blank" rel="noreferrer noopener">Open Sourcing the AI Revolution: Framing the debate on open source, artificial intelligence and regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.06009" target="_blank" rel="noreferrer noopener">Divide-and-Conquer Dynamics in AI-Driven Disempowerment&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item></channel></rss>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AIxBusiness | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/aixbusiness/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/aixbusiness/index.xml" rel="self" type="application/rss+xml"/><description>AIxBusiness</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>AIxBusiness</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/aixbusiness/</link></image><item><title>Tech Bros Love AI Waifus</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e018/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e018/</guid><description>&lt;div style="text-align: justify">
+OpenAI is pivoting to porn while public sentiment turns decisively against AI. Pew Research shows Americans are now concerned over excited by a 2:1 margin. We trace how we got here: broken promises of cancer cures replaced by addiction mechanics and expensive APIs. Meanwhile, data centers are hiding a near-recession, straining power grids, and literally breaking your household appliances. Drawing parallels to the 1970s AI winter, we argue the bubble is shaking and needs to pop now, before it becomes another 2008. The good news? Grassroots resistance works. Protests have already blocked $64 billion in data center projects.
+&lt;p>NOTE: The project that we cite for the $64 billion blockage is actually a pro-data-center campaign. The numbers still seem ok, but it&amp;rsquo;s worth being aware of.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/e54d3007">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.11.16; &lt;a href="https://share.transistor.fm/s/e54d3007/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00 ❙ Introduction&lt;br>
+06:45 ❙ The Addiction Business Model&lt;br>
+10:15 ❙ Public Sentiment Data&lt;br>
+22:45 ❙ Data Centers and Infrastructure Problems&lt;br>
+36:30 ❙ The Bubble Discussion&lt;br>
+44:36 ❙ Closing Thoughts &amp; Outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="public-sentiment-on-ai">Public Sentiment on AI&lt;/h3>
+&lt;ul>
+&lt;li>Pew Research &lt;a href="https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/" target="_blank" rel="noopener">report&lt;/a> - How People Around the World View AI&lt;/li>
+&lt;li>Pew Research &lt;a href="https://www.pewresearch.org/internet/2025/04/03/how-the-us-public-and-ai-experts-view-artificial-intelligence/" target="_blank" rel="noopener">report&lt;/a> - How the U.S. Public and AI Experts View Artificial Intelligence&lt;/li>
+&lt;li>Pew Research &lt;a href="https://www.pewresearch.org/science/2025/09/17/how-americans-view-ai-and-its-impact-on-people-and-society/" target="_blank" rel="noopener">report&lt;/a> - How Americans View AI and Its Impact on People and Society&lt;/li>
+&lt;li>University of Toronto &lt;a href="https://srinstitute.utoronto.ca/public-opinion-ai" target="_blank" rel="noopener">report&lt;/a> - Trust, attitudes and use of artificial intelligence: A global study 2025&lt;/li>
+&lt;li>Melbourne Business School &lt;a href="https://mbs.edu/faculty-and-research/trust-and-ai/key-findings-on-public-attitudes-towards-ai" target="_blank" rel="noopener">report&lt;/a> - Key findings on public attitudes towards AI&lt;/li>
+&lt;li>The Washington Post &lt;a href="https://www.washingtonpost.com/technology/2025/10/07/ai-public-opinion-mistrust/" target="_blank" rel="noopener">article&lt;/a> - Americans have become more pessimistic about AI. Why?&lt;/li>
+&lt;li>The New York Times &lt;a href="https://www.nytimes.com/2025/10/20/technology/ai-data-center-backlash-mexico-ireland.html" target="_blank" rel="noopener">article&lt;/a> - From Mexico to Ireland, Fury Mounts Over a Global A.I. Frenzy&lt;/li>
+&lt;li>The Guardian &lt;a href="https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick" target="_blank" rel="noopener">article&lt;/a> - ‘It shows such a laziness’: why I refuse to date someone who uses ChatGPT&lt;/li>
+&lt;li>The Register &lt;a href="https://www.theregister.com/2025/10/15/openais_chatgpt_popular_few_pay/" target="_blank" rel="noopener">article&lt;/a> - OpenAI&amp;rsquo;s ChatGPT is so popular that almost no one will pay for it&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai-and-claims-of-curing-cancer">AI and Claims of Curing Cancer&lt;/h3>
+&lt;ul>
+&lt;li>Rachel Thomas, PhD &lt;a href="https://rachel.fast.ai/posts/2024-02-20-ai-medicine/" target="_blank" rel="noopener">blogpost&lt;/a> - “AI will cure cancer” misunderstands both AI and medicine&lt;/li>
+&lt;li>The Atlantic &lt;a href="https://www.theatlantic.com/technology/2025/10/openai-chatgpt-atlas-web-browser/684662/" target="_blank" rel="noopener">article&lt;/a> - OpenAI Wants to Cure Cancer. So Why Did It Make a Web Browser?&lt;/li>
+&lt;li>Independent &lt;a href="https://www.independent.co.uk/tech/chatgpt-ai-cancer-cure-sam-altman-b2832612.html" target="_blank" rel="noopener">article&lt;/a> - ChatGPT boss predicts when AI could cure cancer&lt;/li>
+&lt;li>The Atlantic &lt;a href="https://www.theatlantic.com/technology/archive/2025/04/how-ai-will-actually-contribute-cancer-cure/682607/" target="_blank" rel="noopener">article&lt;/a> - AI Executives Promise Cancer Cures. Here’s the Reality&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai-porn-and-the-addiction-economy">AI Porn and the Addiction Economy&lt;/h3>
+&lt;ul>
+&lt;li>Forbes &lt;a href="https://www.forbes.com/sites/tylerroush/2025/10/14/chatgpt-will-allow-erotica-after-easing-mental-health-restrictions-sam-altman-says/" target="_blank" rel="noopener">article&lt;/a> - ChatGPT Will Allow ‘Erotica’ After Easing Mental Health Restrictions, Sam Altman Says&lt;/li>
+&lt;li>The Addiction Economy &lt;a href="https://www.theaddictioneconomy.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>PPC &lt;a href="https://searchengineland.com/openai-staffing-chatgpt-ad-platform-462554" target="_blank" rel="noopener">article&lt;/a> - OpenAI is staffing up to turn ChatGPT into an ad platform&lt;/li>
+&lt;li>Tom Nicholas &lt;a href="https://www.youtube.com/watch?v=XuTQbOo3Y30" target="_blank" rel="noopener">video&lt;/a> - Vape-o-nomics: Why Everything is Addictive Now&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai-bubble">AI Bubble&lt;/h3>
+&lt;ul>
+&lt;li>Fast Company &lt;a href="https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon" target="_blank" rel="noopener">article&lt;/a> - AI isn’t replacing jobs. AI spending is&lt;/li>
+&lt;li>Pivot to AI &lt;a href="https://pivot-to-ai.com/2025/09/28/the-finance-press-finally-starts-talking-about-the-ai-bubble/" target="_blank" rel="noopener">article&lt;/a> - The finance press finally starts talking about the ‘AI bubble’&lt;/li>
+&lt;li>Fortune &lt;a href="https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/" target="_blank" rel="noopener">article&lt;/a> - Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says&lt;/li>
+&lt;li>The Atlantic &lt;a href="https://www.theatlantic.com/economy/archive/2025/09/ai-bubble-us-economy/684128/" target="_blank" rel="noopener">article&lt;/a> - Just How Bad Would an AI Bubble Be?&lt;/li>
+&lt;li>The New York Times &lt;a href="https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html" target="_blank" rel="noopener">article&lt;/a> - Debt Has Entered the A.I. Boom&lt;/li>
+&lt;li>Will Lockett&amp;rsquo;s Newsletter &lt;a href="https://www.planetearthandbeyond.co/p/ai-pullback-has-officially-started" target="_blank" rel="noopener">article&lt;/a> - AI Pullback Has Officially Started&lt;/li>
+&lt;li>Reuters &lt;a href="https://www.reuters.com/sustainability/sustainable-finance-reporting/michael-burry-big-short-fame-deregisters-scion-asset-management-2025-11-13/" target="_blank" rel="noopener">article&lt;/a> - Michael Burry of &amp;lsquo;Big Short&amp;rsquo; fame is closing his hedge fund&lt;/li>
+&lt;li>Business Insider &lt;a href="https://www.businessinsider.com/jim-chanos-shorted-enron-warning-ai-boom-2025-8" target="_blank" rel="noopener">article&lt;/a> - The guy who shorted Enron has a warning about the AI boom&lt;/li>
+&lt;/ul>
+&lt;h3 id="datacenters">Datacenters&lt;/h3>
+&lt;ul>
+&lt;li>Bloomberg &lt;a href="https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/" target="_blank" rel="noopener">article&lt;/a> - AI Needs So Much Power, It’s Making Yours Worse&lt;/li>
+&lt;li>Data Center Watch &lt;a href="https://www.datacenterwatch.org/report" target="_blank" rel="noopener">report&lt;/a> - $64 billion of data center projects have been blocked or delayed amid local opposition&lt;/li>
+&lt;li>More Perfect Union &lt;a href="https://m.youtube.com/watch?v=YN6BEUA4jNU&amp;amp;pp=0gcJCR4Bo7VqN5tD" target="_blank" rel="noopener">video&lt;/a> - We Found the Hidden Cost of Data Centers. It&amp;rsquo;s in Your Electric Bill&lt;/li>
+&lt;li>DataCenter Knowledge &lt;a href="https://www.datacenterknowledge.com/data-center-construction/why-communities-are-protesting-data-centers-and-how-the-industry-can-respond" target="_blank" rel="noopener">article&lt;/a> - Why Communities Are Protesting Data Centers – And How the Industry Can Respond&lt;/li>
+&lt;/ul>
+&lt;h3 id="fighting-back">Fighting Back&lt;/h3>
+&lt;ul>
+&lt;li>Knight First Amendment Institute &lt;a href="https://knightcolumbia.org/content/ai-as-normal-technology" target="_blank" rel="noopener">essay&lt;/a> - AI as Normal Technology&lt;/li>
+&lt;li>Pranksters vs. Autocrats &lt;a href="https://www.jstor.org/stable/10.7591/j.ctv310vjt0.6?seq=1" target="_blank" rel="noopener">chapter&lt;/a> - Laughtivism: The Secret Ingredient&lt;/li>
+&lt;li>SPSP &lt;a href="https://spsp.org/news-center/character-context-blog/playing-power-humor-everyday-resistance" target="_blank" rel="noopener">article&lt;/a> - Playing with Power: Humor as Everyday Resistance&lt;/li>
+&lt;li>Blood in the Machine &lt;a href="https://www.bloodinthemachine.com/p/the-luddite-renaissance-is-in-full" target="_blank" rel="noopener">article&lt;/a> - The Luddite Renaissance is in full swing&lt;/li>
+&lt;/ul></description></item><item><title>Breaking Down the Economics of AI</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e013/</link><pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e013/</guid><description>&lt;div style="text-align: justify">
+&lt;p>Jacob and Igor tackle the wild claims about AI&amp;rsquo;s economic impact by examining three main clusters of arguments: automating expensive tasks like programming, removing &amp;ldquo;cost centers&amp;rdquo; like call centers and corporate art, and claims of explosive growth. They dig into the actual data, debunk the hype, and explain why most productivity claims don&amp;rsquo;t hold up in practice. Plus: MIT denounces a paper with fabricated data, and Grok randomly promotes white genocide myths.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/baa6d229">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.05.17&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00 ❙ Recording date&lt;br>
+00:52 ❙ MIT denounces paper&lt;br>
+04:09 ❙ Grok's white genocide&lt;br>
+06:23 ❙ Butthole convergence&lt;br>
+07:13 ❙ AI and the economy&lt;br>
+14:50 ❙ Automating profit centers&lt;br>
+29:46 ❙ Removing the last cost centers&lt;br>
+47:16 ❙ "This time is different" (explosive growth)&lt;br>
+57:55 ❙ Alpha Evolve, optimization, and slippage
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>University of Chicago &lt;a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219933" target="_blank" rel="noopener">working paper&lt;/a> - Large Language Models, Small Labor Market Effects&lt;/li>
+&lt;li>OECD &lt;a href="https://www.oecd.org/en/publications/miracle-or-myth-assessing-the-macroeconomic-productivity-gains-from-artificial-intelligence_b524a072-en.html" target="_blank" rel="noopener">working paper&lt;/a> - Miracle or Myth? Assessing the macroeconomic productivity gains from Artificial Intelligence&lt;/li>
+&lt;li>Epoch AI &lt;a href="https://epoch.ai/blog/explosive-growth-from-ai-a-review-of-the-arguments" target="_blank" rel="noopener">blogpost&lt;/a> - Explosive Growth from AI: A Review of the Arguments&lt;/li>
+&lt;li>Business Insider &lt;a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3" target="_blank" rel="noopener">article&lt;/a> - Anthropic CEO: AI Will Be Writing 90% of Code in 3 to 6 Months&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2306.02519" target="_blank" rel="noopener">Preprint&lt;/a> - Transformative AGI by 2043 is &amp;lt;1% likely&lt;/li>
+&lt;/ul>
+&lt;h3 id="automating-profit-centers">Automating profit centers&lt;/h3>
+&lt;ul>
+&lt;li>Pivot to AI &lt;a href="https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/" target="_blank" rel="noopener">blogpost&lt;/a> - If AI is so good at coding … where are the open source contributions?&lt;/li>
+&lt;li>Ben Evans&amp;rsquo; &lt;a href="https://mastodon.social/@kittylyst/114397697851381604" target="_blank" rel="noopener">Mastodon post&lt;/a> - &amp;ldquo;Show me the pull requests&amp;rdquo;&lt;/li>
+&lt;li>NY Times &lt;a href="https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html#:~:text=Nine%20years%20ago%2C%20one%20of,outperform%20humans%20in%20that%20field" target="_blank" rel="noopener">article&lt;/a> - Your A.I. Radiologist Will Not Be With You Soon&lt;/li>
+&lt;li>FastCompany &lt;a href="https://www.fastcompany.com/91325384/companies-adopting-ai-first-strategies-environmental-impact-duolingo-shopify" target="_blank" rel="noopener">article&lt;/a> - More companies are adopting &amp;lsquo;AI-first&amp;rsquo; strategies. Here&amp;rsquo;s how it could impact the environment&lt;/li>
+&lt;li>Forbes &lt;a href="https://www.forbes.com/sites/quickerbettertech/2025/04/13/business-tech-news-shopify-ceo-says-ai-first-before-employees/" target="_blank" rel="noopener">article&lt;/a> - Business Tech News: Shopify CEO Says AI First Before Employees&lt;/li>
+&lt;li>Newsroom &lt;a href="https://newsroom.ibm.com/2025-05-06-ibm-study-ceos-double-down-on-ai-while-navigating-enterprise-hurdles" target="_blank" rel="noopener">article&lt;/a> - IBM Study: CEOs Double Down on AI While Navigating Enterprise Hurdles&lt;/li>
+&lt;li>PNAS &lt;a href="https://www.pnas.org/doi/10.1073/pnas.2426766122" target="_blank" rel="noopener">research article&lt;/a> - Evidence of a social evaluation penalty for using AI&lt;/li>
+&lt;li>Ars Technica &lt;a href="https://arstechnica.com/ai/2025/05/ai-use-damages-professional-reputation-study-suggests/" target="_blank" rel="noopener">article&lt;/a> - AI use damages professional reputation, study suggests&lt;/li>
+&lt;/ul>
+&lt;h3 id="removing-cost-centers">Removing cost centers&lt;/h3>
+&lt;ul>
+&lt;li>The Register &lt;a href="https://www.theregister.com/2025/05/15/anthopics_law_firm_blames_claude_hallucinations/" target="_blank" rel="noopener">article&lt;/a> - Anthopic&amp;rsquo;s law firm blames Claude hallucinations for errors&lt;/li>
+&lt;li>Fortune &lt;a href="https://fortune.com/2025/05/09/klarna-ai-humans-return-on-investment/" target="_blank" rel="noopener">article&lt;/a> - Klarna plans to hire humans again, as new landmark survey reveals most AI projects fail to deliver&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/The_Market_for_Lemons" target="_blank" rel="noopener">article&lt;/a> - The Market for Lemons&lt;/li>
+&lt;/ul>
+&lt;h3 id="alphaevolve">AlphaEvolve&lt;/h3>
+&lt;ul>
+&lt;li>Deepmind &lt;a href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener">press release&lt;/a> - AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms&lt;/li>
+&lt;li>Deepmind &lt;a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf" target="_blank" rel="noopener">white paper&lt;/a> - AlphaEvolve: A coding agent for scientific and
+algorithmic discovery&lt;/li>
+&lt;/ul>
+&lt;h3 id="off-topic">Off topic&lt;/h3>
+&lt;ul>
+&lt;li>VelvetShark &lt;a href="https://velvetshark.com/ai-company-logos-that-look-like-buttholes" target="_blank" rel="noopener">blogpost&lt;/a> - Why do AI company logos look like buttholes?&lt;/li>
+&lt;li>MIT Economics &lt;a href="https://economics.mit.edu/news/assuring-accurate-research-record" target="_blank" rel="noopener">press release&lt;/a> - Assuring an accurate research record&lt;/li>
+&lt;li>Pivot to AI &lt;a href="https://pivot-to-ai.com/2025/05/17/how-to-make-a-splash-in-ai-economics-fake-your-data/" target="_blank" rel="noopener">blogpost&lt;/a> - How to make a splash in AI economics: fake your data&lt;/li>
+&lt;li>Pivot to AI &lt;a href="https://pivot-to-ai.com/2025/05/15/even-elon-musk-cant-make-grok-claim-a-white-genocide-in-south-africa/" target="_blank" rel="noopener">blogpost&lt;/a> - Even Elon Musk can’t make Grok claim a ‘white genocide’ in South Africa&lt;/li>
+&lt;/ul></description></item><item><title>The End of Scaling?</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e007/</link><pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e007/</guid><description>&lt;div style="text-align: justify">
+&lt;p>Multiple news outlets, including The Information, Bloomberg, and Reuters [see sources] are reporting an &amp;ldquo;end of scaling&amp;rdquo; for the current AI paradigm. In this episode we look into these articles, as well as a wide variety of economic forecasting, empirical analysis, and technical papers to understand the validity, and impact of these reports. We also use this as an opportunity to contextualize the realized versus promised fruits of &amp;ldquo;AI&amp;rdquo;.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/48619337">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:00:23 ❙ Hot off the press&lt;br>
+00:01:49 ❙ The end of scaling&lt;br>
+00:10:50 ❙ "Useful tools" and "agentic" "AI"&lt;br>
+00:17:19 ❙ The end of quantization&lt;br>
+00:25:18 ❙ Hedging&lt;br>
+00:29:41 ❙ The end of upwards mobility&lt;br>
+00:33:12 ❙ How to grow an economy&lt;br>
+00:38:14 ❙ Transformative &amp; disruptive tech&lt;br>
+00:49:19 ❙ Finding the meaning&lt;br>
+00:56:14 ❙ Bursting AI bubble and Trump&lt;br>
+01:00:58 ❙ The muck
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>The Information &lt;a href="https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows?rc=tgppn6" target="_blank" rel="noopener">article&lt;/a> - OpenAI Shifts Strategy as Rate of ‘GPT’ AI Improvements Slows&lt;/li>
+&lt;li>Bloomberg [article] - OpenAI, Google and Anthropic Are Struggling to Build More Advanced AI&lt;/li>
+&lt;li>Reuters &lt;a href="https://www.reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11/" target="_blank" rel="noopener">article&lt;/a> - OpenAI and others seek new path to smarter AI as current methods hit limitations&lt;/li>
+&lt;li>Paper on the end of quantization - &lt;a href="https://arxiv.org/abs/2411.04330" target="_blank" rel="noopener">Scaling Laws for Precision&lt;/a>&lt;/li>
+&lt;li>Tim Dettmers &lt;a href="https://x.com/Tim_Dettmers/status/1856338240099221674" target="_blank" rel="noopener">Tweet&lt;/a> on &amp;ldquo;Scaling Laws for Precision&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="empirical-analysis">Empirical Analysis&lt;/h3>
+&lt;ul>
+&lt;li>WU Vienna &lt;a href="https://research.wu.ac.at/en/publications/unslicing-the-pie-ai-innovation-and-the-labor-share-in-european-r" target="_blank" rel="noopener">paper&lt;/a> - Unslicing the pie: AI innovation and the labor share in European regions&lt;/li>
+&lt;li>IMF &lt;a href="https://www.imf.org/en/Publications/WP/Issues/2024/09/13/The-Labor-Market-Impact-of-Artificial-Intelligence-Evidence-from-US-Regions-554845" target="_blank" rel="noopener">paper&lt;/a> - The Labor Market Impact of Artificial Intelligence: Evidence from US Regions&lt;/li>
+&lt;li>NBER &lt;a href="https://www.nber.org/papers/w32655" target="_blank" rel="noopener">paper&lt;/a> - Automation, Career Values, and Political Preferences&lt;/li>
+&lt;li>Pew Research Center &lt;a href="https://www.pewresearch.org/social-trends/2023/07/26/which-u-s-workers-are-more-exposed-to-ai-on-their-jobs/" target="_blank" rel="noopener">report&lt;/a> - Which U.S. Workers Are More Exposed to AI on Their Jobs?&lt;/li>
+&lt;/ul>
+&lt;h3 id="forecasting">Forecasting&lt;/h3>
+&lt;ul>
+&lt;li>NBER/Acemoglu &lt;a href="https://www.nber.org/papers/w32487" target="_blank" rel="noopener">paper&lt;/a> - The Simple Macroeconomics of AI&lt;/li>
+&lt;li>NBER/Acemoglu &lt;a href="https://www.nber.org/papers/w29247" target="_blank" rel="noopener">paper&lt;/a> - Harms of AI&lt;/li>
+&lt;li>IMF &lt;a href="https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379?cid=bl-com-SDNEA2024001" target="_blank" rel="noopener">report&lt;/a> - Gen-AI: Artificial Intelligence and the Future of Work&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2306.02519" target="_blank" rel="noopener">Submission&lt;/a> to Open Philanthropy AI Worldviews Contest - Transformative AGI by 2043 is &amp;lt;1% likely&lt;/li>
+&lt;/ul>
+&lt;h3 id="externalities-and-the-bursting-bubble">Externalities and the Bursting Bubble&lt;/h3>
+&lt;ul>
+&lt;li>NBER &lt;a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=226909" target="_blank" rel="noopener">paper&lt;/a> - Bubbles, Rational Expectations and Financial Markets&lt;/li>
+&lt;li>Clayton Christensen &lt;a href="https://www.youtube.com/watch?v=rpkoCZ4vBSI" target="_blank" rel="noopener">lecture capture&lt;/a> - Clayton Christensen: Disruptive innovation&lt;/li>
+&lt;li>The New Republic &lt;a href="https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction" target="_blank" rel="noopener">article&lt;/a> - The “Godfather of AI” Predicted I Wouldn’t Have a Job. He Was Wrong.&lt;/li>
+&lt;li>Latent Space &lt;a href="https://www.latent.space/p/gpu-bubble" target="_blank" rel="noopener">article&lt;/a> - $2 H100s: How the GPU Rental Bubble Burst&lt;/li>
+&lt;/ul>
+&lt;h3 id="on-productization">On Productization&lt;/h3>
+&lt;ul>
+&lt;li>Palantir &lt;a href="https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/" target="_blank" rel="noopener">press release&lt;/a> on introduction of Claude to US security and defense&lt;/li>
+&lt;li>Ars Technica &lt;a href="https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/" target="_blank" rel="noopener">article&lt;/a> - Claude AI to process secret government data through new Palantir deal&lt;/li>
+&lt;li>OpenAI &lt;a href="https://openai.com/index/conde-nast/" target="_blank" rel="noopener">press release&lt;/a> on partnering with Condé Nast&lt;/li>
+&lt;li>Candid Technology &lt;a href="https://candid.technology/shutterstock-getty-images-partner-openai-bria/" target="_blank" rel="noopener">article&lt;/a> - Shutterstock and Getty partner with OpenAI and BRIA&lt;/li>
+&lt;li>&lt;a href="https://e2b.dev/" target="_blank" rel="noopener">E2B&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.stripe.com/agents" target="_blank" rel="noopener">Stripe agents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://robopair.org/" target="_blank" rel="noopener">Robopair&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>CBS News &lt;a href="https://www.cbsnews.com/news/google-ai-chatbot-threatening-message-human-please-die/" target="_blank" rel="noopener">article&lt;/a> - Google AI chatbot responds with a threatening message: &amp;ldquo;Human … Please die.&amp;rdquo;&lt;/li>
+&lt;li>Biometric Update &lt;a href="https://www.biometricupdate.com/202406/travelers-to-eu-may-be-subjected-to-ai-lie-detector" target="_blank" rel="noopener">article&lt;/a> - Travelers to EU may be subjected to AI lie detector&lt;/li>
+&lt;li>Techcrunch &lt;a href="https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/" target="_blank" rel="noopener">article&lt;/a> - OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others&lt;/li>
+&lt;li>Richard Ngo &lt;a href="https://x.com/RichardMCNgo/status/1856843040427839804" target="_blank" rel="noopener">Tweet&lt;/a> on leaving OpenAI&lt;/li>
+&lt;/ul></description></item><item><title>Understanding Claude 3.5 Sonnet (New)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e005/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e005/</guid><description>&lt;div style="text-align: justify">
+&lt;p>Frontier developers continue their war on sane versioning schema to bring us Claude 3.5 Sonnet (New), along with &amp;ldquo;computer use&amp;rdquo; capabilities. We discuss not only the new model, but also why Anthropic may have released this model and tool combination now.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/9e6184c3">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00 ❙ Intro&lt;br>
+00:22 ❙ Hot off the press&lt;br>
+05:03 ❙ Claude 3.5 Sonnet (New) Two 'o' 3000&lt;br>
+09:23 ❙ Breaking down "computer use"&lt;br>
+13:16 ❙ Our understanding&lt;br>
+16:03 ❙ Diverging business models&lt;br>
+32:07 ❙ Why has Anthropic chosen this strategy?&lt;br>
+43:14 ❙ Changing the frame&lt;br>
+48:00 ❙ Polishing the lily
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Anthropic press release - &lt;a href="https://www.anthropic.com/news/3-5-models-and-computer-use" target="_blank" rel="noopener">Introducing Claude 3.5 Sonnet (New)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://assets.anthropic.com/m/61e7d27f8c8f5919/original/Claude-3-Model-Card.pdf#page=51.12" target="_blank" rel="noopener">Model Card Addendum&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-anthropic-relevant-media">Other Anthropic Relevant Media&lt;/h3>
+&lt;ul>
+&lt;li>Paper - &lt;a href="https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf" target="_blank" rel="noopener">Sabotage Evaluations for Frontier Models&lt;/a>&lt;/li>
+&lt;li>Anthropic press release - &lt;a href="https://www.anthropic.com/rsp-updates" target="_blank" rel="noopener">Anthropic&amp;rsquo;s Updated RSP&lt;/a>&lt;/li>
+&lt;li>Alignment Forum blogpost - &lt;a href="https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy" target="_blank" rel="noopener">Anthropic&amp;rsquo;s Updated RSP&lt;/a>&lt;/li>
+&lt;li>Tweet - &lt;a href="https://x.com/catherineols/status/1849654577089364180" target="_blank" rel="noopener">Response to scare regarding Anthropic training on user data&lt;/a>&lt;/li>
+&lt;li>Anthropic press release - &lt;a href="https://www.anthropic.com/news/developing-computer-use" target="_blank" rel="noopener">Developing a computer use model&lt;/a>&lt;/li>
+&lt;li>Simon Willison article - &lt;a href="https://simonwillison.net/2024/Oct/22/computer-use/" target="_blank" rel="noopener">Initial explorations of Anthropic’s new Computer Use capability&lt;/a>&lt;/li>
+&lt;li>Tweet - &lt;a href="https://x.com/arcprize/status/1849225898391933148" target="_blank" rel="noopener">ARC Prize performance&lt;/a>&lt;/li>
+&lt;li>The Information article - &lt;a href="https://www.theinformation.com/articles/openai-rival-anthropic-has-floated-40-billion-valuation-in-early-talks-about-new-funding?rc=tgppn6" target="_blank" rel="noopener">Anthropic Has Floated $40 Billion Valuation in Funding Talks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>LWN.net article - &lt;a href="https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/" target="_blank" rel="noopener">OSI readies controversial Open AI definition&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/" target="_blank" rel="noopener">National Security Memorandum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf" target="_blank" rel="noopener">Framework to Advance AI Governance and Risk Management in National Security&lt;/a>&lt;/li>
+&lt;li>Reuters article - &lt;a href="https://www.reuters.com/legal/mother-sues-ai-chatbot-company-characterai-google-sued-over-sons-suicide-2024-10-23/" target="_blank" rel="noopener">Mother sues AI chatbot company Character.AI, Google over son&amp;rsquo;s suicide&lt;/a>&lt;/li>
+&lt;li>Medium article - &lt;a href="https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855" target="_blank" rel="noopener">A Small Step Towards Reproducing OpenAI o1: Progress Report on the Steiner Open Source Models&lt;/a>&lt;/li>
+&lt;li>The Guardian article - &lt;a href="https://www.theguardian.com/technology/2018/jan/12/google-racism-ban-gorilla-black-people" target="_blank" rel="noopener">Google&amp;rsquo;s solution to accidental algorithmic racism: ban gorillas&lt;/a>&lt;/li>
+&lt;li>TIME article - &lt;a href="https://time.com/6836153/ethical-ai-google-gemini-debacle/" target="_blank" rel="noopener">Ethical AI Isn’t to Blame for Google’s Gemini Debacle&lt;/a>&lt;/li>
+&lt;li>Latacora article - &lt;a href="https://www.latacora.com/blog/2020/03/12/the-soc-starting/" target="_blank" rel="noopener">The SOC2 Starting Seven&lt;/a>&lt;/li>
+&lt;li>Grandview Research market trends - &lt;a href="https://www.grandviewresearch.com/industry-analysis/robotic-process-automation-rpa-market" target="_blank" rel="noopener">Robotic Process Automation Market Trends&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Winter is Coming for OpenAI</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e004/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e004/</guid><description>&lt;div style="text-align: justify">
+Brace yourselves, winter is coming for OpenAI - atleast, that's what we think. In this episode we look at OpenAI's recent massive funding round and ask "why would anyone want to fund a company that is set to lose net 5 billion USD for 2024?" We scrape through a whole lot of muck to find the meaningful signals in all this news, and there is a lot of it, so get ready!
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/fcc8770a">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:00:28 ❙ Hot off the press&lt;br>
+00:02:43 ❙ Why listen?&lt;br>
+00:06:07 ❙ Why might VCs invest?&lt;br>
+00:15:52 ❙ What are people saying&lt;br>
+00:23:10 ❙ How *is* OpenAI making money?&lt;br>
+00:28:18 ❙ Is AI hype dying?&lt;br>
+00:41:08 ❙ Why might big companies invest?&lt;br>
+00:48:47 ❙ Concrete impacts of AI&lt;br>
+00:52:37 ❙ Outcome 1: OpenAI as a commodity&lt;br>
+01:04:02 ❙ Outcome 2: AGI&lt;br>
+01:04:42 ❙ Outcome 3: best plausible case&lt;br>
+01:07:53 ❙ Outcome 1*: many ways to bust&lt;br>
+01:10:51 ❙ Outcome 4+: shock factor&lt;br>
+01:12:51 ❙ What's the muck&lt;br>
+01:21:17 ❙ Extended outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Reuters article - &lt;a href="https://www.reuters.com/technology/artificial-intelligence/openai-closes-66-billion-funding-haul-valuation-157-billion-with-investment-2024-10-02/" target="_blank" rel="noopener">OpenAI closes $6.6 billion funding haul with investment from Microsoft and Nvidia&lt;/a>&lt;/li>
+&lt;li>Goldman Sachs report - &lt;a href="https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend%2C-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf" target="_blank" rel="noopener">GenAI: Too Much Spend, Too Little Benefit&lt;/a>&lt;/li>
+&lt;li>Apricitas Economics article - &lt;a href="https://www.apricitas.io/p/the-ai-investment-boom" target="_blank" rel="noopener">The AI Investment Boom&lt;/a>&lt;/li>
+&lt;li>Discussion of &amp;ldquo;The AI Investment Boom&amp;rdquo; on &lt;a href="https://news.ycombinator.com/item?id=41895746" target="_blank" rel="noopener">YCombinator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hai.stanford.edu/news/ai-index-state-ai-13-charts" target="_blank" rel="noopener">State of AI in 13 Charts&lt;/a>&lt;/li>
+&lt;li>Fortune article - &lt;a href="https://finance.yahoo.com/news/openai-sees-5-billion-loss-170306927.html" target="_blank" rel="noopener">OpenAI sees $5 billion loss in 2024 and soaring sales as big ChatGPT fee hikes planned, report says&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="more-on-ai-hype-dying">More on AI Hype (Dying)&lt;/h3>
+&lt;ul>
+&lt;li>Latent Space article - &lt;a href="https://www.latent.space/p/mar-jun-2024" target="_blank" rel="noopener">The Winds of AI Winter&lt;/a>&lt;/li>
+&lt;li>Article by Gary Marcus - &lt;a href="https://garymarcus.substack.com/p/the-great-ai-retrenchment-has-begun" target="_blank" rel="noopener">The Great AI Retrenchment has Begun&lt;/a>&lt;/li>
+&lt;li>TimmermanReport article - &lt;a href="https://timmermanreport.com/2024/07/ai-if-not-now-when-no-really-when/" target="_blank" rel="noopener">AI: If Not Now, When? No, Really - When?&lt;/a>&lt;/li>
+&lt;li>MIT News article - &lt;a href="https://news.mit.edu/2023/who-will-benefit-ai-machine-usefulness-0929" target="_blank" rel="noopener">Who Will Benefit from AI?&lt;/a>&lt;/li>
+&lt;li>Washington Post article - &lt;a href="https://www.washingtonpost.com/technology/2024/04/18/ai-bubble-hype-dying-money/" target="_blank" rel="noopener">The AI Hype bubble is deflating. Now comes the hard part.&lt;/a>&lt;/li>
+&lt;li>Andreesen Horowitz article - &lt;a href="https://a16z.com/ai-will-save-the-world/" target="_blank" rel="noopener">Why AI Will Save the World&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Human-Centered Artificial Intelligence &lt;a href="https://hai.stanford.edu/news/introducing-foundation-model-transparency-index" target="_blank" rel="noopener">Foundation Model Transparency Index&lt;/a>&lt;/li>
+&lt;li>Cointelegraph article - &lt;a href="https://cointelegraph.com/news/europe-gathers-global-experts-to-draft-code-of-practice-for-gen-ai" target="_blank" rel="noopener">Europe gathers global experts to draft ‘Code of Practice’ for AI&lt;/a>&lt;/li>
+&lt;li>Reuters article - &lt;a href="https://www.reuters.com/technology/microsofts-vp-genai-research-join-openai-2024-10-14/" target="_blank" rel="noopener">Microsoft&amp;rsquo;s VP of GenAI research to join OpenAI&lt;/a>&lt;/li>
+&lt;li>Twitter post from &lt;a href="https://x.com/_tim_brooks/status/1841982327431561528" target="_blank" rel="noopener">Tim Brooks&lt;/a> on joining DeepMind&lt;/li>
+&lt;li>Edward Zitron article - &lt;a href="https://www.wheresyoured.at/the-men-who-killed-google/" target="_blank" rel="noopener">The Man Who Killed Google Search&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

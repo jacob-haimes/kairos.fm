@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Language Model Evals | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/language-model-evals/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/language-model-evals/index.xml" rel="self" type="application/rss+xml"/><description>Language Model Evals</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Language Model Evals</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/language-model-evals/</link></image><item><title>Sobering up on AI Progress w/ Dr. Sean McGregor</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e026/</link><pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e026/</guid><description>&lt;div style="text-align: justify">
+Sean McGregor and I discuss about why evaluating AI systems has become so difficult; we cover everything from the breakdown of benchmarking, how incentives shape safety work, and what approaches like BenchRisk (his recent paper at NeurIPS) and AI auditing aim to fix as systems move into the real world. We also talk about his history and journey in AI safety, including his PhD on ML for public policy, how he started the AI Incident Database, and what he's working on now: AVERI, a non-profit for frontier model auditing.&lt;br>&lt;br>
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900">
+&lt;span class="pr-3 pt-1 text-red-400">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">2025.12.29: AVERI will be officially launching in January of 2026. If you&amp;rsquo;re interested, consider checking out their listings to see if you&amp;rsquo;d be a good fit; if you do end up applying, let them know you found out about the opportunity from the podcast!&lt;/span>
+&lt;/div>
+&lt;p>As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm &lt;a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noopener">Patreon&lt;/a> which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/8b720c1c">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.11.25; ASIDES RECORDED 2025.12.20; &lt;a href="https://share.transistor.fm/s/8b720c1c/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:02:36 ❙ What's broken about benchmarking&lt;br>
+00:03:41 ❙ Sean’s wild PhD&lt;br>
+00:14:28 ❙ The phantom internship&lt;br>
+00:19:25 ❙ Sean's journey&lt;br>
+00:22:25 ❙ Market-vs-regulatory modes and AIID&lt;br>
+00:32:13 ❙ Drunk on AI progress&lt;br>
+00:38:34 ❙ BenchRisk&lt;br>
+00:43:20 ❙ Moral hazards and Master Hand&lt;br>
+00:50:34 ❙ Liability, Section 230, and open source&lt;br>
+00:59:20 ❙ AVERI&lt;br>
+01:11:30 ❙ Closing thoughts &amp; outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Sean McGregor&amp;rsquo;s &lt;a href="https://seanbmcgregor.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>AVERI &lt;a href="https://www.averi.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="benchrisk">BenchRisk&lt;/h3>
+&lt;ul>
+&lt;li>BenchRisk &lt;a href="https://benchrisk.ai" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>NeurIPS &lt;a href="https://arxiv.org/abs/2510.21460" target="_blank" rel="noopener">paper&lt;/a> - Risk Management for Mitigating Benchmark Failure Modes: BenchRisk&lt;/li>
+&lt;li>NeurIPS &lt;a href="https://arxiv.org/abs/2111.15366" target="_blank" rel="noopener">paper&lt;/a> - AI and the Everything in the Whole Wide World Benchmark&lt;/li>
+&lt;li>CACM &lt;a href="https://arxiv.org/abs/1803.09010" target="_blank" rel="noopener">paper&lt;/a> - Datasheets for Datasets&lt;/li>
+&lt;/ul>
+&lt;h3 id="aiid">AIID&lt;/h3>
+&lt;ul>
+&lt;li>AI Incident Database &lt;a href="https://incidentdatabase.ai" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>IAAI &lt;a href="https://arxiv.org/abs/2011.08512" target="_blank" rel="noopener">paper&lt;/a> - Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/pdf/2409.16425" target="_blank" rel="noopener">Preprint&lt;/a> - Lessons for Editors of AI Incidents from the AI Incident Database&lt;/li>
+&lt;li>AIAAIC &lt;a href="https://www.aiaaic.org/home" target="_blank" rel="noopener">website&lt;/a> (another incident tracker)&lt;/li>
+&lt;/ul>
+&lt;h3 id="hot-ai-summer">Hot AI Summer&lt;/h3>
+&lt;ul>
+&lt;li>CACM &lt;a href="https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf" target="_blank" rel="noopener">article&lt;/a> - A Few Useful Things to Know About Machine Learning&lt;/li>
+&lt;li>CACM &lt;a href="https://cacm.acm.org/opinion/how-the-ai-boom-went-bust/" target="_blank" rel="noopener">article&lt;/a> - How the AI Boom Went Bust&lt;/li>
+&lt;li>Undergraduate &lt;a href="https://www.researchgate.net/publication/333039347_Analyzing_the_Prospect_of_an_Approaching_AI_Winter" target="_blank" rel="noopener">Thesis&lt;/a> - Analyzing the Prospect of an Approaching AI Winter&lt;/li>
+&lt;li>Tech Genies &lt;a href="https://techgenies.com/ai-history-the-first-summer-and-winter-of-ai/" target="_blank" rel="noopener">article&lt;/a> - AI History: The First Summer and Winter of AI&lt;/li>
+&lt;li>CACM &lt;a href="https://cacm.acm.org/opinion/there-was-no-first-ai-winter/" target="_blank" rel="noopener">article&lt;/a> - There Was No ‘First AI Winter’&lt;/li>
+&lt;/ul>
+&lt;h3 id="measuring-generalization">Measuring Generalization&lt;/h3>
+&lt;ul>
+&lt;li>Neural Computation &lt;a href="https://www.researchgate.net/publication/2755783_The_Lack_of_A_Priori_Distinctions_Between_Learning_Algorithms/link/54242c890cf238c6ea6e973c/download" target="_blank" rel="noopener">article&lt;/a> - The Lack of A Priori Distinctions Between Learning Algorithms&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/1611.03530" target="_blank" rel="noopener">paper&lt;/a> - Understanding deep learning requires rethinking generalization&lt;/li>
+&lt;li>ICML &lt;a href="https://arxiv.org/abs/2305.01034v2" target="_blank" rel="noopener">paper&lt;/a> - Model-agnostic Measure of Generalization Difficulty&lt;/li>
+&lt;li>Radiology Artificial Intelligence &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9885377/" target="_blank" rel="noopener">article&lt;/a> - Generalizability of Machine Learning Models: Quantitative Evaluation of Three Methodological Pitfalls&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2410.01769v2" target="_blank" rel="noopener">Preprint&lt;/a> - Quantifying Generalization Complexity for Large Language Models&lt;/li>
+&lt;/ul>
+&lt;h3 id="insurers-exclude-ai">Insurers Exclude AI&lt;/h3>
+&lt;ul>
+&lt;li>Financial Times &lt;a href="https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62" target="_blank" rel="noopener">article&lt;/a> - Insurers retreat from AI cover as risk of multibillion-dollar claims mount&lt;/li>
+&lt;li>Tom&amp;rsquo;s Hardware &lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/insurers-move-to-limit-ai-liability-as-multi-billion-dollar-risks-emerge" target="_blank" rel="noopener">article&lt;/a> - Major insurers move to avoid liability for AI lawsuits as multi-billion dollar risks emerge — Recent public incidents have lead to costly repercussions&lt;/li>
+&lt;li>Insurance Newsnet &lt;a href="https://insurancenewsnet.com/oarticle/insurers-scale-back-ai-coverage-amid-fears-of-billion-dollar-claims" target="_blank" rel="noopener">article&lt;/a> - Insurers Scale Back AI Coverage Amid Fears of Billion-Dollar Claims&lt;/li>
+&lt;li>Insurance Business &lt;a href="https://www.insurancebusinessmag.com/us/news/technology/insurances-gen-ai-reckoning-has-come-559985.aspx" target="_blank" rel="noopener">article&lt;/a> - Insurance’s gen AI reckoning has come&lt;/li>
+&lt;/ul>
+&lt;h3 id="section-230">Section 230&lt;/h3>
+&lt;ul>
+&lt;li>Section 230 &lt;a href="https://www.congress.gov/crs-product/R46751" target="_blank" rel="noopener">overview&lt;/a>&lt;/li>
+&lt;li>Legal &lt;a href="https://www.congress.gov/crs-product/LSB11097" target="_blank" rel="noopener">sidebar&lt;/a> - Section 230 Immunity and Generative Artificial Intelligence&lt;/li>
+&lt;li>Bad Internet Bills &lt;a href="https://www.badinternetbills.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>TechDirt &lt;a href="https://www.techdirt.com/2025/12/17/section-230-faces-repeal-support-the-coverage-thats-been-getting-it-right-all-along/" target="_blank" rel="noopener">article&lt;/a> - Section 230 Faces Repeal. Support The Coverage That’s Been Getting It Right All Along.&lt;/li>
+&lt;li>Privacy Guides &lt;a href="https://www.privacyguides.org/videos/2025/12/16/taylor-lorenz-on-kosa-the-screen-act-and-repealing-section-230/" target="_blank" rel="noopener">video&lt;/a> - Dissecting Bad Internet Bills with Taylor Lorenz: KOSA, SCREEN Act, Section 230&lt;/li>
+&lt;li>Journal of Technology in Behavioral Health &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7785056/" target="_blank" rel="noopener">article&lt;/a> - Social Media and Mental Health: Benefits, Risks, and Opportunities for Research and Practice&lt;/li>
+&lt;li>Time &lt;a href="https://time.com/7337866/big-tech-social-media-regulation/" target="_blank" rel="noopener">article&lt;/a> - Lawmakers Unveil New Bills to Curb Big Tech’s Power and Profit&lt;/li>
+&lt;li>House Hearing &lt;a href="https://www.techpolicy.press/transcript-house-hearing-on-legislative-solutions-to-protect-children-and-teens-online/" target="_blank" rel="noopener">transcript&lt;/a> - Legislative Solutions to Protect Children and Teens Online&lt;/li>
+&lt;/ul>
+&lt;h3 id="relevant-kairosfm-episodes">Relevant Kairos.fm Episodes&lt;/h3>
+&lt;ul>
+&lt;li>Into AI Safety &lt;a href="https://kairos.fm/intoaisafety/e023/" target="_blank" rel="noopener">episode&lt;/a> - Growing BlueDot&amp;rsquo;s Impact w/ Li-Lian Ang&lt;/li>
+&lt;li>muckrAIkers &lt;a href="https://kairos.fm/muckraikers/e010/" target="_blank" rel="noopener">episode&lt;/a> - NeurIPS 2024 Wrapped 🌯&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-links">Other Links&lt;/h3>
+&lt;ul>
+&lt;li>Encyclopedia of Life &lt;a href="https://eol.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>IBM Watson AI XPRIZE &lt;a href="https://www.xprize.org/competitions/artificial-intelligence" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>ML Commons &lt;a href="https://mlcommons.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Enron_scandal" target="_blank" rel="noopener">article&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Tailored Truths: Persuasive Capabilities of LLMs</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tailored-truths/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/tailored-truths/</guid><description>&lt;h2 id="main-motivation-and-research-question">Main Motivation and Research Question:&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;ol>
+&lt;li>Large Language Models (LLMs) can argue effectively, but do humans find these arguments persuasive?&lt;/li>
+&lt;li>Assuming threat actors weaponize LLMs for disinformation, what are the most persuasive strategies and how do they compare to human-written arguments?&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;figure>
+&lt;img src="tailored-truths_diagram_v2.png"
+alt="">
+&lt;figcaption style="text-align:center;font-size:small">Diagram describing the process flow for each interaction recorded.&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="key-findings">Key Findings&lt;/h3>
+&lt;h4 id="why-does-this-matter-a-path-to-scalable-disinformation">Why does this matter? A Path to Scalable Disinformation&lt;/h4>
+&lt;div style="text-align: justify">
+For just $100, GPT-4o-mini could debate 300,000 people—equivalent to the number of undecided swing-state voters in the 2024 US Election. With this level of scalability, if LLMs are also highly persuasive, they could become an incredibly effective tool for mass disinformation.
+&lt;/div>
+&lt;h4 id="likert-and-loaded-measuring-ais-persuasive-punch">Likert and Loaded: Measuring AI’s Persuasive Punch&lt;/h4>
+&lt;div style="text-align: justify">
+Human participants engaged in multiple debates with an LLM on a given topic. To measure opinion change, we compared their initial stance to their final stance using a 7-point Likert scale (Strongly Agree to Strongly Disagree). Each round featured a different persuasion strategy (see below). In some cases, participants read a static argument instead of engaging in a debate.
+&lt;/div>
+&lt;h3 id="details">Details&lt;/h3>
+&lt;h4 id="topics">Topics&lt;/h4>
+&lt;div style="text-align: justify">
+When deciding on debate topics we drew inspiration from the Anthropic post on &lt;a href="https://www.anthropic.com/research/measuring-model-persuasiveness" target="_blank" rel="noreferrer noopener">Measuring the Persuasiveness of Language Models&lt;/a>. Issues were chosen to be less polarizing, focusing on: "complex and emerging issues where people are less likely to have hardened views".
+&lt;div style="margin-left: 5rem;margin-right:5rem;font-size: smaller">
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Example topics&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;em>Prescription drug importation should be allowed to increase access and lower cost.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Genetic modification of unborn babies is unethical and dangerous.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Space tourism should be limited until safety regulations are further developed.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>AI must be transparent and explainable in order to be widely accepted.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Internet access should be considered a basic human right.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;h4 id="interaction-types">Interaction Types&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;ul style="margin: 0rem;">
+&lt;li style="margin-bottom:.75rem">&lt;b>Static Arguments:&lt;/b>
+&lt;ul style="margin: 0rem;">
+&lt;li style="margin-bottom:0rem;margin-top:0rem;">&lt;b>arg-hum&lt;/b>: Paragraph written by a human to be read by participants&lt;/li>
+&lt;li style="margin-bottom:0rem;margin-top:0rem;">&lt;b>arg-llm&lt;/b>: Paragraph written by an LLM to be read by participants&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;b>Simple&lt;/b>: Basic debate with no additional persuasion instructions.&lt;/li>
+&lt;li>&lt;b>Stats&lt;/b>: LLM uses (mostly) fabricated statistics to persuade.&lt;/li>
+&lt;li>&lt;b>Personalized&lt;/b>: LLM tailors responses using user demographics and personality traits.&lt;/li>
+&lt;li>&lt;b>Mixed&lt;/b>: Multi-agent approach combining personalized and stats agents, with an executive agent finalizing responses.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h4 id="key-terms">Key Terms&lt;/h4>
+&lt;div style="text-align: justify">
+&lt;ul style="margin: 0rem;">
+&lt;li>&lt;b>Likert &amp;Delta;&lt;/b>: Difference in the initial and final rating on the Likert scale. Changes in the direction which the LLM was arguing for are considered positive.&lt;br>
+&lt;div style="place-self:auto; margin-inline: 2rem;margin-top:-1rem;margin-bottom:-1rem;">&lt;figure>
+&lt;img src="likert-delta.png"
+alt="Visual representation of Likert &amp;Delta;. Two likert scales are show in top of eachother with the one value highlighted each, the 2 and the 5. An annotation is provided, showing that the difference between the final value, 5, and the initial value, 2, is the Likert &amp;Delta; | Timm et al.">
+&lt;figcaption style="text-align:center; font-size:small">Visual representation of Likert &amp;Delta;.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>&lt;/li>
+&lt;li>&lt;b>P(+change)&lt;/b>: The likelihood of a positive Likert &amp;Delta;. A positive Likert &amp;Delta; means the opinion shifted in the direction the LLM argued for.&lt;/li>
+&lt;li>&lt;b>EMM&lt;/b>: Estimated Marginal Mean, essentially the average.&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="debating-under-influence-mixing-a-persuasion-cocktail">Debating Under Influence: Mixing a Persuasion Cocktail&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Personalization alone led to a Likert Δ of 0.479, showing a modest impact on opinion shifts. The simple approach performed better, with a Likert Δ of 0.782. The statistics-based method achieved a higher Likert Δ of 0.823, outperforming both - the personalization and the simple approach. However, the mixed approach had the greatest effect, reaching a Likert Δ of 1.146. Since a 1-point shift represents a full step on the scale, this result confirms that the mixed approach outperformed all other methods individually. This suggests that the right strategy is more effective than a simple debate prompt aimed at persuading the user. Specifically, personalizing fabricated statistics makes arguments significantly more convincing than either approach alone.&lt;/p>
+&lt;div class="grid grid-cols-1 items-start md:items-center gap-x-8 gap-y-8 sm:gap-y-16 md:grid-cols-2">
+&lt;div>&lt;figure>
+&lt;img src="likert-delta-emm_plot.png"
+alt="Bar plot comparing the estimated marginal means of likert delta recorded during the study | Timm et al.">
+&lt;figcaption style="text-align:center; font-size:small">Estimated marginal means for Likert &amp;Delta;.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;div>&lt;figure>
+&lt;img src="p+change-emm_plot.png"
+alt="Bar plot comparing the estimated marginal means of the probability of positive change recorded during the study | Timm et al.">
+&lt;figcaption style="text-align:center; font-size:small">Estimated marginal means for P(+change).&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>
+&lt;p>This led to an interesting observation when comparing LLMs and humans. The arg-llm type had a higher &lt;strong>P(+change)&lt;/strong>, while arg-hum had a higher &lt;strong>Likert ∆&lt;/strong>. This suggests that while LLMs may often sway opinions, human arguments can sometimes be significantly more persuasive.&lt;/p>
+&lt;p>A fascinating—and slightly eerie—aspect of the mixed type was watching the private chat of the agents as they coordinated to generate debate responses. They categorized users by demographics and personality traits, exchanging responses and debating which arguments and fabricated statistics would be most persuasive. It felt like observing an AI focus group fine-tune the perfect pitch, adjusting strategies on the fly to maximize influence.&lt;/p>
+&lt;div style="place-self:auto; margin-inline: 4.5rem;">&lt;figure>
+&lt;img src="tailored-truths_agent-chat_v2.png"
+alt="Diagram depicting the process used to generate the Mixed approach responses. Three agent responses are shown in succession, each labeled with a different colored robot emoji. Ther personalized agent provvides micro-targeting information based on the users demographics. This is then provided to a statistics agent, which generates the multiple fabricates statistics relevant to the subjects suggested by the first agent. Both responses are then provided to an executive agent, which outputs a synthesized debate response | Timm et al.">
+&lt;figcaption style="text-align:center; font-size:small">Diagram depicting the process used to generate the &lt;b>Mixed&lt;/b> approach responses. The messages seen here are excerpts from one interaction recorded during our experiments.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>
+&lt;h2 id="the-challenge-ahead">The challenge ahead&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>The low cost and high impact of AI-driven persuasion highlights the need for safeguards. Detecting AI-generated content in conversations is tough without clear markers, so improving detection, content verification, and platform safeguards is key to preventing misuse.&lt;/p>
+&lt;/div>
+&lt;h2 id="ethical-considerations">Ethical considerations&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>At the conclusion of the study, participants were informed that some of the models were instructed to make up falsified statistics in order to strengthen their arguments. They were also given a recommended reading list to better inform themselves about false information on
+the internet.&lt;/p>
+&lt;/div>
+&lt;h2 id="citation">Citation&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">@misc{timm2025tailored,
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> author = {Jasper Timm and Chetan Talele and Jacob Haimes},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> title = {Tailored Truths: Optimizing LLM Persuasion with Personalization and Fabricated Statistics}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> year = {2025},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> language = {en},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> month = {jan},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> eprint = {2501.17273},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> url = {https://arxiv.org/abs/2501.17273},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="footnotes" role="doc-endnotes" style="font-size:smaller;text-align:justify;">&lt;hr>&lt;ol>&lt;li id="fn:1">
+&lt;p>EMM provides a way to interpret the effects of categorical predictors while controlling for other variables in a statistical model. For more details on EMM, check out this &lt;a href="https://cscu.cornell.edu/wp-content/uploads/emmeans.pdf" target="_blank" rel="noopener">explainer&lt;/a>.&amp;nbsp;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">↩︎&lt;/a>&lt;/p>&lt;/li>&lt;/ol>&lt;/div></description></item><item><title>Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts</title><link>https://jacob-haimes.github.io/kairos.fm/staging/benchmark-inflation/</link><pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/benchmark-inflation/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;div style="text-align: justify">
+Public LLM benchmarks are compromised. To assess the impact that evaluation gaming is having on benchmark scores, we present a methodology for crafting retro-holdout datasets. Leveraging this strategy, we construct Retro-Misconceptions, a retro-holdout for the TruthfulQA benchmark. Comparing LLM performance on these two datasets reveals undeniable evidence that developer practices are indeed undermining benchmarks.
+&lt;/div>
+&lt;h2 id="preliminary-results">Preliminary Results&lt;/h2>
+&lt;div style="text-align: justify">
+We conduct an inflation assessment of 20 Open Release and Closed Source models on TruthfulQA using the newly constructed Retro-TruthfulQA. Our results clearly indicate that developer practices have inflated benchmark scores, compromising the validity of LLM evaluations.
+&lt;/div>
+&lt;figure>
+&lt;img src="benchmark-inflation_misconceptions_inverted.svg"
+alt="Benchmark Inflation Figure 4 - TruthfulQA Misconceptions Inflation Rank | Haimes, Wenner, et al.">
+&lt;figcaption style="text-align:center; font-size:small">Figure 4: Contemporary models, ordered by their TruthfulQA Misconceptions inflation rank. Models are grouped by color according to their respective developers. Uncertainty is shown with both single sigma error bars and p-values; models with p-value less than .05 are marked with an *.&lt;/figcaption>
+&lt;/figure>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>To make these bold claims, we must first have a dataset which addresses the same &lt;strong>evaluation task&lt;/strong> as the target dataset, but has not yet been publicly available. This means that our new dataset should be difficult to differentiate from the original, within some margin.&lt;/p>
+&lt;p>We design four tests which a proposed retro-holdout is tested against:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Similarity of Difficulty:&lt;/strong> Are the entries in both datasets comparably challenging?&lt;/li>
+&lt;li>&lt;strong>Semantic Embedding Similarity:&lt;/strong> Does the distribution of &lt;em>cosine similarities between embeddings&lt;/em> of our dataset seem plausible?&lt;/li>
+&lt;li>&lt;strong>Prediction Accuracy:&lt;/strong> Can a machine learning classifier predict which set an entry belongs to?&lt;/li>
+&lt;li>&lt;strong>Human Distinguishability:&lt;/strong> Can humans identify an entry from the retro-holdout hidden with two sampels from the original dataset?&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;figure>
+&lt;img src="benchmark-inflation_fig-1_large.png"
+alt="Benchmark Inflation Figure 1 - Diagram | Haimes, Wenner, et al.">
+&lt;figcaption style="text-align:center; font-size:small">Figure 1: Diagram of the methodology for creating a retro-holdout dataset, and leveraging it to assess benchmark inflation in contemporary models.&lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: justify">
+To aid in the construction and iteration of the retro-holdout, we also introduce multiple tools and enumerate our lessons learned.
+&lt;/div>
+&lt;h2 id="takeaways">Takeaways&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;ul>
+&lt;li>Developer practices are undermining LLM benchmarks&lt;/li>
+&lt;li>Benchmark scores should be taken with substantial scepticism when evaluation data have been publicly available for some time&lt;/li>
+&lt;li>Dataset creators should keep a private holdout dataset, and decommission their benchmarks once significant benchmark inflation has been measured&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;h2 id="additional-figures">Additional Figures&lt;/h2>
+&lt;div class="grid grid-cols-1 items-start md:items-center gap-x-8 gap-y-8 sm:gap-y-16 md:grid-cols-2">
+&lt;div>&lt;figure>
+&lt;img src="prerelease-diag_misconceptions.svg"
+alt="Benchmark Inflation Figure 2 - Prerelease Model Accuracy on Retro-TruthfulQA Misconceptions vs. TruthfulQA Misconceptions | Haimes, Wenner, et al.">
+&lt;figcaption style="text-align:center; font-size:small">Figure 2: Results of the difficulty distribution test. All models used were trained prior to the release of the original TruthfulQA benchmark. Note that the all entries fall within the 95% confidence band.&lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;div>&lt;figure>
+&lt;img src="eval-diag_misconceptions.svg"
+alt="Benchmark Inflation Figure 3 - Model Accuracy on Retro-TruthfulQA Misconceptions vs. TruthfulQA Misconceptions | Haimes, Wenner, et al.">
+&lt;figcaption style="text-align:center; font-size:small">Figure 3: Contemporary model accuracy on Retro-Misconceptions vs. TruthfulQA Misconceptions Non-Adversarial. &lt;/figcaption>
+&lt;/figure>&lt;/div>
+&lt;/div>
+&lt;h2 id="correspondence">Correspondence&lt;/h2>
+&lt;p>Please send all inquiries to &lt;code>&lt;a href="mailto:jacob.d.haimes@gmail.com">jacob.d.haimes@gmail.com&lt;/a>&lt;/code> and &lt;code>&lt;a href="mailto:cwenner@gmail.com">cwenner@gmail.com&lt;/a>&lt;/code>.&lt;/p>
+&lt;h2 id="citation">Citation&lt;/h2>
+&lt;!-- &lt;div class="snippet-clipboard-content notranslate position-relative overflow-auto" style="font-size:80%">&lt;pre class="notranslate"> -->
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">@manuscript{haimes2024benchmark,
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> author = {Haimes, Jacob and Wenner, Cenny and
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Thaman, Kunvar and Tashev, Vassil and
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Neo, Clement and Kran, Esben and Schreiber, Jason},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> title = {Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> year = {2024},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> eprint = {2410.09247},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> archivePrefix = {arXiv},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> primaryClass = {cs.LG},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> url = {https://arxiv.org/abs/2410.09247},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> language = {en},
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div> &lt;!--
+month = {},
+publisher = {},
+version = {},
+doi = {},
+url = {}
+https://docs.citationstyles.org/en/stable/specification.html#appendix-iv-variables
+-->
+&lt;!-- &lt;/code>
+&lt;/pre>
+&lt;div class="zeroclipboard-container">
+&lt;clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value='@manuscript{benchmark-inflation,
+author = {Haimes, Jacob and Wenner, Cenny and
+Thaman, Kunvar and Tashev, Vassil and
+Neo, Clement and Kran, Esben and Schreiber, Jason},
+title = {Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts},
+year = 2024,
+status = forthcoming,
+language = en
+}' tabindex="0" role="button">
+&lt;/clipboard-copy>
+&lt;/div>
+&lt;/div> --></description></item></channel></rss>

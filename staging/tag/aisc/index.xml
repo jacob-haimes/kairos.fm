@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AISC | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/aisc/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/aisc/index.xml" rel="self" type="application/rss+xml"/><description>AISC</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>AISC</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/aisc/</link></image><item><title>Making Your Voice Heard w/ Tristan &amp; Felix de Simone</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e020/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e020/</guid><description>&lt;div style="text-align: justify">
+I am joined by Tristan Williams and Felix de Simone to discuss their work on the potential of constituent communication, specifically in the context of AI legislation. These two worked as part of an AI Safety Camp team to understand whether or not it would be useful for more people to be sharing their experiences, concerns, and opinions with their government representative (hint, it is).
+&lt;p>Check out the &lt;a href="https://forum.effectivealtruism.org/posts/5oStggnYLGzomhvvn/talking-to-congress-can-constituents-contacting-their" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> on their findings, &amp;ldquo;Talking to Congress: Can constituents contacting their legislator influence policy?&amp;rdquo; and the &lt;a href="https://www.guidedtrack.com/programs/e7xnz7q/run" target="_blank" rel="noreferrer noopener">tool&lt;/a> they created!&lt;/p>
+&lt;!-- "You don't need to be wortking full time on AI safety or have a background in machine learning to have an impact; you can have an impact _as a citizen_." -->
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/a9294c9e">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:01:53 ❙ Introductions&lt;br>
+00:04:04 ❙ Starting the project&lt;br>
+00:13:30 ❙ Project overview&lt;br>
+00:16:36 ❙ Understanding constituent communication&lt;br>
+00:28:50 ❙ Literature review&lt;br>
+00:35:52 ❙ Phase 2&lt;br>
+00:43:26 ❙ Creating a tool for citizen engagement&lt;br>
+00:50:16 ❙ Crafting your message&lt;br>
+00:59:40 ❙ The game of advocacy&lt;br>
+01:15:19 ❙ Difficulties on the project&lt;br>
+01:22:33 ❙ Call to action&lt;br>
+01:32:30 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bluedot.org" target="_blank" rel="noreferrer noopener">BlueDot Impact&lt;/a>&lt;/li>
+&lt;li>TIME &lt;a href="https://time.com/6972134/ai-lobbying-tech-policy-surge/" target="_blank" rel="noreferrer noopener">article&lt;/a> - There’s an AI Lobbying Frenzy in Washington. Big Tech Is Dominating&lt;/li>
+&lt;li>Congressional Management Foundation &lt;a href="https://www.congressfoundation.org/storage/documents/CMF_Pubs/cwc-perceptions-of-citizen-advocacy.pdf" target="_blank" rel="noreferrer noopener">study&lt;/a> - Communicating with Congress: Perceptions of Citizen Advocacy on Capitol Hill&lt;/li>
+&lt;li>Congressional Management Foundation &lt;a href="https://www.congressfoundation.org/storage/documents/CMF_Pubs/cmf_citizen_engagement_rebuilding_democratic_dialogue.pdf" target="_blank" rel="noreferrer noopener">study&lt;/a> - The Future of Citizen Engagement: Rebuilding the Democratic Dialogue&lt;/li>
+&lt;li>Tristan and Felix&amp;rsquo;s &lt;a href="https://forum.effectivealtruism.org/posts/5oStggnYLGzomhvvn/talking-to-congress-can-constituents-contacting-their" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - Talking to Congress: Can constituents contacting their legislator influence policy?&lt;/li>
+&lt;li>Wired &lt;a href="https://www.wired.com/story/opengov-report-congress-constituent-communication/" target="_blank" rel="noreferrer noopener">article&lt;/a> - What It Takes to Make Congress Actually Listen&lt;/li>
+&lt;li>American Journal of Polical Science &lt;a href="https://projects.iq.harvard.edu/files/cces/files/AnsolabehereKuriwaki_AJPS.pdf" target="_blank" rel="noreferrer noopener">article&lt;/a> - Congressional Representation: Accountability from the Constituent’s Perspective&lt;/li>
+&lt;li>Political Behavior &lt;a href="https://www.jstor.org/stable/43653416" target="_blank" rel="noreferrer noopener">article&lt;/a> - Call Your Legislator: A Field Experimental Study of the Impact of a Constituency Mobilization Campaign on Legislative Voting&lt;/li>
+&lt;li>Guided Track &lt;a href="https://www.guidedtrack.com" target="_blank" rel="noreferrer noopener">website&lt;/a>&lt;/li>
+&lt;li>The &lt;a href="https://www.guidedtrack.com/programs/e7xnz7q/run" target="_blank" rel="noreferrer noopener">Tool&lt;/a>&lt;/li>
+&lt;li>Holistic AI global regulatory &lt;a href="https://tracker.holisticai.com/feed" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>White &amp;amp; Case global regulatory &lt;a href="https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Steptoe US AI legislation &lt;a href="https://www.steptoe.com/en/ai-legislative-tracker.html" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Manatt US AIxHealth legislation &lt;a href="https://www.manatt.com/insights/newsletters/health-highlights/manatt-health-health-ai-policy-tracker" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Issue One &lt;a href="https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/" target="_blank" rel="noreferrer noopener">article&lt;/a> - Big Tech Cozies Up to New Administration After Spending Record Sums on Lobbying Last Year&lt;/li>
+&lt;li>Verfassungsblog &lt;a href="https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/" target="_blank" rel="noreferrer noopener">article&lt;/a> - BigTech’s Efforts to Derail the AI Act&lt;/li>
+&lt;li>MIT Technology Review &lt;a href="https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/" target="_blank" rel="noreferrer noopener"> article&lt;/a> - OpenAI has upped its lobbying efforts nearly sevenfold&lt;/li>
+&lt;li>Open Secrets &lt;a href="https://www.opensecrets.org/federal-lobbying/issues/lobbyists?id=SCI&amp;year=2023" target="_blank" rel="noreferrer noopener">webpage&lt;/a> - Issue Profile: Science &amp;amp; Technology&lt;/li>
+&lt;li>Statista &lt;a href="https://www.statista.com/statistics/257344/top-lobbying-spenders-in-the-us/" target="_blank" rel="noreferrer noopener">data&lt;/a> - Leading lobbying spenders in the United States in 2024&lt;/li>
+&lt;li>Global Justice Now &lt;a href="https://www.globaljustice.org.uk/resource/democracy-at-risk-in-davos-new-report-exposes-big-tech-lobbying-and-political-interference/" target="_blank" rel="noreferrer noopener">report&lt;/a> - Democracy at risk in Davos: new report exposes big tech lobbying and political interference&lt;/li>
+&lt;li>Ipsos &lt;a href="https://www.ipsos.com/en-us/where-americans-stand-ai" target="_blank" rel="noreferrer noopener">article&lt;/a> - Where Americans stand on AI&lt;/li>
+&lt;li>AP-NORC &lt;a href="https://apnorc.org/projects/there-is-bipartisan-concern-about-the-use-of-ai-in-the-2024-elections/" target="_blank" rel="noreferrer noopener">report&lt;/a> - There Is Bipartisan Concern About the Use of AI in the 2024 Elections&lt;/li>
+&lt;li>AI Action Summit &lt;a href="https://arxiv.org/pdf/2501.17805" target="_blank" rel="noreferrer noopener">report&lt;/a> - International AI Safety Report&lt;/li>
+&lt;li>YouGov &lt;a href="https://today.yougov.com/technology/articles/51368-do-americans-think-ai-will-have-positive-or-negative-impact-society-artificial-intelligence-poll" target="_blank" rel="noreferrer noopener">article&lt;/a> - Do Americans think AI will have a positive or negative impact on society?&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Open Source AI is a lie, but it doesn't have to be</title><link>https://jacob-haimes.github.io/kairos.fm/staging/open-source-ai-is-a-lie/</link><pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/open-source-ai-is-a-lie/</guid><description>&lt;figure>
+&lt;img src="Alan-Warburton_Plant_1280x720.jpg"
+alt="Plant, Alan Warburton">
+&lt;figcaption style="font-size:small">Image by &lt;a href="https://alanwarburton.co.uk/" target="_blank" rel="noreferrer noopener">Alan Warburton&lt;/a> / © BBC / &lt;a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI&lt;/a> / Plant / &lt;a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: justify">
+&lt;p>&lt;i>NOTE: This post was updated within a week of initial posting to include two additional models which met the criteria for being considered Open Source AI at the time of publication.&lt;/i>&lt;/p>
+&lt;p>&lt;i>NOTE: This post was modified on 2024-12-21 to correct the publish date of “Opening Up ChatGPT” by Liesenfeld et al.&lt;/i>&lt;/p>
+&lt;/div>
+&lt;h2 id="brief-what-is-open-source">Brief: What is Open Source&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>As advanced machine learning systems become increasingly widespread, the question of how to make them safe is also gaining attention. Within this debate, the term “open source” is frequently brought up. Some &lt;a href="https://arxiv.org/abs/2311.09227" target="_blank" rel="noopener">claim&lt;/a> that open sourcing models will potentially increase the likelihood of societal risks, while others insist that open sourcing is the only way to ensure the development and deployment of these “artificial intelligence,” or “AI,” systems goes well. &lt;b>Despite this idea of “open source” being a central debate of “AI” governance, there are very few groups that have released cutting edge “AI” which can be considered Open Source.&lt;/b>&lt;/p>
+&lt;p>The term &lt;em>Open Source&lt;/em> was first used to describe software in 1998, and was coined by &lt;a href="https://opensource.com/article/18/2/coining-term-open-source-software" target="_blank" rel="noopener">Christine Peterson&lt;/a> to describe the principles that would guide the development of the &lt;a href="https://en.wikipedia.org/wiki/Netscape" target="_blank" rel="noopener">Netscape&lt;/a> web browser. Soon after, the &lt;a href="https://opensource.org" target="_blank" rel="noopener">Open Source Initiative&lt;/a> was founded with the intent to preserve the meaning of Open Source. The group wrote the &lt;a href="https://opensource.org/osd" target="_blank" rel="noopener">Open Source Definition&lt;/a> (OSD), and even made an unsuccessful attempt to obtain a trademark for the term.&lt;/p>
+&lt;p>The OSD isn’t very long, but here’s an even shorter version of the definition: the program must include source code,&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> and the license for the software cannot restrict who uses it, what it is used for, or how it is used; it cannot constrain the manner in which the software is distributed, and it cannot prohibit modification of the software.&lt;/p>
+&lt;p>Quickly, Open Source garnered massive support, and either directly produced or significantly contributed towards many of the software advances that have been seen since then. Some well-known Open Source projects are the coding languages &lt;a href="https://www.python.org/about/" target="_blank" rel="noopener">Python&lt;/a> and &lt;a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank" rel="noopener">PHP&lt;/a>, the browsers &lt;a href="https://www.mozilla.org/en-US/MPL/" target="_blank" rel="noopener">Mozilla&lt;/a> &lt;a href="https://www.mozilla.org/en-US/about/legal/terms/firefox/" target="_blank" rel="noopener">Firefox&lt;/a> and &lt;a href="https://www.chromium.org/chromium-projects/" target="_blank" rel="noopener">Chromium&lt;/a> (which Google Chrome is built on top of), the database management system &lt;a href="https://www.mysql.com/products/community/" target="_blank" rel="noopener">MySQL&lt;/a>, the version control system &lt;a href="https://git-scm.com" target="_blank" rel="noopener">Git&lt;/a>, and the &lt;a href="https://opensource.com/resources/linux" target="_blank" rel="noopener">Linux&lt;/a> operating system.&lt;/p>
+&lt;p>Open Source gained traction because it is practically valuable to many different stakeholders. In general, these attributes can be broadly summarized by saying that open source projects…&lt;/p>
+&lt;ul>
+&lt;li>facilitate rapid scientific progress,&lt;/li>
+&lt;li>improve functionality and reliability,&lt;/li>
+&lt;li>increase security and safety through transparency, and&lt;/li>
+&lt;li>promote user control, inclusivity, and autonomy.&lt;/li>
+&lt;/ul>
+&lt;p>Importantly, each of these items is highly dependent on meaningful access. &lt;b>That is to say, if the software were difficult to investigate, modify, or repurpose, these traits would not be as prevalent.&lt;/b>&lt;/p>
+&lt;p>Because Open Source projects have continually demonstrated these characteristics over the past quarter century, the label of Open Source is strongly associated with these characteristics as well.&lt;/p>
+&lt;/div>
+&lt;h2 id="open-source-ai">Open Source AI&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Advanced machine learning models, often referred to as “AI,” cannot be fully described by source code, in practice. Instead, models are defined with three components: architecture, training process, and weights.&lt;/p>
+&lt;p>Architecture refers to the structure of the neural network that a model uses as its foundation, and it can be described with source code. This architecture itself, however, is not enough information for meaningful transparency and reproducibility. As the term “machine learning” suggests, a process is conducted for the model to learn information; it is called the training process.&lt;/p>
+&lt;p>Although the training process, in theory, can be wholly defined by source code, this is generally not practical, because doing so would require releasing (1) the methods used to train the model, (2) all data used to train the model, and (3) so called “training checkpoints” which are snapshots of the state of the model at various points in the training process. At this point, cutting-edge models are being trained on a massive scale, with the &lt;a href="https://epochai.org/trends#data-trends-section" target="_blank" rel="noopener">“[m]edian projected year in which most publicly available high-quality human-generated text will be used in a training run”&lt;/a> being 2024. For context, the largest training run consisting of only textual input that has already occurred was approximately 44,640 Gigabytes.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> It simply isn’t possible to store such a large volume of data for every model separately, but without doing so, independent verification of training data is practically impossible.&lt;/p>
+&lt;p>Finally, we get to the weights. When applied to the correct architecture, weights are functionally similar to an executable file or machine code. For traditional programs, the executable file is what the computer uses to know what to do, but such a file is not human-readable in a practical sense. Along the same lines, weights determine the methods that a model uses to produce its output, but the weights themselves are not yet fully understood. The field of Mechanistic Interpretability is making progress on this task, but right now we do not know how to comprehensively understand why a model behaves in a given manner. In other words, model weights, which in turn prescribe model behavior, cannot be described by source code.&lt;/p>
+&lt;p>All this is to say that “AI” models don’t fit nicely into the preexisting Open Source Definition (OSD). The Open Source Institute recognized this, and began working towards an Open Source AI Definition (OSAID), in &lt;a href="https://deepdive.opensource.org/wp-content/uploads/2023/02/Deep-Dive-AI-final-report.pdf" target="_blank" rel="noopener">late 2022&lt;/a> – for context, that was just before the public &lt;a href="https://openai.com/blog/chatgpt" target="_blank" rel="noopener">launch&lt;/a> of ChatGPT. This definition is still a work in progress, with the first version scheduled to be published in &lt;a href="https://opensource.org/deepdive#see_all_we_achieved_in_2023" target="_blank" rel="noopener">October&lt;/a> of 2024. This means that, formally, there isn’t yet a definition for the term “Open Source AI.”&lt;/p>
+&lt;p>To many, this may come as a shock, because the idea of open source AI is not only commonplace, but a controversial subject when it comes to regulation. This discrepancy points towards a number of questions:&lt;/p>
+&lt;/div>
+&lt;h3 id="what-is-open-source-ai">What is Open Source AI?&lt;/h3>
+&lt;figure>
+&lt;img src="wrong-hole.jpg"
+alt="Wrong Hole, xkalibolg">
+&lt;figcaption style="font-size:small">Meme by xkalibolg / &lt;a href="https://www.viz.com/junji-ito">Junji Ito&lt;/a>, &lt;a href="https://junjiitomanga.fandom.com/wiki/The_Enigma_of_Amigara_Fault">“The Enigma of Amigara Fault”&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: justify">
+&lt;p>Although we can’t say what it is definitively, because the OSAID isn’t published yet, we can use the &lt;a href="https://hackmd.io/@opensourceinitiative" target="_blank" rel="noopener">working version&lt;/a> as a starting point.&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> First, let’s take OpenAI’s recent addition to the GPT family, GPT-4, as an example. GPT-4 is not open source – virtually no artifacts other than the &lt;a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener">GPT-4 Technical Report&lt;/a> are publicly available. Meta’s Llama3 model is also not open source, despite the Chief AI Scientist at the company, Yann LeCun, frequently proclaiming &lt;a href="https://twitter.com/ylecun/status/1629189925089296386" target="_blank" rel="noopener">that&lt;/a> &lt;a href="https://twitter.com/ylecun/status/1748285439016886764" target="_blank" rel="noopener">it&lt;/a> &lt;a href="https://twitter.com/ylecun/status/1748337952005001657" target="_blank" rel="noopener">is&lt;/a>. In fact, Stefano Maffuli, the Executive Director of the OSI, authored a &lt;a href="https://opensource.org/blog/metas-llama-2-license-is-not-open-source" target="_blank" rel="noopener">post&lt;/a> explicitly calling this misnomer out. Llama3 is licensed with a custom agreement written by Meta, explicitly for the purpose of licensing the model.&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> The &lt;a href="https://llama.meta.com/llama3/license/" target="_blank" rel="noopener">license&lt;/a> explicitly prohibits its use for some users&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup> and restricts how the model can be used. Google Deepmind’s Gemma model is &lt;a href="https://ai.google.dev/gemma/terms" target="_blank" rel="noopener">licensed&lt;/a> in a &lt;a href="https://ai.google.dev/gemma/prohibited_use_policy" target="_blank" rel="noopener">similar manner&lt;/a>, meaning that it isn’t Open Source either.&lt;/p>
+&lt;p>Mistral’s models are also not open source, but in a slightly more nuanced manner. Instead of releasing all artifacts describing their models, Mistral licensed the model weights using the &lt;a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noopener">Apache 2.0&lt;/a> license, which meets the requirements for a license to be &lt;a href="https://opensource.org/license/apache-2-0" target="_blank" rel="noopener">Open Source&lt;/a>. Unfortunately, however, no other artifacts were released. As a result, Mistral’s models can be used as-is by anyone, but the transparency that should go hand-in-hand with Open Source is no longer present.&lt;/p>
+&lt;p>As a final example, &lt;a href="https://huggingface.co/bigscience/bloomz" target="_blank" rel="noopener">BLOOMZ&lt;/a>, a model developed by BigScience Workshop is also not Open Source. The model is licensed under the &lt;a href="https://bigscience.huggingface.co/blog/the-bigscience-rail-license" target="_blank" rel="noopener">Responsible AI License (RAIL) License&lt;/a>,&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup> which does impose some restrictions on the use of the model. While these restrictions are not necessarily a bad thing to have, they do prevent the model from obtaining the official Open Source label.&lt;/p>
+&lt;p>Based on the current OSAID, the following models can be considered Open Source AI:&lt;/p>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: center">Model Name&lt;/th>
+&lt;th style="text-align: center">Group&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: center">&lt;a href="https://huggingface.co/LLM360/Amber" target="_blank" rel="noopener">Amber&lt;/a>&lt;/td>
+&lt;td style="text-align: center">&lt;a href="https://www.llm360.ai/" target="_blank" rel="noopener">LLM360&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: center">&lt;a href="https://huggingface.co/LLM360/CrystalCoder" target="_blank" rel="noopener">Crystal&lt;/a>&lt;/td>
+&lt;td style="text-align: center">&lt;a href="https://www.llm360.ai/" target="_blank" rel="noopener">LLM360&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: center">&lt;a href="https://allenai.org/olmo" target="_blank" rel="noopener">OLMo&lt;/a>&lt;/td>
+&lt;td style="text-align: center">&lt;a href="https://allenai.org/" target="_blank" rel="noopener">Allen Institute for AI&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: center">&lt;a href="https://machinelearning.apple.com/research/openelm" target="_blank" rel="noopener">OpenELM&lt;/a>&lt;/td>
+&lt;td style="text-align: center">&lt;a href="https://machinelearning.apple.com/" target="_blank" rel="noopener">Apple&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: center">&lt;a href="https://github.com/EleutherAI/pythia" target="_blank" rel="noopener">Pythia&lt;/a>&lt;/td>
+&lt;td style="text-align: center">&lt;a href="https://www.eleuther.ai/" target="_blank" rel="noopener">EleutherAI&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="wait-why-are-groups-saying-that-their-models-are-open-source-when-they-arent">Wait… why are groups saying that their models are open source when they aren’t?&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>As stated previously, Open Source is strongly associated with increased fairness, inclusivity, safety, and security. Tech companies like Meta and Mistral want to use this to their advantage; by calling their models “open source,” they inflate the perception of their work as a public good without much cost to themselves.&lt;/p>
+&lt;p>For example, the founder of Mistral stated &lt;a href="https://youtu.be/yXN5xSXJ1Is?t=1831" target="_blank" rel="noopener">multiple&lt;/a> &lt;a href="https://youtu.be/EMOFRDOMIiU?t=550" target="_blank" rel="noopener">times&lt;/a> that the company’s competitive advantage is the data that they use to train models, and how they filter and generate that data. Although the weights of their models are made public, very little information is given regarding the data that was used to train the model. By tagging these models as “open source” without sharing any meaningful information about training data, the company gets to appear populist without sacrificing its competitive advantage. This behavior devalues the meaning of the Open Source label, and exploits the open source community for free labor.&lt;/p>
+&lt;p>It’s more than just public relations benefits too, both companies &lt;a href="https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/" target="_blank" rel="noopener">lobbied&lt;/a> for reduced regulations for so called “open source” models, and their efforts seem to be &lt;a href="https://www.washingtonpost.com/technology/2023/12/08/ai-act-regulation-eu/" target="_blank" rel="noopener">working&lt;/a>.&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/p>
+&lt;/div>
+&lt;h3 id="ok-so-what-do-people-mean-when-they-refer-to-open-source-ai-at-the-time-i-am-writing-this-article-april-2024">Ok, so what do people mean when they refer to “open source” AI, at the time I am writing this article (April 2024)?&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>Regrettably, the answer to this question is not perfectly clear. Everyone is assuredly referring to some selection of models that meets certain criteria along this spectrum of openness, but where the line is drawn is up for interpretation. Of course, this has made meaningful discussion about the issue much more difficult.&lt;/p>
+&lt;/div>
+&lt;h3 id="what-do-we-do-about-it">What do we do about it?&lt;/h3>
+&lt;div style="text-align: justify">
+&lt;p>Short answer: understand how corporations are using this ambiguity to their advantage, stop calling models like Llama3, Mixtral, and Gemma open source, and call the companies out on their influence campaign.&lt;/p>
+&lt;p>Longer answer: even though we shouldn’t be calling these models Open Source, they are substantially more transparent than the fully closed models of OpenAI or Anthropic. To clarify this space, I propose the following naming convention:&lt;/p>
+&lt;p>&lt;b>Open Source&lt;/b> models – The OSAID is currently being drafted by the Open Source Initiative in a transparent manner, so the working OSAID can be used for the purposes of defining truly open source models. Currently, the only models that fall into this category are Amber and Crystal from the LLM360 group, OLMo from the Allen Institute for AI, OpenELM from Apple Inc., and Pythia from EleutherAI. The paper “Opening up ChatGPT: tracking openness of instruction-tuned LLMs” provides a very useful &lt;a href="https://opening-up-chatgpt.github.io" target="_blank" rel="noopener">online table&lt;/a>&lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup> with information on many chat models, and is a useful tool for understanding the manner in which the models are actually transparent.&lt;/p>
+&lt;p>&lt;b>Shared Weights&lt;/b> models – Describes all AI models which released their weights in some low-barrier capacity. Most current models claiming to be open source fall into this category.&lt;/p>
+&lt;p>&lt;b>Open Release&lt;/b> models – Encompasses both Open Source AI, as defined by OSAID, and Shared Weights Models. This term can be useful when discussing security concerns.&lt;/p>
+&lt;p>&lt;b>Closed Source&lt;/b> models – For completeness, we will also explicitly define Closed Source models. These include models referred to as “black box” or “API” access; while people can use the models, the only individuals who can run the model are its owners. Queries can be screened and monitored. Sending queries through the API typically costs money.&lt;/p>
+&lt;/div>
+&lt;figure>
+&lt;img src="open-diagram_3_small.png"
+alt="AI Openness Diagram, Jacob Haimes">
+&lt;figcaption style="font-size:small">Original diagram by &lt;a href="https://jacob-haimes.github.io">Jacob Haimes&lt;/a> / © Kairos.fm / AI Openness Diagram / CC-BY-SA 4.0 / created using &lt;a href="https://tikz.dev">Tikz&lt;/a> and &lt;a href="https://www.gimp.org">GIMP&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: justify">
+&lt;p>It is important to note, I am not saying that Shared Weights models are a negative net contribution to society. In fact, I think that the release of currently available Shared Weights models has significantly advanced the field of AI safety. This article is &lt;i>not about the pros and cons of open source&lt;/i>, I will leave that for future work.&lt;/p>
+&lt;/div>
+&lt;h2 id="acknowledgements">Acknowledgements&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>A special thank you to Brian Penny, Dr. Peter Park and Giuseppe Dal Pra for reviewing the article and providing their input.&lt;/p>
+&lt;/div>
+&lt;/div>&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>The source code of a program is the file, written in a human-readable coding language, that defines how that program operates. To create an executable file, (aka. a binary file), the source code is compiled into machine code.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>How I got that number: Epoch says that the largest amount of data used to train a single model is approximately 9 trillion words; they also say that the Common Crawl dataset has 100 trillion words. Wikipedia reports the most recent version of the Common Crawl to be 454 Tebibytes = 464,896 Gigabytes.&lt;br>🠖 454 TiB * .09 = 44640.17 GB&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>It is worth noting that the OSAID leans heavily on the &lt;a href="https://arxiv.org/abs/2403.13784" target="_blank" rel="noopener">Model Openness Framework&lt;/a> which was published by White et al. in March of 2024. The group that conducted this research is called the &lt;a href="https://genaicommons.org" target="_blank" rel="noopener">Generative AI Commons&lt;/a>, and is funded through the Linux Foundation. The Model Openness Framework already has a domain registered for their pending tool, &lt;a href="https://isitopen.ai" target="_blank" rel="noopener">isitopen.ai&lt;/a>.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>This is also an issue, but it is far less pressing, and more just annoying.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>Namely, the license prohibits Llama3’s use by Meta’s competitors, and anyone who might make a significant amount of money off of it.&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>Yes, I know the title has the word license in it twice, that’s how it’s written, don’t @ me.&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>Although I am by no means a legal expert, I believe that the special provisions made for Open Source models are described entirely in the EU AI Act recital 104.&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>It is important to note that this table is only for &lt;i>instruction-tuned LLMs, meaning that base models which were not instruction-tuned do not appear on the list.&lt;/i> The paper which accompanied this table, “Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators” was published in the Conversational User Interfaces conference in July of 2023. It does appear to have been updated since the conference, as OLMo now appears on this list. I am not sure how frequently it is updated.&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>StakeOut.AI w/ Dr. Peter Park (3)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e018/</link><pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e018/</guid><description>&lt;div style="text-align: justify">
+As always, the best things come in 3s: dimensions, musketeers, pyramids, and... 3 installments of my interview with Dr. Peter Park, an AI Existential Safety Post-doctoral Fellow working with Dr. Max Tegmark at MIT.
+&lt;p>As you may have ascertained from the previous two segments of the interview, Dr. Park cofounded &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a> along with Harry Luk and one other cofounder whose name has been removed due to requirements of her current position. The non-profit had a simple but important mission: make the adoption of AI technology go well, for humanity, but unfortunately, StakeOut.AI had to dissolve in late February of 2024 because no granter would fund them. Although it certainly is disappointing that the organization is no longer functioning, all three cofounders continue to contribute positively towards improving our world in their current roles.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/8c7eea4d">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>If you would like to investigate further into Dr. Park&amp;rsquo;s work, view his &lt;a href="https://scholar.harvard.edu/pspark" target="_blank" rel="noreferrer noopener">website&lt;/a>, &lt;a href="https://scholar.google.com/citations?user=5lMAPEoAAAAJ&amp;hl=en" target="_blank" rel="noreferrer noopener">Google Scholar&lt;/a>, or follow him on &lt;a href="https://twitter.com/dr_park_phd" target="_blank" rel="noreferrer noopener">Twitter&lt;/a>!&lt;/p>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:54 ❙ Intro&lt;br>
+00:02:41 ❙ Rapid development&lt;br>
+00:08:25 ❙ Provable safety, safety factors, &amp; CSAM&lt;br>
+00:18:50 ❙ Litigation&lt;br>
+00:23:06 ❙ Open/Closed Source&lt;br>
+00:38:52 ❙ AIxBio&lt;br>
+00:47:50 ❙ Scientific rigor in AI&lt;br>
+00:56:22 ❙ AI deception&lt;br>
+01:02:45 ❙ No takesies-backsies&lt;br>
+01:08:22 ❙ StakeOut.AI's start&lt;br>
+01:12:53 ❙ Sustainability &amp; Agency&lt;br>
+01:18:21 ❙ "I'm sold, next steps?" -you&lt;br>
+01:23:53 ❙ Lessons from the amazing Spiderman&lt;br>
+01:33:15 ❙ "I'm ready to switch careers, next steps?" -you&lt;br>
+01:40:00 ❙ The most important question&lt;br>
+01:41:11 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://futureoflife.org/wp-content/uploads/2023/11/FLI_Governance_Scorecard_and_Framework.pdf" target="_blank" rel="noreferrer noopener">AI Governance Scorecard&lt;/a> (go to Pg. 3)&lt;/li>
+&lt;li>&lt;a href="https://civitai.com" target="_blank" rel="noreferrer noopener">CIVITAI&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.404media.co/a16z-funded-ai-platform-generated-images-that-could-be-categorized-as-child-pornography-leaked-documents-show/" target="_blank" rel="noreferrer noopener">Article on CIVITAI and CSAM&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.judiciary.senate.gov/protecting-children-online" target="_blank" rel="noreferrer noopener">Senate Hearing: Protecting Children Online&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.pbs.org/newshour/politics/watch-live-ceos-of-meta-tiktok-x-and-other-social-media-companies-testify-in-senate-hearing" target="_blank" rel="noreferrer noopener">PBS Newshour Coverage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html" target="_blank" rel="noreferrer noopener">The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work&lt;/a>&lt;/li>
+&lt;li>Open Source/Weights/Release/Interpretation
+&lt;ul>
+&lt;li>&lt;a href="https://opensource.org" target="_blank" rel="noreferrer noopener">Open Source Initiative&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://opensource.org/history" target="_blank" rel="noreferrer noopener">History of the OSI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://opensource.org/blog/metas-llama-2-license-is-not-open-source" target="_blank" rel="noreferrer noopener">Meta’s LLaMa 2 license is not Open Source&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://opensourceconnections.com/blog/2023/07/19/is-llama-2-open-source-no-and-perhaps-we-need-a-new-definition-of-open/" target="_blank" rel="noreferrer noopener">Is Llama 2 open source? No – and perhaps we need a new definition of open…&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noreferrer noopener">Apache License, Version 2.0&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.3blue1brown.com/topics/neural-networks" target="_blank" rel="noreferrer noopener">3Blue1Brown: Neural Networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3571884.3604316" target="_blank" rel="noreferrer noopener">Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators&lt;/a>
+&lt;ul>
+&lt;li>The online &lt;a href="https://opening-up-chatgpt.github.io" target="_blank" rel="noreferrer noopener">table&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.signal.org" target="_blank" rel="noreferrer noopener">Signal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/bigscience/bloomz" target="_blank" rel="noreferrer noopener">Bloomz&lt;/a> model on HuggingFace&lt;/li>
+&lt;li>&lt;a href="https://mistral.ai" target="_blank" rel="noreferrer noopener">Mistral&lt;/a> website&lt;/li>
+&lt;li>NASA Tragedies
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank" rel="noreferrer noopener">Challenger disaster&lt;/a> on Wikipedia&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster" target="_blank" rel="noreferrer noopener">Columbia disaster&lt;/a> on Wikipedia&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>AIxBio Risk
+&lt;ul>
+&lt;li>&lt;a href="https://www.nature.com/articles/s42256-022-00465-9" target="_blank" rel="noreferrer noopener">Dual use of artificial-intelligence-powered drug discovery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2306.03809" target="_blank" rel="noreferrer noopener">Can large language models democratize access to dual-use biotechnology?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models" target="_blank" rel="noreferrer noopener">Open-Sourcing Highly Capable Foundation Models&lt;/a> &lt;em>(sadly, I can&amp;rsquo;t rename the article&amp;hellip;)&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://1a3orn.com/sub/essays-propaganda-or-science.html" target="_blank" rel="noreferrer noopener">Propaganda or Science: Open Source AI and Bioterrorism Risk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ineffectivealtruismblog.com/2024/03/09/exaggerating-the-risks-part-14-biorisk-from-llms/" target="_blank" rel="noreferrer noopener">Exaggerating the risks (Part 15: Biorisk from LLMs)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.18233" target="_blank" rel="noreferrer noopener">Will releasing the weights of future large language models grant widespread access to pandemic agents?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://crfm.stanford.edu/open-fms/" target="_blank" rel="noreferrer noopener">On the Societal Impact of Open Foundation Models&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://hai.stanford.edu/sites/default/files/2023-12/Governing-Open-Foundation-Models.pdf" target="_blank" rel="noreferrer noopener">Policy brief&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.apartresearch.com" target="_blank" rel="noreferrer noopener">Apart Research&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.science.org" target="_blank" rel="noreferrer noopener">Science&lt;/a>&lt;/li>
+&lt;li>Cicero
+&lt;ul>
+&lt;li>&lt;a href="https://www.science.org/doi/10.1126/science.ade9097" target="_blank" rel="noreferrer noopener">Human-level play in the game of Diplomacy by combining language models with strategic reasoning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ai.meta.com/research/cicero/" target="_blank" rel="noreferrer noopener">Cicero&lt;/a> webpage&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2308.14752" target="_blank" rel="noreferrer noopener">AI Deception: A Survey of Examples, Risks, and Potential Solutions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://demos.co.uk/research/open-sourcing-the-ai-revolution-framing-the-debate-on-open-source-artificial-intelligence-and-regulation/" target="_blank" rel="noreferrer noopener">Open Sourcing the AI Revolution: Framing the debate on open source, artificial intelligence and regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>StakeOut.AI w/ Dr. Peter Park (2)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e017/</link><pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e017/</guid><description>&lt;div style="text-align: justify">
+Join me for round 2 with Dr. Peter Park, an AI Existential Safety Postdoctoral Fellow working with Dr. Max Tegmark at MIT. Dr. Park was a cofounder of &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>, a non-profit focused on making AI go well &lt;i>for humans&lt;/i>, along with Harry Luk and one other individual, whose name has been removed due to requirements of her current position.
+&lt;p>In addition to the normal links, I wanted to include the links to the petitions that Dr. Park mentions during the podcast. Note that the nonprofit which began these petitions, StakeOut.AI, has been dissolved.&lt;/p>
+&lt;/div>
+&lt;p>&lt;a href="https://www.change.org/p/right-ai-laws-to-right-our-future-support-artificial-intelligence-safety-regulations-now" target="_blank" rel="noreferrer noopener">Right AI Laws, to Right Our Future: Support Artificial Intelligence Safety Regulations Now&lt;/a>&lt;br>
+&lt;a href="https://www.change.org/p/is-deepfake-illegal-not-yet-ban-deepfakes-to-protect-your-family-demand-deepfake-laws" target="_blank" rel="noreferrer noopener">Is Deepfake Illegal? Not Yet! Ban Deepfakes to Protect Your Family &amp;amp; Demand Deepfake Laws&lt;/a>&lt;br>
+&lt;a href="https://www.change.org/p/ban-superintelligence-stop-ai-driven-human-extinction-risk" target="_blank" rel="noreferrer noopener">Ban Superintelligence: Stop AI-Driven Human Extinction Risk&lt;/a>&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/58dfc367">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:54 ❙ Intro&lt;br>
+00:02:34 ❙ Battleground 1: Copyright&lt;br>
+00:06:28 ❙ Battleground 2: Moral Critique of AI Collaborationists&lt;br>
+00:08:15 ❙ Rich Sutton&lt;br>
+00:20:41 ❙ OpenAI &lt;i>Drama&lt;/i>&lt;br>
+00:34:28 ❙ Battleground 3: Contract Negotiations for AI Ban Clauses&lt;br>
+00:37:57 ❙ Tesla, Autopilot, and FSD&lt;br>
+00:40:02 ❙ Recycling&lt;br>
+00:47:40 ❙ Battleground 4: New Laws and Policies&lt;br>
+00:50:00 ❙ Battleground 5: Whistleblower Protections&lt;br>
+00:53:07 ❙ Whistleblowing on Microsoft&lt;br>
+00:54:43 ❙ Andrej Karpathy &amp; Exercises in Empathy&lt;br>
+01:05:57 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html" target="_blank" rel="noreferrer noopener">The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.susmangodfrey.com" target="_blank" rel="noreferrer noopener">Susman Godfrey LLP&lt;/a>&lt;/li>
+&lt;li>Rich Sutton
+&lt;ul>
+&lt;li>WARNING HTTP LINK: &lt;a href="http://incompleteideas.net/book/RLbook2020trimmed.pdf" target="_blank" rel="noreferrer noopener">Reinforcement Learning: An Introduction&lt;/a> (textbook)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=NgHFMolXs3U" target="_blank" rel="noreferrer noopener">AI Succession&lt;/a> (presentation by Rich Sutton)&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2208.11173" target="_blank" rel="noreferrer noopener">The Alberta Plan for AI Research&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Moore&amp;rsquo;s Law
+&lt;ul>
+&lt;li>&lt;a href="https://www.computerhistory.org/collections/catalog/102770836" target="_blank" rel="noreferrer noopener">The Future of Integrated Electronics&lt;/a> (original paper)&lt;/li>
+&lt;li>&lt;a href="https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits/" target="_blank" rel="noreferrer noopener">Computer History Museum&amp;rsquo;s entry on Moore&amp;rsquo;s Law&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent" target="_blank" rel="noreferrer noopener">Stochastic gradient descent (SGD)&lt;/a> on Wikipedia&lt;/li>
+&lt;li>OpenAI &lt;em>Drama&lt;/em>
+&lt;ul>
+&lt;li>&lt;a href="https://maxread.substack.com/p/the-interested-normies-guide-to-openai" target="_blank" rel="noreferrer noopener">Max Read&amp;rsquo;s Substack post&lt;/a>&lt;/li>
+&lt;li>Zvi Mowshowitz&amp;rsquo;s Substack series, in order of posting
+&lt;ul>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-facts-from-a-weekend?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Facts from a Weekend&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-the-battle-of-the-board?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: The Battle of the Board&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-altman-returns?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Altman Returns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-leaks-confirm-the-story?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Leaks Confirm the Story&lt;/a> ← best singular post in the series&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-the-board-expands?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: The Board Expands&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://openai.com/blog/openai-announces-new-members-to-board-of-directors" target="_blank" rel="noreferrer noopener">Official OpenAI announcement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Writers_Guild_of_America" target="_blank" rel="noreferrer noopener">WGA&lt;/a> on Wikipedia&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/SAG-AFTRA" target="_blank" rel="noreferrer noopener">SAG-AFTRA&lt;/a> on Wikipedia&lt;/li>
+&lt;li>Tesla&amp;rsquo;s False Advertising
+&lt;ul>
+&lt;li>&lt;a href="https://www.latimes.com/business/story/2023-12-11/tesla-dmv-false-advertising-charges" target="_blank" rel="noreferrer noopener">Tesla&amp;rsquo;s response to the DMV&amp;rsquo;s false-advertising allegations: What took so long?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.caranddriver.com/news/a35785277/tesla-fsd-california-self-driving/" target="_blank" rel="noreferrer noopener">Tesla Tells California DMV that FSD Is Not Capable of Autonomous Driving&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.caranddriver.com/features/columns/a35769759/carty-self-driving-cars/" target="_blank" rel="noreferrer noopener">What to Call Full Self-Driving When It Isn&amp;rsquo;t Full Self-Driving?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cnbc.com/2022/03/15/tesla-fired-employee-who-posted-fsd-beta-videos-as-ai-addict-on-youtube.html" target="_blank" rel="noreferrer noopener">Tesla fired an employee after he posted driverless tech reviews on YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noreferrer noopener">Tesla&amp;rsquo;s page&lt;/a> on Autopilot and Full Self-Driving&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Recycling
+&lt;ul>
+&lt;li>&lt;a href="https://www.longmontleader.com/regional-news/boulder-county-recycling-center-stockpiles-accurately-sorted-recyclable-materials-2385879" target="_blank" rel="noreferrer noopener">Boulder County Recycling Center Stockpiles Accurately Sorted Recyclable Materials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://boulderweekly.com/news/out-of-sight-out-of-mind/" target="_blank" rel="noreferrer noopener">Out of sight, out of mind&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ecocycle.org/content/uploads/2022/06/2024-Recycling-Guidelines-for-Boulder-County.pdf" target="_blank" rel="noreferrer noopener">Boulder Eco-Cycle Recycling Guidelines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.06009" target="_blank" rel="noreferrer noopener">Divide-and-Conquer Dynamics in AI-Driven Disempowerment&lt;/a>&lt;/li>
+&lt;li>Microsoft Whistleblower
+&lt;ul>
+&lt;li>&lt;a href="https://www.axios.com/2024/03/08/ai-whistleblowers-microsoft-copilot-designer-google-gemini" target="_blank" rel="noreferrer noopener">Whistleblowers call out AI&amp;rsquo;s flaws&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7171135079702753280/" target="_blank" rel="noreferrer noopener">Shane&amp;rsquo;s LinkedIn post&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://media.licdn.com/dms/document/media/D561FAQFfYnpLbIn2Xg/feedshare-document-pdf-analyzed/0/1709731400675?e=1711584000&amp;v=beta&amp;t=W3CLljNWJ8YCQSEuMCR9bt7UoIxsGo24Epj9GddfN8U" target="_blank" rel="noreferrer noopener">Letters sent by Jones&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/karpathy/status/1757600075281547344" target="_blank" rel="noreferrer noopener">Karpathy announces departure from OpenAI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>StakeOut.AI w/ Dr. Peter Park (1)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e015/</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e015/</guid><description>&lt;div style="text-align: justify">
+Dr. Peter Park is an AI Existential Safety Postdoctoral Fellow working with Dr. Max Tegmark at MIT. In conjunction with Harry Luk and one other cofounder, he founded &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>, a non-profit focused on making AI go well _for humans_.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/81a6fb5c">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:54 ❙ Intro&lt;br>
+03:15 ❙ Dr. Park, x-risk, and AGI&lt;br>
+08:55 ❙ StakeOut.AI&lt;br>
+12:05 ❙ Governance scorecard&lt;br>
+19:34 ❙ Hollywood webinar&lt;br>
+22:02 ❙ Regulations.gov comments&lt;br>
+23:48 ❙ Open letters &lt;br>
+26:15 ❙ EU AI Act&lt;br>
+35:07 ❙ Effective accelerationism&lt;br>
+40:50 ❙ Divide and conquer dynamics&lt;br>
+45:40 ❙ AI "art"&lt;br>
+53:09 ❙ Outro
+&lt;/div>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://futureoflife.org/wp-content/uploads/2023/11/FLI_Governance_Scorecard_and_Framework.pdf" target="_blank" rel="noreferrer noopener">AI Governance Scorecard&lt;/a> (go to Pg. 3)&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.regulations.gov" target="_blank" rel="noreferrer noopener">Regulations.gov&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.regulations.gov/comment/COLC-2023-0006-10077" target="_blank" rel="noreferrer noopener">USCO StakeOut.AI Comment&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.regulations.gov/comment/OMB-2023-0020-0170" target="_blank" rel="noreferrer noopener">OMB StakeOut.AI Comment&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://aitreaty.org" target="_blank" rel="noreferrer noopener">AI Treaty open letter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://taisc.org" target="_blank" rel="noreferrer noopener">TAISC&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" target="_blank" rel="noreferrer noopener">Alpaca: A Strong, Replicable Instruction-Following Model&lt;/a>&lt;/li>
+&lt;li>References on EU AI Act and Cedric O
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/cedric_o/status/1728724005459235052" target="_blank" rel="noreferrer noopener">Tweet from Cedric O&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/eu-policymakers-enter-the-last-mile-for-artificial-intelligence-rulebook/" target="_blank" rel="noreferrer noopener">EU policymakers enter the last mile for Artificial Intelligence rulebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/ai-act-eu-parliaments-legal-office-gives-damning-opinion-on-high-risk-classification-filters/" target="_blank" rel="noreferrer noopener">AI Act: EU Parliament’s legal office gives damning opinion on high-risk classification ‘filters’&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/eus-ai-act-negotiations-hit-the-brakes-over-foundation-models/" target="_blank" rel="noreferrer noopener">EU’s AI Act negotiations hit the brakes over foundation models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.foundation-models.eu" target="_blank" rel="noreferrer noopener">The EU AI Act needs Foundation Model Regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/" target="_blank" rel="noreferrer noopener">BigTech’s Efforts to Derail the AI Act&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://demos.co.uk/research/open-sourcing-the-ai-revolution-framing-the-debate-on-open-source-artificial-intelligence-and-regulation/" target="_blank" rel="noreferrer noopener">Open Sourcing the AI Revolution: Framing the debate on open source, artificial intelligence and regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.06009" target="_blank" rel="noreferrer noopener">Divide-and-Conquer Dynamics in AI-Driven Disempowerment&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>AISC Proposal w/ Remmelt Ellen</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e002/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e002/</guid><description>&lt;div style="text-align: justify">
+In this episode I discuss my initial research proposal for the 2024 Winter AI Safety Camp with one of the individuals who helps facilitate the program, Remmelt Ellen.&lt;br>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/57154a54">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>The proposal is titled &amp;ldquo;The Effect of Machine Learning on Bioengineered Pandemic Risk&amp;rdquo;. A doc-capsule of the proposal at the time of this recording can be found &lt;a href="https://docs.google.com/document/d/1bbFDNc_hzhzYqN6pn1jYvPhSRp2CyYez4UP0ly_mMRM/edit?usp=sharing" target="_blank" rel="noreferrer noopener">at this link&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://chemrxiv.org/engage/chemrxiv/article-details/61551803d1fc335b7cf8fd45" target="_blank" rel="noreferrer noopener">MegaSyn: Integrating Generative Molecule Design, Automated Analog Designer and Synthetic Viability Prediction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nature.com/articles/s42256-022-00465-9?fbclid=IwAR11_V1cd9SUxEvUfwrWMA7TUcroyYIY1nBDUL3KaS-8B4rG5MIqZCmjm0M" target="_blank" rel="noreferrer noopener">Dual use of artificial-intelligence-powered drug discovery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2306.13952" target="_blank" rel="noreferrer noopener">Artificial intelligence and biological misuse: Differentiating risks of language models and biological design tools&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dataguidance.com/news/china-cac-proposes-global-ai-governance-initiative" target="_blank" rel="noreferrer noopener">China CAC Proposes Global AI Governance Initiative&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.technologyreview.com/2023/10/18/1081846/generative-ai-safety-censorship-china/" target="_blank" rel="noreferrer noopener">China has a new plan for judging the safety of generative AI — and it’s packed with details&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.alignmentforum.org/posts/ChDH335ckdvpxXaXX/model-organisms-of-misalignment-the-case-for-a-new-pillar-of-1" target="_blank" rel="noreferrer noopener">Model Organisms of Misalignment: The Case for a New Pillar of Alignment Research&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.02949" target="_blank" rel="noreferrer noopener">Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.03693" target="_blank" rel="noreferrer noopener">Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.alignmentforum.org/posts/3eqHYxfWb5x4Qfz8C/unrlhf-efficiently-undoing-llm-safeguards" target="_blank" rel="noreferrer noopener">unRLHF - Efficiently undoing LLM safeguards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item></channel></rss>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Advocacy | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/advocacy/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/advocacy/index.xml" rel="self" type="application/rss+xml"/><description>Advocacy</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Advocacy</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/advocacy/</link></image><item><title>What AI Governance Can Learn From Climate – And Why It Mostly Hasn't</title><link>https://jacob-haimes.github.io/kairos.fm/staging/what-ai-governance-can-learn-from-climate/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/what-ai-governance-can-learn-from-climate/</guid><description>&lt;figure>
+&lt;img loading="lazy" width="1080" height="900" decoding="async" data-nimg="1"
+src="jesse-allen_mackenzie-meets-beaufort_9000x7500.jpg"
+alt="Canada’s largest and longest river delivers vast amounts of fresh water and sediment to the sea.">
+&lt;figcaption style="font-size:small">
+Image by Jesse Allen / &lt;a target="_blank" rel="noreferrer noopener" href="https://science.nasa.gov/earth/earth-observatory/">NASA Earth Observatory
+&lt;/a> /
+&lt;a target="_blank" rel="noreferrer noopener" href="https://science.nasa.gov/earth/earth-observatory/mackenzie-meets-beaufort-90703/">Mackenzie Meets Beaufort
+&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: justify">
+&lt;p>For roughly three decades, climate governance has been our most sustained real-world experiment in managing a slow-moving, civilisation-scale risk. Not because it has worked especially well, but because it has forced institutions to confront something genuinely hard: acting when harms are unevenly distributed across time and geography, and when feedback from decision–making arrives only after the damage has already begun.&lt;/p>
+&lt;p>I have been working at the intersections of both climate and AI governance (UK Country Representative of the Global Ecovillage Network &lt;em>vis-à-vis&lt;/em> Arcadia Impact AI Governance Taskforce), international justice (Platform for Peace &amp;amp; Humanity), and foresight (Futures4Europe). What strikes me is how relatively little this accumulated experience informs contemporary AI safety debates. The communities are strikingly siloed – and given that AI is advancing far faster than climate change ever did, that seems like a problem.&lt;/p>
+&lt;p>We are behaving, in some ways, as though we have never encountered a high-stakes global risk before.&lt;/p>
+&lt;/div>
+&lt;h2 id="the-parallels-that-are-drawn--and-the-ones-that-arent">The parallels that are drawn – and the ones that aren’t&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Comparisons between AI and climate change do get &lt;a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70002" target="_blank" rel="noopener">drawn&lt;/a> occasionally. When they do, they usually focus on democratic accountability, compressed decision cycles, representation and legitimacy, or public trust. These are real concerns, but they tend to pivot toward speculative political outcomes rather than the underlying question: &lt;em>what happens when risks accelerate faster than institutional learning?&lt;/em>&lt;/p>
+&lt;p>Climate research communities spent years developing tools to reason across long time horizons – accounting for feedback loops, identifying lock-in dynamics, anticipating tipping points, while AI governance faces comparable structural challenges – non-linear capability growth, deployment decisions that may be difficult or impossible to reverse, and incentives that systematically reward speed over caution.&lt;/p>
+&lt;p>There&amp;rsquo;s also a version of the comparison that narrows too quickly. An Oxford &lt;a href="https://blogs.law.ox.ac.uk/oblb/blog-post/2025/05/ai-and-corporate-climate-governance-time-ai-pragmatism" target="_blank" rel="noopener">law blog&lt;/a> that I recently came across framed AI and climate change as twin transformations, then spent most of its length on AI&amp;rsquo;s carbon footprint. That question matters, but it treats AI more as an environmental hazard rather than a global-risk technology. (Although, the IEA &lt;a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener">projects&lt;/a> global data-centre electricity consumption will reach around 945 TWh by 2030, roughly equivalent to Japan&amp;rsquo;s current total electricity use. Worth knowing about.)&lt;/p>
+&lt;/div>
+&lt;h2 id="where-the-analogies-are-genuinely-useful">Where the analogies are genuinely useful&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>The UNU Institute for Environment and Human Security has &lt;a href="https://unu.edu/ehs/commentary/aligning-ai-and-climate-governance" target="_blank" rel="noopener">argued&lt;/a> that AI governance frameworks can learn from climate adaptation – specifically from the inflection point when adaptation stopped being treated as a niche environmental concern, and was reframed as a cross-sectoral risk affecting security, infrastructure, and economic stability. Climate governance accelerated once those linkages were recognised and institutionalised.&lt;/p>
+&lt;p>The solar geoengineering parallel is instructive, and underused. Both geoengineering and frontier AI are global-scale technologies characterised by profound scientific uncertainty, asymmetric incentives, and the risk of unilateral deployment by a small number of actors who are thereby capable of forcing a planetary transition. Geoengineering has long been haunted by what some call the &amp;ldquo;governance-gap paradox&amp;rdquo; – the need for regulation before technical feasibility is fully proven because, by the time it is proven, the window may have closed. However, solar geoengineering startups are now entering a commercial &lt;a href="https://www.justsecurity.org/125056/solar-geoengineering-startup-security" target="_blank" rel="noopener">take-off&lt;/a> phase without adequate governance frameworks. That trajectory should look familiar to AI governance activists. In fact, climate activists have &lt;a href="https://physicstoday.aip.org/features/the-urgent-need-for-research-governance-of-solar-geoengineering" target="_blank" rel="noopener">spotted&lt;/a> the pattern, and are watching the AI governance space keenly.&lt;/p>
+&lt;p>The lesson I draw from this is that once frontier-scale technologies attract serious capital, the window for responsible governance narrows fast. The SB 1047 case is instructive. This particular California AI safety bill – which would have required frontier model developers to implement basic safety protocols – passed both chambers of the state legislature with strong support, only to be vetoed by Governor Newsom in September 2024 after an intense industry lobbying campaign. Among those who publicly opposed it was former House Speaker Nancy Pelosi, whose household held between $16 million and $80 million in AI-adjacent stocks including Nvidia, Amazon, Google, and Microsoft at the time of her opposition (American Prospect, 2024). The bill had been endorsed by Geoffrey Hinton, Yoshua Bengio, Elon Musk, and Anthropic. The governance window, in other words, was open, but investment capital closed it.&lt;/p>
+&lt;p>If we wait until highly capable models are deployed across critical infrastructure, the options shrink dramatically. In my current work with Arcadia Impact – developing severity thresholds for AI incident escalation – I have already seen how difficult it is to define governance triggers before systems are deployed. As the California SB 1047 case illustrates, once deployment occurs, political and institutional incentives shift toward preserving existing capabilities rather than constraining them. This is why calls for &lt;a href="https://www.brookings.edu/articles/licensing-ai-is-not-the-answer-but-it-contains-the-answers" target="_blank" rel="noopener">pre-deployment licensing&lt;/a>, &lt;a href="https://metr.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment" target="_blank" rel="noopener">capability forecasting&lt;/a>, and &lt;a href="https://www.un.org/sg/en/content/sg/statements/2025-09-25/secretary-generals-remarks-high-level-multi-stakeholder-informal-meeting-launch-the-global-dialogue-artificial-intelligence-governance-delivered" target="_blank" rel="noopener">international coordination&lt;/a> are not alarmist – they are simply late.&lt;/p>
+&lt;/div>
+&lt;h2 id="where-the-strongest-analyses-still-underestimate">Where the strongest analyses still underestimate&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>Even comparative &lt;a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ffo2.203" target="_blank" rel="noopener">analyses&lt;/a> which I find otherwise useful tend to underestimate the tempo of AI risk. A November 2024 analysis categorised AI impacts as &amp;ldquo;intermittent&amp;rdquo; and &amp;ldquo;non-linear,&amp;rdquo; labelled it a &amp;ldquo;sectoral&amp;rdquo; rather than collective risk, and described its economic stakes as &amp;ldquo;low to medium.&amp;rdquo; This framing, to me, already feels far behind the curve – though perhaps not for the reasons most commonly cited.&lt;/p>
+&lt;p>Common framing of AI governance urgency understandably leans on the most dramatic examples: &lt;a href="https://bbc.com/news/articles/cly7jrez2jno" target="_blank" rel="noopener">autonomous weapons use&lt;/a> in conflicts where the forces are still overwhelmingly human,&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> AI in &lt;a href="https://www.anthropic.com/news/disrupting-AI-espionage" target="_blank" rel="noopener">cyberoperations&lt;/a>, &lt;a href="https://www.apolloresearch.ai/research/frontier-models-are-capable-of-incontext-scheming/#:~:text=Several%20models%20are%20capable%20of,sandbag%20Multiple%20models%20can%20sandbag" target="_blank" rel="noopener">deceptive&lt;/a> model behaviour – these are real and documented, but they are neither new nor what they appear.&lt;/p>
+&lt;p>Whether harmful outcomes emerge from misaligned systems that human deceptivity can exploit, or from entirely rational competitive incentive – such as companies deploying models faster than safety allows, cutting corners to reduce costs, and prioritising capability over accountability – the governance gap is the same. The problem does not require AI to &amp;ldquo;go rogue&amp;rdquo; – it only requires that no adequate framework exists when the consequences compound.&lt;/p>
+&lt;p>A direct comparison makes the point:&lt;/p>
+&lt;p>&lt;strong>Climate risk:&lt;/strong> Short-term: extreme weather events. Medium-term: ecosystem degradation, biodiversity loss. Long-term: ocean-current collapse, polar permafrost thaw&lt;/p>
+&lt;p>&lt;strong>AI risk:&lt;/strong> Short-term: biased automated decision-making, AI-driven cyberattacks. Medium-term: power concentration, pervasive AI surveillance. Long-term: misaligned advanced systems operating beyond human control&lt;/p>
+&lt;p>Both trajectories involve cascading risks and feedback loops. The difference is the timescale. Climate unfolds over generations. AI risk may be compressed into a few training cycles – some say as early as by 2027.&lt;/p>
+&lt;/div>
+&lt;h2 id="why-climate-communities-are-natural-allies">Why climate communities are natural allies&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>As climate activists, we understand how windows of opportunity open and close – the gap between the Rio 1992 Earth Summit and meaningful action taking place is the story of a window missed. We know how early decisions lock in structural disadvantages: carbon-intensive infrastructure commits us to decades of emissions regardless of subsequent political will, and between now and 2030, &lt;a href="https://www.citizen.digital/article/greener-infrastructure-said-key-to-paris-climate-deal-study-144371" target="_blank" rel="noopener">$90 trillion&lt;/a> in global infrastructure investment could either deepen or begin to break that lock-in. We know how problems can resist standard policy tools — &lt;a href="https://earth.org/how-not-to-introduce-a-carbon-tax-australia" target="_blank" rel="noopener">Australia&lt;/a> repealed its carbon tax within two years of introduction; &lt;a href="https://corporateknights.com/energy/lessons-from-the-yellow-vests" target="_blank" rel="noopener">France&amp;rsquo;s&lt;/a> fuel tax increases triggered a political revolt. We have watched bifurcated responses undermine collective action, as US withdrawal from the Paris Agreement — twice — demonstrated that no framework is stable when its largest actors treat participation as optional. And we have spent decades arguing that uneven risk distribution demands coordinated response: the nations facing existential loss from sea-level rise — Tuvalu, Kiribati, the Maldives — contribute less than 1% of global emissions.&lt;/p>
+&lt;p>None of this is abstract for us. These are the structural features of governing a global commons under political inertia. These patterns also map almost directly onto frontier AI governance.&lt;/p>
+&lt;p>Then there is the psychological parallel. Climate change appeared too abstract and too slow-moving to demand aggressive early action, becoming politically unavoidable only once harms were visible and, by which point, much harm was already locked in. AI risk has the opposite problem: it moves at a pace that denies policymakers the time needed to form new instincts. Slow recognition is as dangerous as slow response, just for different reasons.&lt;/p>
+&lt;p>The Montréal Protocol is the counterexample I keep returning to. When the scientific community accepted the evidence of ozone depletion, governments acted with unusual speed. The protocol was negotiated in 1987, within two years of the critical findings, establishing a stabilisation period before irreversible damage. It demonstrates that precaution taken early enough can avert worst-case outcomes even under genuine uncertainty. Our current inability to forecast the capabilities of the next generation of AI systems is not a reason to wait – it may be the strongest case for acting before thresholds are crossed.&lt;/p>
+&lt;p>I have consistently argued that frontier AI needs something equivalent to the International Civil Aviation Organisation: you cannot certify a new aircraft design without the plans being scrutinised and approved. We should be doing the same with foundation models.&lt;/p>
+&lt;/div>
+&lt;h2 id="the-case-for-bridging-these-communities">The case for bridging these communities&lt;/h2>
+&lt;div style="text-align: justify">
+&lt;p>AI governance is largely driven by a few thousand professionals, many of whom share common assumptions and common blind spots. It draws on concepts long familiar in climate governance, peace studies, and foresight – on systemic risk, irreversibility, on collective action problems and path dependence – but it often does so without consistently engaging the communities that have been working on those concepts for decades.&lt;/p>
+&lt;p>Climate communities have spent decades on precaution under uncertainty. Peace communities know what effective treaties and de-escalation frameworks need to look like. Foresight work is built on the detection of weak yet aggregated signals and path dependence. The question is &lt;em>why do these communities so rarely intersect with AI governance work, given how directly their accumulated knowledge applies?&lt;/em>&lt;/p>
+&lt;p>The window for precaution in climate governance was measured in decades, and we still struggled to use it well. In AI, the equivalent window may be measured in years. Keeping these conversations siloed risks repeating – at far greater speed – the failures we now look back on in climate action. I have become increasingly frustrated by this as a practical constraint on my own work. I move between climate governance spaces, AI safety discussions, international justice forums, and foresight networks regularly. The conversations are often uncannily parallel, sometimes using different terminology for identical concepts, frequently reinventing frameworks that already exist elsewhere. The waste is significant.&lt;/p>
+&lt;p>More importantly, the missed synthesis means that we are slower than we should be at recognising patterns, slower at adapting lessons, and slower at building upon institutional muscle memory. I am not merely making an analytical claim. This is a practical problem about where talent, attention, and cross-community relationships need to head, fairly urgently.&lt;/p>
+&lt;/div>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>In the Russo-Ukrainian war, according to the GFP, as of 2026 &lt;a href="https://www.globalfirepower.com/country-military-strength-detail.php?country_id=russia" target="_blank" rel="noopener">Russia&lt;/a> has over 1.32 million active-duty personnel and close to two million reservists, while &lt;a href="https://www.globalfirepower.com/country-military-strength-detail.php?country_id=ukraine" target="_blank" rel="noopener">Ukraine&lt;/a> has 900,000 active-duty personnel and four million reservists.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Growing BlueDot's Impact w/ Li-Lian Ang</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e023/</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e023/</guid><description>&lt;div style="text-align: justify">
+I'm joined by my good friend, Li-Lian Ang, first hire and product manager at BlueDot Impact. We discuss how BlueDot has evolved from their original course offerings to a new "defense-in-depth" approach, which focuses on three core threat models: reduced oversight in high risk scenarios (e.g. accelerated warfare), catastrophic terrorism (e.g. rogue actors with bioweapons), and the concentration of wealth and power (e.g. supercharged surveillance states). On top of that, we cover how BlueDot's strategies account for and reduce the negative impacts of common issues in AI safety, including exclusionary tendencies, elitism, and echo chambers.&lt;br>&lt;br>
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900">
+&lt;span class="pr-3 pt-1 text-red-400">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">2025.09.15: Learn more about how to make design effective interventions to make AI go well and potentially even get funded for it on BlueDot Impact&amp;rsquo;s &lt;a href="https://bluedot.org/courses/agi-strategy" target="_blank" rel="noreferrer noopener">AGI Strategy course&lt;/a>! BlueDot is also &lt;a href="https://bluedot.org/join-us" target="_blank" rel="noreferrer noopener">hiring&lt;/a>, so if you think you’d be a good fit, I definitely recommend applying; I had a great experience when I contracted as a course facilitator. If you do end up applying, let them know you found out about the opportunity from the podcast!&lt;/span>
+&lt;/div>
+&lt;p>Follow Li-Lian on &lt;a href="https://www.linkedin.com/in/anglilian/" target="_blank" rel="noopener">LinkedIn&lt;/a>, and look at more of her work on her &lt;a href="https://anglilian.com/" target="_blank" rel="noopener">blog&lt;/a>!&lt;/p>
+&lt;p>As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm &lt;a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noopener">Patreon&lt;/a> which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/693171f2">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.08.27; ASIDES RECORDED 2025.09.07&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:03:23 ❙ Meeting Through the Course&lt;br>
+00:05:46 ❙ Eating Your Own Dog Food&lt;br>
+00:13:13 ❙ Impact Acceleration&lt;br>
+00:22:13 ❙ Breaking Out of the AI Safety Mold&lt;br>
+00:26:06 ❙ Bluedot’s Risk Framework&lt;br>
+00:41:38 ❙ Dangers of "Frontier" Models&lt;br>
+00:54:06 ❙ The Need for AI Safety Advocates&lt;br>
+01:00:11 ❙ Hot Takes and Pet Peeves
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>BlueDot Impact &lt;a href="https://bluedot.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="defense-in-depth">Defense-in-Depth&lt;/h3>
+&lt;ul>
+&lt;li>BlueDot Impact &lt;a href="https://bluedot.org/blog/course-portfolio-vision" target="_blank" rel="noopener">blogpost&lt;/a> - Our vision for comprehensive AI safety training&lt;/li>
+&lt;li>Engineering for Humans &lt;a href="https://www.engineeringforhumans.com/systems-engineering/the-swiss-cheese-model-designing-to-reduce-catastrophic-losses/" target="_blank" rel="noopener">blogpost&lt;/a> - The Swiss cheese model: Designing to reduce catastrophic losses&lt;/li>
+&lt;li>Open Journal of Safety Science and Technology &lt;a href="https://www.scirp.org/journal/paperinformation?paperid=70457" target="_blank" rel="noopener">article&lt;/a> - The Evolution of Defense in Depth Approach: A Cross Sectorial Analysis&lt;/li>
+&lt;/ul>
+&lt;h3 id="x-clusion-and-x-risk">X-clusion and X-risk&lt;/h3>
+&lt;ul>
+&lt;li>Nature &lt;a href="https://arxiv.org/abs/2502.09288" target="_blank" rel="noopener">article&lt;/a> - AI Safety for Everyone&lt;/li>
+&lt;li>Ben Kuhn &lt;a href="https://www.benkuhn.net/welcoming/" target="_blank" rel="noopener">blogpost&lt;/a> - On being welcoming&lt;/li>
+&lt;li>Reflective Altruism &lt;a href="https://reflectivealtruism.com/2023/01/12/off-series-that-bostrom-email/" target="_blank" rel="noopener">blogpost&lt;/a> - Belonging (Part 1: That Bostrom email)&lt;/li>
+&lt;/ul>
+&lt;h3 id="aixbio">AIxBio&lt;/h3>
+&lt;ul>
+&lt;li>RAND &lt;a href="https://www.rand.org/pubs/research_reports/RRA2977-2.html" target="_blank" rel="noopener">report&lt;/a> - The Operational Risks of AI in Large-Scale Biological Attacks&lt;/li>
+&lt;li>OpenAI &lt;a href="https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/" target="_blank" rel="noopener">&amp;ldquo;publication&amp;rdquo;&lt;/a> (press release) - Building an early warning system for LLM-aided biological threat creation&lt;/li>
+&lt;li>Anthropic Frontier AI Red Team &lt;a href="https://red.anthropic.com/2025/biorisk/" target="_blank" rel="noopener">blogpost&lt;/a> - Why do we take LLMs seriously as a potential source of biorisk?&lt;/li>
+&lt;li>Kevin Esvelt &lt;a href="https://arxiv.org/pdf/2503.15182" target="_blank" rel="noopener">preprint&lt;/a> - Foundation models may exhibit staged progression in novel CBRN threat disclosure&lt;/li>
+&lt;li>Anthropic &lt;a href="https://www.anthropic.com/news/activating-asl3-protections" target="_blank" rel="noopener">press release&lt;/a> - Activating AI Safety Level 3 protections&lt;/li>
+&lt;/ul>
+&lt;h3 id="persuasive-ai">Persuasive AI&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2412.17128v1" target="_blank" rel="noopener">Preprint&lt;/a> - Lies, Damned Lies, and Distributional Language Statistics: Persuasion and Deception with Large Language Models&lt;/li>
+&lt;li>Nature Human Behavior &lt;a href="https://www.nature.com/articles/s41562-025-02194-6?error=cookies_not_supported&amp;amp;code=32f522a9-c964-4efa-9565-e013fbef4d63" target="_blank" rel="noopener">article&lt;/a> - On the conversational persuasiveness of GPT-4&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2505.09662" target="_blank" rel="noopener">Preprint&lt;/a> - Large Language Models Are More Persuasive Than Incentivized Human Persuaders&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai-anthropomorphization-and-mental-health">AI, Anthropomorphization, and Mental Health&lt;/h3>
+&lt;ul>
+&lt;li>Western News &lt;a href="https://news.westernu.ca/2025/08/danger-of-anthropomorphic-ai/" target="_blank" rel="noopener">article&lt;/a> - Expert insight: Humanlike chatbots detract from developing AI for the human good&lt;/li>
+&lt;li>AI &amp;amp; Society &lt;a href="https://link.springer.com/article/10.1007/s00146-022-01492-1" target="_blank" rel="noopener">article&lt;/a> - Anthropomorphization and beyond: conceptualizing humanwashing of AI-enabled machines&lt;/li>
+&lt;li>Artificial Ignorance &lt;a href="https://www.ignorance.ai/p/the-chatbot-trap" target="_blank" rel="noopener">article&lt;/a> - The Chatbot Trap&lt;/li>
+&lt;li>Making Noise and Hearing Things &lt;a href="https://makingnoiseandhearingthings.com/2022/08/03/large-language-models-cannot-replace-mental-health-professionals/" target="_blank" rel="noopener">blogpost&lt;/a> - Large language models cannot replace mental health professionals&lt;/li>
+&lt;li>Idealogo &lt;a href="https://www.brightfama.com/blog/2025/08/28/4-reasons-not-to-turn-chatgpt-into-your-therapist/" target="_blank" rel="noopener">blogpost&lt;/a> - 4 reasons not to turn ChatGPT into your therapist&lt;/li>
+&lt;li>Journal of Medical Society &lt;a href="https://journals.lww.com/jmso/fulltext/2024/38010/importance_of_informed_consent_in_medical_practice.1.aspx" target="_blank" rel="noopener">Editorial&lt;/a> - Importance of informed consent in medical practice&lt;/li>
+&lt;li>Indian Journal of Medical Research &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7055160/" target="_blank" rel="noopener">article&lt;/a> - Consent in psychiatry - concept, application &amp;amp; implications&lt;/li>
+&lt;li>Media Naama &lt;a href="https://www.medianama.com/2025/04/223-chatgpt-sycophantic-tone-risks-humanizing-ai-chatbots/" target="_blank" rel="noopener">article&lt;/a> - The Risk of Humanising AI Chabots: Why ChatGPT Mimicking Feelings Can Backfire&lt;/li>
+&lt;li>Becker&amp;rsquo;s Behavioral Health &lt;a href="https://www.beckersbehavioralhealth.com/ai-2/openais-mental-health-roadmap-5-things-to-know/" target="_blank" rel="noopener">blogpost&lt;/a> - OpenAI’s mental health roadmap: 5 things to know&lt;/li>
+&lt;/ul>
+&lt;h3 id="miscellaneous-references">Miscellaneous References&lt;/h3>
+&lt;ul>
+&lt;li>Carnegie Council &lt;a href="https://carnegiecouncil.org/media/article/what-do-we-mean-when-we-talk-about-ai-democratization" target="_blank" rel="noopener">blogpost&lt;/a> - What Do We Mean When We Talk About &amp;ldquo;AI Democratization&amp;rdquo;?&lt;/li>
+&lt;li>Collective Intelligence Project &lt;a href="https://www.cip.org/research/democratizing-ai" target="_blank" rel="noopener">policy brief&lt;/a> - Four Approaches to Democratizing AI&lt;/li>
+&lt;li>BlueDot Impact &lt;a href="https://bluedot.org/blog/how-does-ai-learn" target="_blank" rel="noopener">blogpost&lt;/a> - How Does AI Learn? A Beginner&amp;rsquo;s Guide with Examples&lt;/li>
+&lt;li>BlueDot Impact &lt;a href="https://bluedot.org/blog/ai-safety-advocacy" target="_blank" rel="noopener">blogpost&lt;/a> - AI safety needs more public-facing advocacy&lt;/li>
+&lt;/ul>
+&lt;h3 id="more-li-lian-links">More Li-Lian Links&lt;/h3>
+&lt;ul>
+&lt;li>Humans of Minerva podcast &lt;a href="https://humansofminerva.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Li-Lian&amp;rsquo;s &lt;a href="https://www.goodreads.com/book/show/57027582-purple-is-the-noblest-shroud" target="_blank" rel="noopener">book&lt;/a> - Purple is the Noblest Shroud&lt;/li>
+&lt;/ul>
+&lt;h3 id="relevant-podcasts-from-kairosfm">Relevant Podcasts from Kairos.fm&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://kairos.fm/intoaisafety/e019/" target="_blank" rel="noopener">Scaling Democracy w/ Dr. Igor Krawczuk&lt;/a> for AI safety exclusion and echo chambers&lt;/li>
+&lt;li>&lt;a href="https://kairos.fm/intoaisafety/e021/" target="_blank" rel="noopener">Getting into PauseAI w/ Will Petillo&lt;/a> for AI in warfare and exclusion in AI safety&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Getting into PauseAI w/ Will Petillo</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e021/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e021/</guid><description>&lt;div style="text-align: justify">
+Will Petillo, onboarding team lead at PauseAI, joins me to discuss the grassroots movement advocating for a pause on frontier AI model development. We explore PauseAI's strategy, talk about common misconceptions Will hears, and dig into how diverse perspectives still converge on the need to slow down AI development.
+&lt;/div>
+&lt;h3 id="wills-links">Will&amp;rsquo;s Links&lt;/h3>
+&lt;ul>
+&lt;li>Personal &lt;a href="https://www.zenmarmotdigital.com/blog" target="_blank" rel="noreferrer noopener">blog&lt;/a> on AI&lt;/li>
+&lt;li>His &lt;a href="https://www.figma.com/board/q1jTwOez837RG3SjGcfvlv/AI-Safety-Debate?node-id=0-1" target="_blank" rel="noreferrer noopener">mindmap&lt;/a> of the AI x-risk debate&lt;/li>
+&lt;li>&lt;a href="https://will9371.itch.io/" target="_blank" rel="noreferrer noopener">Game demos&lt;/a>&lt;/li>
+&lt;li>AI focused YouTube &lt;a href="https://youtube.com/@willpetillo1189?si=mt0z348YVus1JKfL" target="_blank" rel="noreferrer noopener">channel&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/7ce784af">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2025.05.22; ASIDES RECORDED 2025.06.11; &lt;a href="https://share.transistor.fm/s/7ce784af/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro &lt;br>
+00:03:36 ❙ What is PauseAI&lt;br>
+00:10:10 ❙ Will Petillo's journey into AI safety advocacy&lt;br>
+00:21:13 ❙ Understanding PauseAI&lt;br>
+00:31:35 ❙ Pursuing a pause&lt;br>
+00:40:06 ❙ Balancing advocacy in a complex world&lt;br>
+00:45:54 ❙ Why a pause on frontier models?&lt;br>
+00:54:48 ❙ Diverse perspectives within PauseAI&lt;br>
+00:59:55 ❙ PauseAI misconceptions&lt;br>
+01:16:40 ❙ Ongoing AI governance efforts (SB1047)&lt;br>
+01:28:52 ❙ The role of incremental progress&lt;br>
+01:35:16 ❙ Safety-washing and corporate responsibility&lt;br>
+01:37:23 ❙ Lessons from environmentalism&lt;br>
+01:41:59 ❙ Will's superlatives&lt;br>
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://pauseai.info/" target="_blank" rel="noreferrer noopener">PauseAI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pauseai-us.org/" target="_blank" rel="noreferrer noopener">PauseAI-US&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-kairosfm-episodes">Related Kairos.fm Episodes&lt;/h3>
+&lt;ul>
+&lt;li>Into AI Safety &lt;a href="https://kairos.fm/intoaisafety/e019/" target="_blank" rel="noreferrer noopener">episode&lt;/a> with Dr. Igor Krawczuk&lt;/li>
+&lt;li>muckrAIkers &lt;a href="https://kairos.fm/muckraikers/e002/" target="_blank" rel="noreferrer noopener">episode&lt;/a> on SB1047&lt;/li>
+&lt;/ul>
+&lt;h3 id="exclusionary-tendencies">Exclusionary Tendencies&lt;/h3>
+&lt;ul>
+&lt;li>Jacobin &lt;a href="https://jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism" target="_blank" rel="noreferrer noopener">article&lt;/a> - Elite Universities Gave Us Effective Altruism, the Dumbest Idea of the Century&lt;/li>
+&lt;li>SSIR &lt;a href="https://ssir.org/articles/entry/the_elitist_philanthropy_of_so_called_effective_altruism" target="_blank" rel="noreferrer noopener">article&lt;/a> - The Elitist Philanthropy of So-Called Effective Altruism&lt;/li>
+&lt;li>Persuasion &lt;a href="https://www.persuasion.community/p/the-problem-with-effective-altruism" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - The Problem with Effective Altruism&lt;/li>
+&lt;li>Dark Markets &lt;a href="https://davidzmorris.substack.com/p/whats-so-bad-about-rationalism" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - What&amp;rsquo;s So Bad About Rationalism?&lt;/li>
+&lt;li>FEE &lt;a href="https://fee.org/articles/whats-wrong-with-the-rationality-community/" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - What’s Wrong With the Rationality Community?&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai-in-warfare">AI in Warfare&lt;/h3>
+&lt;ul>
+&lt;li>Master&amp;rsquo;s &lt;a href="https://apps.dtic.mil/sti/tr/pdf/ADA255221.pdf" target="_blank" rel="noreferrer noopener">Thesis&lt;/a> - The Evolution of Artificial Intelligence and Expert Computer Systems in the Army&lt;/li>
+&lt;li>International Journal of Intelligent Systems &lt;a href="https://onlinelibrary.wiley.com/doi/10.1155/2023/8676366" target="_blank" rel="noreferrer noopener">article&lt;/a> - Artificial Intelligence in the Military: An Overview of the Capabilities, Applications, and Challenges&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2411.17840" target="_blank" rel="noreferrer noopener">Preprint&lt;/a> - Basic Research, Lethal Effects: Military AI Research Funding as Enlistment&lt;/li>
+&lt;li>AOAV &lt;a href="https://aoav.org.uk/2019/military-age-males-in-us-drone-strikes/#:~:text=Military-age%20males%20refers%20to,boys%20and%20men%20with%20combatants" target="_blank" rel="noreferrer noopener">Article&lt;/a> - ‘Military Age Males’ in US Drone Strikes&lt;/li>
+&lt;li>The Conversation &lt;a href="https://theconversation.com/gaza-war-israel-using-ai-to-identify-human-targets-raising-fears-that-innocents-are-being-caught-in-the-net-227422" target="_blank" rel="noreferrer noopener">article&lt;/a> - Gaza war: Israel using AI to identify human targets raising fears that innocents are being caught in the net&lt;/li>
+&lt;li>972 &lt;a href="https://www.972mag.com/lavender-ai-israeli-army-gaza/" target="_blank" rel="noreferrer noopener">article&lt;/a> - ‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza&lt;/li>
+&lt;li>IDF &lt;a href="https://www.idf.il/210062" target="_blank" rel="noreferrer noopener">press release&lt;/a> - The IDF&amp;rsquo;s Use of Data Technologies in Intelligence Processing&lt;/li>
+&lt;li>Lieber Institute West Point &lt;a href="https://lieber.westpoint.edu/gospel-lavender-law-armed-conflict/" target="_blank" rel="noreferrer noopener">article&lt;/a> - Israel–Hamas 2024 Symposium&lt;/li>
+&lt;li>Verfassungsblog &lt;a href="https://verfassungsblog.de/gaza-artificial-intelligence-and-kill-lists/" target="_blank" rel="noreferrer noopener">article&lt;/a> - Gaza, Artificial Intelligence, and Kill Lists&lt;/li>
+&lt;li>RAND &lt;a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2600/RRA2679-1/RAND_RRA2679-1.pdf" target="_blank" rel="noreferrer noopener">research report&lt;/a> - Dr. Li Bicheng, or How China Learned to Stop Worrying and Love Social Media Manipulation&lt;/li>
+&lt;li>The Intercept &lt;a href="https://theintercept.com/drone-papers/" target="_blank" rel="noreferrer noopener">article collection&lt;/a> - The Drone Papers&lt;/li>
+&lt;li>AFIT &lt;a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=2572&amp;context=facpub" target="_blank" rel="noreferrer noopener">faculty publication&lt;/a> - On Large Language Models in National Security Applications&lt;/li>
+&lt;li>Nature &lt;a href="https://link.springer.com/chapter/10.1057/978-1-137-55408-6_1?error=cookies_not_supported&amp;code=63211579-2434-43a1-bbad-974daff6cd7f" target="_blank" rel="noreferrer noopener">article&lt;/a> - Death by Metadata: The Bioinformationalisation of Life and the Transliteration of Algorithms to Flesh&lt;/li>
+&lt;/ul>
+&lt;h3 id="legislation">Legislation&lt;/h3>
+&lt;ul>
+&lt;li>LegiScan &lt;a href="https://legiscan.com/CA/text/SB1047/2023" target="_blank" rel="noreferrer noopener">page&lt;/a> on SB1047&lt;/li>
+&lt;li>NY State Senate &lt;a href="https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/A" target="_blank" rel="noreferrer noopener">page&lt;/a> on the RAISE Act&lt;/li>
+&lt;li>Congress &lt;a href="https://www.congress.gov/bill/119th-congress/senate-bill/146" target="_blank" rel="noreferrer noopener">page&lt;/a> on the TAKE IT DOWN Act&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-gavernor">The Gavernor&lt;/h3>
+&lt;ul>
+&lt;li>FastCompany &lt;a href="https://www.fastcompany.com/91175604/big-tech-lobbyists-ai-safety-bill-gavin-newsom" target="_blank" rel="noreferrer noopener">article&lt;/a> - Big Tech may be focusing its lobbying push on the California AI safety bill’s last stop: Gavin Newsom&lt;/li>
+&lt;li>POLITICO &lt;a href="https://www.politico.com/news/2024/10/01/newsom-silicon-valley-ai-safety-00181776" target="_blank" rel="noreferrer noopener">article&lt;/a> - How California politics killed a nationally important AI bill&lt;/li>
+&lt;li>Newsom&amp;rsquo;s &lt;a href="https://www.documentcloud.org/documents/25178071-sb-1047-veto-message/?responsive=1&amp;title=1" target="_blank" rel="noreferrer noopener">veto message&lt;/a>&lt;/li>
+&lt;li>Additional relevant lobbying documentation - &lt;a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=2978661&amp;amendid=0" target="_blank" rel="noreferrer noopener">[1]&lt;/a>, &lt;a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=2935898&amp;amendid=1" target="_blank" rel="noreferrer noopener">[2]&lt;/a>&lt;/li>
+&lt;li>Jacobin &lt;a href="https://jacobin.com/2024/09/gavin-newsom-ai-tech-bill-sb-1047" target="_blank" rel="noreferrer noopener">article&lt;/a> - With Newsom’s Veto, Big Tech Beats Democracy&lt;/li>
+&lt;/ul>
+&lt;h3 id="misc-links">Misc. Links&lt;/h3>
+&lt;ul>
+&lt;li>FLI &lt;a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" target="_blank" rel="noreferrer noopener">Open Letter&lt;/a> on an AI pause&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Overton_window" target="_blank" rel="noreferrer noopener">article&lt;/a> - Overton window&lt;/li>
+&lt;li>Daniel Smachtenburger YouTube &lt;a href="https://www.youtube.com/watch?v=4kBoLVvoqVY&amp;t=11s" target="_blank" rel="noreferrer noopener">video&lt;/a> - An Introduction to the Metacrisis&lt;/li>
+&lt;li>VAISU &lt;a href="https://vaisu.ai" target="_blank" rel="noreferrer noopener">website&lt;/a> (looks broken as of 2025.06.19)&lt;/li>
+&lt;li>AI Impacts &lt;a href="https://aiimpacts.org/wp-content/uploads/2023/04/Why-Did-Environmentalism-Become-Partisan-1.pdf" target="_blank" rel="noreferrer noopener">report&lt;/a> - Why Did Environmentalism Become Partisan?&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Making Your Voice Heard w/ Tristan &amp; Felix de Simone</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e020/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e020/</guid><description>&lt;div style="text-align: justify">
+I am joined by Tristan Williams and Felix de Simone to discuss their work on the potential of constituent communication, specifically in the context of AI legislation. These two worked as part of an AI Safety Camp team to understand whether or not it would be useful for more people to be sharing their experiences, concerns, and opinions with their government representative (hint, it is).
+&lt;p>Check out the &lt;a href="https://forum.effectivealtruism.org/posts/5oStggnYLGzomhvvn/talking-to-congress-can-constituents-contacting-their" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> on their findings, &amp;ldquo;Talking to Congress: Can constituents contacting their legislator influence policy?&amp;rdquo; and the &lt;a href="https://www.guidedtrack.com/programs/e7xnz7q/run" target="_blank" rel="noreferrer noopener">tool&lt;/a> they created!&lt;/p>
+&lt;!-- "You don't need to be wortking full time on AI safety or have a background in machine learning to have an impact; you can have an impact _as a citizen_." -->
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/a9294c9e">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:01:53 ❙ Introductions&lt;br>
+00:04:04 ❙ Starting the project&lt;br>
+00:13:30 ❙ Project overview&lt;br>
+00:16:36 ❙ Understanding constituent communication&lt;br>
+00:28:50 ❙ Literature review&lt;br>
+00:35:52 ❙ Phase 2&lt;br>
+00:43:26 ❙ Creating a tool for citizen engagement&lt;br>
+00:50:16 ❙ Crafting your message&lt;br>
+00:59:40 ❙ The game of advocacy&lt;br>
+01:15:19 ❙ Difficulties on the project&lt;br>
+01:22:33 ❙ Call to action&lt;br>
+01:32:30 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bluedot.org" target="_blank" rel="noreferrer noopener">BlueDot Impact&lt;/a>&lt;/li>
+&lt;li>TIME &lt;a href="https://time.com/6972134/ai-lobbying-tech-policy-surge/" target="_blank" rel="noreferrer noopener">article&lt;/a> - There’s an AI Lobbying Frenzy in Washington. Big Tech Is Dominating&lt;/li>
+&lt;li>Congressional Management Foundation &lt;a href="https://www.congressfoundation.org/storage/documents/CMF_Pubs/cwc-perceptions-of-citizen-advocacy.pdf" target="_blank" rel="noreferrer noopener">study&lt;/a> - Communicating with Congress: Perceptions of Citizen Advocacy on Capitol Hill&lt;/li>
+&lt;li>Congressional Management Foundation &lt;a href="https://www.congressfoundation.org/storage/documents/CMF_Pubs/cmf_citizen_engagement_rebuilding_democratic_dialogue.pdf" target="_blank" rel="noreferrer noopener">study&lt;/a> - The Future of Citizen Engagement: Rebuilding the Democratic Dialogue&lt;/li>
+&lt;li>Tristan and Felix&amp;rsquo;s &lt;a href="https://forum.effectivealtruism.org/posts/5oStggnYLGzomhvvn/talking-to-congress-can-constituents-contacting-their" target="_blank" rel="noreferrer noopener">blogpost&lt;/a> - Talking to Congress: Can constituents contacting their legislator influence policy?&lt;/li>
+&lt;li>Wired &lt;a href="https://www.wired.com/story/opengov-report-congress-constituent-communication/" target="_blank" rel="noreferrer noopener">article&lt;/a> - What It Takes to Make Congress Actually Listen&lt;/li>
+&lt;li>American Journal of Polical Science &lt;a href="https://projects.iq.harvard.edu/files/cces/files/AnsolabehereKuriwaki_AJPS.pdf" target="_blank" rel="noreferrer noopener">article&lt;/a> - Congressional Representation: Accountability from the Constituent’s Perspective&lt;/li>
+&lt;li>Political Behavior &lt;a href="https://www.jstor.org/stable/43653416" target="_blank" rel="noreferrer noopener">article&lt;/a> - Call Your Legislator: A Field Experimental Study of the Impact of a Constituency Mobilization Campaign on Legislative Voting&lt;/li>
+&lt;li>Guided Track &lt;a href="https://www.guidedtrack.com" target="_blank" rel="noreferrer noopener">website&lt;/a>&lt;/li>
+&lt;li>The &lt;a href="https://www.guidedtrack.com/programs/e7xnz7q/run" target="_blank" rel="noreferrer noopener">Tool&lt;/a>&lt;/li>
+&lt;li>Holistic AI global regulatory &lt;a href="https://tracker.holisticai.com/feed" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>White &amp;amp; Case global regulatory &lt;a href="https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Steptoe US AI legislation &lt;a href="https://www.steptoe.com/en/ai-legislative-tracker.html" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Manatt US AIxHealth legislation &lt;a href="https://www.manatt.com/insights/newsletters/health-highlights/manatt-health-health-ai-policy-tracker" target="_blank" rel="noreferrer noopener">tracker&lt;/a>&lt;/li>
+&lt;li>Issue One &lt;a href="https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/" target="_blank" rel="noreferrer noopener">article&lt;/a> - Big Tech Cozies Up to New Administration After Spending Record Sums on Lobbying Last Year&lt;/li>
+&lt;li>Verfassungsblog &lt;a href="https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/" target="_blank" rel="noreferrer noopener">article&lt;/a> - BigTech’s Efforts to Derail the AI Act&lt;/li>
+&lt;li>MIT Technology Review &lt;a href="https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/" target="_blank" rel="noreferrer noopener"> article&lt;/a> - OpenAI has upped its lobbying efforts nearly sevenfold&lt;/li>
+&lt;li>Open Secrets &lt;a href="https://www.opensecrets.org/federal-lobbying/issues/lobbyists?id=SCI&amp;year=2023" target="_blank" rel="noreferrer noopener">webpage&lt;/a> - Issue Profile: Science &amp;amp; Technology&lt;/li>
+&lt;li>Statista &lt;a href="https://www.statista.com/statistics/257344/top-lobbying-spenders-in-the-us/" target="_blank" rel="noreferrer noopener">data&lt;/a> - Leading lobbying spenders in the United States in 2024&lt;/li>
+&lt;li>Global Justice Now &lt;a href="https://www.globaljustice.org.uk/resource/democracy-at-risk-in-davos-new-report-exposes-big-tech-lobbying-and-political-interference/" target="_blank" rel="noreferrer noopener">report&lt;/a> - Democracy at risk in Davos: new report exposes big tech lobbying and political interference&lt;/li>
+&lt;li>Ipsos &lt;a href="https://www.ipsos.com/en-us/where-americans-stand-ai" target="_blank" rel="noreferrer noopener">article&lt;/a> - Where Americans stand on AI&lt;/li>
+&lt;li>AP-NORC &lt;a href="https://apnorc.org/projects/there-is-bipartisan-concern-about-the-use-of-ai-in-the-2024-elections/" target="_blank" rel="noreferrer noopener">report&lt;/a> - There Is Bipartisan Concern About the Use of AI in the 2024 Elections&lt;/li>
+&lt;li>AI Action Summit &lt;a href="https://arxiv.org/pdf/2501.17805" target="_blank" rel="noreferrer noopener">report&lt;/a> - International AI Safety Report&lt;/li>
+&lt;li>YouGov &lt;a href="https://today.yougov.com/technology/articles/51368-do-americans-think-ai-will-have-positive-or-negative-impact-society-artificial-intelligence-poll" target="_blank" rel="noreferrer noopener">article&lt;/a> - Do Americans think AI will have a positive or negative impact on society?&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>StakeOut.AI w/ Dr. Peter Park (3)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e018/</link><pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e018/</guid><description>&lt;div style="text-align: justify">
+As always, the best things come in 3s: dimensions, musketeers, pyramids, and... 3 installments of my interview with Dr. Peter Park, an AI Existential Safety Post-doctoral Fellow working with Dr. Max Tegmark at MIT.
+&lt;p>As you may have ascertained from the previous two segments of the interview, Dr. Park cofounded &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a> along with Harry Luk and one other cofounder whose name has been removed due to requirements of her current position. The non-profit had a simple but important mission: make the adoption of AI technology go well, for humanity, but unfortunately, StakeOut.AI had to dissolve in late February of 2024 because no granter would fund them. Although it certainly is disappointing that the organization is no longer functioning, all three cofounders continue to contribute positively towards improving our world in their current roles.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/8c7eea4d">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>If you would like to investigate further into Dr. Park&amp;rsquo;s work, view his &lt;a href="https://scholar.harvard.edu/pspark" target="_blank" rel="noreferrer noopener">website&lt;/a>, &lt;a href="https://scholar.google.com/citations?user=5lMAPEoAAAAJ&amp;hl=en" target="_blank" rel="noreferrer noopener">Google Scholar&lt;/a>, or follow him on &lt;a href="https://twitter.com/dr_park_phd" target="_blank" rel="noreferrer noopener">Twitter&lt;/a>!&lt;/p>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:54 ❙ Intro&lt;br>
+00:02:41 ❙ Rapid development&lt;br>
+00:08:25 ❙ Provable safety, safety factors, &amp; CSAM&lt;br>
+00:18:50 ❙ Litigation&lt;br>
+00:23:06 ❙ Open/Closed Source&lt;br>
+00:38:52 ❙ AIxBio&lt;br>
+00:47:50 ❙ Scientific rigor in AI&lt;br>
+00:56:22 ❙ AI deception&lt;br>
+01:02:45 ❙ No takesies-backsies&lt;br>
+01:08:22 ❙ StakeOut.AI's start&lt;br>
+01:12:53 ❙ Sustainability &amp; Agency&lt;br>
+01:18:21 ❙ "I'm sold, next steps?" -you&lt;br>
+01:23:53 ❙ Lessons from the amazing Spiderman&lt;br>
+01:33:15 ❙ "I'm ready to switch careers, next steps?" -you&lt;br>
+01:40:00 ❙ The most important question&lt;br>
+01:41:11 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://futureoflife.org/wp-content/uploads/2023/11/FLI_Governance_Scorecard_and_Framework.pdf" target="_blank" rel="noreferrer noopener">AI Governance Scorecard&lt;/a> (go to Pg. 3)&lt;/li>
+&lt;li>&lt;a href="https://civitai.com" target="_blank" rel="noreferrer noopener">CIVITAI&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.404media.co/a16z-funded-ai-platform-generated-images-that-could-be-categorized-as-child-pornography-leaked-documents-show/" target="_blank" rel="noreferrer noopener">Article on CIVITAI and CSAM&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.judiciary.senate.gov/protecting-children-online" target="_blank" rel="noreferrer noopener">Senate Hearing: Protecting Children Online&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.pbs.org/newshour/politics/watch-live-ceos-of-meta-tiktok-x-and-other-social-media-companies-testify-in-senate-hearing" target="_blank" rel="noreferrer noopener">PBS Newshour Coverage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html" target="_blank" rel="noreferrer noopener">The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work&lt;/a>&lt;/li>
+&lt;li>Open Source/Weights/Release/Interpretation
+&lt;ul>
+&lt;li>&lt;a href="https://opensource.org" target="_blank" rel="noreferrer noopener">Open Source Initiative&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://opensource.org/history" target="_blank" rel="noreferrer noopener">History of the OSI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://opensource.org/blog/metas-llama-2-license-is-not-open-source" target="_blank" rel="noreferrer noopener">Meta’s LLaMa 2 license is not Open Source&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://opensourceconnections.com/blog/2023/07/19/is-llama-2-open-source-no-and-perhaps-we-need-a-new-definition-of-open/" target="_blank" rel="noreferrer noopener">Is Llama 2 open source? No – and perhaps we need a new definition of open…&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noreferrer noopener">Apache License, Version 2.0&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.3blue1brown.com/topics/neural-networks" target="_blank" rel="noreferrer noopener">3Blue1Brown: Neural Networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3571884.3604316" target="_blank" rel="noreferrer noopener">Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators&lt;/a>
+&lt;ul>
+&lt;li>The online &lt;a href="https://opening-up-chatgpt.github.io" target="_blank" rel="noreferrer noopener">table&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.signal.org" target="_blank" rel="noreferrer noopener">Signal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/bigscience/bloomz" target="_blank" rel="noreferrer noopener">Bloomz&lt;/a> model on HuggingFace&lt;/li>
+&lt;li>&lt;a href="https://mistral.ai" target="_blank" rel="noreferrer noopener">Mistral&lt;/a> website&lt;/li>
+&lt;li>NASA Tragedies
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank" rel="noreferrer noopener">Challenger disaster&lt;/a> on Wikipedia&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster" target="_blank" rel="noreferrer noopener">Columbia disaster&lt;/a> on Wikipedia&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>AIxBio Risk
+&lt;ul>
+&lt;li>&lt;a href="https://www.nature.com/articles/s42256-022-00465-9" target="_blank" rel="noreferrer noopener">Dual use of artificial-intelligence-powered drug discovery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2306.03809" target="_blank" rel="noreferrer noopener">Can large language models democratize access to dual-use biotechnology?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models" target="_blank" rel="noreferrer noopener">Open-Sourcing Highly Capable Foundation Models&lt;/a> &lt;em>(sadly, I can&amp;rsquo;t rename the article&amp;hellip;)&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://1a3orn.com/sub/essays-propaganda-or-science.html" target="_blank" rel="noreferrer noopener">Propaganda or Science: Open Source AI and Bioterrorism Risk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ineffectivealtruismblog.com/2024/03/09/exaggerating-the-risks-part-14-biorisk-from-llms/" target="_blank" rel="noreferrer noopener">Exaggerating the risks (Part 15: Biorisk from LLMs)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.18233" target="_blank" rel="noreferrer noopener">Will releasing the weights of future large language models grant widespread access to pandemic agents?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://crfm.stanford.edu/open-fms/" target="_blank" rel="noreferrer noopener">On the Societal Impact of Open Foundation Models&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://hai.stanford.edu/sites/default/files/2023-12/Governing-Open-Foundation-Models.pdf" target="_blank" rel="noreferrer noopener">Policy brief&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.apartresearch.com" target="_blank" rel="noreferrer noopener">Apart Research&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.science.org" target="_blank" rel="noreferrer noopener">Science&lt;/a>&lt;/li>
+&lt;li>Cicero
+&lt;ul>
+&lt;li>&lt;a href="https://www.science.org/doi/10.1126/science.ade9097" target="_blank" rel="noreferrer noopener">Human-level play in the game of Diplomacy by combining language models with strategic reasoning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ai.meta.com/research/cicero/" target="_blank" rel="noreferrer noopener">Cicero&lt;/a> webpage&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2308.14752" target="_blank" rel="noreferrer noopener">AI Deception: A Survey of Examples, Risks, and Potential Solutions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://demos.co.uk/research/open-sourcing-the-ai-revolution-framing-the-debate-on-open-source-artificial-intelligence-and-regulation/" target="_blank" rel="noreferrer noopener">Open Sourcing the AI Revolution: Framing the debate on open source, artificial intelligence and regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aisafety.camp" target="_blank" rel="noreferrer noopener">AI Safety Camp&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>StakeOut.AI w/ Dr. Peter Park (2)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e017/</link><pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e017/</guid><description>&lt;div style="text-align: justify">
+Join me for round 2 with Dr. Peter Park, an AI Existential Safety Postdoctoral Fellow working with Dr. Max Tegmark at MIT. Dr. Park was a cofounder of &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>, a non-profit focused on making AI go well &lt;i>for humans&lt;/i>, along with Harry Luk and one other individual, whose name has been removed due to requirements of her current position.
+&lt;p>In addition to the normal links, I wanted to include the links to the petitions that Dr. Park mentions during the podcast. Note that the nonprofit which began these petitions, StakeOut.AI, has been dissolved.&lt;/p>
+&lt;/div>
+&lt;p>&lt;a href="https://www.change.org/p/right-ai-laws-to-right-our-future-support-artificial-intelligence-safety-regulations-now" target="_blank" rel="noreferrer noopener">Right AI Laws, to Right Our Future: Support Artificial Intelligence Safety Regulations Now&lt;/a>&lt;br>
+&lt;a href="https://www.change.org/p/is-deepfake-illegal-not-yet-ban-deepfakes-to-protect-your-family-demand-deepfake-laws" target="_blank" rel="noreferrer noopener">Is Deepfake Illegal? Not Yet! Ban Deepfakes to Protect Your Family &amp;amp; Demand Deepfake Laws&lt;/a>&lt;br>
+&lt;a href="https://www.change.org/p/ban-superintelligence-stop-ai-driven-human-extinction-risk" target="_blank" rel="noreferrer noopener">Ban Superintelligence: Stop AI-Driven Human Extinction Risk&lt;/a>&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/58dfc367">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:54 ❙ Intro&lt;br>
+00:02:34 ❙ Battleground 1: Copyright&lt;br>
+00:06:28 ❙ Battleground 2: Moral Critique of AI Collaborationists&lt;br>
+00:08:15 ❙ Rich Sutton&lt;br>
+00:20:41 ❙ OpenAI &lt;i>Drama&lt;/i>&lt;br>
+00:34:28 ❙ Battleground 3: Contract Negotiations for AI Ban Clauses&lt;br>
+00:37:57 ❙ Tesla, Autopilot, and FSD&lt;br>
+00:40:02 ❙ Recycling&lt;br>
+00:47:40 ❙ Battleground 4: New Laws and Policies&lt;br>
+00:50:00 ❙ Battleground 5: Whistleblower Protections&lt;br>
+00:53:07 ❙ Whistleblowing on Microsoft&lt;br>
+00:54:43 ❙ Andrej Karpathy &amp; Exercises in Empathy&lt;br>
+01:05:57 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html" target="_blank" rel="noreferrer noopener">The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.susmangodfrey.com" target="_blank" rel="noreferrer noopener">Susman Godfrey LLP&lt;/a>&lt;/li>
+&lt;li>Rich Sutton
+&lt;ul>
+&lt;li>WARNING HTTP LINK: &lt;a href="http://incompleteideas.net/book/RLbook2020trimmed.pdf" target="_blank" rel="noreferrer noopener">Reinforcement Learning: An Introduction&lt;/a> (textbook)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=NgHFMolXs3U" target="_blank" rel="noreferrer noopener">AI Succession&lt;/a> (presentation by Rich Sutton)&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2208.11173" target="_blank" rel="noreferrer noopener">The Alberta Plan for AI Research&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Moore&amp;rsquo;s Law
+&lt;ul>
+&lt;li>&lt;a href="https://www.computerhistory.org/collections/catalog/102770836" target="_blank" rel="noreferrer noopener">The Future of Integrated Electronics&lt;/a> (original paper)&lt;/li>
+&lt;li>&lt;a href="https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits/" target="_blank" rel="noreferrer noopener">Computer History Museum&amp;rsquo;s entry on Moore&amp;rsquo;s Law&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent" target="_blank" rel="noreferrer noopener">Stochastic gradient descent (SGD)&lt;/a> on Wikipedia&lt;/li>
+&lt;li>OpenAI &lt;em>Drama&lt;/em>
+&lt;ul>
+&lt;li>&lt;a href="https://maxread.substack.com/p/the-interested-normies-guide-to-openai" target="_blank" rel="noreferrer noopener">Max Read&amp;rsquo;s Substack post&lt;/a>&lt;/li>
+&lt;li>Zvi Mowshowitz&amp;rsquo;s Substack series, in order of posting
+&lt;ul>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-facts-from-a-weekend?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Facts from a Weekend&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-the-battle-of-the-board?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: The Battle of the Board&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-altman-returns?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Altman Returns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-leaks-confirm-the-story?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: Leaks Confirm the Story&lt;/a> ← best singular post in the series&lt;/li>
+&lt;li>&lt;a href="https://thezvi.substack.com/p/openai-the-board-expands?utm_source=%2Fsearch%2FOpenAI&amp;utm_medium=reader2" target="_blank" rel="noreferrer noopener">OpenAI: The Board Expands&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://openai.com/blog/openai-announces-new-members-to-board-of-directors" target="_blank" rel="noreferrer noopener">Official OpenAI announcement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Writers_Guild_of_America" target="_blank" rel="noreferrer noopener">WGA&lt;/a> on Wikipedia&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/SAG-AFTRA" target="_blank" rel="noreferrer noopener">SAG-AFTRA&lt;/a> on Wikipedia&lt;/li>
+&lt;li>Tesla&amp;rsquo;s False Advertising
+&lt;ul>
+&lt;li>&lt;a href="https://www.latimes.com/business/story/2023-12-11/tesla-dmv-false-advertising-charges" target="_blank" rel="noreferrer noopener">Tesla&amp;rsquo;s response to the DMV&amp;rsquo;s false-advertising allegations: What took so long?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.caranddriver.com/news/a35785277/tesla-fsd-california-self-driving/" target="_blank" rel="noreferrer noopener">Tesla Tells California DMV that FSD Is Not Capable of Autonomous Driving&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.caranddriver.com/features/columns/a35769759/carty-self-driving-cars/" target="_blank" rel="noreferrer noopener">What to Call Full Self-Driving When It Isn&amp;rsquo;t Full Self-Driving?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cnbc.com/2022/03/15/tesla-fired-employee-who-posted-fsd-beta-videos-as-ai-addict-on-youtube.html" target="_blank" rel="noreferrer noopener">Tesla fired an employee after he posted driverless tech reviews on YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noreferrer noopener">Tesla&amp;rsquo;s page&lt;/a> on Autopilot and Full Self-Driving&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Recycling
+&lt;ul>
+&lt;li>&lt;a href="https://www.longmontleader.com/regional-news/boulder-county-recycling-center-stockpiles-accurately-sorted-recyclable-materials-2385879" target="_blank" rel="noreferrer noopener">Boulder County Recycling Center Stockpiles Accurately Sorted Recyclable Materials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://boulderweekly.com/news/out-of-sight-out-of-mind/" target="_blank" rel="noreferrer noopener">Out of sight, out of mind&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ecocycle.org/content/uploads/2022/06/2024-Recycling-Guidelines-for-Boulder-County.pdf" target="_blank" rel="noreferrer noopener">Boulder Eco-Cycle Recycling Guidelines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.06009" target="_blank" rel="noreferrer noopener">Divide-and-Conquer Dynamics in AI-Driven Disempowerment&lt;/a>&lt;/li>
+&lt;li>Microsoft Whistleblower
+&lt;ul>
+&lt;li>&lt;a href="https://www.axios.com/2024/03/08/ai-whistleblowers-microsoft-copilot-designer-google-gemini" target="_blank" rel="noreferrer noopener">Whistleblowers call out AI&amp;rsquo;s flaws&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7171135079702753280/" target="_blank" rel="noreferrer noopener">Shane&amp;rsquo;s LinkedIn post&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://media.licdn.com/dms/document/media/D561FAQFfYnpLbIn2Xg/feedshare-document-pdf-analyzed/0/1709731400675?e=1711584000&amp;v=beta&amp;t=W3CLljNWJ8YCQSEuMCR9bt7UoIxsGo24Epj9GddfN8U" target="_blank" rel="noreferrer noopener">Letters sent by Jones&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/karpathy/status/1757600075281547344" target="_blank" rel="noreferrer noopener">Karpathy announces departure from OpenAI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>StakeOut.AI w/ Dr. Peter Park (1)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e015/</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e015/</guid><description>&lt;div style="text-align: justify">
+Dr. Peter Park is an AI Existential Safety Postdoctoral Fellow working with Dr. Max Tegmark at MIT. In conjunction with Harry Luk and one other cofounder, he founded &lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>, a non-profit focused on making AI go well _for humans_.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/81a6fb5c">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+00:54 ❙ Intro&lt;br>
+03:15 ❙ Dr. Park, x-risk, and AGI&lt;br>
+08:55 ❙ StakeOut.AI&lt;br>
+12:05 ❙ Governance scorecard&lt;br>
+19:34 ❙ Hollywood webinar&lt;br>
+22:02 ❙ Regulations.gov comments&lt;br>
+23:48 ❙ Open letters &lt;br>
+26:15 ❙ EU AI Act&lt;br>
+35:07 ❙ Effective accelerationism&lt;br>
+40:50 ❙ Divide and conquer dynamics&lt;br>
+45:40 ❙ AI "art"&lt;br>
+53:09 ❙ Outro
+&lt;/div>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stakeout.ai" target="_blank" rel="noreferrer noopener">StakeOut.AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://futureoflife.org/wp-content/uploads/2023/11/FLI_Governance_Scorecard_and_Framework.pdf" target="_blank" rel="noreferrer noopener">AI Governance Scorecard&lt;/a> (go to Pg. 3)&lt;/li>
+&lt;li>&lt;a href="https://pauseai.info" target="_blank" rel="noreferrer noopener">Pause AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.regulations.gov" target="_blank" rel="noreferrer noopener">Regulations.gov&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.regulations.gov/comment/COLC-2023-0006-10077" target="_blank" rel="noreferrer noopener">USCO StakeOut.AI Comment&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.regulations.gov/comment/OMB-2023-0020-0170" target="_blank" rel="noreferrer noopener">OMB StakeOut.AI Comment&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://aitreaty.org" target="_blank" rel="noreferrer noopener">AI Treaty open letter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://taisc.org" target="_blank" rel="noreferrer noopener">TAISC&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" target="_blank" rel="noreferrer noopener">Alpaca: A Strong, Replicable Instruction-Following Model&lt;/a>&lt;/li>
+&lt;li>References on EU AI Act and Cedric O
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/cedric_o/status/1728724005459235052" target="_blank" rel="noreferrer noopener">Tweet from Cedric O&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/eu-policymakers-enter-the-last-mile-for-artificial-intelligence-rulebook/" target="_blank" rel="noreferrer noopener">EU policymakers enter the last mile for Artificial Intelligence rulebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/ai-act-eu-parliaments-legal-office-gives-damning-opinion-on-high-risk-classification-filters/" target="_blank" rel="noreferrer noopener">AI Act: EU Parliament’s legal office gives damning opinion on high-risk classification ‘filters’&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.euractiv.com/section/artificial-intelligence/news/eus-ai-act-negotiations-hit-the-brakes-over-foundation-models/" target="_blank" rel="noreferrer noopener">EU’s AI Act negotiations hit the brakes over foundation models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.foundation-models.eu" target="_blank" rel="noreferrer noopener">The EU AI Act needs Foundation Model Regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://verfassungsblog.de/bigtechs-efforts-to-derail-the-ai-act/" target="_blank" rel="noreferrer noopener">BigTech’s Efforts to Derail the AI Act&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://demos.co.uk/research/open-sourcing-the-ai-revolution-framing-the-debate-on-open-source-artificial-intelligence-and-regulation/" target="_blank" rel="noreferrer noopener">Open Sourcing the AI Revolution: Framing the debate on open source, artificial intelligence and regulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.06009" target="_blank" rel="noreferrer noopener">Divide-and-Conquer Dynamics in AI-Driven Disempowerment&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item></channel></rss>

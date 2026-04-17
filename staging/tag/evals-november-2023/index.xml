@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Evals November 2023 | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/evals-november-2023/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/evals-november-2023/index.xml" rel="self" type="application/rss+xml"/><description>Evals November 2023</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Evals November 2023</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/evals-november-2023/</link></image><item><title>Evals Hackathon November 2023 (2)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e011/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e011/</guid><description>&lt;div style="text-align: justify">
+Join our hackathon group for the second episode in the Evals November 2023 Hackathon subseries. In this episode, we solidify our goals for the hackathon after some preliminary experimentation and ideation.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/b1493509">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>Check out Stellaric&amp;rsquo;s &lt;a href="https://stellaric.pw/" target="_blank" rel="noreferrer noopener">website&lt;/a>, or follow them on &lt;a href="https://twitter.com/stellaricpw" target="_blank" rel="noreferrer noopener">Twitter&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+01:53 ❙ Meeting starts&lt;br>
+05:05 ❙ Pitch: extension of locked models&lt;br>
+23:23 ❙ Pitch: retroactive holdout datasets&lt;br>
+34:04 ❙ Preliminary results&lt;br>
+37:44 ❙ Next steps&lt;br>
+42:55 ❙ Recap
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/LRudL/evalugator" target="_blank" rel="noreferrer noopener">Evalugator&lt;/a> library&lt;/li>
+&lt;li>&lt;a href="https://www.alignmentforum.org/posts/rZs6ddqNnW8LXuJqA/password-locked-models-a-stress-case-for-capabilities" target="_blank" rel="noreferrer noopener">Password Locked Models&lt;/a> blogpost&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2109.07958" target="_blank" rel="noreferrer noopener">TruthfulQA: Measuring How Models Mimic Human Falsehoods&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aclanthology.org/P02-1040.pdf">BLEU: a Method for Automatic Evaluation of Machine Translation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1905.10044" target="_blank" rel="noreferrer noopener">BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.16789" target="_blank" rel="noreferrer noopener">Detecting Pretraining Data from Large Language Models&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Evals Hackathon November 2023 (1)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e007/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e007/</guid><description>&lt;div style="text-align: justify">
+This episode kicks off our first subseries, which will consist of recordings taken during my team's meetings for the AlignmentJams Evals Hackathon in November of 2023. Our team won first place, so you'll be listening to the process which, at the end of the day, turned out to be pretty good.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/04e9b1a9">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>Check out &lt;a href="https://apartresearch.com" target="_blank" rel="noreferrer noopener">Apart Research&lt;/a>, the group that runs the &lt;a href="https://alignmentjam.com" target="_blank" rel="noreferrer noopener">AlignmentJamz Hackathons&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2311.07723" target="_blank" rel="noreferrer noopener">Generalization Analogies: A Testbed for Generalizing AI Oversight to Hard-To-Measure Domains&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.lesswrong.com/posts/Yio4nmD8JMttx9o9S/new-paper-shows-truthfulness-and-instruction-following-don-t" target="_blank" rel="noreferrer noopener">New paper shows truthfulness &amp;amp; instruction-following don&amp;rsquo;t generalize by default&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://joshuaclymer.github.io/generalization-analogies-website/" target="_blank" rel="noreferrer noopener">Generalization Analogies Website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2212.09251" target="_blank" rel="noreferrer noopener">Discovering Language Model Behaviors with Model-Written Evaluations&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://www.evals.anthropic.com" target="_blank" rel="noreferrer noopener">Model-Written Evals Website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/openai/evals/tree/main/evals/elsuite/make_me_say" target="_blank" rel="noreferrer noopener">OpenAI Evals GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://metr.org " target="_blank" rel="noreferrer noopener">METR&lt;/a> (previously ARC Evals)&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noreferrer noopener">Goodharting on Wikipedia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2308.12014" target="_blank" rel="noreferrer noopener">From Instructions to Intrinsic Human Values, a Survey of Alignment Goals for Big Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.03693" target="_blank" rel="noreferrer noopener">Fine Tuning Aligned Language Models Compromises Safety Even When Users Do Not Intend&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.02949" target="_blank" rel="noreferrer noopener">Shadow Alignment: The Ease of Subverting Safely Aligned Language Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2310.18233" target="_blank" rel="noreferrer noopener">Will Releasing the Weights of Future Large Language Models Grant Widespread Access to Pandemic Agents?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sciencedirect.com/science/article/pii/S2666389923002210" target="_blank" rel="noreferrer noopener">Building Less Flawed Metrics, Understanding and Creating Better Measurement and Incentive Systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/EleutherAI/lm-evaluation-harness" target="_blank" rel="noreferrer noopener">eLeutherAI&amp;rsquo;s Model Evaluation Harness&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/danbraunai/evalugator/tree/main" target="_blank" rel="noreferrer noopener">Evalugator Library&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item></channel></rss>

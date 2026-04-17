@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Funding | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/funding/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/funding/index.xml" rel="self" type="application/rss+xml"/><description>Funding</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Funding</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/funding/</link></image><item><title>Scaling AI Safety Through Mentorship w/ Dr. Ryan Kidd</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e027/</link><pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e027/</guid><description>&lt;div style="text-align: justify">
+&lt;p>What does it actually take to build a successful AI safety organization? I&amp;rsquo;m joined by Dr. Ryan Kidd, who has co-led MATS from a small pilot program to one of the field&amp;rsquo;s premier talent pipelines. In this episode, he reveals the low-hanging fruit in AI safety field-building that most people are missing: the amplifier archetype.&lt;/p>
+&lt;p>I pushed Ryan on some hard questions, from balancing funder priorities and research independence, to building a robust selection process for both mentors and participants. Whether you&amp;rsquo;re considering a career pivot into AI safety or already working in the field, this conversation offers practical advice on how to actually make an impact.&lt;/p>
+&lt;p>As part of my effort to make this whole podcasting thing more sustainable, I have created a Kairos.fm &lt;a href="https://www.patreon.com/cw/Kairosfm" target="_blank" rel="noopener">Patreon&lt;/a> which includes an extended version of this episode. Supporting gets you access to these extended cuts, as well as other perks in development.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/4b4ebed7">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.01.06; ASIDES RECORDED 2026.01.25; &lt;a href="https://share.transistor.fm/s/4b4ebed7/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00:00 ❙ Intro&lt;br>
+00:08:16 ❙ Building MATS Post-FTX &amp; Summer of Love&lt;br>
+00:13:09 ❙ Balancing Funder Priorities and Research Independence&lt;br>
+00:19:44 ❙ The MATS Selection Process&lt;br>
+00:33:15 ❙ Talent Archetypes in AI Safety&lt;br>
+00:50:22 ❙ Comparative Advantage and Career Capital in AI Safety&lt;br>
+01:04:35 ❙ Building the AI Safety Ecosystem&lt;br>
+01:15:28 ❙ What Makes a Great AI Safety Amplifier&lt;br>
+01:21:44 ❙ Lightning Round Questions&lt;br>
+01:30:30 ❙ Final Thoughts &amp; Outro
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://matsprogram.org/apply?utm_source=ias&amp;amp;utm_medium=&amp;amp;utm_campaign=s26" target="_blank" rel="noopener">MATS&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="ryans-writing">Ryan&amp;rsquo;s Writing&lt;/h3>
+&lt;ul>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/QzQQvGJYDeaDE4Cfg/talent-needs-of-technical-ai-safety-teams" target="_blank" rel="noopener">post&lt;/a> - Talent needs of technical AI safety teams&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/yw9B5jQazBKGLjize/ai-safety-undervalues-founders" target="_blank" rel="noopener">post&lt;/a> - AI safety undervalues founders&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/tPjAgWpsQrveFECWP/ryan-kidd-s-shortform?commentId=6dwq7qkszz5dyZ6sj" target="_blank" rel="noopener">comment&lt;/a> - Comment permalink with 2025 MATS program details&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/WGNYAdBrsNjujJaB8/talk-ai-safety-fieldbuilding-at-mats" target="_blank" rel="noopener">post&lt;/a> - Talk: AI Safety Fieldbuilding at MATS&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/LvswJts75fnpdjAEj/mats-mentor-selection" target="_blank" rel="noopener">post&lt;/a> - MATS Mentor Selection&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/Yjiw5rnu4mJsYN8Xc/why-i-funded-pibbss-1" target="_blank" rel="noopener">post&lt;/a> - Why I funded PIBBSS&lt;/li>
+&lt;li>EA Forum &lt;a href="https://forum.effectivealtruism.org/posts/sGwPgwvaL2FkBHsRh/how-mats-addresses-mass-movement-building-concerns" target="_blank" rel="noopener">post&lt;/a> - How MATS addresses mass movement building concerns&lt;/li>
+&lt;/ul>
+&lt;h3 id="ftx-funding-of-ai-safety">FTX Funding of AI Safety&lt;/h3>
+&lt;ul>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/WGpFFJo2uFe5ssgEb/an-overview-of-the-ai-safety-funding-situation" target="_blank" rel="noopener">blogpost&lt;/a> - An Overview of the AI Safety Funding Situation&lt;/li>
+&lt;li>Fortune &lt;a href="https://fortune.com/2022/11/15/sam-bankman-fried-ftx-collapse-a-i-safety-research-effective-altruism-debacle/" target="_blank" rel="noopener">article&lt;/a> - Why Sam Bankman-Fried’s FTX debacle is roiling A.I. research&lt;/li>
+&lt;li>NY Times &lt;a href="https://www.nytimes.com/2022/12/01/technology/sam-bankman-fried-crypto-artificial-intelligence.html" target="_blank" rel="noopener">article&lt;/a> - FTX probes $6.5M in payments to AI safety group amid clawback crusade&lt;/li>
+&lt;li>Cointelegraph &lt;a href="https://cointelegraph.com/news/crypto-exchange-ftx-subpoena-center-ai-safety-group-bankruptcy-proceedings" target="_blank" rel="noopener">article&lt;/a> - FTX probes $6.5M in payments to AI safety group amid clawback crusade&lt;/li>
+&lt;li>FTX Future Fund &lt;a href="https://archive.is/JYJJP" target="_blank" rel="noopener">article&lt;/a> - Future Fund June 2022 Update (archive)&lt;/li>
+&lt;li>Tracxn &lt;a href="https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors#funding-rounds" target="_blank" rel="noopener">page&lt;/a> - Anthropic Funding and Investors&lt;/li>
+&lt;/ul>
+&lt;h3 id="training--support-programs">Training &amp;amp; Support Programs&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://catalyze-impact.org" target="_blank" rel="noopener">Catalyze Impact&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seldonlab.com" target="_blank" rel="noopener">Seldon Lab&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sparai.org" target="_blank" rel="noopener">SPAR&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bluedot.org" target="_blank" rel="noopener">BlueDot Impact&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ycombinator.com" target="_blank" rel="noopener">YCombinator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pivotal-research.org" target="_blank" rel="noopener">Pivotal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://researchathena.org" target="_blank" rel="noopener">Athena&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.constellation.org/programs/astra-fellowship" target="_blank" rel="noopener">Astra Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://horizonpublicservice.org/programs/become-a-fellow/" target="_blank" rel="noopener">Horizon Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.baseresearch.org/base-fellowship" target="_blank" rel="noopener">BASE Fellowship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lasrlabs.org" target="_blank" rel="noopener">LASR Labs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.joinef.com" target="_blank" rel="noopener">Entrepeneur First&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="funding-organizations">Funding Organizations&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://coefficientgiving.org" target="_blank" rel="noopener">Coefficient Giving&lt;/a> (previously Open Philanthropy)&lt;/li>
+&lt;li>&lt;a href="https://funds.effectivealtruism.org/funds/far-future" target="_blank" rel="noopener">LTFF&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.longview.org" target="_blank" rel="noopener">Longview Philanthropy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.renaissancephilanthropy.org" target="_blank" rel="noopener">Renaissance Philanthropy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="coworking-spaces">Coworking Spaces&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.safeai.org.uk" target="_blank" rel="noopener">LISA&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://moxsf.com" target="_blank" rel="noopener">Mox&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lighthaven.space" target="_blank" rel="noopener">Lighthaven&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.far.ai/programs/far-labs" target="_blank" rel="noopener">FAR Labs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.constellation.org" target="_blank" rel="noopener">Constellation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://collider.nyc" target="_blank" rel="noopener">Collider&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://emergingthreat.net" target="_blank" rel="noopener">NET Office&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.baish.com.ar/en" target="_blank" rel="noopener">BAISH&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="research-organizations--startups">Research Organizations &amp;amp; Startups&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://atla-ai.com" target="_blank" rel="noopener">Atla AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.apolloresearch.ai" target="_blank" rel="noopener">Apollo Research&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://timaeus.co" target="_blank" rel="noopener">Timaeus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology.html" target="_blank" rel="noopener">RAND CAST&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://humancompatible.ai" target="_blank" rel="noopener">CHAI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>AXRP &lt;a href="https://axrp.net" target="_blank" rel="noopener">website&lt;/a> - The AI X-risk Research Podcast&lt;/li>
+&lt;li>LessWrong &lt;a href="https://www.lesswrong.com/posts/xqkGmfikqapbJ2YMj/shard-theory-an-overview" target="_blank" rel="noopener">blogpost&lt;/a> - Shard Theory: An Overview&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Applying for Funding w/ Esben Kran</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e013/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e013/</guid><description>&lt;div style="text-align: justify">
+Esben reviews an application that I would soon submit for Open Philanthropy's Career Transitition Funding opportunity. Although I didn't end up receiving the funding, I do think that this episode can be a valuable resource for both others and myself when applying for funding in the future.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/aa6ca492">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;p>Head over to Apart Research&amp;rsquo;s &lt;a href="https://apartresearch.com" target="_blank" rel="noreferrer noopener">website&lt;/a> to check out their work, or the Alignment Jam &lt;a href="https://alignmentjam.com" target="_blank" rel="noreferrer noopener">website&lt;/a> for information on upcoming hackathons.&lt;/p>
+&lt;p>A doc-capsule of the application at the time of this recording can be found &lt;a href="https://docs.google.com/document/d/1ofk5VLvNeJytd5Rpx18zui-JfV900DZv5nZShZcrgfY/edit?usp=sharing" target="_blank" rel="noreferrer noopener">at this link&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;h3 id="chapters">Chapters&lt;/h3>
+&lt;div style="text-align: left; font-family:monospace;">
+01:38 ❙ Interview starts&lt;br>
+05:41 ❙ Proposal&lt;br>
+11:00 ❙ Personal statement&lt;br>
+14:00 ❙ Budget&lt;br>
+21:12 ❙ CV&lt;br>
+22:45 ❙ Application questions&lt;br>
+34:06 ❙ Funding questions&lt;br>
+44:25 ❙ Outro
+&lt;/div>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;p>Links to all articles/papers which are mentioned throughout the episode can be found below, in order of their appearance.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.openphilanthropy.org/research/ai-governance-talent-profiles-wed-like-to-see/" target="_blank" rel="noreferrer noopener">AI governance talent profiles we’d like to see&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alignmentjam.com/jam/governance" target="_blank" rel="noreferrer noopener">The AI Governance Research Sprint&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.openphilanthropy.org/research/reasoning-transparency/" target="_blank" rel="noreferrer noopener">Reasoning Transparency&lt;/a>&lt;/li>
+&lt;li>Places to look for funding
+&lt;ul>
+&lt;li>Open Philanthropy&amp;rsquo;s &lt;a href="https://www.openphilanthropy.org/career-development-and-transition-funding/" target="_blank" rel="noreferrer noopener">Career development and transition funding&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://funds.effectivealtruism.org/funds/far-future" target="_blank" rel="noreferrer noopener">Long-Term Future Fund&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://manifund.org" target="_blank" rel="noreferrer noopener">Manifund&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item></channel></rss>
