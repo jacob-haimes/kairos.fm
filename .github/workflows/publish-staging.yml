@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Needs write to push to gh-pages-staging branch
+  contents: read
 
 jobs:
   build-and-deploy:
@@ -100,10 +100,10 @@ jobs:
           sed -i 's|<head>|<head><script>if(!sessionStorage.getItem("staging_auth"))window.location.href="/staging/password-gate.html";</script>|' "$f"
         done
 
-    - name: Deploy to gh-pages-staging branch
+    - name: Deploy to kairos.fm-staging repo
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: gh-pages-staging
+        external_repository: jacob-haimes/kairos.fm-staging
+        publish_branch: gh-pages
         publish_dir: ./public
-        destination_dir: staging
