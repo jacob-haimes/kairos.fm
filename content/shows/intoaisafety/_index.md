@@ -47,13 +47,37 @@ sections:
       spacing:
         padding: ["1em", 0, "1em", 0]
         margin: ["1em", 0, "1em", 0]
+
+
   - block: text-center-markdown
     content: 
-      text: The Into AI Safety podcast aims to make it easier for everyone, regardless of background, to get meaningfully involved with the conversations surrounding the rules and regulations which should govern the research, development, deployment, and use of the technologies encompassed by the term "artificial intelligence" or "AI"
+      text: Into AI Safety features in-depth interviews with the researchers, policymakers, and advocates actively shaping how AI is governed. Whether you're a seasoned expert or just starting to pay attention, each episode is designed to help you understand what's at stake, and how to get involved.
+    design:
+      spacing:
+        padding: ["0.5em", 0, "0.5em", 0]
+        margin: [0, 0, 0, 0]
+
+
+
+  - block: html-block
+    content:
+      text: '<div class="max-w-prose mx-auto px-8 py-6 flex items-center gap-6">
+               <img src="/jacobhaimes/jacob-haimes_avatar.png" alt="Jacob Haimes" class="rounded-full w-16 h-16 object-cover flex-shrink-0">
+               <div>
+                 <p class="text-sm uppercase tracking-wide text-gray-400">Host</p>
+                 <p class="font-semibold text-white">Jacob Haimes</p>
+                 <p class="text-sm text-gray-300 mt-1">Scientific communicator and field-builder working to make AI conversations accessible to everyone. Founder of Kairos.FM.</p>
+               </div>
+             </div>'
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
+      css_class: "dark"
+      background:
+        color: "#1B4066"
+
+
   # - block: html-block
   #   content: 
   #     text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5 pb-5 lg:pb-8"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="/intoaisafety/about/"><span>Read more</span><span aria-hidden="true">→</span></a></div></div><div class="container mx-auto w-1/2"><hr style="color:white;"></div>'
