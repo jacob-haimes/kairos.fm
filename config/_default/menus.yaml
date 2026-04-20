@@ -21,9 +21,12 @@ main:
   - name: About
     pageRef: about/
     weight: 30
+  - name: Team
+    pageRef: team/
+    weight: 40
   - name: Collections
     pageRef: categories/
-    weight: 40
+    weight: 50
   # - name: Content
   #   pageRef: content/
   #   weight: 50
@@ -33,6 +36,7 @@ main:
   # - name: Contact
   #   pageRef: contact/
   #   weight: 70
+
 
 footer:
   - identifier: home

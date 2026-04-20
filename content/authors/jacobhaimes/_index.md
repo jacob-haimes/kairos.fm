@@ -59,6 +59,24 @@ profiles:
     label: E-mail me
 ---
 
-<div style="text-align: justify">Technological developments today are going to have massive repercussions on both the near and long-term future; everyone has a right to be part of the conversations surrounding them.</div>
+
+<div style="text-align: justify">
+
+<p style="font-size: 1.2em; color: #aaa;">Founder & Podcast Host</p>
+
+Jacob Haimes is the founder of Kairos.FM and the host of <a href="/muckraikers">muckrAIkers</a> and <a href="/intoaisafety">Into AI Safety</a>. 
+
+Jacob is a scientific communicator, researcher, and field-builder actively working on multiple efforts with the goal of empowering more people to be meaningfully engaged in the conversations about AI research, development, deployment, and use.
+
+Over the past two years, Jacob has helped develop and facilitate Apart Research's remote/global fellowship program, where he directly supported over 100 fellows in becoming researchers focused on the AI safety and societal impacts of AI systems.  He has published work at top ML/AI conferences like NeurIPS and IASEAI.
+
+Jacob is the project lead for Odyssean Institute's work combining citizens assemblies, expert elicitation, and exploratory modeling to reach public-led consensus on questions of AI governance. As part of this project, he is also a mentor for the first CORDA Democracy Fellowship.
+
+He has an undergraduate degree in mechanical engineering, and an MS in computational modeling, both from CU Boulder. In his free time, he runs and plays tabletop roleplaying games like Dungeons and Dragons.
+
+Jacob believes that technological developments today are going to have massive repercussions on both the near and long-term future, and that everyone has a right to be part of the conversations surrounding them.
+
+
+</div>
 
 

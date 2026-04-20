@@ -35,17 +35,17 @@ sections:
   #       padding: ["3em", 0, 0, 0]
   #       margin: ["3em", 0, 0, 0]
 
-# sections:
-  # - block: biography-2
-  #   content:
-  #     title: Jacob Haimes
-  #     # Note: `username` refers to the user's folder name in `content/authors/`
-  #     username: jacobhaimes
-  #   design:
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
-  #     css_class: "dark"
-  #     background:
-  #       color: "#031A31"
+# # sections:
+#   - block: biography-2
+#     content:
+#       title: Jacob Haimes
+#       # Note: `username` refers to the user's folder name in `content/authors/`
+#       username: jacobhaimes
+#     design:
+#       spacing:
+#         padding: [0, 0, 0, 0]
+#         margin: [0, 0, 0, 0]
+#       css_class: "dark"
+#       background:
+#         color: "#031A31"
 ---
