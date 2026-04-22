@@ -21,20 +21,23 @@ main:
   - name: About
     pageRef: about/
     weight: 30
-  - name: Team
-    pageRef: team/
-    weight: 40
-  - name: Collections
-    pageRef: categories/
+  # - name: Team
+  #   pageRef: team/
+  #   weight: 40
+  - name: Blog
+    pageRef: blogpost/
     weight: 50
+  - name: Research
+    pageRef: research/
+    weight: 60
   # - name: Content
   #   pageRef: content/
   #   weight: 50
-  - name: FAQ
-    pageRef: faq/
-    weight: 60
-  # - name: Contact
-  #   pageRef: contact/
+  # - name: FAQ
+  #   pageRef: faq/
+  #   weight: 60
+  # # - name: Contact
+  # #   pageRef: contact/
   #   weight: 70
 
 

@@ -51,41 +51,34 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
 
-
-
-
   - block: html-block
     content:
-      text: '<div class="max-w-prose mx-auto px-8 py-6 flex items-center gap-6">
-               <p class="text-sm uppercase tracking-wide text-gray-400">Hosts</p>
-               <img src="/jacobhaimes/jacob-haimes_avatar.png" alt="Jacob Haimes" class="rounded-full w-16 h-16 object-cover flex-shrink-0">
-               <div>
-                 <p class="font-semibold text-white">Jacob Haimes</p>
-               </div>
-
-               <img src="/igorkrawczuk/igor_avatar.jpeg" alt="Igor Krawczuk" class="rounded-full w-16 h-16 object-cover flex-shrink-0">
-               <div>
-                 <p class="font-semibold text-white">Igor Krawczuk</p>
-               </div>
-
-             </div>
-
-
-
-
-
-             '
+      text: |
+        <div class="max-w-prose mx-auto rounded-xl overflow-hidden">
+          <div class="px-6 py-6 flex items-center gap-6" style="background-color:#1B4066;">
+            <div class="flex items-center gap-4">
+              <img src="/jacobhaimes/jacob-haimes_avatar.png" alt="Jacob Haimes" style="width:56px; height:56px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+              <div>
+                <p class="text-xs uppercase tracking-wide text-gray-400">Host</p>
+                <p class="font-semibold text-white">Jacob Haimes</p>
+              </div>
+            </div>
+            <div class="w-px h-10 bg-gray-500 flex-shrink-0"></div>
+            <div class="flex items-center gap-4">
+              <img src="/igorkrawczuk/igor_avatar.jpeg" alt="Igor Krawczuk" style="width:56px; height:56px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+              <div>
+                <p class="text-xs uppercase tracking-wide text-gray-400">Host</p>
+                <p class="font-semibold text-white">Igor Krawczuk</p>
+              </div>
+            </div>
+          </div>
+        </div>
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      css_class: "dark"
       background:
-        color: "#1B4066"
-
-
-
-
+        color: "transparent"
 
   # - block: html-block
   #   content: 
