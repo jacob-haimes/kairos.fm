@@ -30,7 +30,7 @@ sections:
         <div class="max-w-2xl mx-auto py-12 px-6 text-gray-300 space-y-8">
 
           <div class="text-center mb-8">
-            <img src="/icon.png" alt="Kairos.fm" class="w-24 h-24 object-contain mx-auto mb-4">
+            <img src="{{ "icon.png" | absURL }}" alt="Kairos.fm" class="w-24 h-24 object-contain mx-auto mb-4">
             <h1 class="text-4xl font-bold text-white">Kairos.fm</h1>
             <p class="text-gray-400 italic mt-2">A content network focused on the world's most pressing risks.</p>
           </div>
@@ -52,7 +52,7 @@ sections:
           <div class="rounded-xl overflow-hidden mt-4" style="background-color:#1B4066;">
             <div class="p-6 flex items-start gap-4">
               <div class="flex-shrink-0 text-center w-20">
-                <img src="/jacobhaimes/jacob-haimes_avatar.png" alt="Jacob Haimes" class="rounded-full w-16 h-16 object-cover mx-auto">
+                <img src="{{ "/jacobhaimes/jacob-haimes_avatar.png" | absURL }}" alt="Jacob Haimes" class="rounded-full w-16 h-16 object-cover mx-auto">
                 <p style="font-size:0.6em;" class="uppercase tracking-wide text-gray-400 mt-1">Founder & Host</p>
                 <p style="font-size:0.75em;" class="font-semibold text-white">Jacob Haimes</p>
               </div>
