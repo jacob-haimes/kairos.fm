@@ -24,6 +24,8 @@ categories:
 <div style="text-align: justify">
 Zainab Majid, co-founder of Asymmetric Security, joins Jacob for a conversation on the intersection between AI Safety and cybersecurity, as well as the future of digital forensics. Drawing from years of incident response work, she explains how cyber attacks actually unfold, why AI is changing both offense and defense, and how her team is building AI-native tools to investigate breaches faster and more effectively. Other topics explored in this episode include trust in the AI/cybersecurity industries, the realities behind cybersecurity hype, and the challenge of keeping humans meaningfully involved as these systems become more capable. Zainab also gives practical, actionable advice on how you can protect yourself.
 
+If you're interested in over 30 minutes of additional content, head on over to the Kairos.fm [Patreon](https://www.patreon.com/cw/Kairosfm) where you can become a subscriber for just $2 per month, which helps make this whole podcasting thing a bit more sustainable.
+
 {{< transistor src="https://share.transistor.fm/e/77307eba" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.04.18; ASIDES RECORDED 2026.05.06; <a href="https://share.transistor.fm/s/77307eba/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
 
