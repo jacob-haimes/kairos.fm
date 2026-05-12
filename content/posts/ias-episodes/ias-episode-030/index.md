@@ -1,9 +1,9 @@
 ---
 url: /intoaisafety/e030/
-title: Building Assymmetric Defenses w/ Zainab Majid
+title: Building Asymmetric Defenses w/ Zainab Majid
 summary: Asymmetric Security's Zainab Majid on real-world cyberattacks, AI's impact on offense and defense, and practical self-protection advice.
 date: 2026-05-11
-lastmod: 2026-05-11
+lastmod: 2026-05-12
 
 image:
   caption: 'Into AI Safety Cover Art'
