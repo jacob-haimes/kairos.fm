@@ -1,0 +1,100 @@
+{{/* Hugo Blox: About */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $author := $block.content.username | default "admin" }}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+{{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://docs.hugoblox.com/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+<main class="flex-auto">
+  <div class="sm:px-8 mt-2 sm:mt-1">
+    <div class="mx-auto w-full max-w-7xl lg:px-8">
+      <div class="relative px-4 sm:px-8 lg:px-12">
+        <div class="mx-auto max-w-2xl lg:max-w-5xl">
+          <div class="grid grid-cols-1 gap-y-16 lg:grid-cols-2 lg:grid-rows-[auto_1fr] lg:gap-y-12">
+            <div class="lg:pl-20">
+              <div class="max-w-xs px-2.5 lg:max-w-none">
+                {{ if $avatar }}
+                {{ $avatar_image := $avatar.Process "Fill 300x300 Center webp" }}
+              <img alt="{{$person_page.Title}}" class="mx-auto aspect-square rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800" data-nimg="1" decoding="async"
+                                                              height="100" loading="lazy"
+                                                              src="{{ $avatar_image.RelPermalink }}"
+                                                              style="color: transparent;"
+                                                              width="100">
+                {{end}}
+                                                              </div>
+            </div>
+            <div class="lg:order-first lg:row-span-2"><h1
+              class="mt-4 sm:mt-2 text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl text-center">
+              {{ with ($block.content.title | emojify | $page.RenderString) | default $person_page.Title }}{{.}}{{end}}
+            </h1>
+              <div class="mt-1 space-y-7 text-base text-zinc-600 dark:text-zinc-400 prose dark:prose-invert text-center italic">
+                {{ with ($block.content.subtitle | emojify | $page.RenderString) }}{{.}}{{end}}
+              </div>
+              <div class="mt-4 space-y-7 text-base text-zinc-600 dark:text-zinc-400 prose dark:prose-invert text-justify">
+                  {{ with ($block.content.extra_text | emojify | $page.RenderString) | default $person_page.Content }}{{.}}{{end}}
+              </div>
+            </div>
+            <!--***************************************-->
+            <div class="">
+
+                {{ $title := $block.content.widget_title | default "Team" }}
+                {{ $members := $block.content.members | default slice }}
+
+                <h2 class="text-2xl font-bold text-white pt-5" style="padding-bottom: 0;">{{ $title | emojify | $page.RenderString }}</h2>
+
+                {{ range $username := $members }}
+                  {{ $person_page_path := printf "/authors/%s" $username }}
+                  {{ $person_page := site.GetPage $person_page_path }}
+                  {{ if not $person_page }}
+                    {{ errorf "Team widget: could not find an author page at `%s`. Create one at `content/authors/%s/_index.md` or fix the `members` list." $person_page_path $username }}
+                  {{ end }}
+                  {{ $person := $person_page.Params }}
+                  {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+                  <div class="rounded-xl overflow-hidden mt-2" style="background-color:#1B4066;">
+                    <div class="p-6 flex items-start gap-4">
+                      <div class="flex-shrink-0 text-center w-20">
+                        {{ if $avatar }}
+                          {{ $avatar_image := $avatar.Process "Fill 128x128 Center webp" }}
+                          <img src="{{ $avatar_image.RelPermalink }}"
+                               alt="{{ $person_page.Title }}"
+                               class="rounded-full w-20 h-20 object-cover mx-auto"
+                               width="96" height="96"
+                               loading="lazy" decoding="async">
+                        {{ end }}
+                        {{ with $person.role }}
+                          <p style="font-size:0.6em;" class="uppercase tracking-wide text-gray-400 mt-1">{{ . }}</p>
+                        {{ end }}
+                        <p style="font-size:0.75em;" class="font-semibold text-white mt-1">{{ $person_page.Title }}</p>
+                      </div>
+                      <div class="text-base text-gray-300 space-y-3 prose prose-invert max-w-none">
+                        {{ $person_page.Content }}
+                      </div>
+                    </div>
+                  </div>
+                {{ end }}
+            </div>
+            <!--*****************************************-->
+            <div class="lg:pl-20">
+              <div class="text-2xl sm:text-4xl pt-8 flex justify-center">
+
+                {{ partial "social_links" $person_page }}
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
