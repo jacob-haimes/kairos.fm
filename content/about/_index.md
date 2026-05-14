@@ -9,7 +9,7 @@ sections:
   - block: biography-2
     content:
       title: Kairos.fm
-      # Note: `username` refers to the user's folder name in `content/authors/`
+      # Note: `username` refers to the user's folder name in `content/authors/` temp
       username: admin
     design:
       # spacing:
