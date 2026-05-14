@@ -25,7 +25,7 @@ categories:
 This week, Jacob and Igor dissect the "mythical AI bear," the strawman version of AI criticism that gets thrown around in tech discourse. Working through a viral blog post that typifies the genre, they examine how legitimate concerns about code quality, labor displacement, intellectual property, and the erosion of craft get flattened into caricature. Plus: Sam Altman writes ten paragraphs about how unbothered he is by an ad.
 
 {{< transistor src="https://share.transistor.fm/e/c3b2220c" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.02.08; <a href="https://share.transistor.fm/s/c3b2220c/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.02.08; <a href="" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></a></div>
 </div>
 
 
