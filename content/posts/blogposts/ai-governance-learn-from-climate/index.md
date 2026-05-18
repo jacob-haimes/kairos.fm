@@ -27,8 +27,7 @@ read_time: true
          src="jesse-allen_mackenzie-meets-beaufort_9000x7500.jpg"
          alt="Canada’s largest and longest river delivers vast amounts of fresh water and sediment to the sea.">
     <figcaption style="font-size:small">
-    Image by Jesse Allen / <a target="_blank" rel="noreferrer noopener" href="https://science.nasa.gov/earth/earth-observatory/">NASA Earth Observatory
-    </a> / 
+    Image by Jesse Allen / <a target="_blank" rel="noreferrer noopener" href="https://science.nasa.gov/earth/earth-observatory/">NASA Earth Observatory</a> / 
     <a target="_blank" rel="noreferrer noopener" href="https://science.nasa.gov/earth/earth-observatory/mackenzie-meets-beaufort-90703/">Mackenzie Meets Beaufort
     </a></figcaption>
 </figure>
