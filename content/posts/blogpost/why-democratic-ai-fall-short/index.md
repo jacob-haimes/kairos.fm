@@ -6,6 +6,14 @@ date: 2025-09-25
 lastmod: 2026-05-17
 math: true
 
+_build:
+  render: never
+  list: never
+cascade:
+  _build:
+    render: never
+    list: never
+
 image:
   caption: 'A Rising Tide Lifts All Bots / Rose Willis and Kathryn Conrad'
   preview_only: true

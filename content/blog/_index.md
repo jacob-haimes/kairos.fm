@@ -2,9 +2,8 @@
 menus: Blog
 title: Blog
 url: /blog/
-aliases: ['blogposts']
 view: article-grid
-type: page
+type: landing
 _build:
   list: never
 ---
