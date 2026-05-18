@@ -63,18 +63,20 @@
                   <div class="rounded-xl overflow-hidden mt-2" style="background-color:#1B4066;">
                     <div class="p-6 flex items-start gap-4">
                       <div class="flex-shrink-0 text-center w-20">
-                        {{ if $avatar }}
-                          {{ $avatar_image := $avatar.Process "Fill 128x128 Center webp" }}
-                          <img src="{{ $avatar_image.RelPermalink }}"
-                               alt="{{ $person_page.Title }}"
-                               class="rounded-full w-20 h-20 object-cover mx-auto"
-                               width="96" height="96"
-                               loading="lazy" decoding="async">
-                        {{ end }}
-                        {{ with $person.role }}
-                          <p style="font-size:0.6em;" class="uppercase tracking-wide text-gray-400 mt-1">{{ . }}</p>
-                        {{ end }}
-                        <p style="font-size:0.75em;" class="font-semibold text-white mt-1">{{ $person_page.Title }}</p>
+                          <a href="{{ $person_page.RelPermalink }}" class="block hover:opacity-80 transition-opacity">
+                            {{ if $avatar }}
+                            {{ $avatar_image := $avatar.Process "Fill 128x128 Center webp" }}
+                            <img src="{{ $avatar_image.RelPermalink }}"
+                                alt="{{ $person_page.Title }}"
+                                class="rounded-full w-20 h-20 object-cover mx-auto"
+                                width="96" height="96"
+                                loading="lazy" decoding="async">
+                            {{ end }}
+                            {{ with $person.role }}
+                            <p style="font-size:0.6em;" class="uppercase tracking-wide text-gray-400 mt-1">{{ . }}</p>
+                            {{ end }}
+                            <p style="font-size:0.75em;" class="font-semibold text-white mt-1">{{ $person_page.Title }}</p>
+                          </a>
                       </div>
                       <div class="text-base text-gray-300 space-y-3 prose prose-invert max-w-none">
                         {{ $person_page.Content }}

@@ -4,6 +4,13 @@ url: about-2
 date: 2026-04-22
 type: landing
 
+_build:
+  render: never
+  list: never
+cascade:
+  _build:
+    render: never
+    list: never
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

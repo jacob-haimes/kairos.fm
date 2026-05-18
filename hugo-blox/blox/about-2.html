@@ -47,7 +47,6 @@
               </div>
             </div>
             <!--***************************************-->
-            <!--***************************************-->
             <div class="lg:col-span-2">
               {{ $title := $block.content.widget_title | default "Team" }}
               {{ $members := $block.content.members | default slice }}
@@ -72,6 +71,7 @@
                          style="flex: 0 0 calc(100% - 3rem); scroll-snap-align: center; background-color:#1B4066;">
                       <div class="p-6 flex items-start gap-4">
                         <div class="flex-shrink-0 text-center w-20">
+                        <a href="{{ $person_page.RelPermalink }}" class="block hover:opacity-80 transition-opacity">
                           {{ if $avatar }}
                             {{ $avatar_image := $avatar.Process "Fill 192x192 Center webp" }}
                             <img src="{{ $avatar_image.RelPermalink }}"
@@ -84,6 +84,7 @@
                             <p style="font-size:0.6em;" class="uppercase tracking-wide text-gray-400 mt-1">{{ . }}</p>
                           {{ end }}
                           <p style="font-size:0.75em;" class="font-semibold text-white mt-1">{{ $person_page.Title }}</p>
+                        </a>
                         </div>
                         <div class="text-base text-gray-300 space-y-3 prose prose-invert max-w-none">
                           {{ $person_page.Content }}
@@ -111,7 +112,6 @@
               </div>
               {{ end }}
             </div>
-            <!--*****************************************-->
             <!--*****************************************-->
             <div class="lg:pl-20">
               <div class="text-2xl sm:text-4xl pt-1 flex justify-center">

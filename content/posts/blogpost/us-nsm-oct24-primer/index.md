@@ -15,8 +15,8 @@ authors:
   - jacobhaimes
 
 tags:
-  - United States
   - AI Governance
+  - United States
 
 categories:
   - Blogpost
