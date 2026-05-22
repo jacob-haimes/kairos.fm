@@ -50,6 +50,39 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
+
+# ***********************************************
+  # - block: html-block
+  #   content:
+  #     text: |
+  #       <div class="max-w-prose mx-auto rounded-xl overflow-hidden">
+  #         <div class="px-6 py-6 flex items-center gap-6" style="background-color:#1B4066;">
+  #           <div class="flex items-center gap-4">
+  #             <img src="/jacobhaimes/jacob-haimes_avatar.png" alt="Jacob Haimes" style="width:56px; height:56px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+  #             <div>
+  #               <p class="text-xs uppercase tracking-wide text-gray-400">Host</p>
+  #               <p class="font-semibold text-white">Jacob Haimes</p>
+  #             </div>
+  #           </div>
+  #           <div class="w-px h-10 bg-gray-500 flex-shrink-0"></div>
+  #           <div class="flex items-center gap-4">
+  #             <img src="/igorkrawczuk/igor_avatar.jpeg" alt="Igor Krawczuk" style="width:56px; height:56px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+  #             <div>
+  #               <p class="text-xs uppercase tracking-wide text-gray-400">Host</p>
+  #               <p class="font-semibold text-white">Igor Krawczuk</p>
+  #             </div>
+  #           </div>
+  #         </div>
+  #       </div>
+  #   design:
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
+  #       margin: [0, 0, 0, 0]
+  #     background:
+  #       color: "transparent"
+# ***********************************************
+
+
   # - block: html-block
   #   content: 
   #     text: '<div class="container mx-auto max-w-screen-lg px-8 xl:px-5 pb-5 lg:pb-8"><div class="mt-4 flex justify-center"><a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300" href="/intoaisafety/about/"><span>Read more</span><span aria-hidden="true">→</span></a></div></div><div class="container mx-auto w-1/2"><hr style="color:white;"></div>'

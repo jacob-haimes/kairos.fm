@@ -28,19 +28,19 @@ role: Making the world's complex problems accessible
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/company/kairos-fm/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@KairosFMNetwork/podcasts
+  - icon: custom/patreon-icon
+    url: https://www.patreon.com/cw/Kairosfm
+  - icon: custom/ko-fi
+    url: https://ko-fi.com/kairosfm
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/kairos.fm
   - icon: at-symbol
     url: 'mailto:listen@kairos.fm'
     label: Contact
-  - icon: brands/youtube
-    url: https://www.youtube.com/@KairosFMNetwork/podcasts
-  # - icon: brands/x
-  #   url:
-  # - icon: brands/gitlab
-  #   url:
-  # - icon: brands/linkedin
-  #   url:
-  - icon: custom/bluesky
-    url: https://bsky.app/profile/kairos.fm
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
@@ -57,15 +57,20 @@ profiles:
 #       summary
 ---
 
-## A content network that gets people up-to-speed on the world's most pressing problems.
-
 <div style="text-align: justify">
-We believe that the best way to improve overall wellbeing for humanity, both in the immediate future and much further down the line, is to have as many people as possible meaningfully involved in the conversations surrounding the complex problems that our world is faced with.
 
-For listeners and readers, Kairos.fm is an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.
+Kairos.fm supports creators working at the intersection of science, technology, and catastrophic risk, including AI development, biotechnology, nuclear security, and pandemic preparedness. We produce and distribute content designed to make these topics accessible to broad audiences, not just specialists.
 
-For communicators, Kairos.fm magnifies the impact and reach of their work, in addition to reducing barriers to publishing content. Last, but certainly not least, Kairos.fm is a growing community of like-minded creators, which can be leveraged for advice, feedback, collaboration, and so much more.
+For <strong class="text-white">listeners</strong>, we offer a reliable way to stay informed on issues that matter, regardless of technical background. For <strong class="text-white">creators</strong>, we provide production support, distribution, and a community of collaborators working on the same problems. For <strong class="text-white">organizations</strong> looking to add a podcast, we may be able to help with that too.
+
+
+<h2 class="text-xl font-bold text-white mt-6 mb-1">Why this work matters</h2>
+The convergence of powerful technologies has created an urgent need for broader public engagement with catastrophic risk. These challenges won't be solved by experts alone. They require informed citizens, diverse perspectives, and meaningful participation across society. We believe that improving the quality and reach of science communication is one of the highest-leverage ways to contribute to that goal.
+
+<h4 class="text-xl font-bold text-white mt-6 mb-1">How we measure impact</h4>
+Measuring the impact of science communication requires more than engagement metrics. We track listening hours, retention, and subscriber growth, but we also run audience surveys and continually explore new ways to understand whether we're actually moving the needle on awareness, involvement, and community growth.
+<br>
+
+Interested in learning more? Contact us at <a href="mailto:listen@kairos.fm" class="hover:underline">listen@kairos.fm</a>.
+
 </div>
-
-<!-- By definition, these problems are not straight forward, and while some may argue strongly for one solution, others may insist an alternate path is the only reasonable choice.
-Kairos.fm provides an accessible way to engage with these problems, regardless of whether you are an expert in a relevant domain. As more perspectives are voiced, humanity moves towards better solutions.-->

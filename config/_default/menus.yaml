@@ -1,7 +1,7 @@
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
 
 main:
   - name: Home
@@ -21,17 +21,23 @@ main:
   - name: About
     pageRef: about/
     weight: 30
-  - name: Collections
-    pageRef: categories/
-    weight: 40
+  # - name: Team
+  #   pageRef: team/
+  #   weight: 40
+  - name: Blog
+    pageRef: blog/
+    weight: 50
+  - name: Links
+    pageRef: links/
+    weight: 60
   # - name: Content
   #   pageRef: content/
   #   weight: 50
-  - name: FAQ
-    pageRef: faq/
-    weight: 60
-  # - name: Contact
-  #   pageRef: contact/
+  # - name: FAQ
+  #   pageRef: faq/
+  #   weight: 60
+  # # - name: Contact
+  # #   pageRef: contact/
   #   weight: 70
 
 footer:

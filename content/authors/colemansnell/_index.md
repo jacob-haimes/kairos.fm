@@ -19,7 +19,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Co-Founder and Podcast Host
+role: Podcast Host
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:

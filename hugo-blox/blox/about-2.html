@@ -1,0 +1,129 @@
+{{/* Hugo Blox: About */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $author := $block.content.username | default "admin" }}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+{{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://docs.hugoblox.com/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+{{ $teamJS := resources.Get "js/team-carousel.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $teamJS.RelPermalink }}" integrity="{{ $teamJS.Data.Integrity }}" defer></script>
+
+<main class="flex-auto">
+  <div class="sm:px-8 mt-2 sm:mt-1">
+    <div class="mx-auto w-full max-w-7xl lg:px-8">
+      <div class="relative px-4 sm:px-8 lg:px-12">
+        <div class="mx-auto max-w-2xl lg:max-w-5xl">
+          <div class="grid grid-cols-1 gap-y-16 lg:grid-cols-2 lg:grid-rows-[auto_1fr] lg:gap-y-12">
+            <div class="lg:pl-20">
+              <div class="max-w-xs px-2.5 lg:max-w-none">
+                {{ if $avatar }}
+                {{ $avatar_image := $avatar.Process "Fill 300x300 Center webp" }}
+              <img alt="{{$person_page.Title}}" class="mx-auto aspect-square rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800" data-nimg="1" decoding="async"
+                                                              height="100" loading="lazy"
+                                                              src="{{ $avatar_image.RelPermalink }}"
+                                                              style="color: transparent;"
+                                                              width="100">
+                {{end}}
+                                                              </div>
+            </div>
+            <div class="lg:order-first lg:row-span-2"><h1
+              class="mt-4 sm:mt-2 text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl text-center">
+              {{ with ($block.content.title | emojify | $page.RenderString) | default $person_page.Title }}{{.}}{{end}}
+            </h1>
+              <div class="mt-1 space-y-7 text-base text-zinc-600 dark:text-zinc-400 prose dark:prose-invert text-center italic">
+                {{ with ($block.content.subtitle | emojify | $page.RenderString) }}{{.}}{{end}}
+              </div>
+              <div class="mt-4 space-y-7 text-base text-zinc-600 dark:text-zinc-400 prose dark:prose-invert text-justify">
+                  {{ with ($block.content.extra_text | emojify | $page.RenderString) | default $person_page.Content }}{{.}}{{end}}
+              </div>
+            </div>
+            <!--***************************************-->
+            <div class="lg:col-span-2">
+              {{ $title := $block.content.widget_title | default "Team" }}
+              {{ $members := $block.content.members | default slice }}
+
+              <h2 class="text-xl font-bold text-white pt-4 mb-4">{{ $title | emojify | $page.RenderString }}</h2>
+
+              {{ if $members }}
+              <div class="relative team-carousel" data-team-carousel>
+                {{/* Track */}}
+                <div class="team-carousel-track flex gap-4 pb-2"
+                     style="overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; scrollbar-width: none; -ms-overflow-style: none;">
+                  {{ range $username := $members }}
+                    {{ $person_page_path := printf "/authors/%s" $username }}
+                    {{ $person_page := site.GetPage $person_page_path }}
+                    {{ if not $person_page }}
+                      {{ errorf "Team carousel: could not find author page at `%s`." $person_page_path }}
+                    {{ end }}
+                    {{ $person := $person_page.Params }}
+                    {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+                    <div class="snap-center rounded-xl overflow-hidden"
+                         style="flex: 0 0 calc(100% - 3rem); scroll-snap-align: center; background-color:#1B4066;">
+                      <div class="p-6 flex items-start gap-4">
+                        <div class="flex-shrink-0 text-center w-20">
+                        <a href="{{ $person_page.RelPermalink }}" class="block hover:opacity-80 transition-opacity">
+                          {{ if $avatar }}
+                            {{ $avatar_image := $avatar.Process "Fill 192x192 Center webp" }}
+                            <img src="{{ $avatar_image.RelPermalink }}"
+                                 alt="{{ $person_page.Title }}"
+                                 class="rounded-full w-20 h-20 object-cover mx-auto"
+                                 width="96" height="96"
+                                 loading="lazy" decoding="async">
+                          {{ end }}
+                          {{ with $person.role }}
+                            <p style="font-size:0.6em;" class="uppercase tracking-wide text-gray-400 mt-1">{{ . }}</p>
+                          {{ end }}
+                          <p style="font-size:0.75em;" class="font-semibold text-white mt-1">{{ $person_page.Title }}</p>
+                        </a>
+                        </div>
+                        <div class="text-base text-gray-300 space-y-3 prose prose-invert max-w-none">
+                          {{ $person_page.Content }}
+                        </div>
+                      </div>
+                    </div>
+                  {{ end }}
+                </div>
+
+                {{/* Hide webkit scrollbar */}}
+                <style>.team-carousel-track::-webkit-scrollbar { display: none; }</style>
+
+                {{/* Arrow buttons (hidden on mobile — swipe instead) */}}
+                <button type="button" data-carousel-prev aria-label="Previous team member"
+                        class="hidden md:flex absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 items-center justify-center rounded-full bg-black/40 hover:bg-black/60 text-white text-lg transition z-10">
+                  &larr;
+                </button>
+                <button type="button" data-carousel-next aria-label="Next team member"
+                        class="hidden md:flex absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 items-center justify-center rounded-full bg-black/40 hover:bg-black/60 text-white text-lg transition z-10">
+                  &rarr;
+                </button>
+
+                {{/* Dot indicators */}}
+                <div class="flex justify-center gap-2 mt-3" data-carousel-dots></div>
+              </div>
+              {{ end }}
+            </div>
+            <!--*****************************************-->
+            <div class="lg:pl-20">
+              <div class="text-2xl sm:text-4xl pt-1 flex justify-center">
+
+                {{ partial "social_links" $person_page }}
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
