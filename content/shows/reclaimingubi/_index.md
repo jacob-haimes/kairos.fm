@@ -58,7 +58,7 @@ sections:
       archive: 
         enable: true
         text: More episodes
-      url: https://share.transistor.fm/e/reclaimingubi
+      url: https://share.transistor.fm/e/reclaimingubi/playlist
     design:
       color: "#1B4066"
       spacing:
