@@ -16,6 +16,7 @@ authors:
 tags:
   - Interview
   - AI Security
+  - Cybersecurity
 
 categories:
   - Podcast

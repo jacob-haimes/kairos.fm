@@ -69,7 +69,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: ['2rem', 0, '1.5rem', 0]
-  - block: podcast-tiles
+  - block: podcast-tiles-2
     content: 
       items:
         - text: Into AI Safety
@@ -78,6 +78,9 @@ sections:
         - text: muckrAIkers
           icon: custom/muckrAIkers-logo-currentColor
           url: /muckraikers/
+        - text: Beyond the Paycheck
+          icon: custom/btp-logo-currentColor
+          url: /beyondthepaycheck/
         - text: On What Matters
           icon: custom/owm_wht
           url: /onwhatmatters/

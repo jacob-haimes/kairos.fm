@@ -37,9 +37,9 @@ Description
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Intro<br>
-</div>
+</small></div>
 
 ## Links
 - []()
