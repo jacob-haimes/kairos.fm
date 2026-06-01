@@ -1,17 +1,17 @@
 ---
-url: /beyondthepaycheck/e001/
+url: /reclaimingubi/e001/
 title: UBI and the Story of Work
 summary: Joe Williams launches a series on UBI in the age of AI, sparked by watching his translation work dry up.
 date: 2026-06-01
 lastmod: 2026-06-01
 
 image:
-  caption: 'Beyond the Paycheck Cover Art'
+  caption: 'Reclaiming UBI Cover Art'
   preview_only: true
-  filename: beyond-the-paycheck_thumbnail_v0.2.jpg
+  filename: reclaiming-ubi_thumbnail.jpg
 
 authors:
-  - beyondthepaycheck
+  - reclaimingubi
 
 tags:
   - Audio Documentary

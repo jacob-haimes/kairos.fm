@@ -1,14 +1,14 @@
 ---
 url: /intoaisafety/e031/
-title: AI and Universal Basic Income w/ Joe Williams
-summary: "Launching Beyond the Paycheck: Joe Williams on UBI, AI labor displacement, and the agendas of the AI gentry."
+title: Reclaiming UBI in the AI Age w/ Joe Williams
+summary: "Launching Reclaiming UBI; Joe Williams on UBI, AI labor displacement, and the agendas of the AI gentry."
 date: 2026-06-01
 lastmod: 2026-06-01
 
 image:
   caption: 'Into AI Safety Cover Art'
   preview_only: true
-  filename: intoaisafety-thumbnail_joe-williams_1280x720.jpg
+  filename: intoaisafety-thumbnail_joe-williams_1280x720_v4.jpg
 
 authors:
   - intoaisafety
@@ -25,7 +25,7 @@ categories:
 
 <div style="text-align: justify">
 
-Today's episode does double duty as an interview and an announcement. Joe Williams, host of the new Kairos FM show "Beyond the Paycheck: Reclaiming the Case for UBI in the Age of AI," joins Jacob to talk about his background as a freelance translator and how AI quietly dismantled his livelihood in 2025. From there the conversation expands into whether this moment is really different from past waves of automation, who exactly makes up the tech billionaire class, and why you should probably raise an eyebrow when someone like Elon Musk says he supports UBI. Go check out [Beyond the Paycheck](https://kairos.fm/beyondthepaycheck/)!
+Today's episode does double duty as an interview and an announcement. Joe Williams, host of the new Kairos FM show "Reclaiming UBI: Work and Values in the Age of AI," joins Jacob to talk about his background as a freelance translator and how AI quietly dismantled his livelihood in 2025. From there the conversation expands into whether this moment is really different from past waves of automation, who exactly makes up the tech billionaire class, and why you should probably raise an eyebrow when someone like Elon Musk says he supports UBI. Go check out [Reclaiming UBI](https://kairos.fm/reclaimingubi/)!
 
 {{< transistor src="https://share.transistor.fm/e/71f621ad" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.03.07; ASIDES RECORDED 2026.05.01; <a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
@@ -43,7 +43,7 @@ Today's episode does double duty as an interview and an announcement. Joe Willia
 00:47:45 ❙ ASIDE: Sam Altman + OpenResearch + Worldcoin<br>
 00:53:10 ❙ Powerful UBI Supporters Should Raise Red Flags<br>
 01:02:28 ❙ How to Read AI Gentry Discourse Critically<br>
-01:09:32 ❙ Who Is "Beyond the Paycheck" For?<br>
+01:09:32 ❙ Who Is "Reclaiming UBI" For?<br>
 01:17:49 ❙ Outro
 </small></div>
 

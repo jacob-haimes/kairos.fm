@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Beyond the Paycheck
-url: "beyondthepaycheck/episodes"
+title: Reclaiming UBI
+url: "reclaimingubi/episodes"
 
 # Full name (for SEO)
 first_name: Beyond the
@@ -24,7 +24,7 @@ user_groups:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: custom/transistor
-    url: https://beyondthepaycheck.transistor.fm
+    url: https://reclaimingubi.transistor.fm
     label: Listening platforms
   - icon: custom/apple-podcasts
     url: https://podcasts.apple.com/us/podcast/into-ai-safety/id1720206246?uo=4
