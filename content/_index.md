@@ -50,10 +50,10 @@ sections:
           icon: custom/muckraikers-logo
           url: /muckraikers/
           label: muckrAIkers
-        - name: Beyond the Paycheck
-          icon: custom/btp-logo-currentColor
-          url: /beyondthepaycheck/
-          label: Beyond the Paycheck
+        # - name: Beyond the Paycheck
+        #   icon: custom/btp-logo-currentColor
+        #   url: /beyondthepaycheck/
+        #   label: Beyond the Paycheck
         - name: On What Matters
           icon: custom/owm_wht
           url: /onwhatmatters/
