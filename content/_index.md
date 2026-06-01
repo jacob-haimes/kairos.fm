@@ -46,14 +46,18 @@ sections:
           icon: custom/ias_logo_wht
           url: /intoaisafety/
           label: Into AI Safety
-        - name: On What Matters
-          icon: custom/owm_wht
-          url: /onwhatmatters/
-          label: On What Matters
         - name: muckrAIkers
           icon: custom/muckraikers-logo
           url: /muckraikers/
           label: muckrAIkers
+        - name: Beyond the Paycheck
+          icon: custom/btp-logo-currentColor
+          url: /beyondthepaycheck/
+          label: Beyond the Paycheck
+        - name: On What Matters
+          icon: custom/owm_wht
+          url: /onwhatmatters/
+          label: On What Matters
     design:
       spacing:
         padding: ["1em", 0, "1em", 0]
