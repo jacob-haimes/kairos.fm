@@ -1,6 +1,6 @@
 ---
 url: /intoaisafety/e031/
-title: AI and Universal Basic Income w/ Joe Williams
+title: Reclaiming UBI in the AI Age w/ Joe Williams
 summary: "Launching Reclaiming UBI; Joe Williams on UBI, AI labor displacement, and the agendas of the AI gentry."
 date: 2026-06-01
 lastmod: 2026-06-01
