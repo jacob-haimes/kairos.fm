@@ -2,8 +2,8 @@
 url: /intoaisafety/e031/
 title: AI and Universal Basic Income w/ Joe Williams
 summary: 
-date: 2026-05-01
-lastmod: 2026-05-01
+date: 2026-06-01
+lastmod: 2026-06-01
 
 image:
   caption: 'Into AI Safety Cover Art'

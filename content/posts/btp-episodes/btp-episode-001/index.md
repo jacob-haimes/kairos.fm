@@ -35,16 +35,16 @@ Joe begins to explore these ideas through reflection, The Art of Motorcycle Main
 
 ## Chapters
 <div style="text-align: left; font-family:monospace;"><small>
-00:00 ❙ Intro
-10:22 ❙ Inequality in the digital economy
-15:02 ❙ Automation, AI and Work
-17:04 ❙ The Meaning of Work
-20:24 ❙ Relationships with Work
-21:44 ❙ Work Culture
-23:25 ❙ Work and Moral Value
-26:10 ❙ Work as Self-Realisation
-28:03 ❙ Value of Non-Paid Work
-32:43 ❙ Paid vs Non-Paid Work
-38:44 ❙ AI-Elites and UBI Discourse
+00:00 ❙ Intro<br>
+10:22 ❙ Inequality in the digital economy<br>
+15:02 ❙ Automation, AI and Work<br>
+17:04 ❙ The Meaning of Work<br>
+20:24 ❙ Relationships with Work<br>
+21:44 ❙ Work Culture<br>
+23:25 ❙ Work and Moral Value<br>
+26:10 ❙ Work as Self-Realisation<br>
+28:03 ❙ Value of Non-Paid Work<br>
+32:43 ❙ Paid vs Non-Paid Work<br>
+38:44 ❙ AI-Elites and UBI Discourse<br>
 42:29 ❙ Outro
 </small></div>
