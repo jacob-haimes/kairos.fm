@@ -78,9 +78,9 @@ sections:
         - text: muckrAIkers
           icon: custom/muckrAIkers-logo-currentColor
           url: /muckraikers/
-        - text: Beyond the Paycheck
-          icon: custom/btp-logo-currentColor
-          url: /beyondthepaycheck/
+        - text: Reclaiming UBI
+          icon: custom/rubi-logo-currentColor
+          url: /reclaimingubi/
         - text: On What Matters
           icon: custom/owm_wht
           url: /onwhatmatters/
