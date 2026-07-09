@@ -34,20 +34,22 @@ Today's episode does double duty as an interview and an announcement. Joe Willia
 
 <div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Intro<br>
-00:00:00 ❙ Intro<br>
-00:04:33 ❙ Joe's Background<br>
-00:19:13 ❙ What is UBI & Why Does It Matter Now?<br>
-00:26:57 ❙ ASIDE: The Corporation Who Cried " My Technology Will End Work"<br>
-00:31:57 ❙ Wealth Concetration & the Digital Economy<br>
-00:38:38 ❙ The AI Gentry<br>
-00:47:45 ❙ ASIDE: Sam Altman + OpenResearch + Worldcoin<br>
-00:53:10 ❙ Powerful UBI Supporters Should Raise Red Flags<br>
-01:02:28 ❙ How to Read AI Gentry Discourse Critically<br>
-01:09:32 ❙ Who Is "Reclaiming UBI" For?<br>
-01:17:49 ❙ Outro
+00:05:31 ❙ Joe's Background<br>
+00:19:41 ❙ What is UBI & Why Does It Matter Now?<br>
+00:27:25 ❙ ASIDE: The Corporation Who Cried " My Technology Will End Work"<br>
+00:32:25 ❙ Wealth Concetration & the Digital Economy<br>
+00:39:06 ❙ The AI Gentry<br>
+00:48:13 ❙ ASIDE: Sam Altman + OpenResearch + Worldcoin<br>
+00:53:38 ❙ Powerful UBI Supporters Should Raise Red Flags<br>
+01:02:56 ❙ How to Read AI Gentry Discourse Critically<br>
+01:10:00 ❙ Who Is "Reclaiming UBI" For?<br>
+01:18:17 ❙ Outro
 </small></div>
 
+
+
 ## Links
+- AI and Ethics [article](https://link.springer.com/article/10.1007/s43681-026-01141-z) - Tracing the techno-supremacy doctrine: a critical discourse analysis of the AI executive elite
 
 ### Historical Precedents
 - Josh Steimle [blog post](https://joshsteimle.com/entrepreneur/ai-destroy-jobs-wrong-predictions.html) - Will AI Destroy Jobs? 500 Years of Predictions Say No
@@ -86,6 +88,8 @@ Today's episode does double duty as an interview and an announcement. Joe Willia
 - BigGo Finance [article](https://finance.biggo.com/news/4ZriIZ0BOIb5XxavGH9-) - AI Tokens as the New Currency? Huang and Altman Outline Vision for "Computing Resource Basic Income"
 - Wikipedia [page](https://en.wikipedia.org/wiki/World_(blockchain)) - World (blockchain)
 
+### Miscellaneous
+- Translators Without Borders [website](https://translatorswithoutborders.org)
 
 <!-- end of the list -->
 </div>
