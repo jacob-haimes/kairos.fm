@@ -16,7 +16,7 @@ authors:
 tags:
   - Narratives & Hype
   - United States
-  - AIxBusinness
+  - AIxBusiness
 
 categories: 
   - Podcast
