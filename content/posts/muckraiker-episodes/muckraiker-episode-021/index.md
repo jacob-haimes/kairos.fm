@@ -31,7 +31,7 @@ This week, Jacob and Igor dissect the "mythical AI bear," the strawman version o
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Introduction<br>
 00:30 ❙ Altman's Super Bowl Meltdown<br>
 03:11 ❙ What is "The Bear"?<br>
@@ -40,7 +40,7 @@ This week, Jacob and Igor dissect the "mythical AI bear," the strawman version o
 24:43 ❙ But They Take Our Jobs & But The Plagiarism<br>
 31:21 ❙ Stochastic Parrots & Mythical Bears<br>
 42:34 ❙ Outro
-</div>
+</small></div>
 
 ## Links
 

@@ -33,14 +33,14 @@ While we discuss the murders of Nicole Good and Alex Pretti during this episode,
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Introduction<br>
 03:57 ❙ The Authoritarian Stack<br>
 08:33 ❙ Palantir & Thiel-Government Consolidation<br>
 13:44 ❙ Move Fast & Break Everything<br>
 23:14 ❙ Fascism in the US & Starving the Beast<br>
 39:48 ❙ Finding Local Opportunities for Action
-</div>
+</small></div>
 
 ## Links
 - The Authoritarian Stack [website](https://www.authoritarian-stack.info/)

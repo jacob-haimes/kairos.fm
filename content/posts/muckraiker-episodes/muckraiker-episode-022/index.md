@@ -16,7 +16,7 @@ authors:
 tags:
   - Narratives & Hype
   - United States
-  - AIxBusinness
+  - AIxBusiness
 
 categories: 
   - Podcast
@@ -33,14 +33,14 @@ In this episode, Jacob and Igor break down the DoD vs. Anthropic standoff, traci
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Introduction<br>
 00:44 ❙ DoD-Anthropic Standoff<br>
 15:08 ❙ 3 Buckets of Motivation<br>
 35:39 ❙ How to Read What They're Actually Doing<br>
 44:04 ❙ Is This Designation Even Real?<br>
 53:39 ❙ Recap (Pragmatist's Playbook)
-</div>
+</small></div>
 
 ## Links
 - Ed Zitron [subtack article](https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/) - The AI Bubble Is An Information War

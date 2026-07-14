@@ -30,7 +30,7 @@ Frontier developers continue their war on sane versioning schema to bring us Cla
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Intro<br>
 00:22 ❙ Hot off the press<br>
 05:03 ❙ Claude 3.5 Sonnet (New) Two 'o' 3000<br>
@@ -40,7 +40,7 @@ Frontier developers continue their war on sane versioning schema to bring us Cla
 32:07 ❙ Why has Anthropic chosen this strategy?<br>
 43:14 ❙ Changing the frame<br>
 48:00 ❙ Polishing the lily
-</div>
+</small></div>
 
 
 ## Links

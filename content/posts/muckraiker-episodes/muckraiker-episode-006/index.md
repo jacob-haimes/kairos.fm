@@ -30,7 +30,7 @@ October 2024 saw a National Security Memorandum and US framework for using AI in
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:48 ❙ The memorandum<br>
 00:06:28 ❙ What the press is saying<br>
 00:10:39 ❙ What's in the text<br>
@@ -41,7 +41,7 @@ October 2024 saw a National Security Memorandum and US framework for using AI in
 00:49:31 ❙ The commenters<br>
 01:07:33 ❙ Our final hero<br>
 01:10:46 ❙ The muck
-</div>
+</small></div>
 
 
 ## Links

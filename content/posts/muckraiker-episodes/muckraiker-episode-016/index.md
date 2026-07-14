@@ -31,7 +31,7 @@ We dig into how the concept of AI "safety" has been co-opted and weaponized by t
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Intro<br>
 00:00:21 ❙ Mecha-Hitler Grok<br>
 00:10:07 ❙ "Safety"<br>
@@ -39,7 +39,7 @@ We dig into how the concept of AI "safety" has been co-opted and weaponized by t
 00:53:56 ❙ This time isn't different<br>
 01:01:46 ❙ Alignment Tax myth<br>
 01:17:37 ❙ Actually making AI safer
-</div>
+</small></div>
 
 ## Links
 - JMLR [article](https://www.jmlr.org/papers/v23/20-1335.html) - Underspecification Presents Challenges for Credibility in Modern Machine Learning

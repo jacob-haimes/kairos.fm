@@ -30,7 +30,7 @@ In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopia
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Intro<br>
 01:13 ❙ Bill, general overview<br>
 05:14 ❙ Bill, AI overview<br>
@@ -41,7 +41,7 @@ In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopia
 37:05 ❙ Tax incentives for development<br>
 40:57 ❙ Regulatory moratorium<br>
 47:58 ❙ One big bad authoritarian regime
-</div>
+</small></div>
 
 ## Links
 - Congress [page](https://www.congress.gov/bill/119th-congress/house-bill/1/text) on the One Big Beautiful Bill Act

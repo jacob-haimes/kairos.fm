@@ -31,7 +31,7 @@ Jacob and Igor tackle the wild claims about AI's economic impact by examining th
 
 
 ## Chapters
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Recording date<br>
 00:52 ❙ MIT denounces paper<br>
 04:09 ❙ Grok's white genocide<br>
@@ -41,7 +41,7 @@ Jacob and Igor tackle the wild claims about AI's economic impact by examining th
 29:46 ❙ Removing the last cost centers<br>
 47:16 ❙ "This time is different" (explosive growth)<br>
 57:55 ❙ Alpha Evolve, optimization, and slippage
-</div>
+</small></div>
 
 ## Links
 - University of Chicago [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219933) - Large Language Models, Small Labor Market Effects

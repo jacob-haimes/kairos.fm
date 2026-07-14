@@ -34,7 +34,7 @@ We discuss what "rote tasks" are and why they're now automatable with enough inv
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Introduction<br>
 05:07 ❙ What Changed Igor’s Mind<br>
 18:27 ❙ Rote Tasks Explained<br>
@@ -42,7 +42,7 @@ We discuss what "rote tasks" are and why they're now automatable with enough inv
 30:48 ❙ AGI Is Still BS<br>
 34:07 ❙ Externalities Remain Unchanged<br>
 37:49 ❙ Final Thoughts & Outro
-</div>
+</small></div>
 
 ## Links
 - Related muckrAIkers [episode](https://kairos.fm/muckraikers/e018) - Tech Bros Love AI Waifus

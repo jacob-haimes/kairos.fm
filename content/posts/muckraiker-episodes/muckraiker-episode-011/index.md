@@ -38,7 +38,7 @@ A seasoned software developer, Chris started EquiStamp as a way to improve our c
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Recording date<br>
 00:00:05 ❙ Intro<br>
 00:00:29 ❙ Hot off the press<br>
@@ -57,7 +57,7 @@ A seasoned software developer, Chris started EquiStamp as a way to improve our c
 02:45:23 ❙ Orthogonality Thesis<br>
 03:04:31 ❙ Why we do this<br>
 03:15:36 ❙ Equistamp!
-</div>
+</small></div>
 
 
 ## Links

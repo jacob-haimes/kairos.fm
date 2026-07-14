@@ -36,7 +36,7 @@ What happens when you bring over 15,000 machine learning nerds to one city? If y
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Recording date<br>
 00:00:05 ❙ Intro<br>
 00:00:44 ❙ Obligatory mentions<br>
@@ -51,7 +51,7 @@ What happens when you bring over 15,000 machine learning nerds to one city? If y
 01:13:12 ❙ Initial takes on o3<br>
 01:18:12 ❙ WorkArena<br>
 01:25:00 ❙ Outro
-</div>
+</small></div>
 
 ## Links
 
