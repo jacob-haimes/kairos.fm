@@ -31,7 +31,7 @@ This week, Jacob and Igor swap the usual news breakdown for a complete taxonomy 
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Introduction<br>
 02:45 ❙ The Booster Tier List <br>
 07:48 ❙ A-Tier: The Genuine Enthusiast<br>
@@ -43,7 +43,7 @@ This week, Jacob and Igor swap the usual news breakdown for a complete taxonomy 
 31:08 ❙ Bonus Tier: Crit Hype<br>
 39:28 ❙ So What Do We Actually Do With This?<br>
 46:04 ❙ Outro (Igor's Challenge)
-</div>
+</small></div>
 
 
 ## Links

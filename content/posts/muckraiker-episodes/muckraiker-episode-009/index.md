@@ -34,7 +34,7 @@ The idea of <i>model cards</i>, which was introduced as a measure to increase tr
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Intro<br>
 00:00:00 ❙ Recorded 2024.12.08<br>
 00:00:54 ❙ Actual intro<br>
@@ -56,7 +56,7 @@ The idea of <i>model cards</i>, which was introduced as a measure to increase tr
 01:04:45 ❙ SWE Verified<br>
 01:05:44 ❙ Appendix bias metrics<br>
 01:10:17 ❙ The muck and the meaning
-</div>
+</small></div>
 
 ## Links
 - o1 [system card](https://cdn.openai.com/o1-system-card-20241205.pdf)

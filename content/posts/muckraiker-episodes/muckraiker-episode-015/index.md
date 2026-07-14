@@ -35,7 +35,7 @@ Words and definitions actually matter! Carelessness leads to misplaced investmen
 
 
 ## Chapters
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Intro<br>
 00:00:40 ❙ OBB update and Meta's talent acquisition<br>
 00:03:09 ❙ What are rambling models?<br> 
@@ -49,8 +49,8 @@ Words and definitions actually matter! Carelessness leads to misplaced investmen
 00:55:40 ❙ Costs and limitations<br>
 00:58:24 ❙ Claude's anecdote and the Vending Bench<br>
 01:03:05 ❙ Definitional switch and implications<br>
-01:10:18 ❙ Outro<br>
-</div>
+01:10:18 ❙ Outro
+</small></div>
 
 ## Links
 - Apple [paper](http://arxiv.org/abs/2506.06941) - The Illusion of Thinking

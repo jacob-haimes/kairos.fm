@@ -32,14 +32,14 @@ DeepSeek R1 has taken the world by storm, causing a stock market crash and promp
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Recording date<br>
 00:04 ❙ Intro<br>
 00:37 ❙ DeepSeek drop and reactions<br>
 04:27 ❙ Export controls<br>
 08:05 ❙ Skepticism and uncertainty<br>
 14:12 ❙ Outro
-</div>
+</small></div>
 
 ## Links
 - DeepSeek [website](https://www.deepseek.com)

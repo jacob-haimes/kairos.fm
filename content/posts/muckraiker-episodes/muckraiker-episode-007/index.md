@@ -30,7 +30,7 @@ Multiple news outlets, including The Information, Bloomberg, and Reuters [see so
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Intro<br>
 00:00:23 ❙ Hot off the press<br>
 00:01:49 ❙ The end of scaling<br>
@@ -43,7 +43,7 @@ Multiple news outlets, including The Information, Bloomberg, and Reuters [see so
 00:49:19 ❙ Finding the meaning<br>
 00:56:14 ❙ Bursting AI bubble and Trump<br>
 01:00:58 ❙ The muck
-</div>
+</small></div>
 
 ## Links
 - The Information [article](https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows?rc=tgppn6) - OpenAI Shifts Strategy as Rate of ‘GPT’ AI Improvements Slows

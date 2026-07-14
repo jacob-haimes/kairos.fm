@@ -31,14 +31,14 @@ categories:
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Intro<br>
 05:37 ❙ Fable/Mythos Updates<br>
 26:17 ❙ SpaceX's IPO and the Cursor Buyout<br>
 34:57 ❙ Anatomy of an AI Bubble<br>
 40:02 ❙ Anthropic Core and "AI as Expert Systems"<br>
 50:03 ❙ Guardrails, Chinese Models, and Whether We Can Trust the Benchmarks
-</div>
+</small></div>
 
 ## Links
 

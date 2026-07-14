@@ -37,9 +37,9 @@ categories:
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Recording date<br>
-</div>
+</small></div>
 
 ## Links
 - []()

@@ -32,14 +32,14 @@ NOTE: The project that we cite for the $64 billion blockage is actually a pro-da
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Introduction<br>
 06:45 ❙ The Addiction Business Model<br>
 10:15 ❙ Public Sentiment Data<br>
 22:45 ❙ Data Centers and Infrastructure Problems<br>
 36:30 ❙ The Bubble Discussion<br>
 44:36 ❙ Closing Thoughts & Outro
-</div>
+</small></div>
 
 ## Links
 

@@ -29,7 +29,7 @@ While on the campaign trail, Trump made claims about repealing Biden's Executive
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Intro<br>
 00:29 ❙ Hot off the press<br>
 02:59 ❙ Repealing the AI executive order?<br>
@@ -41,8 +41,7 @@ While on the campaign trail, Trump made claims about repealing Biden's Executive
 45:23 ❙ China<br>
 51:12 ❙ Taxes<br>
 55:29 ❙ The muck
-
-</div>
+</small></div>
 
 ## Links
 - SFChronicle [article](https://www.sfchronicle.com/business/article/us-gathers-allies-to-talk-ai-safety-trump-s-vow-19932278.php) - US gathers allies to talk AI safety as Trump's vow to undo Biden's AI policy overshadows their work

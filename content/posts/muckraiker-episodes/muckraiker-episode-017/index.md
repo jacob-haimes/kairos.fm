@@ -32,14 +32,14 @@ Jacob and Igor argue that AI safety is hurting users, not helping them. The tech
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Introduction & AI Investment Insanity<br>
 01:43 ❙ The Problem with AI Safety<br>
 08:16 ❙ Anthropomorphizing AI & Its Dangers<br>
 26:55 ❙ Mental Health, Wellness, and AI<br>
 39:15 ❙ Censorship, Bias, and Dual Use<br>
 44:42 ❙ Solutions, Community Action & Final Thoughts
-</div>
+</small></div>
 
 ## Links
 

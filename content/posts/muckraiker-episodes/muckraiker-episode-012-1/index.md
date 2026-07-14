@@ -33,7 +33,7 @@ Check out our DeepSeek [minisode](https://kairos.fm/muckraikers/b012/) for a sna
 
 ## Chapters
 
-<div style="text-align: left; font-family:monospace;">
+<div style="text-align: left; font-family:monospace;"><small>
 00:00:40 ❙ DeepSeek R1 recap<br>
 00:02:46 ❙ What makes it new?<br>
 00:08:53 ❙ What is reasoning?<br>
@@ -45,7 +45,7 @@ Check out our DeepSeek [minisode](https://kairos.fm/muckraikers/b012/) for a sna
 01:14:20 ❙ US government involvement<br>
 01:23:28 ❙ OpenAI uses MCP<br>
 01:28:15 ❙ Outro
-</div>
+</small></div>
 
 ## Links
 - DeepSeek [website](https://www.deepseek.com)
