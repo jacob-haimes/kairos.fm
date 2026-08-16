@@ -62,9 +62,9 @@ profiles:
 
 <div style="text-align: justify">
 <!--<p style="font-size: 1.2em; color: #aaa;">Founder & Podcast Host</p>-->
-Jacob Haimes is the founder of Kairos.FM and host of <a href="/muckraikers">muckrAIkers</a> and <a href="/intoaisafety">Into AI Safety</a>. He is a scientific communicator and field-builder working to bring more people into meaningful conversations about AI development and governance.
+Jacob Haimes is the founder the founder of Kairos.FM and host of <a href="/muckraikers">muckrAIkers</a> and <a href="/intoaisafety">Into AI Safety</a>. He is a scientific communicator and field-builder working to bring more people into meaningful conversations about AI development and governance.
 
-Jacob has supported 100+ fellows through Apart Research's global fellowship program, published at NeurIPS and IASEAI, and leads Odyssean Institute's work combining citizens assemblies and expert elicitation for public-led AI governance consensus. He also mentors the first CORDA Democracy Fellowship.
+Jacob has currently leads the Heron AI Security Fellowship, has supported 100+ fellows through global fellowship programs, published at NeurIPS and IASEAI, leads Odyssean Institute's work combining citizens assemblies and expert elicitation for public-led AI governance consensus, and volunteers with The Human Line Project as a community advocate and resource. He also played a key role in developing Apart Research's fellowship programs, and was a mentor for the first CORDA Democracy Fellowship.
 
-He holds a BS in mechanical engineering and MS in computational modeling from CU Boulder. Outside work, he runs and plays tabletop RPGs.
+He holds a BS in mechanical engineering and MS in computational modeling from CU Boulder. Outside work, he runs and plays tabletop role-playing games (like D&D).
 </div>
