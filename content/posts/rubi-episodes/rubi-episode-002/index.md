@@ -1,6 +1,6 @@
 ---
 url: /reclaimingubi/e002/
-title: "Tech Elies and UBI: Unpacking the Discourse"
+title: "Tech Elites and UBI: Unpacking the Discourse"
 summary: Is the UBI we're being sold a genuinely transformative, or a moral alibi for existing power imbalances? Joe gets behind the rhetoric.
 date: 2026-07-17
 lastmod: 2026-07-17

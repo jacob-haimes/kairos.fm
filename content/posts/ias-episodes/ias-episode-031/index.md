@@ -28,7 +28,7 @@ categories:
 Today's episode does double duty as an interview and an announcement. Joe Williams, host of the new Kairos FM show "Reclaiming UBI: Work and Values in the Age of AI," joins Jacob to talk about his background as a freelance translator and how AI quietly dismantled his livelihood in 2025. From there the conversation expands into whether this moment is really different from past waves of automation, who exactly makes up the tech billionaire class, and why you should probably raise an eyebrow when someone like Elon Musk says he supports UBI. Go check out [Reclaiming UBI](https://kairos.fm/reclaimingubi/)!
 
 {{< transistor src="https://share.transistor.fm/e/71f621ad" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.03.07; ASIDES RECORDED 2026.05.01; <a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.03.07; ASIDES RECORDED 2026.05.01; <a href="https://share.transistor.fm/s/71f621ad/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
 
 ## Chapters
 
