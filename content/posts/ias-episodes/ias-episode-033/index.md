@@ -24,7 +24,7 @@ categories:
 <div style="text-align: justify">
 Dr. Evan Miyazono joins Jacob to talk about his path from quantum networking and Protocol Labs to founding Atlas Computing. They discuss why Atlas moved away from formal methods research and toward what Evan calls “field strategy”: identifying important problems, figuring out what interventions could actually address them, and finding the people best positioned to make them happen. The conversation also covers the resilience gap map, coordination failures, AI safety, "value alignment," and the question of how to decide what work is worth doing when there’s no obvious organization responsible for it.
 
-Check out the [video version](https://youtu.be/rsjVgoHFZM4) of this podcast on the Kairos.fm YouTube channel!
+Check out the [video version](https://youtu.be/rsjVgoHFZM4) of this podcast on the Kairos.fm YouTube channel, or the extended version on [Patreon](https://www.patreon.com/Kairosfm/posts/mapping-gaps-w-166878192)!
 
 {{< transistor src="https://share.transistor.fm/e/a4e4e51c" >}}
 <div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.05.27; ASIDES RECORDED 2026.07.14; <a href="https://share.transistor.fm/s/a4e4e51c/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
@@ -65,6 +65,7 @@ Check out the [video version](https://youtu.be/rsjVgoHFZM4) of this podcast on t
 - CSLib [website](https://cslib.io)
 
 ### Meta-science
+
 - Patrick Collison & Tyler Cowen [essay discussion](https://marginalrevolution.com/marginalrevolution/2019/07/we-need-a-new-science-of-progress.html) - We Need a New Science of Progress
 - Federation of American Scientists [article](https://fas.org/publication/focused-research-organizations-a-new-model-for-scientific-research/) - Focused Research Organizations
 - Sociocracy For All [article](https://www.sociocracyforall.org/consent-decision-making/) - Consent-based decision-making
