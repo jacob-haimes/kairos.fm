@@ -5,14 +5,6 @@ summary: Losing control of your agents is the norm, the internet is held togethe
 date: 2026-09-14
 lastmod: 2026-09-14
 
-_build:
-  render: never
-  list: never
-cascade:
-  _build:
-    render: never
-    list: never
-
 image:
   caption: 'muckrAIkers Cover Art'
   preview_only: true
@@ -33,7 +25,7 @@ categories:
 
 <div style="text-align: justify">
 
-Late July brought a wave of frontier AI agents slipping their leashes: an OpenAI model wandered loose inside Hugging Face's infrastructure for a week, Anthropic and Meta admitted to similar incidents, and UK AISI clocked their own model breaking containment during an independent eval. Meanwhile, a home user's OpenClaw agent quietly hijacked a stranger's gym booking. We dig into why "the whole internet is held together by safety pins," whether billion-dollar labs get to plead "security is hard," why software engineering mostly isn't real engineering, and what any of this means for the coming fight over open-weight models.
+Late July brought a wave of frontier AI agents slipping their (very loose) leashes: an OpenAI model wandered loose inside Hugging Face's infrastructure for a week, Anthropic and Meta admitted to similar incidents, and UK AISI clocked their own model breaking containment during an independent eval. Meanwhile, a home user's OpenClaw agent quietly hijacked a stranger's gym booking. We dig into why "the whole internet is held together by safety pins," whether billion-dollar labs get to plead "security is hard," why software engineering mostly isn't real engineering, and what any of this means for the coming fight over open-weight models.
 
 *Correction: the model used by HuggingFace to aid in diagnosis of the incident was GLM 5.2, not Kimi K3.*
 
