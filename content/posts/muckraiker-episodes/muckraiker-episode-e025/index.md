@@ -33,13 +33,13 @@ categories:
 
 <div style="text-align: left; font-family:monospace;"><small>
 00:00 ❙ Intro<br>
-08:14 ❙ Is It Really an "AI" Data Center?<br>
-13:28 ❙ How Is It Cooled, and Where's the Water From?<br>
-19:48 ❙ Where Is It?<br>
+08:14 ❙ Is it Really an "AI" Data Center?<br>
+13:28 ❙ How is it Cooled, and Where's the Water From?<br>
+19:48 ❙ Where is it?<br>
 29:03 ❙ Collosus as a Worked Example<br>
-35:14 ❙ How Is It Powered?<br>
-38:15 ❙ Who Owns It & Who Pays?<br>
-47:58 ❙ Is This Too Complicated? Seven Questions Recapped<br>
+35:14 ❙ How is it Powered?<br>
+38:15 ❙ Who Owns it & Who Pays?<br>
+47:58 ❙ Is this too Complicated? Seven Questions Recapped<br>
 54:35 ❙ Bonus: Data Centers in Space<br>
 58:48 ❙ Outro
 </small></div>
