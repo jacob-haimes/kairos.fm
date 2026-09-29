@@ -75,7 +75,7 @@ Check out the [video version](https://youtu.be/DhnDvHL9DKo) of this podcast on t
 - 3Blue1Brown [video](https://www.youtube.com/watch?v=bBC-nXj3Ng4) and [blogpost](https://www.3blue1brown.com/lessons/bitcoin) - But How Does Bitcoin Actually Work?
 - Rich Sutton [essay](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) - The Bitter Lesson
 - Quinn Slobodian & Ben Tarnoff [book](https://en.wikipedia.org/wiki/Muskism_(book)) - *Muskism: A Guide for the Perplexed*
-- Ethan Mollick [substack article](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged) Centaurs and Cyborgs on the Jagged Frontier
+- Ethan Mollick [blogpost](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged) Centaurs and Cyborgs on the Jagged Frontier
 
 ### Organizations/Programs Mentioned
 

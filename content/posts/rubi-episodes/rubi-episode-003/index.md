@@ -29,7 +29,7 @@ Joe brings together the various strands explored so far to formulate a more nuan
 </div>
 
 {{< transistor src="https://share.transistor.fm/e/fa893735" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;"><a href="" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
+<!--<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;"><a href="" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>-->
 
 <!--## Chapters
 <div style="text-align: left; font-family:monospace;"><small>
