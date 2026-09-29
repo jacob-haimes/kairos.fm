@@ -16,7 +16,7 @@ authors:
   - jacobhaimes
 
 tags:
-  - AI and Mental Health
+  - Mental Health
   - Current Harms
 
 categories:

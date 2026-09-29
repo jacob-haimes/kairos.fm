@@ -14,7 +14,7 @@ authors:
   - sucizem
 
 tags:
-  - AI and Mental Health
+  - Mental Health
   - Current Harms
 
 categories:
