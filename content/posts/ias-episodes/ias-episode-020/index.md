@@ -24,7 +24,7 @@ categories:
 ---
 
 <div style="text-align: justify">
-I am joined by Tristan Williams and Felix de Simone to discuss their work on the potential of constituent communication, specifically in the context of AI legislation. These two worked as part of an AI Safety Camp team to understand whether or not it would be useful for more people to be sharing their experiences, concerns, and opinions with their government representative (hint, it is).
+I am joined by Tristan and Felix de Simone to discuss their work on the potential of constituent communication, specifically in the context of AI legislation. These two worked as part of an AI Safety Camp team to understand whether or not it would be useful for more people to be sharing their experiences, concerns, and opinions with their government representative (hint, it is).
 
 Check out the <a href="https://forum.effectivealtruism.org/posts/5oStggnYLGzomhvvn/talking-to-congress-can-constituents-contacting-their" target="_blank" rel="noreferrer noopener">blogpost</a> on their findings, "Talking to Congress: Can constituents contacting their legislator influence policy?" and the <a href="https://www.guidedtrack.com/programs/e7xnz7q/run" target="_blank" rel="noreferrer noopener">tool</a> they created!
 
