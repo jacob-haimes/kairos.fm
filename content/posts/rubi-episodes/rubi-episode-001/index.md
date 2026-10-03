@@ -27,7 +27,7 @@ categories:
 
 Host Joe Williams shares the story that sparked the series: watching his freelance translation work dry up in late 2025 as AI reshaped his industry. In this audio-documentary style podcast, Joe uses this opportunity to ask bigger questions. If automation does hollow our the job market, what happens to the social contracts around work? If work is not only a paycheck, but also a source of identity as it is for many people, what might we be able to do to build up societal resilience now?
 
-Joe begins to explore these ideas through reflection, The Art of Motorcycle Maintenance, as well interviews with Andrew White and Héctor Pérez-Urbina.
+Joe begins to explore these ideas through reflection, The Art of Motorcycle Maintenance, and interviews with Andrew White and Héctor Pérez-Urbina.
 </div>
 
 {{< transistor src="https://share.transistor.fm/e/cb307078" >}}
