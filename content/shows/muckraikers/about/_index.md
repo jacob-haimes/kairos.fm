@@ -43,8 +43,8 @@ sections:
              
   #            <div class='mb-3'> All music on the podcast was written and created by Chase Precopia, who also does the audio editing and mastering for the podcast, starting with episode 3.</div>
   #            <div class='mb-3'>If you have any suggestions, comments, or concerns, please email me at <a href='mailto:intoaisafety@gmail.com'>intoaisafety@gmail.com</a>.</div>"
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+  #  design:
+  #    spacing:
+  #      padding: [0, 0, 0, 0]
+  #      margin: [0, 0, 0, 0]
 ---
