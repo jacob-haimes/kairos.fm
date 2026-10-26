@@ -24,7 +24,7 @@ categories:
 
 <div style="text-align: justify">
 
-Joe brings together the various strands explored so far to formulate a more nuanced argument for UBI beyond the vision of a value-free solution to a purely technical problem. We examine how UBI could advance a transformative environmental, social and human agenda if grounded in deeper ethical and moral debates, guided by progressive values, and embedded in a broader drive to reduce inequality and power imbalances.
+Joe brings together the various strands explored so far to formulate a more nuanced argument for UBI beyond the vision of a value-free solution to a purely technical problem. We examine how UBI could advance a transformative environmental, social and human agenda if grounded in deeper ethical and moral debates, guided by progressive values, and embedded in a broader drive to reduce inequality and power imbalances. 
 
 </div>
 
