@@ -1,7 +1,7 @@
 ---
 url: /reclaimingubi/e003/
 title: "Alternative Visions of UBI"
-summary: 
+summary: Joe brings together the various strands explored so far to formulate a more nuanced argument for UBI. 
 date: 2026-09-21
 lastmod: 2026-09-21
 
