@@ -23,15 +23,30 @@ categories:
 ---
 
 <div style="text-align: justify">
-Description
+AI agents will eventually be able to negotiate deals, share information, and coordinate with systems in the physical world with little human involvement. What would it take to make those interactions secure, and what happens when agents don't share the same interests? Jacob is joined by Alex Obadia, program director of Scaling Trust at the UK's Advanced Research and Invention Agency (ARIA), to discuss the research and infrastructure needed for secure multi-agent coordination. They explore cryptography and privacy-preserving tools, the Arena testbed for observing agent behavior, and the decision to use profit as a measure of performance. They also consider the implications of these ideas in safety, accountability, and inequality.
 
-{{< transistor src="" >}}
-<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.10.21; ASIDES RECORDED 2026.11.02; <a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
+{{< transistor src="https://share.transistor.fm/e/508e541a" >}}
+<div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.10.21; ASIDES RECORDED 2026.11.02; <a href="https://share.transistor.fm/s/508e541a/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT</a></div>
 
 ## Chapters
 
 <div style="text-align: left; font-family:monospace;"><small>
 00:00:00 ❙ Intro<br>
+00:04:52 ❙ Alex's Background<br>
+00:09:34 ❙ Joining ARIA<br>
+00:13:39 ❙ What is ARIA?<br>
+00:18:57 ❙ The Three Tracks: Tools, Theory, and Testbed<br>
+00:24:01 ❙ Salary Negotion Without Intermediaries<br>
+00:29:42 ❙ Protecting People from Middlemen<br>
+00:34:39 ❙ The Arena<br>
+00:40:29 ❙ Does Profit Make Safety Second-Class?<br>
+00:54:38 ❙ Who's Liable When an Agent Breaks a Deal?<br>
+01:02:53 ❙ Do Agents Reduce Friction or Move It?<br>
+01:14:02 ❙ Is Scaling Trust a Safety Program?<br>
+01:21:48 ❙ Will Agents Magnify Inequality?<br>
+01:29:19 ❙ ARIA's Freedom of Information Act Exemption<br>
+01:33:19 ❙ How to Get Involved<br>
+01:39:16 ❙ Outro
 </small></div>
 
 ## Links
@@ -88,14 +103,4 @@ Description
 - The Morning Paper [blog post](https://blog.acolyer.org/2014/12/01/protocols-for-secure-computations/) - Protocols for secure computations
 - Computational Thinking [video](https://www.youtube.com/watch?v=_kLET4k2xBQ) - Multi-party computation
 
-
-<!--## Podcast platform version
-
-- Alex Obadia's [website](https://alexobadia.com/)
-- ARIA Scaling Trust Programme [website](https://aria.org.uk/opportunity-spaces/trust-everything-everywhere/scaling-trust)
-- ARIA [report](https://aria.org.uk/media/dkhlumky/scaling-trust-programme-thesis.pdf) - Scaling Trust Programme Thesis
-- Scaling Trust [blog post](https://scalingtrust.org.uk/blog/without-intermediaries/) - Without Intermediaries
-- Scaling Trust Arena [spec](https://arena.scalingtrust.org.uk/docs/spec) - Scaling Trust Arena Spec-->
-
-<!-- end of the list -->
 </div>
