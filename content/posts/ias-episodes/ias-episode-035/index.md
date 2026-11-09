@@ -1,7 +1,7 @@
 ---
 url: /intoaisafety/e035/
 title: Unbrokered Agent Coordination w/ Alex Obadia
-summary: 
+summary: Director of ARIA's Scaling Trust program, Alex Obadia, on a secure and forward-thinking layer for AI-empowered coordination.
 date: 2026-11-09
 lastmod: 2026-11-09
 
